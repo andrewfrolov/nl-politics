@@ -1,0 +1,1118 @@
+{
+  "updated": "2026-11-25",
+  "sections": [
+    {
+      "id": "monarchy",
+      "title": "A constitutional monarchy: the role of the King",
+      "paragraphs": [
+        "The Netherlands is a kingdom. The King is head of state and, together with the ministers, forms the government. Under the Constitution the King has no political power of his own: laws and royal decrees need the signature of both the King and a minister.",
+        "Since 1848 the Constitution has said that the King is inviolable and the ministers are responsible. A minister co-signs every law the King signs (the countersignature, contraseign). The King therefore cannot be forced to resign over a political act, but a minister can.",
+        "The King signs laws and royal decrees, formally appoints and swears in ministers and state secretaries, and reads the King's Speech (Troonrede) on Prinsjesdag; the speech is written by the ministers. He is formally the president of the Council of State, a ceremonial role.",
+        "Until 2012 the monarch appointed the informateur or formateur when a new cabinet was formed. Since 2012 the House of Representatives runs the formation itself."
+      ],
+      "facts": [
+        {
+          "label": "Head of state",
+          "value": "King Willem-Alexander, since 30 April 2013"
+        },
+        {
+          "label": "Ministerial responsibility in the Constitution",
+          "value": "since 1848"
+        },
+        {
+          "label": "King's role in cabinet formation",
+          "value": "ended in 2012"
+        }
+      ],
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "id": "states-general",
+      "title": "Parliament: the House of Representatives and the Senate",
+      "paragraphs": [
+        "The Dutch parliament, the States General (Staten-Generaal), has two chambers. The House of Representatives (Tweede Kamer, literally 'Second Chamber') has 150 members elected directly by voters. The Senate (Eerste Kamer, 'First Chamber') has 75 members elected indirectly.",
+        "The House votes on all bills and can change them (right of amendment). Its members can also introduce their own bills (right of initiative). It must approve government spending and can raise or lower budget items. Each individual member has a constitutional right to information from the government. The House can hold its own inquiries and can withdraw its confidence from a minister or the whole cabinet. It sets its own agenda and elects its own Speaker.",
+        "The Senate votes last on every bill the House has passed. It cannot amend bills and has no right of initiative: it can only accept or reject. Parlement.com describes its focus as feasibility, necessity and legislative quality, while noting that political judgment is usually decisive. Senators can ask questions and the Senate has a right of inquiry, which it has never used.",
+        "Senators are chosen for four years by the members of the twelve Provincial Councils and of electoral colleges for the Caribbean Netherlands and for Dutch citizens abroad, within three months after the provincial elections. The next Senate election is on 24 May 2027.",
+        "After the election of 29 October 2025 and later changes, 17 groups sit in the House as of November 2026. The largest are D66 (26 seats), VVD (22), PRO (20), PVV (19) and CDA (18)."
+      ],
+      "facts": [
+        {
+          "label": "House of Representatives (Tweede Kamer)",
+          "value": "150 seats, directly elected"
+        },
+        {
+          "label": "Senate (Eerste Kamer)",
+          "value": "75 seats, elected by provincial councillors and electoral colleges"
+        },
+        {
+          "label": "Senate powers on bills",
+          "value": "accept or reject only; no amendments"
+        },
+        {
+          "label": "Groups in the House, November 2026",
+          "value": "17"
+        },
+        {
+          "label": "Speaker of the House",
+          "value": "Thom van Campen (VVD), elected 18 November 2025"
+        }
+      ],
+      "source_ids": [
+        "s2",
+        "s3",
+        "s4",
+        "s40",
+        "s46",
+        "s45",
+        "s5"
+      ]
+    },
+    {
+      "id": "elections",
+      "title": "How national elections work",
+      "paragraphs": [
+        "The House of Representatives is elected by proportional representation, a system used since 1918: parties receive seats in line with their share of the national vote. Voters choose one candidate on a party list.",
+        "The Electoral Council (Kiesraad) divides the total number of valid votes by 150. The result is the electoral quota (kiesdeler). A party gets one seat for every time its vote total contains the quota. There is no separate percentage threshold: a party needs at least one full quota. In the 2025 election the quota was 70,480 votes.",
+        "The seats left over (residual seats) go to parties that reached the quota, using the method of largest averages: each party's votes are divided by its seats so far plus one, and the highest average wins the next seat, repeated until all seats are allocated.",
+        "Within a party, seats normally go to candidates in list order, but a candidate who personally reaches the preference threshold can be elected ahead of others. In 2025 that threshold was 17,620 votes, a quarter of the quota.",
+        "The most recent election was held on Wednesday 29 October 2025, earlier than scheduled because the Schoof cabinet fell on 3 June 2025. 27 parties took part and 15 won seats. Turnout was 78.3% of 13,589,128 eligible voters."
+      ],
+      "facts": [
+        {
+          "label": "Seats in the House",
+          "value": "150"
+        },
+        {
+          "label": "Electoral quota in 2025",
+          "value": "70,480 votes (one seat)"
+        },
+        {
+          "label": "Preference threshold in 2025",
+          "value": "17,620 votes"
+        },
+        {
+          "label": "Turnout 2025",
+          "value": "78.3%"
+        },
+        {
+          "label": "Parties taking part / winning seats in 2025",
+          "value": "27 / 15"
+        },
+        {
+          "label": "Residual seats",
+          "value": "method of largest averages"
+        }
+      ],
+      "source_ids": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "id": "cabinet-formation",
+      "title": "How a cabinet is formed",
+      "paragraphs": [
+        "A majority in the House is 76 seats; in 2025 the two largest parties each won 26. After an election parties therefore negotiate a coalition. This process is called the formation (kabinetsformatie). Since 2012 it is led by the House, not the King.",
+        "First the House, on the advice of the party leaders, appoints a scout (verkenner) who talks to all leaders about possible coalitions. Then the House appoints one or more informateurs, who explore a specific coalition and lead the negotiations on a coalition agreement (regeerakkoord or coalitieakkoord) setting out the main lines of policy. Finally a formateur, normally the intended prime minister, recruits the ministers and state secretaries. Candidates are vetted. The new team holds a first meeting (constituerend beraad), is sworn in by the King, and the prime minister delivers a government statement (regeringsverklaring) in the House.",
+        "In 2025-2026: Wouter Koolmees was scout from 4 November 2025; Hans Wijers and Sybrand Buma were appointed informateurs on 13 November (Wijers withdrew a day later); Rianne Letschert took over on 10 December; the coalition agreement was presented on 30 January 2026; Rob Jetten became formateur on 3 February; and the cabinet was sworn in on 23 February 2026. The government gives the length of the formation as 117 days.",
+        "A majority cabinet is made up of parties that together hold a majority in parliament. A minority cabinet has no such majority and must find a majority for each of its proposals. The Jetten cabinet of D66, VVD and CDA has 66 of 150 seats in the House and 22 of 75 in the Senate. Parties outside a cabinet can also promise it support without supplying ministers; this is called toleration support (gedoogsteun)."
+      ],
+      "facts": [
+        {
+          "label": "Majority in the House",
+          "value": "76 of 150 seats"
+        },
+        {
+          "label": "Jetten cabinet",
+          "value": "66 House seats, 22 Senate seats (minority)"
+        },
+        {
+          "label": "Length of the 2025-2026 formation",
+          "value": "117 days"
+        },
+        {
+          "label": "House leads formation",
+          "value": "since 2012"
+        }
+      ],
+      "source_ids": [
+        "s9",
+        "s10",
+        "s11",
+        "s45",
+        "s44",
+        "s47"
+      ]
+    },
+    {
+      "id": "cabinet-and-ministers",
+      "title": "Cabinet, ministers and state secretaries",
+      "paragraphs": [
+        "The cabinet consists of ministers and state secretaries. A minister is politically responsible for a policy area and usually leads a ministry. A minister without portfolio does not lead a ministry of his or her own. The Jetten cabinet has 18 ministers and 10 state secretaries; six of the ministers do not lead a ministry, and there are 12 ministries.",
+        "All ministers together form the council of ministers (ministerraad), which decides on general government policy; bills must be approved there before going to parliament. The prime minister chairs the council and sits in the European Council.",
+        "A state secretary (staatssecretaris) handles part of a ministry's work under a minister. State secretaries are members of the cabinet but not of the council of ministers and have no vote there; they attend when their subject is discussed. They answer to parliament in their own right. Some may use the title 'minister' when representing the Netherlands abroad. The post has existed since a constitutional amendment of 1948.",
+        "Ministerial responsibility means ministers answer to parliament for policy, individually and collectively. A minister or state secretary who loses the confidence of a majority of the House must resign; this confidence rule is unwritten constitutional law.",
+        "A cabinet is demissionary (caretaker) once it has offered its resignation to the King and the resignation has not yet been granted, for example after a cabinet crisis or from election day. It handles ongoing business, prepares the budget and organises elections. Either chamber can declare topics 'controversial', which keeps them off the agenda until a new cabinet takes office. The Schoof cabinet was demissionary from 3 June 2025 until 23 February 2026."
+      ],
+      "facts": [
+        {
+          "label": "Jetten cabinet size",
+          "value": "18 ministers, 10 state secretaries"
+        },
+        {
+          "label": "Ministries",
+          "value": "12"
+        },
+        {
+          "label": "State secretaries in the council of ministers",
+          "value": "not members, no vote"
+        },
+        {
+          "label": "Post of state secretary exists since",
+          "value": "1948 (first appointed January 1949)"
+        }
+      ],
+      "source_ids": [
+        "s12",
+        "s13",
+        "s14",
+        "s47",
+        "s48",
+        "s2",
+        "s50"
+      ]
+    },
+    {
+      "id": "how-a-bill-becomes-law",
+      "title": "How a bill becomes law",
+      "paragraphs": [
+        "Most bills start at a ministry, where the minister's officials draft the text and an explanatory memorandum. Often there is a public internet consultation of at least four weeks. The council of ministers must approve the draft.",
+        "The bill then goes to the Advisory Division of the Council of State (Raad van State), which checks, among other things, whether it is workable and consistent with the Constitution. The advice is not binding. After that the government sends the bill to the House of Representatives, and it becomes public.",
+        "In the House a committee first prepares the bill in writing: groups put questions, the minister replies. Then follows a plenary debate. Members can propose amendments. Amendments are voted on first, then the bill as a whole. Members of the House can also introduce a bill themselves (an initiative bill), which follows the same route.",
+        "If the House adopts the bill it goes to the Senate, which also examines it in committee and plenary but can only accept or reject it.",
+        "Finally the King and the responsible minister sign the bill and it is published in the Bulletin of Acts and Decrees (Staatsblad). The act itself states when it enters into force."
+      ],
+      "facts": [
+        {
+          "label": "Internet consultation",
+          "value": "at least four weeks, optional"
+        },
+        {
+          "label": "Council of State advice",
+          "value": "not binding; published within two weeks since May 2022"
+        },
+        {
+          "label": "Senate",
+          "value": "accept or reject, no amendments"
+        },
+        {
+          "label": "Publication",
+          "value": "Staatsblad"
+        }
+      ],
+      "source_ids": [
+        "s15",
+        "s3"
+      ]
+    },
+    {
+      "id": "instruments-of-mps",
+      "title": "What MPs can do: motions, amendments, questions and inquiries",
+      "paragraphs": [
+        "A motion (motie) is a statement proposed by one or more members, often asking the government to do something or giving an opinion at the end of a debate. If a majority votes for it, it is a decision of the chamber, but the cabinet decides what to do with it: an adopted motion is not legally binding. The minister gives an opinion on each motion, such as 'advise against' (ontraden), 'left to the House' (oordeel Kamer) or 'adopt' (overnemen).",
+        "A motion of no confidence (motie van wantrouwen) is different in its effect: if the House adopts one against a minister or the cabinet, they are expected to resign. Such motions are often submitted but rarely adopted. A 'motion of regret' (motie van treurnis) is a milder form of disapproval.",
+        "An amendment (amendement) changes the text of a bill and, if adopted, becomes part of the law. Only the House has this right, not the Senate.",
+        "Members can put written questions to ministers at any time; under the House's rules ministers should answer within three weeks or explain the delay. Around 2,000 sets of written questions are asked per year (2025). Every Tuesday the House holds a question hour, where the Speaker selects on average three or four oral questions.",
+        "The heaviest instrument of scrutiny is the parliamentary inquiry (parlementaire enquête). A majority of the House must agree to start one. Witnesses are obliged to appear and are heard under oath. A shorter variant was introduced in July 2023."
+      ],
+      "facts": [
+        {
+          "label": "Adopted motion",
+          "value": "not binding on the cabinet"
+        },
+        {
+          "label": "Deadline for answering written questions",
+          "value": "three weeks (House rules of procedure)"
+        },
+        {
+          "label": "Written questions per year",
+          "value": "about 2,000 (2025)"
+        },
+        {
+          "label": "Question hour",
+          "value": "weekly on Tuesday"
+        },
+        {
+          "label": "Inquiry witnesses",
+          "value": "obliged to appear, heard under oath"
+        }
+      ],
+      "source_ids": [
+        "s16",
+        "s17",
+        "s18",
+        "s2",
+        "s15"
+      ]
+    },
+    {
+      "id": "voting-in-the-house",
+      "title": "How voting works in the House",
+      "paragraphs": [
+        "Votes in the House are normally taken by show of hands. On request a roll-call vote (hoofdelijke stemming) is held instead, in which members vote individually. On a bill, each amendment is voted on before the article it concerns, and then the bill as a whole.",
+        "With all 150 members voting, a majority is 76. The tax plan for 2027, for example, passed on 12 November 2026 with exactly 76 votes in favour and 74 against.",
+        "Members of one party form a parliamentary group (fractie) and almost always vote the same way. According to the Constitution members vote without binding instructions, so formally nobody can order an MP how to vote. In practice groups expect unity; the pressure to follow the group line is called party discipline (fractiediscipline). Parlement.com notes that voting against one's own group is now rare in the House.",
+        "A member who leaves a group keeps the seat. In January 2026 seven members left the PVV group and continued as Groep Markuszower; in February 2026 Mona Keijzer left BBB and sits as an independent."
+      ],
+      "facts": [
+        {
+          "label": "Normal voting method",
+          "value": "show of hands"
+        },
+        {
+          "label": "Roll-call vote",
+          "value": "on request"
+        },
+        {
+          "label": "Majority with all members voting",
+          "value": "76 of 150"
+        },
+        {
+          "label": "Belastingplan 2027 vote, 12 November 2026",
+          "value": "76 for, 74 against"
+        }
+      ],
+      "source_ids": [
+        "s15",
+        "s19",
+        "s51",
+        "s44",
+        "s46"
+      ]
+    },
+    {
+      "id": "budget-cycle",
+      "title": "The budget cycle",
+      "paragraphs": [
+        "The political year starts on Prinsjesdag (Budget Day), the third Tuesday of September. The King reads the King's Speech (Troonrede) with the government's plans for the coming year to a joint session of both chambers. In the afternoon the finance minister presents the Budget Memorandum (Miljoenennota) and the national budget to the House, carried in a special briefcase (koffertje). The Tax Plan (Belastingplan) with the tax measures for the next year is presented at the same time.",
+        "Shortly afterwards the House holds the General Political Debate (Algemene Politieke Beschouwingen), in which group leaders debate the plans with the prime minister. In the following weeks the House debates and votes on the budget of each ministry and on the Tax Plan; the Senate follows. The House can raise or lower budget items by amendment.",
+        "During the year the budget is adjusted. The Spring Memorandum (Voorjaarsnota) updates the current year's budget; in 2026 the new cabinet's expenditure ceiling was set in a 'start memorandum' that formed part of the Voorjaarsnota 2026.",
+        "The Miljoenennota 2027, presented on 15 September 2026, projects central government expenditure of 516.8 billion euros and revenue of 481.2 billion euros in 2027, a deficit of 2.9% of GDP and public debt of 46.9% of GDP. The economic forecasts underlying the budget come from the Netherlands Bureau for Economic Policy Analysis (CPB)."
+      ],
+      "facts": [
+        {
+          "label": "Prinsjesdag",
+          "value": "third Tuesday of September (15 September 2026; 21 September 2027)"
+        },
+        {
+          "label": "Expenditure 2027",
+          "value": "516.8 billion euros"
+        },
+        {
+          "label": "Revenue 2027",
+          "value": "481.2 billion euros"
+        },
+        {
+          "label": "Deficit 2027",
+          "value": "36.7 billion euros, 2.9% of GDP"
+        },
+        {
+          "label": "Public debt 2027",
+          "value": "46.9% of GDP"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s21",
+        "s22",
+        "s2",
+        "s25"
+      ]
+    },
+    {
+      "id": "advisory-and-oversight-bodies",
+      "title": "Advisory and oversight bodies",
+      "paragraphs": [
+        "The Council of State (Raad van State) advises government and parliament on every bill through its Advisory Division, and its Administrative Jurisdiction Division is the highest general administrative court. The King is formally its president; the vice-president leads it in practice. Since 1 July 2026 that is Sybrand van Haersma Buma.",
+        "The Court of Audit (Algemene Rekenkamer) checks whether central government revenue and spending are lawful and efficient and whether policy is carried out as intended. It sets its own research agenda and its three board members are appointed for life. The National Ombudsman handles complaints from citizens about government bodies - more than 24,000 complaints, signals and questions a year according to its website - and investigates structural problems. Both are independent High Councils of State.",
+        "Three planning offices supply analysis. The CPB (Netherlands Bureau for Economic Policy Analysis) publishes the economic forecasts that form the official basis for the budget: the Central Economic Plan in spring and the Macro Economic Outlook on Prinsjesdag. The PBL (Netherlands Environmental Assessment Agency), formed in 2008, analyses environment, nature and spatial planning. The SCP (Netherlands Institute for Social Research) does social-science research on the quality of life in the Netherlands. CPB and PBL are formally part of a ministry but determine the content of their work independently.",
+        "The Social and Economic Council (SER) advises government and parliament on socio-economic policy. It has 36 members: 12 from employers' organisations, 12 from trade unions and 12 independent 'crown members'."
+      ],
+      "facts": [
+        {
+          "label": "Council of State vice-president",
+          "value": "Sybrand van Haersma Buma, since 1 July 2026"
+        },
+        {
+          "label": "Court of Audit",
+          "value": "3 board members, appointed for life; about 300 staff"
+        },
+        {
+          "label": "National Ombudsman",
+          "value": "more than 24,000 complaints, signals and questions per year"
+        },
+        {
+          "label": "SER",
+          "value": "36 members: 12 employers, 12 employees, 12 crown members"
+        },
+        {
+          "label": "PBL",
+          "value": "formed in 2008; part of the Ministry of Infrastructure and Water Management"
+        },
+        {
+          "label": "CPB",
+          "value": "part of the Ministry of Economic Affairs and Climate; independent in content"
+        }
+      ],
+      "source_ids": [
+        "s23",
+        "s24",
+        "s25",
+        "s26",
+        "s27",
+        "s28",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "id": "provinces-municipalities-water-boards",
+      "title": "Provinces, municipalities and water boards",
+      "paragraphs": [
+        "Below the national government there are 12 provinces, 342 municipalities and 21 water boards, each with an elected council.",
+        "Provinces decide on spatial planning (where towns, business parks, roads, nature and farmland go), build and maintain provincial roads, protect nature, enforce environmental rules and supervise municipalities and water boards. Their councils, the Provincial Councils (Provinciale Staten), have between 39 and 55 members and are elected every four years, most recently on 15 March 2023 and next on 17 March 2027. The provincial councillors in turn elect the Senate.",
+        "Municipalities are closest to residents. They keep the population register, issue passports and driving licences, pay social assistance benefits, organise social support and youth care, make zoning plans, and maintain local roads. The municipal council (gemeenteraad) has between 9 and 45 members depending on population and is elected every four years. The latest elections were on 18 March 2026; turnout was 53.75% and local parties together received 33.41% of the votes. The next are in March 2030.",
+        "Water boards (waterschappen) manage water in their area: flood protection and sufficient, clean water. Their general board has 18 to 30 members. Most seats are filled by election by residents; some are reserved for representatives of farmers and nature organisations. Since 2015 water board elections are held on the same day as provincial elections."
+      ],
+      "facts": [
+        {
+          "label": "Provinces",
+          "value": "12"
+        },
+        {
+          "label": "Municipalities",
+          "value": "342"
+        },
+        {
+          "label": "Water boards",
+          "value": "21"
+        },
+        {
+          "label": "Next provincial and water board elections",
+          "value": "17 March 2027"
+        },
+        {
+          "label": "Municipal elections 2026 turnout",
+          "value": "53.75%"
+        },
+        {
+          "label": "Municipal council size",
+          "value": "9 to 45 members"
+        }
+      ],
+      "source_ids": [
+        "s31",
+        "s32",
+        "s33",
+        "s34",
+        "s36",
+        "s38",
+        "s39",
+        "s52"
+      ]
+    },
+    {
+      "id": "netherlands-and-eu",
+      "title": "The Netherlands and the European Union",
+      "paragraphs": [
+        "The Netherlands has been a member of the European Union since its beginning. As a member state it takes part in deciding on EU legislation. The government says it checks whether an issue is better regulated at EU level or by member states themselves.",
+        "The prime minister represents the Netherlands in the European Council. Dutch interests in Brussels are handled by the Permanent Representation to the EU, staffed from nearly all ministries. Dutch citizens, and citizens of other EU countries living in the Netherlands who register for it, can vote in the Netherlands for the European Parliament.",
+        "EU rules also bind Dutch budget policy: the coalition agreement of January 2026 states that the Netherlands keeps to the limits for the deficit and public debt in the Stability and Growth Pact. EU law shapes national legislation as well; in May 2026, for example, the Senate approved the act implementing the EU Asylum and Migration Pact.",
+        "The government lists as its EU priorities migration, security, a strong and sustainable economy, climate, and defending interests and values in the world."
+      ],
+      "facts": [
+        {
+          "label": "EU membership",
+          "value": "since the beginning"
+        },
+        {
+          "label": "Dutch seat in the European Council",
+          "value": "the prime minister"
+        },
+        {
+          "label": "EU Asylum and Migration Pact implementing act",
+          "value": "approved by the Senate on 26 May 2026"
+        }
+      ],
+      "source_ids": [
+        "s41",
+        "s48",
+        "s8",
+        "s42",
+        "s44"
+      ]
+    },
+    {
+      "id": "polder-model",
+      "title": "The polder model and the social partners",
+      "paragraphs": [
+        "Dutch governments traditionally consult organised employers and trade unions, known as the social partners, on socio-economic policy. This consultation culture is commonly called 'the polder'.",
+        "Its main institution is the Social and Economic Council (SER), which gives solicited and unsolicited advice to government and parliament on subjects such as the labour market, pensions, education, health care and energy. The employers' seats are held by VNO-NCW (8), MKB-Nederland (3) and LTO Nederland (1); the employees' seats by the unions FNV (8), CNV (2) and VCP (2). The 12 crown members are independent experts appointed by the King on the cabinet's nomination, including representatives of De Nederlandsche Bank and the CPB. The chair is crown member Kim Putters.",
+        "The 2026 coalition agreement says the cabinet wants to restore cooperation with civil society organisations ('de polder'), and states: 'Een regering kan alleen verstandig beleid maken als ook gesproken is met maatschappelijke organisaties' (a government can only make sensible policy if it has also talked with civil society organisations). In the King's Speech of 15 September 2026 the cabinet said it wants a broad social accord with unions and employers."
+      ],
+      "facts": [
+        {
+          "label": "SER members",
+          "value": "36 (12 employers, 12 employees, 12 crown members)"
+        },
+        {
+          "label": "SER chair",
+          "value": "Kim Putters"
+        },
+        {
+          "label": "SER members' term",
+          "value": "two years"
+        }
+      ],
+      "source_ids": [
+        "s29",
+        "s30",
+        "s43",
+        "s49"
+      ]
+    },
+    {
+      "id": "who-can-vote",
+      "title": "Who can vote",
+      "paragraphs": [
+        "National elections (House of Representatives): Dutch citizens aged 18 or older, including Dutch citizens living abroad. People without Dutch nationality cannot vote in national elections. Anyone who may vote may also stand as a candidate.",
+        "Provincial elections: Dutch residents of the province aged 18 or older. Through the provincial councils these voters indirectly determine the Senate.",
+        "Municipal elections: Dutch nationality is not required. Residents of the municipality aged 18 or older can vote if they are Dutch, citizens of another EU country, or other foreign nationals who have lived legally in the Netherlands for at least five uninterrupted years.",
+        "Water board elections: the Electoral Council lists three conditions - living in the water board's area, being 18 or older, and not being excluded from voting.",
+        "European Parliament elections: Dutch citizens (also abroad) and citizens of other EU countries living in the Netherlands, who must first register with their municipality."
+      ],
+      "facts": [
+        {
+          "label": "Voting age",
+          "value": "18"
+        },
+        {
+          "label": "National and provincial elections",
+          "value": "Dutch citizens only"
+        },
+        {
+          "label": "Municipal elections",
+          "value": "Dutch, EU citizens, and other residents after 5 years of legal residence"
+        },
+        {
+          "label": "Next elections",
+          "value": "17 March 2027 (provinces and water boards)"
+        }
+      ],
+      "source_ids": [
+        "s8",
+        "s37",
+        "s35",
+        "s39",
+        "s34"
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_nl": "Staten-Generaal",
+      "term_en": "States General",
+      "definition": "The Dutch parliament, consisting of the House of Representatives and the Senate."
+    },
+    {
+      "term_nl": "Tweede Kamer",
+      "term_en": "House of Representatives",
+      "definition": "The directly elected chamber of parliament with 150 members."
+    },
+    {
+      "term_nl": "Eerste Kamer",
+      "term_en": "Senate",
+      "definition": "The indirectly elected chamber with 75 members; it can accept or reject bills but not amend them."
+    },
+    {
+      "term_nl": "fractie",
+      "term_en": "parliamentary group",
+      "definition": "The members of one party in a chamber, led by a group leader (fractievoorzitter)."
+    },
+    {
+      "term_nl": "fractiediscipline",
+      "term_en": "party discipline",
+      "definition": "The pressure on members of a parliamentary group to vote in line with the group."
+    },
+    {
+      "term_nl": "kabinet",
+      "term_en": "cabinet",
+      "definition": "All ministers and state secretaries together."
+    },
+    {
+      "term_nl": "regering",
+      "term_en": "government",
+      "definition": "The King and the ministers together."
+    },
+    {
+      "term_nl": "minister-president",
+      "term_en": "prime minister",
+      "definition": "Chair of the council of ministers, also Minister of General Affairs."
+    },
+    {
+      "term_nl": "staatssecretaris",
+      "term_en": "state secretary",
+      "definition": "A cabinet member who handles part of a ministry's work under a minister; not a member of the council of ministers."
+    },
+    {
+      "term_nl": "ministerraad",
+      "term_en": "council of ministers",
+      "definition": "The meeting of all ministers, which decides on general government policy."
+    },
+    {
+      "term_nl": "coalitie",
+      "term_en": "coalition",
+      "definition": "The parties that together form the cabinet."
+    },
+    {
+      "term_nl": "oppositie",
+      "term_en": "opposition",
+      "definition": "The parties in parliament that are not part of the cabinet."
+    },
+    {
+      "term_nl": "coalitieakkoord / regeerakkoord",
+      "term_en": "coalition agreement",
+      "definition": "The agreement between coalition parties on the main lines of policy for the cabinet period."
+    },
+    {
+      "term_nl": "kabinetsformatie",
+      "term_en": "cabinet formation",
+      "definition": "The negotiations after an election that lead to a new cabinet."
+    },
+    {
+      "term_nl": "verkenner",
+      "term_en": "scout",
+      "definition": "The person appointed first after an election to explore which coalitions are possible."
+    },
+    {
+      "term_nl": "informateur",
+      "term_en": "informateur",
+      "definition": "The person appointed by the House to investigate a specific coalition and lead the negotiations."
+    },
+    {
+      "term_nl": "formateur",
+      "term_en": "formateur",
+      "definition": "The person, normally the intended prime minister, who puts together the team of ministers and state secretaries."
+    },
+    {
+      "term_nl": "regeringsverklaring",
+      "term_en": "government statement",
+      "definition": "The statement in which a new prime minister presents the cabinet's plans to the House."
+    },
+    {
+      "term_nl": "minderheidskabinet",
+      "term_en": "minority cabinet",
+      "definition": "A cabinet whose parties do not hold a majority in parliament and which must find a majority for each proposal."
+    },
+    {
+      "term_nl": "gedoogsteun",
+      "term_en": "toleration support",
+      "definition": "Support that a party outside the cabinet gives to it without supplying ministers."
+    },
+    {
+      "term_nl": "demissionair",
+      "term_en": "demissionary / caretaker",
+      "definition": "Status of a cabinet or minister that has offered its resignation and only handles ongoing business."
+    },
+    {
+      "term_nl": "wetsvoorstel",
+      "term_en": "bill",
+      "definition": "A proposal for a law."
+    },
+    {
+      "term_nl": "initiatiefwetsvoorstel",
+      "term_en": "initiative bill (private member's bill)",
+      "definition": "A bill introduced by one or more members of the House instead of the government."
+    },
+    {
+      "term_nl": "amendement",
+      "term_en": "amendment",
+      "definition": "A proposal by a member of the House to change the text of a bill."
+    },
+    {
+      "term_nl": "motie",
+      "term_en": "motion",
+      "definition": "A statement or request put to a vote in parliament; if adopted it is not legally binding on the cabinet."
+    },
+    {
+      "term_nl": "motie van wantrouwen",
+      "term_en": "motion of no confidence",
+      "definition": "A motion withdrawing confidence in a minister, state secretary or the whole cabinet; if adopted, they are expected to resign."
+    },
+    {
+      "term_nl": "ontraden",
+      "term_en": "advise against",
+      "definition": "A minister's opinion that the House should reject a motion or amendment."
+    },
+    {
+      "term_nl": "Kamervragen",
+      "term_en": "parliamentary questions",
+      "definition": "Written or oral questions from members to ministers."
+    },
+    {
+      "term_nl": "vragenuur",
+      "term_en": "question hour",
+      "definition": "The weekly session on Tuesday in which members put oral questions to ministers."
+    },
+    {
+      "term_nl": "hoofdelijke stemming",
+      "term_en": "roll-call vote",
+      "definition": "A vote in which every member votes individually by name."
+    },
+    {
+      "term_nl": "parlementaire enquête",
+      "term_en": "parliamentary inquiry",
+      "definition": "The heaviest form of parliamentary investigation, with witnesses heard under oath."
+    },
+    {
+      "term_nl": "contraseign",
+      "term_en": "countersignature",
+      "definition": "The signature of a minister next to the King's on laws and royal decrees."
+    },
+    {
+      "term_nl": "Staatsblad",
+      "term_en": "Bulletin of Acts and Decrees",
+      "definition": "The official publication in which laws are published."
+    },
+    {
+      "term_nl": "Raad van State",
+      "term_en": "Council of State",
+      "definition": "Advisory body on legislation and the highest general administrative court."
+    },
+    {
+      "term_nl": "Prinsjesdag",
+      "term_en": "Budget Day",
+      "definition": "The third Tuesday of September, when the King's Speech is delivered and the budget is presented."
+    },
+    {
+      "term_nl": "Troonrede",
+      "term_en": "King's Speech (Speech from the Throne)",
+      "definition": "The speech, written by the ministers and read by the King on Prinsjesdag, setting out the government's plans."
+    },
+    {
+      "term_nl": "Miljoenennota",
+      "term_en": "Budget Memorandum",
+      "definition": "The document presented on Prinsjesdag that explains the national budget and the state of public finances."
+    },
+    {
+      "term_nl": "Belastingplan",
+      "term_en": "Tax Plan",
+      "definition": "The annual package of bills with tax measures for the coming year."
+    },
+    {
+      "term_nl": "Voorjaarsnota",
+      "term_en": "Spring Memorandum",
+      "definition": "The update of the current year's budget published in spring."
+    },
+    {
+      "term_nl": "Algemene Politieke Beschouwingen",
+      "term_en": "General Political Debate",
+      "definition": "The House debate after Prinsjesdag between group leaders and the prime minister."
+    },
+    {
+      "term_nl": "kiesdeler",
+      "term_en": "electoral quota",
+      "definition": "The number of votes needed for one seat: total valid votes divided by the number of seats."
+    },
+    {
+      "term_nl": "voorkeurstem",
+      "term_en": "preference vote",
+      "definition": "A vote for a candidate other than the first on the list; enough of them can get a candidate elected ahead of list order."
+    },
+    {
+      "term_nl": "Provinciale Staten",
+      "term_en": "Provincial Council",
+      "definition": "The elected council of a province; its members elect the Senate."
+    },
+    {
+      "term_nl": "gemeenteraad",
+      "term_en": "municipal council",
+      "definition": "The elected council of a municipality."
+    },
+    {
+      "term_nl": "waterschap",
+      "term_en": "water board",
+      "definition": "Regional public body responsible for water management."
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "De Koning",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/de-koning",
+      "date": null
+    },
+    {
+      "id": "s2",
+      "title": "Rechten en taken Tweede Kamer",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/rechten-en-taken-tweede-kamer",
+      "date": null
+    },
+    {
+      "id": "s3",
+      "title": "Rechten en taken Eerste Kamer",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/rechten-en-taken-eerste-kamer",
+      "date": null
+    },
+    {
+      "id": "s4",
+      "title": "Eerste Kamer",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/eerste-kamer",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "Zetelverdeling over partijen (Tweede Kamer)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/tweede-kamer/uitslagen/zetelverdeling-over-partijen",
+      "date": null
+    },
+    {
+      "id": "s6",
+      "title": "Tweede Kamerverkiezingen 2025",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/tweede-kamerverkiezingen-2025",
+      "date": null
+    },
+    {
+      "id": "s7",
+      "title": "Kiesstelsel",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kiesstelsel",
+      "date": null
+    },
+    {
+      "id": "s8",
+      "title": "Kiesrecht",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kiesrecht",
+      "date": null
+    },
+    {
+      "id": "s9",
+      "title": "Kabinetsformatie",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinetsformatie",
+      "date": null
+    },
+    {
+      "id": "s10",
+      "title": "Kabinetsformatie 2025-2026",
+      "publisher": "Parlement.com",
+      "url": "https://parlement.com/kabinetsformatie-2025-2026",
+      "date": null
+    },
+    {
+      "id": "s11",
+      "title": "Minderheidskabinet",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/minderheidskabinet",
+      "date": null
+    },
+    {
+      "id": "s12",
+      "title": "Minister",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/minister",
+      "date": null
+    },
+    {
+      "id": "s13",
+      "title": "Staatssecretaris",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/staatssecretaris",
+      "date": null
+    },
+    {
+      "id": "s14",
+      "title": "Demissionair kabinet",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/demissionair-kabinet",
+      "date": null
+    },
+    {
+      "id": "s15",
+      "title": "De weg van een wetsvoorstel",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/de-weg-van-een-wetsvoorstel",
+      "date": null
+    },
+    {
+      "id": "s16",
+      "title": "Motie",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/motie",
+      "date": null
+    },
+    {
+      "id": "s17",
+      "title": "Vragenrecht",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/vragenrecht",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Recht van onderzoek: enquêtes en onderzoeken",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/recht-van-onderzoek-enquetes-en-onderzoeken",
+      "date": null
+    },
+    {
+      "id": "s19",
+      "title": "Fractiediscipline",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/fractiediscipline",
+      "date": null
+    },
+    {
+      "id": "s20",
+      "title": "Prinsjesdag",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/prinsjesdag",
+      "date": null
+    },
+    {
+      "id": "s21",
+      "title": "Prinsjesdag",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s22",
+      "title": "Miljoenennota 2027",
+      "publisher": "Ministerie van Financiën (rijksfinancien.nl)",
+      "url": "https://www.rijksfinancien.nl/miljoenennota/2027",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s23",
+      "title": "Raad van State",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/raad-van-state",
+      "date": null
+    },
+    {
+      "id": "s24",
+      "title": "Algemene Rekenkamer",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/algemene-rekenkamer",
+      "date": null
+    },
+    {
+      "id": "s25",
+      "title": "Over het CPB",
+      "publisher": "Centraal Planbureau",
+      "url": "https://www.cpb.nl/over-het-cpb",
+      "date": null
+    },
+    {
+      "id": "s26",
+      "title": "Over het PBL",
+      "publisher": "Planbureau voor de Leefomgeving",
+      "url": "https://www.pbl.nl/over-het-pbl",
+      "date": null
+    },
+    {
+      "id": "s27",
+      "title": "Sociaal en Cultureel Planbureau (homepage)",
+      "publisher": "SCP",
+      "url": "https://www.scp.nl/",
+      "date": null
+    },
+    {
+      "id": "s28",
+      "title": "Over ons",
+      "publisher": "Nationale ombudsman",
+      "url": "https://www.nationaleombudsman.nl/over-ons",
+      "date": null
+    },
+    {
+      "id": "s29",
+      "title": "Wat doet de SER?",
+      "publisher": "Sociaal-Economische Raad",
+      "url": "https://www.ser.nl/nl/ser/over-ser/wat-doet-de-ser",
+      "date": null
+    },
+    {
+      "id": "s30",
+      "title": "Wie zitten er in de SER?",
+      "publisher": "Sociaal-Economische Raad",
+      "url": "https://www.ser.nl/nl/ser/over-ser/wie-zitten-er-in-de-ser",
+      "date": null
+    },
+    {
+      "id": "s31",
+      "title": "Taken provincie",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/provincies/taken-provincie",
+      "date": null
+    },
+    {
+      "id": "s32",
+      "title": "Taken gemeente",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/gemeenten/taken-gemeente",
+      "date": null
+    },
+    {
+      "id": "s33",
+      "title": "Waterschappen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/waterschappen",
+      "date": null
+    },
+    {
+      "id": "s34",
+      "title": "Waterschappen (elections)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/waterschappen",
+      "date": null
+    },
+    {
+      "id": "s35",
+      "title": "Waterschappen: stemmen",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/waterschappen/stemmen",
+      "date": null
+    },
+    {
+      "id": "s36",
+      "title": "Gemeenteraden (elections)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/gemeenteraden",
+      "date": null
+    },
+    {
+      "id": "s37",
+      "title": "Gemeenteraden: stemmen",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/gemeenteraden/stemmen",
+      "date": null
+    },
+    {
+      "id": "s38",
+      "title": "Provinciale Staten (elections)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/provinciale-staten",
+      "date": null
+    },
+    {
+      "id": "s39",
+      "title": "Verkiezingen Provinciale Staten",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/verkiezingen-provinciale-staten",
+      "date": null
+    },
+    {
+      "id": "s40",
+      "title": "Eerste Kamerverkiezingen 2027",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/eerste-kamerverkiezingen-2027",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "Nederland en de Europese Unie",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/europese-unie/nederland-en-de-europese-unie",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "Aan de slag. Bouwen aan een beter Nederland - coalitieakkoord 2026-2030 (PDF)",
+      "publisher": "D66, VVD, CDA; published by Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s43",
+      "title": "Regeerakkoord: Samenwerking als gezamenlijke opdracht",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord/samenwerking-als-gezamenlijke-opdracht",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s44",
+      "title": "Kabinet-Jetten (2026-heden)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinet-jetten-2026-heden",
+      "date": null
+    },
+    {
+      "id": "s45",
+      "title": "Verkiezingen en formatie 2025",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/zo-werkt-de-kamer/verkiezingen-en-formatie-2025",
+      "date": null
+    },
+    {
+      "id": "s46",
+      "title": "Fracties",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties",
+      "date": null
+    },
+    {
+      "id": "s47",
+      "title": "Kabinet-Jetten beëdigd",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/23/kabinet-jetten-beedigd",
+      "date": "2026-02-23"
+    },
+    {
+      "id": "s48",
+      "title": "Rob Jetten (official profile)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/rob-jetten",
+      "date": null
+    },
+    {
+      "id": "s49",
+      "title": "Troonrede 2026 (volledige tekst)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/troonrede-2026-volledige-tekst",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s50",
+      "title": "Kabinet-Schoof (2024-2026)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinet-schoof-2024-2026",
+      "date": null
+    },
+    {
+      "id": "s51",
+      "title": "Belastingplan aangenomen en nu is de vraag wat de VVD gaat doen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639225-belastingplan-aangenomen-en-nu-is-de-vraag-wat-de-vvd-gaat-doen",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s52",
+      "title": "Nederlandse gemeenteraadsverkiezingen 2026 (figures cited from verkiezingsuitslagen.nl)",
+      "publisher": "Wikipedia (nl)",
+      "url": "https://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2026",
+      "date": null
+    }
+  ]
+}

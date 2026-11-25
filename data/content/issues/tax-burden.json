@@ -1,0 +1,1278 @@
+{
+  "id": "tax-burden",
+  "title": "Tax burden on income and work",
+  "tagline": "Income tax rates, allowances, VAT and the expat ruling: what applies in 2026 and what changes in 2027",
+  "updated": "2026-11-25",
+  "summary": "Income from work in the Netherlands is taxed in box 1 at 35.75%, 37.56% and 49.5% in 2026, alongside tax credits, income-dependent allowances (toeslagen) and 21% or 9% VAT. The minority cabinet of D66, VVD and CDA presented the 2027 Tax Plan (Belastingplan 2027) on 15 September 2026; it raised the two lower box 1 rates and limited the inflation correction of brackets and credits. The House of Representatives adopted an amended version on 12 November 2026 by 76 votes to 74, with coalition party VVD voting against after D66 and CDA agreed changes with PRO and Volt. The Senate is scheduled to vote on 15 December 2026; until then the 2027 figures are not final.",
+  "key_facts": [
+    {
+      "label": "Box 1 rates 2026 (under state pension age)",
+      "value": "35.75% up to EUR 38,883; 37.56% from EUR 38,883 to EUR 78,426; 49.50% above EUR 78,426 (2026)",
+      "note": "Box 1 covers income from work and home. Rates include national insurance contributions. People of state pension (AOW) age pay 17.85% in the first bracket.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Box 1 rates 2027 as adopted by the House",
+      "value": "Second bracket 38.02% (EUR 39,337 to EUR 80,819); top rate 49.50% above EUR 80,819 (bill text of 12 November 2026)",
+      "note": "The cabinet proposed a first-bracket rate of 36.23% and a second-bracket rate of 38.16%. Adopted amendments cut both by 0.14 percentage point and the first bracket by a further 0.25 point (36.23 minus 0.39 = 35.84%). Not final until the Senate votes.",
+      "source_ids": [
+        "s2",
+        "s5",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "label": "Main tax credits 2026",
+      "value": "General tax credit max EUR 3,115; labour tax credit (arbeidskorting) max EUR 5,685 (2026)",
+      "note": "The general credit is phased out by 6.398% of income above EUR 29,736 and is zero from EUR 78,426; the labour credit is zero from EUR 132,920.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Total taxes and social contributions",
+      "value": "38.8% of GDP in 2025 (provisional); EUR 460.5 billion",
+      "note": "CBS calls this the collectieve lastendruk; it was the same percentage in the two preceding years.",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "label": "OECD comparison",
+      "value": "Netherlands 38.5% of GDP vs OECD average 33.9% (2023)",
+      "note": "Ranked 11th of 38 OECD countries in 2023, according to the OECD Revenue Statistics 2024 country note. No newer OECD or EU-average figure was verified for this file.",
+      "source_ids": [
+        "s17"
+      ]
+    },
+    {
+      "label": "Median household income tax burden",
+      "value": "12.3% of gross household income in 2024 (provisional), down from 15.4% in 2011",
+      "note": "CBS definition: income tax plus national insurance contributions; excludes VAT. Including employee insurance and pension contributions the median was 32.3% in 2024.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "label": "Box 2 (income from a substantial shareholding)",
+      "value": "24.5% up to EUR 68,843 and 31% above (2026); 23.5% and 29% in 2027-2030 under the package adopted by the House",
+      "note": "The bracket limit stays at EUR 68,843 in 2027-2031 because it will not be indexed.",
+      "source_ids": [
+        "s21",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "label": "Expat ruling",
+      "value": "Tax-free allowance of max 30% of salary in 2026; max 27% from 1 January 2027",
+      "note": "2026 salary threshold EUR 48,013; applies to salary up to EUR 262,000 (2026). Employees who used the ruling before 2024 keep 30%.",
+      "source_ids": [
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "Revenue from main taxes",
+      "value": "Wage and income tax EUR 147.2 billion; VAT EUR 83.2 billion; corporate tax EUR 49.9 billion (2025, provisional)",
+      "note": "",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "label": "Inflation correction of brackets and credits for 2027",
+      "value": "1.5548% instead of the full 2.6%",
+      "note": "The original bill applied 48% of the correction factor (1.248%); the cabinet raised this to 59.8% in November 2026.",
+      "source_ids": [
+        "s2",
+        "s8",
+        "s11"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Higher rates on the first two brackets in 2027",
+      "text": "The 2027 Tax Plan as presented raised the first-bracket rate from 35.75% to 36.23% and the second-bracket rate from 37.56% to 38.16%. The Ministry of Finance's estimate notes state that coalition agreement measures on the healthcare deductible and health insurance lower health premiums, and that under the budget rules this is compensated by a 0.63 percentage point increase in the first and second bracket rates in 2027. The cabinet's own purchasing-power package included a 0.06 point cut in both rates. Amendments adopted by the House lowered the proposed rates again.",
+      "source_ids": [
+        "s3",
+        "s10",
+        "s11",
+        "s29",
+        "s5"
+      ]
+    },
+    {
+      "heading": "The 'freedom contribution' (vrijheidsbijdrage)",
+      "text": "The coalition agreement introduced a 'freedom contribution' to help pay for higher defence spending. For households it works by applying the annual inflation correction (tabelcorrectiefactor) only partly in income tax in 2027 and 2028, so brackets and tax credits rise by less than inflation. The target was EUR 1.5 billion in 2027 and EUR 3.4 billion a year from 2028. For businesses it was designed as a higher contribution to the disability insurance fund (Aof); Taxence reports the total is meant to reach EUR 5.1 billion a year, of which EUR 1.7 billion from business, and that a House majority opposes the Aof route.",
+      "source_ids": [
+        "s11",
+        "s12",
+        "s26"
+      ]
+    },
+    {
+      "heading": "Allowances and the reward for extra work",
+      "text": "Toeslagen are income-dependent allowances towards the cost of health insurance, children, rent and childcare; they are paid as an advance based on expected income. Several manifestos describe the combined effect of taxes, tax credits and allowances as a problem for people who work more hours: the VVD writes that for too many people working more does not pay because of a tangle of allowances and credits, the CDA wants fewer income-dependent schemes 'so that the marginal burden goes down', and JA21 and ChristenUnie make similar points. No official 2026 figure for marginal tax pressure was verified for this file.",
+      "source_ids": [
+        "s30",
+        "m_vvd",
+        "m_cda",
+        "m_ja21",
+        "m_cu"
+      ]
+    },
+    {
+      "heading": "A minority cabinet needs opposition votes",
+      "text": "D66, VVD and CDA do not hold a majority in either chamber. The 2027 Tax Plan passed the House only after D66 and CDA made a deal with opposition parties PRO and Volt that shifts about EUR 1 billion a year from taxes on work to taxes on wealth. The VVD called it a bad deal that went against the coalition agreement and voted against the bill. Four days of crisis talks followed before the three parties announced on 16 November 2026 that they would continue governing together.",
+      "source_ids": [
+        "s23",
+        "s24",
+        "s25"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Defence spending",
+      "text": "The coalition agreement of 30 January 2026 adds EUR 19 billion for defence. According to NOS, citizens and businesses pay a 'freedom contribution' through taxes that is to raise more than EUR 5 billion a year in time.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "heading": "Health premium compensation through income tax",
+      "text": "Lower health insurance premiums that follow from the coalition agreement's healthcare measures (including a higher deductible) reduce premium income. The Ministry of Finance states that, in line with the regular budget method, this is offset through the rates of the first and second income tax brackets and the Aof contribution.",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "heading": "Partial indexation",
+      "text": "Brackets and credits are normally adjusted each year for inflation. The original bill applied 48% of the correction factor for 2027 (1.248% instead of 2.6%). After talks with opposition parties the cabinet raised this to 59.8%, giving 1.5548%, which SRA describes as largely cancelling the freedom contribution for households in 2027.",
+      "source_ids": [
+        "s11",
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Phasing down of entrepreneur deductions",
+      "text": "The self-employed deduction (zelfstandigenaftrek) falls from EUR 1,200 in 2026 to EUR 900 in 2027. CBS reports that the self-employed are the only group by main income source whose median tax burden rose between 2014 (13.4%) and 2024 (15.6%) and links this to the reduced self-employed deduction.",
+      "source_ids": [
+        "s8",
+        "s16"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement 'Aan de slag, Bouwen aan een beter Nederland'. It includes the freedom contribution, keeps the mortgage interest deduction and the expat ruling, and announces a reform agenda for income tax and allowances by the end of 2026.",
+      "source_ids": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "event": "CPB and PBL publish their analysis of the coalition agreement. NOS reports that most people gain slightly in purchasing power but low incomes lag behind.",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "event": "CBS reports that the median household income tax burden fell from 15.4% in 2011 to 12.3% in 2024.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "event": "On Prinsjesdag, State Secretary Eelco Eerenberg (Finance) presents the 2027 Tax Plan, including a EUR 1.5 billion purchasing-power package for low and middle incomes.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "event": "The cabinet sends amendments (nota's van wijziging) to the House: higher indexation (59.8% of the correction factor), a top-bracket threshold raised from EUR 78,426, box 2 rates cut to 23.5% and 29% for 2027-2030, and the healthcare cost deduction narrowed instead of abolished.",
+      "source_ids": [
+        "s8",
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "event": "Prime Minister Rob Jetten says at his weekly press conference that rejection of the Tax Plan would mean EUR 9 billion less government revenue in the coming years.",
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "event": "D66 and CDA agree with PRO and Volt on an amendment: about EUR 1 billion a year more tax on wealth, with about EUR 900 million used to lower the first-bracket rate in box 1. The VVD is not part of the deal.",
+      "source_ids": [
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "The House adopts the amended 2027 Tax Plan by roll-call vote, 76 to 74. D66, CDA, PRO, Volt, 50PLUS, PvdD, ChristenUnie and DENK support it; coalition party VVD votes against. A PVV motion of no confidence is also put to a roll-call vote the same day.",
+      "source_ids": [
+        "s5",
+        "s23",
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "event": "After four days of talks, D66, VVD and CDA announce they will continue as a minority cabinet and ask Council of State vice-president Sybrand Buma to advise on securing opposition support for budgets.",
+      "source_ids": [
+        "s24"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Scheduled Senate vote on the 2027 Tax Plan. The Senate can only adopt or reject, not amend.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "event": "Planned start date for most changes if the Senate agrees; the expat ruling's maximum tax-free allowance falls from 30% to 27% on this date.",
+      "source_ids": [
+        "s9",
+        "s18"
+      ]
+    },
+    {
+      "date": "2029",
+      "event": "Under the bill as adopted by the House, box 3 (tax on savings and investments) gets two rates: 35.5% on the first EUR 60,000 of box 3 income and 38.5% above that.",
+      "source_ids": [
+        "s2",
+        "s7"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Rules in force in 2026",
+      "text": "Box 1 has three brackets (35.75%, 37.56%, 49.5%). The general tax credit is at most EUR 3,115 and the labour tax credit at most EUR 5,685. Box 2, for people who own at least 5% of a company (typically director-major shareholders, DGAs), is taxed at 24.5% up to EUR 68,843 and 31% above. Box 3 is taxed at 36% of a deemed return, with a tax-free allowance of EUR 59,357 per person; it is covered in a separate file. The standard VAT rate is 21% and the reduced rate 9%.",
+      "source_ids": [
+        "s1",
+        "s21",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Coalition agreement (30 January 2026)",
+      "text": "The agreement leaves the tax treatment of owner-occupied homes unchanged; keeps the expat ruling, innovation box, business succession scheme and WBSO (R&D payroll tax credit); freezes the maximum pensionable salary at EUR 137,800 from 2027 to 2032; extends the petrol excise reduction through 2027; and planned to abolish the deduction for specific healthcare costs in 2028 and the reduced VAT rate on ornamental plants and flowers in 2028. It promises a reform agenda before the end of 2026, starting with a revision of the income tax system and steps on allowances, with the principles that work must pay and that taxes are not made more redistributive.",
+      "source_ids": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "heading": "2027 Tax Plan as adopted by the House",
+      "text": "For 2027 the bill sets a second-bracket rate of 38.02%, a top-bracket threshold of EUR 80,819, a EUR 17 increase in the labour tax credit, and indexation of 1.5548%. The planned EUR 100 cut in the elderly tax credit was dropped. The first-bracket rate falls by a further 0.12 percentage point in 2028 under the bill, with an additional 0.03 point for the table applying to the oldest pensioners. The healthcare cost deduction stays but is narrowed from 2028. The VAT increase on ornamental horticulture is dropped for now. The self-employed deduction falls to EUR 900 and the starter deduction is cut to EUR 10 in 2027 and abolished in 2028.",
+      "source_ids": [
+        "s2",
+        "s5",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "heading": "Entrepreneurs, DGAs and expats",
+      "text": "Under the package adopted by the House, box 2 rates fall to 23.5% and 29% for 2027-2030 while the bracket limit is frozen at EUR 68,843 through 2031. The limit above which loans from one's own company are taxed as income falls from EUR 500,000 to EUR 100,000 in five yearly steps of EUR 80,000 (EUR 420,000 at the end of 2027). The expat ruling goes to 27% in 2027 with a higher salary threshold; the government's business portal gives EUR 50,436 before indexation. For households, the freedom contribution's further increase of EUR 1.9 billion is left to the 2028 Tax Plan, according to IamExpat.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s19",
+        "s20",
+        "s23"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Shift tax from work to wealth (amendment Klaver/Dassen)",
+      "description": "Lowers the first-bracket box 1 rate by 0.25 percentage point in 2027, paid for by a 38.5% box 3 top rate above EUR 60,000 of annual return from 2029 (regular rate down from 36% to 35.5%), freezing box 2 and inheritance and gift tax brackets for 2027-2031, measures against 'gifts on paper', and about EUR 400 million in measures still to be specified, possibly including an exit levy. The original version also proposed a box 2 top rate of 33% and a EUR 17,500 limit on loans from one's own company; those were dropped.",
+      "proposed_by": [
+        "PRO",
+        "Volt"
+      ],
+      "status": "Amendment no. 80 adopted by the House on 2026-11-12 (79 votes, with D66 and CDA); Senate vote on the bill scheduled 2026-12-15",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s6",
+        "s23"
+      ]
+    },
+    {
+      "title": "Lower first two rates, keep elderly credit (amendment Grinwis c.s.)",
+      "description": "Cuts the first and second bracket rates by 0.14 percentage point, reverses the EUR 100 cut in the elderly tax credit and limits the labour tax credit increase to EUR 17 instead of EUR 133. A second amendment (Grinwis/Van Brenk) lowers the tax on work further from 2028.",
+      "proposed_by": [
+        "ChristenUnie",
+        "50PLUS"
+      ],
+      "status": "Amendments no. 42 and no. 78 adopted by the House on 2026-11-12",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "title": "Apply the full inflation correction in 2027",
+      "description": "Amendment to apply the tabelcorrectiefactor in full for 2027, and a motion to abolish the freedom contribution for businesses as well. A separate amendment proposed a higher labour tax credit.",
+      "proposed_by": [
+        "Groep Markuszower"
+      ],
+      "status": "Amendments no. 38 and 79 and motion no. 69 put to a vote on 2026-11-12; not in the list of adopted amendments reported by Taxlive, and the adopted bill keeps partial indexation",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s2"
+      ]
+    },
+    {
+      "title": "Reverse the narrowing of the healthcare cost deduction",
+      "description": "Amendment to undo the changes to the deduction for specific healthcare costs.",
+      "proposed_by": [
+        "SP"
+      ],
+      "status": "Amendment no. 75 (Jimmy Dijk) put to a vote on 2026-11-12; the adopted bill still contains the narrowing from 2028",
+      "source_ids": [
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "title": "VAT changes on food and repairs",
+      "description": "Amendments for 0% VAT on unprocessed organic fruit and vegetables and a lower VAT rate on repairs of household appliances. DENK filed motions asking to substantially lower taxes on groceries and on fuel.",
+      "proposed_by": [
+        "PvdD",
+        "DENK"
+      ],
+      "status": "Amendments no. 39 and 40 (Teunissen) and motions no. 60-63 (Ergin) put to a vote on 2026-11-12; outcome not verified for this file",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "title": "Replace allowances with a fixed amount",
+      "description": "D66's manifesto proposes abolishing the 'maze' of allowances in favour of one fixed amount, moving step by step to an individual basic amount. BBB proposes fixed amounts as an allowance instead of complex schemes, JA21 a simple system of 'toelagen' replacing allowances and tax credits, ChristenUnie a basic credit independent of income, and DENK also wants the allowance system replaced.",
+      "proposed_by": [
+        "D66",
+        "BBB",
+        "JA21",
+        "ChristenUnie",
+        "DENK"
+      ],
+      "status": "In 2025 manifestos; the coalition agreement promises a reform agenda before the end of 2026",
+      "source_ids": [
+        "m_d66",
+        "m_bbb",
+        "m_ja21",
+        "m_cu",
+        "m_denk",
+        "s12"
+      ]
+    },
+    {
+      "title": "Flat tax of 20% in box 1",
+      "description": "A single 20% rate on box 1 income with a tax-free threshold of EUR 30,000 replacing the payroll tax credit, VAT rates lowered to 6% and 19%, and a phased abolition of the 30% ruling.",
+      "proposed_by": [
+        "FVD"
+      ],
+      "status": "In 2025 manifesto",
+      "source_ids": [
+        "m_fvd"
+      ]
+    },
+    {
+      "title": "Phase out or end the expat ruling",
+      "description": "The GL-PvdA (now PRO) manifesto says the tax discount for knowledge migrants will be phased out; the PVV manifesto says it will stop the 'unfair' expat ruling. The coalition agreement keeps the ruling, and the CDA manifesto also pledges to keep it.",
+      "proposed_by": [
+        "PRO",
+        "PVV",
+        "FVD"
+      ],
+      "status": "In 2025 manifestos; not government policy (reduction to 27% in 2027 already decided)",
+      "source_ids": [
+        "m_pro",
+        "m_pvv",
+        "m_fvd",
+        "m_cda",
+        "s12",
+        "s18"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "The freedom contribution is a regressive tax: low and middle incomes pay relatively more than high incomes.",
+      "claimed_by": "Trade union federation FNV (calculation note published by EenVandaag)",
+      "what_data_show": "FNV's own calculation of the original 2027 design (48% indexation) puts the extra tax at EUR 112.71 (0.37% of income) at the full-time minimum wage of EUR 29,800, EUR 151.96 (0.32%) at EUR 48,000, EUR 169.37 (0.18%) at EUR 96,000 and EUR 137.60 (0.10%) at EUR 134,000. These are FNV figures, not an official distribution table. The cabinet later raised indexation for 2027 to 59.8%; the House-adopted bill corrects by 1.5548% against 2.6% full inflation correction, so indexation remains partial. No official recalculation by income level was found.",
+      "source_ids": [
+        "s27",
+        "s8",
+        "s2",
+        "s11"
+      ]
+    },
+    {
+      "claim": "The coalition's plans mean: 'the lower your income, the higher the bill.'",
+      "claimed_by": "FNV, responding to the CPB/PBL analysis of the coalition agreement (February 2026)",
+      "what_data_show": "NOS reports from the CPB analysis that most people still gain slightly in purchasing power, but that low incomes lag behind, partly because the healthcare deductible rises from EUR 385 to EUR 460. NOS also notes the plans are those of a minority cabinet and may not be carried out as written; several were changed later in 2026.",
+      "source_ids": [
+        "s14",
+        "s8"
+      ]
+    },
+    {
+      "claim": "The deal between D66, CDA, PRO and Volt gives the Netherlands a 'millionaires' tax'.",
+      "claimed_by": "PRO leader Jesse Klaver; disputed by the VVD, which called it 'a bad deal' contrary to the coalition agreement",
+      "what_data_show": "The adopted bill contains a 38.5% box 3 rate on box 3 income above EUR 60,000 a year from 2029 and lowers the regular rate to 35.5%; it applies to annual returns, not to assets above an amount. Welingelichte Kringen reports the two rate changes together raise EUR 221 million. The cabinet formally advised against the amendment, saying part of the expected revenue was not yet secured and that an extra rate complicates the system. About EUR 400 million of the package is not yet specified.",
+      "source_ids": [
+        "s25",
+        "s23",
+        "s2"
+      ]
+    },
+    {
+      "claim": "Pensioners with only a state pension (about 900,000 people) may not benefit from the lower first-bracket rate.",
+      "claimed_by": "50PLUS leader Jan Struijs, citing calculations commissioned by his party",
+      "what_data_show": "IamExpat, citing NOS, reports that Klaver said he had not seen those calculations. No independent calculation was found for this file. The adopted bill does drop the planned EUR 100 cut in the elderly tax credit.",
+      "source_ids": [
+        "s23",
+        "s5"
+      ]
+    },
+    {
+      "claim": "The tax burden in the Netherlands is high / keeps rising.",
+      "claimed_by": "Recurring claim in manifestos calling for lower taxes on work (for example VVD, JA21, SP)",
+      "what_data_show": "It depends on the measure. Total taxes and social contributions were 38.8% of GDP in 2025, unchanged from the two previous years (CBS). The OECD put the Netherlands at 38.5% in 2023 against an OECD average of 33.9%, 11th of 38. The median household's income tax and national insurance burden fell from 15.4% (2011) to 12.3% (2024); for the top income decile it was 24.9% in 2024 against 24.7% in 2014, and for the self-employed it rose from 13.4% to 15.6%. The CBS household measure excludes VAT and other indirect taxes.",
+      "source_ids": [
+        "s15",
+        "s16",
+        "s17",
+        "m_vvd",
+        "m_ja21",
+        "m_sp"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Governing party (prime minister Rob Jetten). Its manifesto says allowances are too complex and that taxes hit workers harder than the wealthy, and proposes replacing allowances step by step with an individual basic amount. In November 2026 D66, with CDA, agreed the tax-shift amendment with PRO and Volt and voted for the amended 2027 Tax Plan.",
+      "salience": "high",
+      "salience_basis": "Leads the cabinet that submitted the 2027 Tax Plan; negotiated the 11 November 2026 deal; allowance reform appears in several places in the 2025 manifesto.",
+      "quotes": [
+        {
+          "text_en": "Allowances are too complex and taxes hit working people harder than the wealthy.",
+          "text_nl": "Toeslagen zijn te complex en belastingen treffen werkenden harder dan vermogenden.",
+          "speaker": "D66 manifesto 2025",
+          "date": "2025",
+          "source_id": "m_d66"
+        },
+        {
+          "text_en": "I also made clear to the House this week that if the tax plan is rejected, that means 9 billion less revenue for the government in the coming years.",
+          "text_nl": "Ik heb deze week ook duidelijk gemaakt aan de Kamer, als het belastingplan wordt verworpen, dan betekent dat de komende jaren 9 miljard minder inkomsten voor de overheid.",
+          "speaker": "Rob Jetten (prime minister)",
+          "date": "2026-11-06",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "m_d66",
+        "s23",
+        "s25",
+        "s28"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Governing party. Its manifesto wants a simpler tax system in which work pays, an end to what it calls excessive levelling through allowances, deductions and credits, eventually no allowance system, and no tax increases on savings (box 3), enterprise (box 2) or inheritance and gifts. The VVD rejected the D66/CDA deal with PRO and Volt and voted against the 2027 Tax Plan on 12 November 2026 while remaining in the coalition.",
+      "salience": "core",
+      "salience_basis": "Lower burdens for workers and entrepreneurs are headline bullets in the 2025 manifesto; the party voted against its own cabinet's Tax Plan over higher taxes on wealth and demanded a 'fundamental reset' of the coalition.",
+      "quotes": [
+        {
+          "text_en": "Ultimately we want to get rid of the allowance system.",
+          "text_nl": "Uiteindelijk willen we af van het toeslagenstelsel.",
+          "speaker": "VVD manifesto 2025",
+          "date": "2025",
+          "source_id": "m_vvd"
+        }
+      ],
+      "source_ids": [
+        "m_vvd",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "The GL-PvdA manifesto (the merged party now sits as PRO) says tax on work goes down and taxes on income from wealth go up, wants to make allowances unnecessary step by step, and would phase out the expat ruling. PRO leader Jesse Klaver co-submitted the amendment that lowers the first-bracket rate and adds a box 3 top rate, and PRO voted for the amended Tax Plan.",
+      "salience": "core",
+      "salience_basis": "Co-author of adopted amendment no. 80 to the 2027 Tax Plan; made its support conditional on shifting tax from work to wealth; theme recurs across the 2025 manifesto.",
+      "quotes": [
+        {
+          "text_en": "If this proposal is adopted, the Netherlands gets a millionaires' tax.",
+          "text_nl": "Als dit voorstel wordt aangenomen krijgt Nederland een miljonairsbelasting.",
+          "speaker": "Jesse Klaver",
+          "date": "2026-11-11",
+          "source_id": "s25"
+        },
+        {
+          "text_en": "The tax discount for knowledge migrants, the expat ruling, we phase out.",
+          "text_nl": "De belastingkorting voor kennismigranten, de expatregeling, bouwen we af.",
+          "speaker": "GL-PvdA manifesto 2025",
+          "date": "2025",
+          "source_id": "m_pro"
+        }
+      ],
+      "source_ids": [
+        "m_pro",
+        "s4",
+        "s6",
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "The PVV manifesto concentrates on VAT and excise rather than income tax rates: VAT on energy from 21% to 9%, no VAT on groceries, no fuel excise increase, 21% VAT on art and culture, and an end to the expat ruling. On 12 November 2026 PVV members Vlottes and Wilders tabled a motion of no confidence in the cabinet during the Tax Plan votes. The PVV is not among the groups reported as supporting the Tax Plan.",
+      "salience": "medium",
+      "salience_basis": "Several VAT and excise pledges in a short 2025 manifesto; no PVV amendment appears on the 12 November 2026 Tax Plan voting list, only the no-confidence motion.",
+      "quotes": [
+        {
+          "text_en": "The PVV therefore wants to scrap VAT on groceries entirely, which can make the shopping trolley almost 10% cheaper.",
+          "text_nl": "De PVV wil daarom de btw op boodschappen helemaal schrappen, waardoor de boodschappenkar bijna 10% goedkoper kan worden.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "m_pvv"
+        }
+      ],
+      "source_ids": [
+        "m_pvv",
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Governing party. Its manifesto proposes phasing out mortgage interest relief step by step while lowering income tax by the same amount, a labour tax credit applied per hour worked, automatic payment of allowances, fewer income-dependent schemes to lower the marginal burden, and keeping the expat ruling. The coalition agreement left the mortgage interest deduction unchanged. CDA made the November 2026 deal with PRO and Volt together with D66 and voted for the Tax Plan.",
+      "salience": "high",
+      "salience_basis": "Multiple tax and allowance pledges in the 2025 manifesto; CDA MP Inge van Dijk submitted amendments to the 2027 Tax Plan; party co-negotiated the 11 November 2026 deal.",
+      "quotes": [
+        {
+          "text_en": "We phase out mortgage interest relief step by step, while at the same time lowering income tax by the same amount.",
+          "text_nl": "De hypotheekrenteaftrek bouwen we stap voor stap af, terwijl we tegelijk de inkomstenbelasting evenveel verlagen.",
+          "speaker": "CDA manifesto 2025",
+          "date": "2025",
+          "source_id": "m_cda"
+        }
+      ],
+      "source_ids": [
+        "m_cda",
+        "s4",
+        "s12",
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "JA21's manifesto proposes a new, strongly simplified tax system to lower the marginal burden, abolishing allowances and tax credits in favour of a simple system of 'toelagen', and abolishing box 2 by taxing substantial shareholdings in box 3. According to Taxlive, JA21 worked together with SGP and BBB during the Tax Plan debate and set far-reaching conditions for support; IamExpat reports the three threatened to vote against the box 3 reform if the wealth-tax changes were adopted.",
+      "salience": "high",
+      "salience_basis": "Manifesto announces its own 'new tax plan'; JA21 MPs Hoogeveen and Van den Berg submitted amendments and a motion on the 2027 Tax Plan (nos. 57, 73, 76, 77).",
+      "quotes": [
+        {
+          "text_en": "We choose lower taxes instead of higher allowances.",
+          "text_nl": "We kiezen voor lagere belastingen in plaats van hogere toeslagen.",
+          "speaker": "JA21 manifesto 2025",
+          "date": "2025",
+          "source_id": "m_ja21"
+        }
+      ],
+      "source_ids": [
+        "m_ja21",
+        "s4",
+        "s6",
+        "s23"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "The group has no 2025 manifesto of its own (it split from the PVV in January 2026). On the 2027 Tax Plan, Markuszower submitted amendments to apply the full inflation correction in 2027 and to raise the labour tax credit, and a motion to abolish the freedom contribution for businesses as well.",
+      "salience": "medium",
+      "salience_basis": "Two amendments and one motion on the 12 November 2026 voting list; no manifesto to assess.",
+      "quotes": [],
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "FVD's manifesto proposes a 20% flat tax on box 1 income, a tax-free threshold of EUR 30,000 for workers and pensioners, VAT rates of 6% and 19%, no VAT on business-to-business transactions and a phased abolition of the 30% ruling so that expats pay as much tax as Dutch people.",
+      "salience": "high",
+      "salience_basis": "A flat tax and VAT cuts are set out as separate headed pledges in the 2025 manifesto; no FVD amendment appears on the 12 November 2026 Tax Plan voting list.",
+      "quotes": [
+        {
+          "text_en": "We introduce a flat tax on income in box 1, so that earning more is not punished and it is always completely transparent how much income tax must be paid.",
+          "text_nl": "We voeren een vlaktaks in op het inkomen in Box-1, zodat meer verdienen niet wordt afgestraft en altijd volstrekt transparant is hoeveel inkomstenbelasting moet worden betaald.",
+          "speaker": "FVD manifesto 2025",
+          "date": "2025",
+          "source_id": "m_fvd"
+        }
+      ],
+      "source_ids": [
+        "m_fvd",
+        "s4"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The manifesto proposes replacing the allowance system with a simple basic credit that does not depend on income and a payable tax credit, and criticises the size of the labour tax credit. ChristenUnie MP Grinwis was first signatory of two amendments adopted on 12 November 2026 that lower the first two box 1 rates and keep the elderly tax credit intact, and the party voted for the amended Tax Plan.",
+      "salience": "high",
+      "salience_basis": "First signatory of adopted amendments nos. 42 and 78 plus several others on the voting list; tax and allowance reform has its own section in the 2025 manifesto.",
+      "quotes": [],
+      "source_ids": [
+        "m_cu",
+        "s4",
+        "s5",
+        "s23"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "The SP manifesto says it will lower income tax substantially and cut VAT on basic products, raise tax on income from capital to the level of income tax, and introduce a 5% millionaires' tax on wealth above EUR 5 million. SP MPs submitted amendments to reverse the narrowing of the healthcare cost deduction and to raise the high corporate tax rate; an SP motion against funding defence through the disability fund contribution was supported by all opposition parties. The SP is not among the groups reported as supporting the Tax Plan.",
+      "salience": "high",
+      "salience_basis": "Shifting tax from work to capital is a central manifesto theme; SP members submitted amendments nos. 16, 19 and 75 and motions nos. 81-83 on the 2027 Tax Plan.",
+      "quotes": [
+        {
+          "text_en": "We substantially lower income tax so that you keep more of the money you earn.",
+          "text_nl": "We verlagen de inkomstenbelasting fors zodat je meer overhoudt van het geld dat jij verdient.",
+          "speaker": "SP manifesto 2025",
+          "date": "2025",
+          "source_id": "m_sp"
+        }
+      ],
+      "source_ids": [
+        "m_sp",
+        "s4",
+        "s26",
+        "s23"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "The manifesto says income tax will be made fairer with a lower low rate, wants 0% VAT on vegetables, fruit, grains, pulses and nuts, lower VAT on repairs and an end to the reduced VAT rate on ornamental plants. PvdD MP Teunissen submitted a series of amendments; the one adding EUR 100 to the flight tax for private jets from 2030 was adopted. IamExpat, citing NOS, reports the party first opposed the Tax Plan but voted for it after commitments on private jets and train fares.",
+      "salience": "medium",
+      "salience_basis": "Tax pledges mainly concern VAT and environmental levies; Teunissen submitted at least eight amendments on the 2027 Tax Plan, mostly on excise, CO2 and flight taxes.",
+      "quotes": [
+        {
+          "text_en": "We make income tax fairer.",
+          "text_nl": "We maken de inkomstenbelasting eerlijker.",
+          "speaker": "PvdD manifesto 2025",
+          "date": "2025",
+          "source_id": "m_pvdd"
+        }
+      ],
+      "source_ids": [
+        "m_pvdd",
+        "s4",
+        "s5",
+        "s23"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The SGP manifesto states that the burden on labour is lowered and that the allowance system must be overhauled. SGP MP Stoffer submitted amendments on the youngtimer company-car rule (adopted) and on keeping the small brewers' excise discount. Taxlive reports SGP acted together with JA21 and BBB during the Tax Plan debate.",
+      "salience": "medium",
+      "salience_basis": "Short statements in the 2025 manifesto; three Stoffer amendments on the 12 November 2026 voting list, mostly on specific schemes.",
+      "quotes": [
+        {
+          "text_en": "The burden on labour is lowered.",
+          "text_nl": "De lasten op arbeid worden verlaagd.",
+          "speaker": "SGP manifesto 2025",
+          "date": "2025",
+          "source_id": "m_sgp"
+        }
+      ],
+      "source_ids": [
+        "m_sgp",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "BBB's manifesto calls the tax and allowance system needlessly complex, wants fixed amounts as an allowance instead of complex schemes, a simpler tax on labour, and no increase in taxes on savings (box 3) or enterprise (box 2). BBB MP Vermeer submitted an amendment for further cuts in fuel excise and a motion to scrap the VAT increase on ornamental horticulture for good.",
+      "salience": "medium",
+      "salience_basis": "A section in the 2025 manifesto; one amendment (no. 74) and one motion (no. 67) on the 2027 Tax Plan voting list.",
+      "quotes": [
+        {
+          "text_en": "The current tax and allowance system is needlessly complex.",
+          "text_nl": "Het huidige belasting- en toeslagenstelsel is onnodig complex.",
+          "speaker": "BBB manifesto 2025",
+          "date": "2025",
+          "source_id": "m_bbb"
+        }
+      ],
+      "source_ids": [
+        "m_bbb",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "DENK's manifesto wants the allowance system replaced, no VAT on fruit and vegetables, lower VAT generally, and a fairer distribution within income tax by asking more of the very rich. DENK MP Ergin filed motions to lower taxes on fuel and on groceries. DENK voted for the amended Tax Plan.",
+      "salience": "medium",
+      "salience_basis": "Brief pledges in the 2025 manifesto; four motions (nos. 60-63) on the 12 November 2026 voting list.",
+      "quotes": [
+        {
+          "text_en": "Within income tax we ensure a fairer distribution by asking the super-rich for a fair contribution.",
+          "text_nl": "Binnen de inkomstenbelasting zorgen wij voor een rechtvaardigere verdeling door van superrijken een eerlijke bijdrage te vragen.",
+          "speaker": "DENK manifesto 2025",
+          "date": "2025",
+          "source_id": "m_denk"
+        }
+      ],
+      "source_ids": [
+        "m_denk",
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "The 50PLUS manifesto calls for full application of the statutory inflation correction in income tax. MP Van Brenk co-signed the adopted Grinwis/Van Brenk amendment lowering tax on work, and leader Jan Struijs questioned in the debate whether people with only a state pension benefit from the first-bracket cut. 50PLUS voted for the amended Tax Plan.",
+      "salience": "medium",
+      "salience_basis": "One explicit pledge in a short 2025 manifesto; co-signatory of adopted amendment no. 78 and of motions nos. 68 and 84.",
+      "quotes": [
+        {
+          "text_en": "Full application of the statutory inflation correction in income tax.",
+          "text_nl": "Volledige toepassing van de wettelijke inflatiecorrectie in de inkomstenbelasting.",
+          "speaker": "50PLUS manifesto 2025",
+          "date": "2025",
+          "source_id": "m_50plus"
+        }
+      ],
+      "source_ids": [
+        "m_50plus",
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Volt's manifesto proposes more box 1 brackets combined with a basic income, and aligning expat rulings between EU member states. Volt's Dassen co-submitted the adopted tax-shift amendment with PRO's Klaver, and Volt voted for the amended Tax Plan.",
+      "salience": "high",
+      "salience_basis": "Co-author of adopted amendment no. 80; the cabinet's news release also attributes the planned VAT change for ornamental horticulture to a Dassen motion.",
+      "quotes": [],
+      "source_ids": [
+        "m_volt",
+        "s4",
+        "s6",
+        "s3",
+        "s23"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "If the Senate adopts the bill on 15 December 2026, brackets and tax credits rise by 1.5548% in 2027 rather than the full 2.6% inflation correction, and the second-bracket rate goes from 37.56% to 38.02%. The cabinet's proposed first-bracket rate of 36.23% was lowered by 0.39 percentage point through amendments.",
+      "source_ids": [
+        "s2",
+        "s5",
+        "s11"
+      ]
+    },
+    {
+      "applies_to": [
+        "employee",
+        "income_low",
+        "income_middle"
+      ],
+      "text": "The labour tax credit (maximum EUR 5,685 in 2026) is increased by EUR 17 on top of indexation in 2027, instead of the EUR 133 to EUR 173 proposed earlier. About EUR 879 to 900 million of the November 2026 deal goes to a lower first-bracket rate, which applies to income up to EUR 39,337.",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s6",
+        "s7",
+        "s23"
+      ]
+    },
+    {
+      "applies_to": [
+        "income_high"
+      ],
+      "text": "The 49.5% rate starts at EUR 78,426 in 2026 and at EUR 80,819 in 2027 under the bill adopted by the House. Tax-favoured pension accrual is capped at a salary of EUR 137,800, frozen from 2027 to 2032.",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "retired"
+      ],
+      "text": "The planned EUR 100 cut in the elderly tax credit (maximum EUR 2,067 in 2026) was removed by amendment. People of state pension age pay a lower first-bracket rate (17.85% in 2026). Whether people with only a state pension gain from the first-bracket cut was questioned by 50PLUS in the debate; no independent calculation was found.",
+      "source_ids": [
+        "s1",
+        "s5",
+        "s10",
+        "s23"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed"
+      ],
+      "text": "The self-employed deduction falls from EUR 1,200 (2026) to EUR 900 (2027). The reduction of the starter deduction goes from EUR 2,123 to EUR 10 in 2027 and the starter deduction is abolished on 1 January 2028. CBS data show the median tax burden of households living mainly from self-employment rose from 13.4% in 2014 to 15.6% in 2024.",
+      "source_ids": [
+        "s8",
+        "s2",
+        "s16"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer",
+        "self_employed"
+      ],
+      "text": "Owners of at least 5% of a company (box 2): rates of 23.5% and 29% instead of 24.5% and 31% for 2027-2030 under the House-adopted package, with the bracket limit frozen at EUR 68,843 (EUR 137,686 for fiscal partners) through 2031. The threshold for taxing loans from one's own company drops from EUR 500,000 to EUR 420,000 at the end of 2027 and to EUR 100,000 at the end of 2031; home-mortgage debts remain exempt.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "The coalition plans a business 'freedom contribution' via a higher disability fund (Aof) contribution, meant to raise EUR 1.7 billion a year; Taxence reports that a House majority opposes this route after an SP motion supported by all opposition parties. The energy investment allowance rises from 40% to 45.5% in 2027 under the adopted bill.",
+      "source_ids": [
+        "s26",
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "expat_ruling",
+        "non_eu_resident",
+        "eu_citizen"
+      ],
+      "text": "From 1 January 2027 the maximum tax-free allowance under the expat ruling is 27% instead of 30%, on salary up to EUR 273,000 (EUR 262,000 in 2026), and a higher salary threshold applies (EUR 48,013 in 2026; EUR 50,436 before indexation for 2027). Employees whose ruling was applied before 2024 keep 30% and the old threshold for the rest of their five-year period; rulings issued in 2024 move to 27% but keep the current threshold.",
+      "source_ids": [
+        "s18",
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits",
+        "income_low",
+        "parent",
+        "renter_social",
+        "renter_private"
+      ],
+      "text": "Allowances for health insurance, children, rent and childcare continue to be paid as advances based on expected income. The coalition agreement promises a reform agenda for allowances before the end of 2026 and, from 2028, aligns the wealth limits for the healthcare allowance with the box 3 tax-free allowance. Several parties propose replacing allowances with fixed amounts; these are manifesto proposals.",
+      "source_ids": [
+        "s30",
+        "s12",
+        "m_d66",
+        "m_bbb"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "The deduction for specific healthcare costs is not abolished in 2028 as the coalition agreement planned. Under the adopted bill it is narrowed from 2028: some expenses (for example dental care, hearing aids, insoles) are excluded and an income-related threshold percentage rises from 5.75% to 6.5%.",
+      "source_ids": [
+        "s2",
+        "s8",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor"
+      ],
+      "text": "Box 3 is covered in a separate file. In short: under the bill adopted by the House, from 2029 box 3 income above EUR 60,000 a year is taxed at 38.5% and income below that at 35.5% (36% now).",
+      "source_ids": [
+        "s2",
+        "s7"
+      ]
+    },
+    {
+      "applies_to": [
+        "petrol_driver",
+        "second_home"
+      ],
+      "text": "The fuel excise discount is extended for a year: in 2027 petrol excise is EUR 0.85 per litre and diesel EUR 0.55 per litre according to the cabinet's September 2026 announcement. The transfer tax on homes the buyer will not live in falls from 8% to 7% in 2027.",
+      "source_ids": [
+        "s3",
+        "s12"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "belastingplan 2027",
+    "inkomstenbelasting",
+    "tarief eerste schijf",
+    "arbeidskorting",
+    "tabelcorrectiefactor",
+    "vrijheidsbijdrage",
+    "marginale druk",
+    "toeslagenstelsel",
+    "lasten op arbeid",
+    "box 2",
+    "aanmerkelijk belang",
+    "expatregeling",
+    "30%-regeling",
+    "btw",
+    "ouderenkorting"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Voorlopige aanslag 2026: gebruikte tarieven en heffingskortingen",
+      "publisher": "Belastingdienst",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen",
+      "date": null
+    },
+    {
+      "id": "s2",
+      "title": "37 022 Belastingplan 2027 - Gewijzigd voorstel van wet (as adopted by the House, 12 November 2026)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/behandeling/20261112/gewijzigd_voorstel_van_wet_2",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s3",
+      "title": "Belastingplan 2027: voorstellen voor beter werkend belastingstelsel en gezonde overheidsfinancien",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/belastingplan-2027-voorstellen-voor-beter-werkend-belastingstelsel-en-gezonde-overheidsfinancien",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s4",
+      "title": "Stemmingslijst donderdag 12 november 2026 (Belastingplan 2027, 37 022)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D57775",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s5",
+      "title": "Tweede Kamer toch akkoord met pakket Belastingplan 2027 en novelle box 3",
+      "publisher": "Taxlive (Wolters Kluwer)",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/tweede-kamer-toch-akkoord-met-pakket-belastingplan-2027-en-novelle-box-3/",
+      "date": null
+    },
+    {
+      "id": "s6",
+      "title": "Pakket Belastingplan 2027 door de Tweede Kamer (rubriek Parlementair, D. Altena)",
+      "publisher": "Taxlive (Wolters Kluwer)",
+      "url": "https://www.taxlive.nl/nl/documenten/opinie/parlementair/pakket-belastingplan-2027-door-de-tweede-kamer/",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "s7",
+      "title": "Tariefsaanpassingen in door Tweede Kamer aangenomen Belastingplan 2027",
+      "publisher": "SRA",
+      "url": "https://www.sra.nl/nieuws/004501/2026/11/tariefsaanpassingen-in-door-tweede-kamer-aangenomen-belastingplan-2027",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s8",
+      "title": "Belastingplannen 2027: wat staat nog overeind in de inkomstenbelasting?",
+      "publisher": "SRA",
+      "url": "https://www.sra.nl/nieuws/259001/2026/11/belastingplannen-2027-wat-staat-nog-overeind-in-de-inkomstenbelasting",
+      "date": null
+    },
+    {
+      "id": "s9",
+      "title": "Tweede Kamer neemt Belastingplan 2027 in aangepaste vorm aan",
+      "publisher": "Forvis Mazars",
+      "url": "https://www.forvismazars.com/nl/en/who-we-are/news-events-and-publications/news/aangepaste-belastingplan-2027-aangenomen",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "s10",
+      "title": "Belastingplan 2027: maatregelen voor (vermogende) particulieren",
+      "publisher": "Grant Thornton",
+      "url": "https://www.grantthornton.nl/insights/themas/prinsjesdag/2026/belastingplan-2027-maatregelen-vermogende-particulieren/",
+      "date": "2026-09-16"
+    },
+    {
+      "id": "s11",
+      "title": "Ramingstoelichtingen: toelichtingen op de ramingen van de budgettaire effecten van het pakket Belastingplan 2027",
+      "publisher": "Ministerie van Financien, via Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D43323",
+      "date": null
+    },
+    {
+      "id": "s12",
+      "title": "Fiscale plannen coalitieakkoord van D66, VVD en CDA",
+      "publisher": "Taxlive (Wolters Kluwer)",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/fiscale-plannen-coalitieakkoord-van-d66-vvd-en-cda/",
+      "date": null
+    },
+    {
+      "id": "s13",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s14",
+      "title": "Doorrekening kabinetsplannen: lagere inkomens harder geraakt, NAVO-norm wel gehaald",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2603256",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "s15",
+      "title": "Overheidstekort en -schuld toegenomen in 2025 - 2. Inkomsten overheid boven de 500 miljard euro",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/longread/diversen/2026/overheidstekort-en-schuld-toegenomen-in-2025/2-inkomsten-overheid-boven-de-500-miljard-euro",
+      "date": null
+    },
+    {
+      "id": "s16",
+      "title": "Belastingdruk huishoudens gedaald van 15 naar 12 procent sinds 2011",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "s17",
+      "title": "Revenue Statistics 2024 - the Netherlands (country note)",
+      "publisher": "OECD",
+      "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/revenue-statistics-netherlands.pdf",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Belastingvoordeel buitenlandse werknemers (expatregeling)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/belastingvoordeel-buitenlandse-werknemers",
+      "date": null
+    },
+    {
+      "id": "s19",
+      "title": "Expatregeling (voorheen 30%-regeling) vanaf 2027 27%",
+      "publisher": "SRA",
+      "url": "https://www.sra.nl/nieuws/011102/2026/10/expatregeling-voorheen-30-regeling-vanaf-2027-27",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "s20",
+      "title": "Vergoeding 30%-regeling expats wordt 27%",
+      "publisher": "Ondernemersplein (KVK / Rijksoverheid)",
+      "url": "https://ondernemersplein.overheid.nl/wetswijzigingen/vergoeding-30-procent-regeling-expats-wordt-27-procent/",
+      "date": null
+    },
+    {
+      "id": "s21",
+      "title": "Soorten inkomstenbelasting",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/werk/inkomstenbelasting/soorten-inkomstenbelasting",
+      "date": null
+    },
+    {
+      "id": "s22",
+      "title": "Netherlands drops 1,5 billion euro tax hike for households in 2027",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/netherlands-drops-15-billion-tax-hike-households-2027",
+      "date": null
+    },
+    {
+      "id": "s23",
+      "title": "Dutch parliament approves 2027 Tax Plan by two votes",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/dutch-parliament-approves-2027-tax-plan-two-votes",
+      "date": null
+    },
+    {
+      "id": "s24",
+      "title": "Coalition crisis averted as D66, VVD & CDA strike last-minute deal",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/coalition-crisis-averted-d66-vvd-cda-strike-last-minute-deal",
+      "date": null
+    },
+    {
+      "id": "s25",
+      "title": "En ineens heeft de VVD het nakijken",
+      "publisher": "Welingelichte Kringen",
+      "url": "https://www.welingelichtekringen.nl/politiek/en-ineens-heeft-de-vvd-het-nakijken",
+      "date": null
+    },
+    {
+      "id": "s26",
+      "title": "Kamermeerderheid tegen coalitieplan voor vrijheidsbijdrage van bedrijven",
+      "publisher": "Taxence",
+      "url": "https://www.taxence.nl/nieuws/kamermeerderheid-tegen-coalitieplan-voor-vrijheidsbijdrage-van-bedrijven/",
+      "date": null
+    },
+    {
+      "id": "s27",
+      "title": "Notitie: wie betaalt de vrijheidsbijdrage? (FNV calculations, published by EenVandaag)",
+      "publisher": "FNV, via EenVandaag (AVROTROS)",
+      "url": "https://eenvandaag.avrotros.nl/cms-assets/d7bebbf3-874d-46b8-b168-b4488d59d073?format=pdf",
+      "date": null
+    },
+    {
+      "id": "s28",
+      "title": "Letterlijke tekst persconferentie na ministerraad 6 november 2026",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/documenten/2026/11/06/letterlijke-tekst-persconferentie-na-ministerraad-6-november-2026",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "s29",
+      "title": "Prinsjesdag 2026: wijzigingen in de inkomstenbelasting",
+      "publisher": "Taxlive (Wolters Kluwer)",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/prinsjesdag-2026-wijzigingen-in-de-inkomstenbelasting/",
+      "date": null
+    },
+    {
+      "id": "s30",
+      "title": "Toeslagen",
+      "publisher": "Belastingdienst / Dienst Toeslagen",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/toeslagen",
+      "date": null
+    },
+    {
+      "id": "m_vvd",
+      "title": "VVD: Verkiezingsprogramma TK 2025 - Sterker uit de storm",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88735/1/VVD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_d66",
+      "title": "D66: Verkiezingsprogramma TK 2025-2030 - Het kan wel",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_pro",
+      "title": "GL-PvdA: Verkiezingsprogramma TK 2025-2029 - Een nieuwe start voor Nederland",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88754/7/GL-PvdA%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_pvv",
+      "title": "PVV: Verkiezingsprogramma TK 2025 - Dit is uw land!",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88766/1/PVV%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_cda",
+      "title": "CDA: Verkiezingsprogramma TK 2025 - Bouwen op vertrouwen",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88765/7/CDA%20Verkiezingsprogramma%20TK%202025%20Definitief.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_ja21",
+      "title": "JA21: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88762/7/JA21%20Verkiezingsprogramma%20TK%202025%20definitief.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_fvd",
+      "title": "FVD: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88769/1/FVD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_cu",
+      "title": "ChristenUnie: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88763/1/CU%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_sp",
+      "title": "SP: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88738/7/SP-verkiezingsprogramma-TK2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_pvdd",
+      "title": "PvdD: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88761/7/PvdD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_sgp",
+      "title": "SGP: Verkiezingsprogramma TK 2025-2029",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88768/7/SGP%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_bbb",
+      "title": "BBB: Verkiezingsprogramma TK 2025-2029",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88739/7/BBB%20Verkiezingsprogramma%20TK2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_denk",
+      "title": "DENK: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88779/1/DENK%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_50plus",
+      "title": "50PLUS: Verkiezingsprogramma 2025-2029",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88767/7/50PLUS%20Verkiezingsprogramma%202025-2029.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "m_volt",
+      "title": "Volt: Verkiezingsprogramma TK 2025",
+      "publisher": "Party manifesto, archived by DNPP (University of Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88740/13/Volt%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    }
+  ]
+}
