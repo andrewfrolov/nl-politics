@@ -1,0 +1,203 @@
+{
+  "abbr": "BBB",
+  "slug": "bbb",
+  "name_nl": "BoerBurgerBeweging",
+  "name_en": "Farmer-Citizen Movement",
+  "founded": "2019",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 11,
+  "seats_house_2025_election": 4,
+  "seats_house_2023_election": 7,
+  "in_coalition": false,
+  "party_leader": "Henk Vermeer",
+  "house_group_leader": "Henk Vermeer",
+  "senate_group_leader": "Ilona Lagas",
+  "website": "https://boerburgerbeweging.nl/",
+  "described_as": [
+    {
+      "text": "Parlement.com describes BBB as 'a political party that explicitly focuses on people outside the Randstad' (the urban west of the country). It says the movement wants to contribute to sustainable agriculture and horticulture, stands up for the interests of the agricultural sector and a vital countryside, and holds that other parties and government policy focus too much on big cities and the Randstad; in many other areas (asylum, justice, integration, education) BBB takes right-wing positions, according to Parlement.com.",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "The first chapter of BBB's 2025 manifesto is titled 'On the way to a Netherlands in which all regions matter' ('Op weg naar een Nederland waarin alle regio's ertoe doen'). The manifesto uses the term 'noaberstaat' (from 'noaber', a regional word for neighbour) for the society it wants.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "In February 2026 NOS reported a 'battle over direction' within BBB: according to NOS the party board and founders Van der Plas and Vermeer wanted to return to the party's agricultural origins and be a party of farmers and the regions, while Mona Keijzer stood for a broader message with firm statements on asylum and migration. NOS quoted party sources as saying: 'We do not want to become PVV-light.'",
+      "source_ids": ["s3", "s4"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2019-11-01",
+      "event": "The BoerBurgerBeweging was founded. According to Parlement.com it grew out of a social-media initiative (#BoerBurgerTweet and a Facebook group with more than 20,000 followers). NOS reports that Henk Vermeer founded the party together with Caroline van der Plas and a business partner.",
+      "source_ids": ["s1", "s3"]
+    },
+    {
+      "date": "2021-03",
+      "event": "BBB won 1 seat (1.0%) in its first House election; Caroline van der Plas entered the House as a one-member group.",
+      "source_ids": ["s1", "s5"]
+    },
+    {
+      "date": "2023-03",
+      "event": "BBB became the largest party in the provincial elections and entered the Senate on 13 June 2023 with 16 seats.",
+      "source_ids": ["s1", "s6"]
+    },
+    {
+      "date": "2023",
+      "event": "Ahead of the 2023 House election Mona Keijzer came over from the CDA, and MPs Derk Jan Eppink, Nicki Pouw-Verweij (both JA21) and Lilian Helder (PVV) moved to BBB. In the election of 22 November 2023 BBB won 7 seats (4.7%).",
+      "source_ids": ["s1"]
+    },
+    {
+      "date": "2024-07-02",
+      "event": "BBB became a governing party in the Schoof cabinet with PVV, VVD and NSC. Parlement.com lists BBB as a governing party from 2 July 2024 to 23 February 2026.",
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "date": "2025-06-03",
+      "event": "The Schoof cabinet fell when the PVV left the coalition.",
+      "source_ids": ["s1", "s7"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "BBB won 4 seats in the House election, down from 7. NOS reported that the party had campaigned with asylum and migration as an important theme and with Keijzer as candidate for prime minister; Keijzer received more than 110,000 preference votes.",
+      "source_ids": ["s1", "s4", "s8"]
+    },
+    {
+      "date": "2026-02",
+      "event": "Caroline van der Plas stepped down as party leader; Henk Vermeer succeeded her, Mona Keijzer left the group and BBB returned to opposition when the Jetten cabinet took over.",
+      "source_ids": ["s1", "s5", "s7"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "BBB levert. Verkiezingsprogramma 2025-2029",
+    "url": "https://dnpprepo.ub.rug.nl/88739/7/BBB%20Verkiezingsprogramma%20TK2025.pdf",
+    "key_points": [
+      {
+        "topic": "Nitrogen and nature rules",
+        "text": "Replace the critical deposition value (KDW, the legal nitrogen norm for nature areas) targets in the Environment and Planning Act with conservation objectives as in the EU Nature Restoration Regulation, with the state of nature assessed by observation; introduce a calculation threshold of at least 1 mol.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Farming",
+        "text": "Keep the derogation (the EU exemption allowing more manure on grassland) and do everything possible to reverse its phasing-out; protect fertile farmland against use for industry, wind turbines or other purposes, and let Defence expand in nature areas rather than on farmland.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Wolves",
+        "text": "The manifesto states there is 'no room for the wolf' because the safety of people and animals comes first; it wants active management, zones where intervention is quicker, and government help for livestock farmers buying wolf-resistant fences.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Regions",
+        "text": "All policy must undergo a 'regiotoets' (regional impact test) showing the consequences for regions and the countryside; when a location is sought for a national government service, sites outside the Randstad are considered first.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Two out of three new homes in every region to be affordable, of which at most 30 percent social rent; housing corporations stimulated to build 30,000 social rental homes a year again; no taxation of home equity and no further limiting of mortgage interest relief; housing construction allowed in hamlets and on the edges of villages and towns.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Asylum and migration",
+        "text": "Limit the inflow to a maximum of 15,000 reception places a year, with an exception for new conflicts on European soil; withdraw the Spreidingswet (the law obliging municipalities to provide asylum reception); introduce the two-status system; end priority for status holders (refugees with a residence permit) in the allocation of social housing; reception in the region as the starting point. After one year, asylum seekers fit for work must contribute through work, volunteering or training.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "State pension (AOW)",
+        "text": "'Hands off the AOW': AOW benefits are not taxed more heavily than now and stay linked to the statutory minimum wage; study whether people can voluntarily start drawing a (part-time) AOW from 2 years before to 5 years after the standard AOW age.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Energy",
+        "text": "Speed up the construction of large nuclear plants and small modular reactors, aiming to start building one or more SMRs in the coming cabinet term; withdraw the closure of coal plants by 2030 as long as less efficient plants run elsewhere in Europe.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Keep regional hospitals and GP out-of-hours posts as much as possible and set up a special fund to support regional hospitals, to help prevent closures.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Taxes",
+        "text": "Tax actual income including realised capital gains in box 3 (the tax on savings and investments), not unrealised gains; no increase in taxes on saving in box 3 or on entrepreneurship in box 2; no increase in inheritance and gift tax; a hard target of 25% less regulatory burden in four years.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Defence",
+        "text": "BBB is prepared to take the path towards defence spending of 3.5% of GDP in 2035 as a starting point and commits in the coming cabinet term to a structural increase of more than six billion euros in 2030, but states it does not yet commit to reaching 3.5% in 2035, saying this may not automatically come at the expense of, among other things, the AOW.",
+        "source_ids": ["s2"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-02-20",
+      "event": "Caroline van der Plas announced she was handing the party leadership to MP and co-founder Henk Vermeer, while staying on as an MP focusing on agriculture and fisheries. She said she had decided in the summer of 2025 not to be lead candidate again: 'I pulled the cart for five years and it is time for a next step for BBB.'",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "Mona Keijzer, number two on the 2025 list and deputy prime minister in the outgoing cabinet, left the BBB group and continued as an independent MP ('Lid Keijzer'). She told De Telegraaf there had been an agreement shortly after the October 2025 election that she would succeed Van der Plas, and spoke of 'a great breach of trust'. According to NOS the group had decided on 13 February by three votes to one that Vermeer should be the successor. The same day BBB's period as a governing party ended, per Parlement.com.",
+      "source_ids": ["s4", "s9", "s1"]
+    },
+    {
+      "date": "2026-02-24",
+      "event": "Vermeer formally became chair of the House group. He said trust in Keijzer was 'really broken', that she had 'dozens of times' threatened to leave, and that she had held talks with the Groep Markuszower without consulting the group. Keijzer and Markuszower contradicted this, saying there had been one conversation and no concrete proposal; Keijzer said the other BBB MPs knew of it in advance. Vermeer confirmed that after the election it had seemed logical for Keijzer to succeed Van der Plas in due course.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-03-05",
+      "event": "A group of sixty prominent BBB members, including provincial representatives, senators and former MPs and ministers, wrote to the party board asking for Keijzer's return through independent mediation, an independent evaluation and a reorganisation of the party. NOS later put the number of signatories at about a hundred and then at more than 120.",
+      "source_ids": ["s10", "s11", "s12"]
+    },
+    {
+      "date": "2026-03-18",
+      "event": "In the municipal elections BBB won a total of 38 council seats in 29 municipalities, according to NOS political analyst Arjan Noorlander.",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2026-03-27",
+      "event": "At an extra general members' meeting in Barneveld, Keijzer announced she was giving up her party membership, saying mediation was pointless without trust. According to NOS, members decided there would be an independent evaluation of the elections; members said they regard Vermeer as interim party leader and group chair and want a members' meeting soon to decide who becomes party leader. NOS reported that the board did not want this, that 51 percent of the members did, and that the board would come back to the proposal later. Senator Robert van Gasteren gave up his party membership on stage.",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2026-03-31",
+      "event": "Senator Robert van Gasteren left the BBB Senate group and formed the one-member Fractie-Van Gasteren, bringing the BBB Senate group to 11 seats.",
+      "source_ids": ["s13", "s14", "s1"]
+    },
+    {
+      "date": "2026-11-25",
+      "event": "Seats: BBB has 3 House seats (Vermeer, Van der Plas and former agriculture minister Femke Wiersma) and 11 of the 16 Senate seats it won in 2023. Senators who left the group include Eric Kemperman (left 19 May 2025, in the FVD group since 9 September 2025) and Robert van Gasteren; Parlement.com reports that senator Arie Griffioen joined the D66 Senate group in November 2025. BBB has 2 seats in the European Parliament. Parlement.com lists Vermeer as political leader and gives the membership as 12,014 on 1 January 2026.",
+      "source_ids": ["s15", "s14", "s16", "s1"]
+    }
+  ],
+  "key_people": [
+    {"name": "Henk Vermeer", "role": "Political leader and chair of the House group since February 2026; co-founder"},
+    {"name": "Caroline van der Plas", "role": "MP; co-founder; party leader and group chair until February 2026"},
+    {"name": "Femke Wiersma", "role": "MP; former minister of agriculture"},
+    {"name": "Ilona Lagas", "role": "Chair of the Senate group since 13 June 2023"},
+    {"name": "Gert-Jan Oplaat", "role": "Vice-chair of the Senate group"},
+    {"name": "Sander Smit", "role": "Leader of the BBB delegation in the European Parliament"},
+    {"name": "Mona Keijzer", "role": "Former BBB MP and deputy prime minister; left the group on 23 February 2026 and the party on 27 March 2026; now independent MP"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "BBB (BoerBurgerBeweging)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/bbb-boerburgerbeweging", "date": null},
+    {"id": "s2", "title": "BBB levert. Verkiezingsprogramma 2025-2029", "publisher": "BoerBurgerBeweging (via DNPP repository, University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88739/7/BBB%20Verkiezingsprogramma%20TK2025.pdf", "date": "2025"},
+    {"id": "s3", "title": "Met Henk Vermeer als BBB-leider wordt populaire Mona Keijzer gepasseerd", "publisher": "NOS", "url": "https://nos.nl/l/2603345", "date": "2026-02-20"},
+    {"id": "s4", "title": "Mona Keijzer verlaat BBB en gaat als zelfstandig Kamerlid verder", "publisher": "NOS", "url": "https://nos.nl/l/2603756", "date": "2026-02-23"},
+    {"id": "s5", "title": "Caroline van der Plas stopt als leider BBB, blijft wel Kamerlid", "publisher": "NOS", "url": "https://nos.nl/l/2603292", "date": "2026-02-20"},
+    {"id": "s6", "title": "Historisch overzicht zeteltal BBB", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/begrip/historisch_overzicht_zeteltal_bbb", "date": null},
+    {"id": "s7", "title": "Tweede Kamerfractie BoerBurgerBeweging", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-boerburgerbeweging", "date": null},
+    {"id": "s8", "title": "Nieuwe BBB-fractieleider Vermeer: vertrouwen in Keijzer echt geknakt", "publisher": "NOS", "url": "https://nos.nl/l/2603821", "date": "2026-02-24"},
+    {"id": "s9", "title": "Mona Keijzer stapt uit BBB, Henk Vermeer wordt fractievoorzitter", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202602/mona-keijzer-stapt-uit-bbb-henk-vermeer-wordt-fractievoorzitter", "date": "2026-02-24"},
+    {"id": "s10", "title": "Opnieuw oproer binnen BBB, prominenten willen terugkomst Keijzer", "publisher": "NOS", "url": "https://nos.nl/l/2605091", "date": "2026-03-05"},
+    {"id": "s11", "title": "Verzoening BBB en Mona Keijzer lijkt kansloos: 'Zonde dat partij stukgaat'", "publisher": "NOS Nieuwsuur", "url": "https://nos.nl/l/2607821", "date": "2026-03-25"},
+    {"id": "s12", "title": "Mona Keijzer keert BBB definitief de rug toe: 'Kan niet anders dan afscheid nemen'", "publisher": "NOS", "url": "https://nos.nl/l/2608117", "date": "2026-03-27"},
+    {"id": "s13", "title": "Mr. R.M.J. van Gasteren LLM (Fractie-Van Gasteren)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/persoon/mr_r_m_j_van_gasteren_llm_fractie", "date": null},
+    {"id": "s14", "title": "BBB-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/boerburgerbeweging", "date": null},
+    {"id": "s15", "title": "BoerBurgerBeweging", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/bbb", "date": null},
+    {"id": "s16", "title": "Drs. E. Kemperman MBA (FVD)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/persoon/drs_e_kemperman_mba_fvd", "date": null}
+  ]
+}

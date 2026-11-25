@@ -1,0 +1,1324 @@
+{
+  "id": "healthcare",
+  "title": "Healthcare: costs, premiums and access",
+  "tagline": "Premiums and the deductible rise in 2027 while staff shortages and waiting lists persist",
+  "updated": "2026-11-25",
+  "summary": "Everyone who lives or works in the Netherlands must buy basic health insurance from a private insurer; the government sets the package, the mandatory deductible (eigen risico) and the healthcare allowance (zorgtoeslag). For 2027 the deductible rises from €385 to €400, the first increase since 2016, and insurers' average basic premium rises to about €173 a month according to a comparison-site analysis of 13 November 2026. The minority cabinet of D66, VVD and CDA postponed a further €60 deductible increase to 2028 and has not yet found a parliamentary majority for it. Official forecasts show care spending and staff shortages continuing to grow.",
+  "key_facts": [
+    {
+      "label": "Mandatory deductible (eigen risico)",
+      "value": "€385 in 2026; €400 from 1 January 2027",
+      "note": "Unchanged at €385 since 2016. The 2027 rise follows from the statutory indexation, which had been frozen for 2018-2026.",
+      "source_ids": [
+        "s30",
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "label": "Average basic premium 2027",
+      "value": "€173.13 per month (analysis of 61 policies, 13 Nov 2026), €14.83 more than in 2026",
+      "note": "The cabinet's budget estimate of 15 Sept 2026 was €169 per month (€2,029 per year), a rise of €12.50 per month. Cheapest policy €148.40, most expensive €202.50 per month.",
+      "source_ids": [
+        "s24",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Total care spending",
+      "value": "€118.0 billion (net) in 2027, just over 3% more than in 2026",
+      "note": "Of which €110.7 billion is premium-financed care under the Health Insurance Act (Zvw) and the Long-term Care Act (Wlz). The government attributes most of the rise to wages and prices.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Collectively financed care cost per adult",
+      "value": "€7,369 in 2026; €7,978 in 2027 (average)",
+      "note": "Includes premiums, own payments, income-related contributions paid via employers, and taxes.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Maximum healthcare allowance (zorgtoeslag), single person",
+      "value": "about €140 per month expected in 2027",
+      "note": "Budget estimate of September 2026; a comparison site citing the budget gives €1,550 per year for 2026 and €1,680 for 2027.",
+      "source_ids": [
+        "s2",
+        "s27"
+      ]
+    },
+    {
+      "label": "Forecast staff shortage in care and welfare",
+      "value": "almost 301,000 workers in 2035 (forecast published 19 Dec 2025)",
+      "note": "227,000 in the scenario that includes the 2025 care agreements. Largest shortages expected in elderly care.",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "label": "Mental health (GGZ) waiting places",
+      "value": "108,878 waiting places for adults in October 2024",
+      "note": "72,443 for an intake and 36,435 for treatment. These are places, not persons: one person can be on several lists. The 2027 budget reports 62,598 waiting places beyond the agreed maximum waiting time in 2024, up from 44,179 in 2022.",
+      "source_ids": [
+        "s17",
+        "s1"
+      ]
+    },
+    {
+      "label": "Nursing home waiting list",
+      "value": "17,538 people on 1 April 2026 (18,438 a year earlier)",
+      "note": "200,715 people had a Wlz indication for nursing care; 94% of those waiting received bridging care or care from an institution; 7 people were in the most urgent category beyond the target waiting time.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "label": "People without a GP",
+      "value": "45,000 to 194,000 people (Court of Audit estimate, April 2025)",
+      "note": "More than 700,000 people were looking for a different GP and 60% of practices were not accepting new patients, according to the same report as summarised by NOS.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "label": "Projected long-term care spending",
+      "value": "about 10% of GDP in 2025, about 17% in 2060 (CPB projection cited in the 2027 health budget)",
+      "note": "For 2027-2033 CPB projects average real growth of collective care spending of 3.1% a year, 4.1% in long-term care (Wlz).",
+      "source_ids": [
+        "s1",
+        "s14"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Rising costs for households",
+      "text": "The budget expects the nominal premium to rise by €150 a year in 2027, more than in 2026, when a one-off surplus in the Health Insurance Fund kept the increase to €3. The premiums insurers announced in November 2026 are on average higher than the cabinet's estimate: all 61 basic policies analysed by one comparison site became more expensive. At the same time the mandatory deductible rises to €400. According to the budget, an adult pays on average €7,978 for collectively financed care in 2027 through premiums, own payments, employer contributions and taxes.",
+      "source_ids": [
+        "s1",
+        "s24",
+        "s25"
+      ]
+    },
+    {
+      "heading": "Not enough staff",
+      "text": "The annual forecast commissioned by the health ministry expects the shortage of workers in care and welfare to grow to almost 301,000 in 2035, with the largest shortages in elderly care and among nurses and carers. CPB projects employment in care to grow 2.1% a year in 2027-2033 and notes that attracting and keeping enough staff can be a challenge in a tight labour market. The Scientific Council for Government Policy (WRR) reported in 2021 that one in seven workers was employed in care and that this could become more than one in three by 2060.",
+      "source_ids": [
+        "s15",
+        "s14",
+        "s33"
+      ]
+    },
+    {
+      "heading": "Access: GPs, mental health care, nursing homes, medicines",
+      "text": "The Court of Audit concluded in April 2025 that there is a national shortage of general practitioners: 45,000 to 194,000 people had no GP and 60% of practices were closed to new patients. In mental health care (GGZ) there were 108,878 waiting places for adults in October 2024. On 1 April 2026, 17,538 people with an indication for nursing care were on a waiting list. Pharmacists' organisation KNMP reports that more than 3.5 million people were affected by a medicine shortage in 2025; the 2027 budget states that the number of shortages has fallen but remains a problem for many patients.",
+      "source_ids": [
+        "s13",
+        "s17",
+        "s16",
+        "s18",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Long-term affordability",
+      "text": "The health budget cites a CPB projection that care spending will rise from about 10% of GDP in 2025 to about 17% in 2060. The coalition agreement states that without intervention care is heading for a 'zorginfarct' (care gridlock), with more people getting care too late or not at all. The cabinet has announced a State Commission on Care that will work for two years on recommendations for a financially sustainable system.",
+      "source_ids": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Ageing population",
+      "text": "CPB names demographic change as the main cause of rising care spending in 2027-2033, alongside real wage and price increases in care and income growth. Long-term care (Wlz) grows fastest at 4.1% a year. The government states that the number of people needing care and support will double in the coming years while the number of care workers does not keep pace.",
+      "source_ids": [
+        "s14",
+        "s19",
+        "s20"
+      ]
+    },
+    {
+      "heading": "Deductible frozen since 2016",
+      "text": "The law provides that the mandatory deductible rises with care costs, but successive political decisions froze it at €385 for 2018 through 2026. According to the cabinet's explanatory memorandum, with continuous indexation it would have been about €535 in 2026 and insurers could have set the 2026 premium roughly €100 lower. About half of insured adults use up the full deductible.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "heading": "How the system is organised",
+      "text": "Since the current system started in 2006, private insurers compete on the basic policy and negotiate prices with care providers; they must accept every applicant and charge the same premium for the same policy regardless of age or health. The government describes competition between insurers as the mechanism meant to keep care good and affordable. Several parties (PVV, DENK, FVD, JA21) criticise the role or power of insurers; the coalition agreement itself says hospitals are currently rewarded for doing as many treatments as possible regardless of added value for the patient.",
+      "source_ids": [
+        "s31",
+        "s24",
+        "s3",
+        "s37",
+        "s42",
+        "s39",
+        "s38"
+      ]
+    },
+    {
+      "heading": "Growing workload in primary care",
+      "text": "According to the Court of Audit report as summarised by NOS, there are more GPs than ever but their tasks and workload grew faster: procedures moved from hospitals to GPs, more frail elderly people live at home after the closure of residential care homes, and GPs support patients who are waiting for mental health care. An estimated 25% of GPs stop within 15 years of qualifying, and the number of practices is falling.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "heading": "One-off premium effect in 2026",
+      "text": "The 2026 premium was held down by a large one-off surplus in the Health Insurance Fund at the end of 2025; without it the 2026 premium would have been €73 a year higher. That effect lapses in 2027, which the budget gives as one reason for the larger increase.",
+      "source_ids": [
+        "s1",
+        "s24"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "The mandatory deductible reaches €385; it is then frozen each year through 2026.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2022-09",
+      "event": "The health ministry and 13 care organisations sign the Integraal Zorgakkoord (IZA, Integrated Care Agreement) on keeping care accessible, good and affordable.",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2025-04-02",
+      "event": "The Court of Audit reports a national GP shortage: 45,000 to 194,000 people without a GP.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "event": "Sixteen organisations sign the Hoofdlijnenakkoord Ouderenzorg (HLO, outline agreement on elderly care).",
+      "source_ids": [
+        "s20"
+      ]
+    },
+    {
+      "date": "2025-09-08",
+      "event": "The Aanvullend Zorg- en Welzijnsakkoord (AZWA, Supplementary Care and Welfare Agreement) is signed as an addition to the IZA.",
+      "source_ids": [
+        "s19"
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "event": "IamExpat, citing De Telegraaf, reports that the outgoing cabinet has shelved its plan to cut the deductible from €385 to €165 in 2027.",
+      "source_ids": [
+        "s29"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement: the deductible is to be indexed again and raised by a further €60 in 2027, with a maximum of €150 per treatment.",
+      "source_ids": [
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-02-20",
+      "event": "CPB and PBL publish their assessment of the coalition agreement; NOS reports that the deductible increase affects lower incomes more than higher incomes.",
+      "source_ids": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "event": "NOS reports the cabinet will press ahead with a deductible of €455 in 2027 although only D66, VVD, CDA and JA21 (75 of 150 House seats, 24 of 75 Senate seats) support it.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "event": "The House adopts a JA21/SGP motion to postpone debate on the deductible bill (36 943) until after the summer recess; a 50PLUS motion against a co-payment for district nursing is rejected.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Budget Day: the cabinet postpones the €60 increase to 2028; through indexation the deductible goes to €400 in 2027. Expected premium €169 a month; care spending €118.0 billion.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "event": "An SP request to vote the same day on a motion to freeze the deductible at €385 gets the support of 75 members, short of a majority.",
+      "source_ids": [
+        "s8",
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "event": "The House debates the 2027 health budget.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "event": "Insurers' 2027 premiums are known: average €173.13 a month according to Overstappen.nl. DSW had announced €173.25 in October.",
+      "source_ids": [
+        "s24",
+        "s23"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "How the system works now",
+      "text": "Basic health insurance is compulsory for everyone who lives or works in the Netherlands, including children. The government decides what is in the basic package and sets the deductible and the healthcare allowance (zorgtoeslag, an income-dependent benefit towards the premium). Insurers must accept everyone for the basic policy, and have a duty of care to arrange timely care within reasonable distance. Adults pay the deductible for most care in the basic package; GP care, the GP out-of-hours service, midwifery and maternity care and district nursing are exempt. Supplementary insurance is voluntary.",
+      "source_ids": [
+        "s31",
+        "s30"
+      ]
+    },
+    {
+      "heading": "2027 budget: deductible, premium, allowance",
+      "text": "The deductible is indexed to €400 in 2027. The cabinet decided to postpone the additional €60 increase from 1 January 2027 to 1 January 2028 and states that in 2028 the deductible will not be higher than it would have been with yearly indexation in past years. From 2028 the deductible in specialist medical care is to be charged in tranches of at most €150 per treatment. The cap of €250 a year on patient co-payments for medicines is extended through 2027. The maximum allowance for a single person is expected to rise to about €140 a month.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Coalition agreement: savings and reforms",
+      "text": "The coalition agreement of D66, VVD and CDA says only care with proven added value will be reimbursed, with a stronger role for the National Health Care Institute (Zorginstituut); reimbursement of non-contracted care is to be abolished after a transition period; the government takes more control over the spread and concentration of hospital care; and the care agreements are extended with agreements on volume growth. The budget lists a co-payment for district nursing and youth care, removal of domestic help as a tailored municipal provision from 2029 with a safety net, removal of selected medicines from the package, and an administrative agreement limiting spending growth in long-term care through 2031. In the budget tables the coalition measures lower Health Insurance Act spending by about €1.5 billion in 2027 rising to about €3.8 billion in 2031 compared with the previous estimate.",
+      "source_ids": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Agreements with the sector and new money",
+      "text": "The IZA (2022), AZWA (2025) and the elderly care agreement HLO (2025) remain the framework; the cabinet wants supplementary agreements on elderly care and a new agreement for disability care and long-term mental health care by the end of 2026. The 2027 budget adds money for prevention, among others €25 million for the Kansrijke Start programme, €47 million for shingles vaccination of 60-year-olds, and €12 million for palliative care. The coalition agreement also pledges to reduce the GP shortage, particularly in certain regions, and to combat medicine shortages through more European production.",
+      "source_ids": [
+        "s2",
+        "s3",
+        "s19",
+        "s20",
+        "s21"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Raise the deductible by a further €60",
+      "description": "Bill 36 943 would raise the mandatory deductible by €60 on top of indexation. It was drafted for 2027 (about €455); the cabinet has postponed the increase to 1 January 2028. The explanatory memorandum says a higher deductible means more co-financing by users and lower demand for care.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Bill pending in the House; debate postponed by motion adopted 2026-06-23; cabinet moved the increase to 2028 in the 2027 budget",
+      "source_ids": [
+        "s4",
+        "s1",
+        "s6"
+      ]
+    },
+    {
+      "title": "Maximum of €150 deductible per treatment",
+      "description": "In specialist medical care no more than €150 of the deductible would be charged per treatment, so that patients do not lose the whole deductible at once. The budget books a saving of €318 million a year from this measure from 2028.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Planned for 1 January 2028; preparations in 2027. ChristenUnie supports the cap but opposes linking it to an increase.",
+      "source_ids": [
+        "s1",
+        "s3",
+        "s10"
+      ]
+    },
+    {
+      "title": "Freeze the deductible at €385 in 2027",
+      "description": "Motion asking the government to introduce an urgent bill so that the deductible is not indexed in 2027.",
+      "proposed_by": [
+        "SP"
+      ],
+      "status": "Motion tabled 2026-10-01; a request to vote that day was supported by SP, DENK, SGP, BBB, PRO, PvdD, 50PLUS, ChristenUnie and PVV (75 members, no majority). The deductible for 2027 is €400. The outcome of a later vote on the motion was not verified.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s30"
+      ]
+    },
+    {
+      "title": "Abolish the deductible",
+      "description": "PVV wants to abolish the deductible entirely and says it will compensate insurers so that premiums do not rise; DENK wants to abolish it and lower the premium.",
+      "proposed_by": [
+        "PVV",
+        "DENK"
+      ],
+      "status": "In PVV manifesto 2025 and DENK party programme",
+      "source_ids": [
+        "s37",
+        "s42"
+      ]
+    },
+    {
+      "title": "Lower the deductible to €200",
+      "description": "FVD wants a deductible of €200 and physiotherapy, contraception and dental care back in the basic package, and rejects income-dependent premiums.",
+      "proposed_by": [
+        "FVD"
+      ],
+      "status": "Party position",
+      "source_ids": [
+        "s39"
+      ]
+    },
+    {
+      "title": "Co-payment for district nursing",
+      "description": "The cabinet plans a patient co-payment for district nursing (wijkverpleging), booked in the budget as a saving of €225 million a year from 2029. District nursing is currently exempt from the deductible.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Coalition agreement measure, planned from 2029. A 50PLUS motion against it was rejected on 2026-06-23 (for: PRO, SP, 50PLUS, PvdD, DENK, BBB, Groep Markuszower, PVV, FVD).",
+      "source_ids": [
+        "s1",
+        "s6",
+        "s30"
+      ]
+    },
+    {
+      "title": "End reimbursement of non-contracted care",
+      "description": "Insurers would no longer have to reimburse care from providers they have no contract with, after a transition period; they would have to contract enough care and offer a restitution policy. The budget books €150 million a year from 2029.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Coalition agreement; legislation to be prepared",
+      "source_ids": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "title": "Take acute care out of market competition and keep regional hospitals",
+      "description": "PVV wants acute care removed from market competition and regional hospitals kept with emergency department, intensive care and maternity care, if necessary with financial support. JA21 wants to keep regional hospitals and allow concentration only where better care, lower costs or staffing gains are demonstrated.",
+      "proposed_by": [
+        "PVV",
+        "JA21"
+      ],
+      "status": "In PVV manifesto 2025 and JA21 party position",
+      "source_ids": [
+        "s37",
+        "s38"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "A higher deductible keeps the premium down.",
+      "claimed_by": "Cabinet, VVD and CDA; JA21 MP Coenradie said in the budget debate that the link exists only to a limited extent",
+      "what_data_show": "The cabinet's explanatory memorandum estimates that with indexation since 2018 the deductible would have been about €535 in 2026 and the premium about €100 a year lower. CDA MP Poortman said in the House that the 2027 indexation dampens the premium increase by €13. The budget estimates the 2027 premium at €2,029 a year, €150 more than in 2026, with the deductible at €400.",
+      "source_ids": [
+        "s4",
+        "s9",
+        "s1"
+      ]
+    },
+    {
+      "claim": "The deductible makes people avoid necessary care, which raises costs later.",
+      "claimed_by": "PVV, SP, BBB, PvdD and other opposition parties",
+      "what_data_show": "In a Nivel survey published in May 2026, 7% of insured people said the current €385 is (probably) an obstacle to using necessary care and 16% expected an obstacle at €460; Nivel cites earlier research finding that 8% avoid care because of the deductible. The cabinet states that a higher deductible reduces demand and makes the care that is used more often 'appropriate care', and acknowledges that risk solidarity is reduced slightly. The sources opened do not quantify later costs of postponed care; PvdD asked the government whether this has been calculated.",
+      "source_ids": [
+        "s22",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "claim": "The cabinet is cutting €10 billion from care.",
+      "claimed_by": "SP MP Sarah Dobbe in the budget debate of 14 October 2026",
+      "what_data_show": "The 2027 budget shows total care spending rising to €118.0 billion in 2027, just over 3% more than in 2026. The same budget shows coalition agreement measures reducing Health Insurance Act spending by about €1.5 billion in 2027 rising to about €3.8 billion in 2031, and long-term care spending by €130 million in 2027 rising to €990 million in 2031 under the planned administrative agreement, relative to earlier estimates. NOS reported that care receives more money on balance but less than it would without the measures. A €10 billion total was not found in the sources opened.",
+      "source_ids": [
+        "s9",
+        "s1",
+        "s2",
+        "s11"
+      ]
+    },
+    {
+      "claim": "There is a national shortage of GPs.",
+      "claimed_by": "Court of Audit (Algemene Rekenkamer), April 2025",
+      "what_data_show": "The Court of Audit estimated 45,000 to 194,000 people without a GP and more than 700,000 looking for another one, with 60% of practices not accepting new patients. The same report notes there are more GPs than ever but that tasks and workload grew faster. The coalition agreement states that too many people have no GP or no regular GP and speaks of a shortage 'particularly in a number of regions'.",
+      "source_ids": [
+        "s13",
+        "s3"
+      ]
+    },
+    {
+      "claim": "More than 100,000 people are waiting for mental health care.",
+      "claimed_by": "Commonly cited figure; Consumentenbond calls waiting times irresponsibly long and took the regulator NZa to court",
+      "what_data_show": "RIVM, using NZa data, reports 108,878 waiting places for adults in October 2024. The figure counts places on waiting lists, not unique persons. The health budget reports 62,598 waiting places beyond the agreed maximum waiting time (4 weeks to intake, 10 weeks to treatment) in 2024. The Consumentenbond's appeal against the NZa was heard on 13 October 2026; no ruling was found in the sources opened.",
+      "source_ids": [
+        "s17",
+        "s1",
+        "s32"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Governing party. D66 signed the coalition agreement that indexes the deductible and raises it by €60, caps it at €150 per treatment and introduces co-payments. Its MPs defend these as necessary choices and say asking a contribution from those who can afford it frees capacity for complex care. D66 voted against the SP request to vote on freezing the deductible (1 Oct 2026) and against the motion rejecting a co-payment for district nursing (23 June 2026).",
+      "salience": "high",
+      "salience_basis": "Party of the prime minister in the cabinet that proposes the measures; dedicated 'Zorg en gezondheid' page on the party website; several D66 MPs spoke in the 14 October 2026 health budget debate.",
+      "quotes": [
+        {
+          "text_en": "Those are not always pleasant choices — I understand that too — but they are necessary choices to keep care accessible in the future as well.",
+          "text_nl": "Dat zijn niet altijd leuke keuzes — dat snap ik ook — maar het zijn wel noodzakelijke keuzes om de zorg ook in de toekomst toegankelijk te houden.",
+          "speaker": "Harmen Vervuurt (D66 MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        },
+        {
+          "text_en": "The care system is creaking, and the shortage of professionals in care keeps growing.",
+          "text_nl": "Het zorgstelsel piept en kraakt, en het tekort aan professionals in de zorg wordt steeds groter.",
+          "speaker": "D66 website, 'Zorg en gezondheid'",
+          "date": "2026",
+          "source_id": "s35"
+        }
+      ],
+      "source_ids": [
+        "s3",
+        "s9",
+        "s35",
+        "s8",
+        "s6"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Governing party; health minister Sophie Hermans is from the VVD. The party says the premium is no longer affordable for many people and wants only care that adds to quality of life reimbursed. VVD MPs argue the higher deductible lowers premiums for working people and point to the €150 cap per treatment. VVD voted against freezing the deductible and against the motion on district nursing co-payments.",
+      "salience": "high",
+      "salience_basis": "Holds the health ministry; 'Zorg en gezondheid' is one of the pillars on the party website; defended the deductible increase in the April 2026 NOS report and the October 2026 budget debate.",
+      "quotes": [
+        {
+          "text_en": "The health insurance premium is no longer affordable for many people. That is why we are intervening, so that monthly costs do not rise even further.",
+          "text_nl": "De zorgpremie is voor veel mensen niet meer betaalbaar. Daarom grijpen we in, zodat de maandelijkse lasten niet nog verder stijgen.",
+          "speaker": "VVD website, 'Zorg en gezondheid'",
+          "date": "2026",
+          "source_id": "s36"
+        },
+        {
+          "text_en": "We are splitting the deductible into tranches. If you go to hospital once, you pay €150.",
+          "text_nl": "Wij trancheren het eigen risico. Als je één keer naar het ziekenhuis gaat, dan ben je €150 kwijt.",
+          "speaker": "Wendel (VVD MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        },
+        {
+          "text_en": "It is necessary to keep care accessible, of good quality and affordable.",
+          "text_nl": "Het is nodig om de zorg toegankelijk, van goede kwaliteit en betaalbaar te houden",
+          "speaker": "Sophie Hermans (health minister, VVD), as quoted by NOS",
+          "date": "2026-04-15",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s36",
+        "s9",
+        "s10",
+        "s8",
+        "s6"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "Opposition. PRO (then GroenLinks-PvdA) said in April 2026 it would not support a higher deductible, and in June voted against postponing the bill, demanding it be withdrawn or voted on. In the October budget debate its MP said PRO objects strongly to the indexation of the deductible and to scrapping the tax deduction for specific care costs, while being willing to negotiate on the budget; he said PRO wants more of care financed through the income-related contribution. PRO supported the SP request to vote on a freeze.",
+      "salience": "high",
+      "salience_basis": "Largest opposition group whose votes the cabinet needs according to NOS; its health spokesperson made voting statements on the deductible on 23 June 2026 and was a main speaker in the budget debate.",
+      "quotes": [
+        {
+          "text_en": "We are not going to support an increase of the deductible.",
+          "text_nl": "Wij gaan een verhoging van het eigen risico niet steunen.",
+          "speaker": "Julian Bushoff (MP, then GroenLinks-PvdA), as quoted by NOS",
+          "date": "2026-04-15",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "In recent weeks, months and years PRO has either made proposals of its own or supported proposals from the SP or DENK, most recently too, to freeze or even lower the deductible.",
+          "text_nl": "PRO heeft in de afgelopen weken, maanden, jaren ofwel voorstellen van eigen hand gedaan ofwel voorstellen van de zijde van de SP of DENK gesteund, recentelijk nog, om het eigen risico te bevriezen of zelfs te verlagen.",
+          "speaker": "Julian Bushoff (PRO MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s10",
+        "s6",
+        "s9",
+        "s8"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Opposition. The 2025 manifesto pledges to abolish the deductible entirely without a premium increase, put dental care back in the basic package, take acute care out of market competition, keep regional hospitals and add nursing home places. PVV voted against postponing the deductible bill, for the motion against a district nursing co-payment and supported the request to vote on a freeze.",
+      "salience": "high",
+      "salience_basis": "Separate healthcare chapter in the 2025 manifesto with abolition of the deductible as first bullet; iamexpat/Telegraaf describe the earlier plan to halve the deductible as pushed by PVV; active in the 2026 debates and votes.",
+      "quotes": [
+        {
+          "text_en": "That is why we are abolishing the deductible completely, so that nobody avoids care because of money worries.",
+          "text_nl": "Daarom schaffen wij het eigen risico volledig af, zodat niemand zorg mijdt door geldzorgen.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s37"
+        },
+        {
+          "text_en": "The deductible is not a car or home contents insurance for damage to your property, but a fine on being ill.",
+          "text_nl": "Het eigen risico is geen auto- of inboedelverzekering voor schade aan je bezit, maar een boete op ziek zijn.",
+          "speaker": "Vicky Maeijer (PVV MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s37",
+        "s9",
+        "s6",
+        "s8",
+        "s29"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Governing party. CDA supports indexing the deductible and the further increase; its leader said in April 2026 that failing to pass it would leave a hole in the budget. In the budget debate its MP called indexation a good and necessary step and said sharper choices are needed because the premium still rises steeply. Long-term care minister Mirjam Sterk is listed with Hermans on the health budget announcement. CDA voted against freezing the deductible.",
+      "salience": "high",
+      "salience_basis": "Coalition party that co-signed the care chapter; party leader commented publicly on the deductible in April 2026; spoke in the October 2026 budget debate. The CDA website could not be opened to check manifesto prominence.",
+      "quotes": [
+        {
+          "text_en": "It is important that we get this done, because otherwise there is a hole in the budget.",
+          "text_nl": "Het is belangrijk dat we dit voor elkaar krijgen, want anders is er een gat in de begroting",
+          "speaker": "Henri Bontenbal (CDA leader), as quoted by NOS",
+          "date": "2026-04-15",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "In next year's budget the most important step is indexing the deductible. That is a good and necessary step, because it dampens the rise of the health insurance premium by €13, as it turns out.",
+          "text_nl": "In de begroting van komend jaar is de belangrijkste stap het indexeren van het eigen risico. Dat is een goede en noodzakelijke stap, omdat het de stijging van de zorgpremie met €13 dempt, zo blijkt.",
+          "speaker": "Poortman (CDA MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s10",
+        "s9",
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Opposition. NOS reported in April 2026 that JA21 was the only party besides the coalition in favour of raising the deductible. In June JA21 and SGP had the House postpone the bill until after the summer to examine its effects. In the October budget debate its MP said JA21 does not stand for higher burdens and disputed that a higher deductible lowers the premium by much. The party wants to keep regional hospitals, more ministerial control over the system and a fairer balance of power between insurers and providers. JA21 voted against the request to vote on a freeze.",
+      "salience": "medium",
+      "salience_basis": "Party website has a 'Volksgezondheid en zorg' position page with ten bullet points; co-sponsored the 23 June 2026 postponement motion; its votes bring the coalition to 75 House seats on this issue according to NOS.",
+      "quotes": [
+        {
+          "text_en": "Mr Vervuurt knows that JA21 does not stand for increasing burdens.",
+          "text_nl": "De heer Vervuurt weet dat JA21 niet staat voor lastenverzwaring.",
+          "speaker": "Ingrid Coenradie (JA21 MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        },
+        {
+          "text_en": "Accessible hospital care in the region and keeping strong regional hospitals.",
+          "text_nl": "Bereikbare ziekenhuiszorg in de regio en sterke streekziekenhuizen behouden.",
+          "speaker": "JA21 website, 'Volksgezondheid en zorg'",
+          "date": "2026",
+          "source_id": "s38"
+        }
+      ],
+      "source_ids": [
+        "s10",
+        "s6",
+        "s9",
+        "s38",
+        "s8"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "Opposition group that split from the PVV. In the budget debate its MP listed the measures facing chronically ill people and asked for a 'cumulation test' showing what example households pay extra in 2027-2029, saying the group does not say no in advance. On 23 June 2026 the group voted for postponing the deductible bill and for the motion against a district nursing co-payment, and against a DENK motion to lower financial thresholds in care.",
+      "salience": "medium",
+      "salience_basis": "Spoke in the 14 October 2026 health budget debate and voted on the June 2026 motions; no party programme of the group was found.",
+      "quotes": [
+        {
+          "text_en": "We do not say no in advance, but we want to see the total.",
+          "text_nl": "We zeggen niet bij voorbaat nee, maar we willen het totaal zien.",
+          "speaker": "René Claassen (Groep Markuszower MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s9",
+        "s6"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Opposition. FVD wants the deductible lowered to €200, lower premiums, physiotherapy, contraception and dental care back in the basic package, free choice of doctor, fewer care indicators and higher pay for care workers, and says it will never agree to income-dependent premiums. It says care is increasingly dominated by insurers and bureaucracy. FVD voted for the motion against a district nursing co-payment and for postponing the deductible bill.",
+      "salience": "medium",
+      "salience_basis": "Dedicated 'Zorg' position page with three headline pledges; voted on the June 2026 motions; its MP filed a motion on preventive health checks.",
+      "quotes": [
+        {
+          "text_en": "We lower the deductible to €200, so that care becomes affordable for everyone again.",
+          "text_nl": "We verlagen het eigen risico naar €200, zodat zorg weer betaalbaar wordt voor iedereen.",
+          "speaker": "FVD website, 'Zorg'",
+          "date": "2026",
+          "source_id": "s39"
+        }
+      ],
+      "source_ids": [
+        "s39",
+        "s6"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "Opposition. ChristenUnie says the deductible must not rise further and wants lower financial thresholds for people with chronic illness. It supports the €150 cap per treatment but not its link to an increase, and criticises abolishing the tax deduction for specific care costs. It voted for postponing the bill in June and supported the SP request to vote on a freeze in October.",
+      "salience": "medium",
+      "salience_basis": "Position page on care on the party website; party leader Bikker spoke in the health budget debate and was quoted by NOS in April 2026.",
+      "quotes": [
+        {
+          "text_en": "the hot potato of the deductible has been pushed ahead, but our aim is still that the increase must be taken off the table.",
+          "text_nl": "de hete aardappel rond het eigen risico is vooruitgeschoven, maar onze inzet is wel nog steeds dat die verhoging van tafel moet.",
+          "speaker": "Mirjam Bikker (ChristenUnie leader)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        },
+        {
+          "text_en": "But I do not want that measure to be tied to the increase of the deductible; we are against that.",
+          "text_nl": "Maar ik wil niet dat die maatregel wordt verbonden met de verhoging van het eigen risico, daar zijn we tegen",
+          "speaker": "Mirjam Bikker, as quoted by NOS",
+          "date": "2026-04-15",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s40",
+        "s9",
+        "s10",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Opposition. SP opposes any increase of the deductible, tabled the motion to freeze it at €385 for 2027 and, according to DENK in the House, a March 2026 motion to abolish it and make the premium income-dependent. It voted against postponing the bill, saying the effects are already known. In the written report SP said the measure raises the threshold for medically necessary care.",
+      "salience": "core",
+      "salience_basis": "Initiated the October 2026 freeze motion and tried twice to obtain an interpellation debate on it; multiple motions and voting statements on the deductible in 2026; lead critic in the budget debate. The SP website could not be opened.",
+      "quotes": [
+        {
+          "text_en": "€10 billion in cuts, deductible up, co-payment in district nursing, co-payment in youth care",
+          "text_nl": "10 miljard euro bezuinigingen, eigen risico omhoog, eigen bijdrage in de wijkverpleging, eigen bijdrage in de jeugdzorg",
+          "speaker": "Sarah Dobbe (SP MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8",
+        "s9",
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Opposition. In the written report on the deductible bill the PvdD group said it cannot support the bill because a higher deductible raises the financial threshold for necessary care and hits the most vulnerable hardest. It voted against postponing the bill, for the motion against a district nursing co-payment, and supported the request to vote on a freeze.",
+      "salience": "medium",
+      "salience_basis": "Written contribution to bill 36 943 and consistent votes in June and October 2026; co-signed a March 2026 abolition motion according to DENK. The party website could not be opened.",
+      "quotes": [
+        {
+          "text_en": "The members of the PvdD group cannot support the bill.",
+          "text_nl": "De leden van de PvdD-fractie kunnen het wetsvoorstel niet steunen.",
+          "speaker": "PvdD parliamentary group, written report on bill 36 943",
+          "date": "2026-06-19",
+          "source_id": "s5"
+        }
+      ],
+      "source_ids": [
+        "s5",
+        "s6",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "Opposition. The party's stated position is to freeze the deductible at €385 during this cabinet period. SGP co-sponsored the motion to postpone the bill, voted against the motion rejecting a district nursing co-payment, and supported the SP request to vote on a freeze. In the budget debate its MP said the sustainability of care is under pressure but asked that vulnerable groups not face a disproportionate accumulation of costs.",
+      "salience": "medium",
+      "salience_basis": "Separate 'Eigen risico' and 'Zorg' position pages; co-sponsor of the June 2026 postponement motion; spoke in the budget debate.",
+      "quotes": [
+        {
+          "text_en": "The SGP freezes the deductible at 385 euros for the coming cabinet period.",
+          "text_nl": "De SGP bevriest het eigen risico de komende kabinetsperiode op 385 euro.",
+          "speaker": "SGP website, 'Eigen risico'",
+          "date": "2026",
+          "source_id": "s41"
+        },
+        {
+          "text_en": "The SGP also sees that the sustainability of care is under pressure. Something has to be done about that. But I ask for attention to vulnerable groups.",
+          "text_nl": "De SGP ziet ook dat de houdbaarheid van de zorg onder druk staat. Daar moet wat aan gebeuren. Maar ik vraag daarbij aandacht voor kwetsbare groepen.",
+          "speaker": "Diederik van Dijk (SGP MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s41",
+        "s6",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "Opposition; NOS noted BBB holds eleven Senate seats. BBB opposes a higher deductible, arguing it leads to postponed care and higher costs. It voted for the motion against a district nursing co-payment and supported the request to vote on a freeze, and also voted for postponing the bill in June. In the budget debate its MP raised regional differences in dentist numbers.",
+      "salience": "medium",
+      "salience_basis": "Quoted by NOS as firmly opposed in April 2026; spoke on the deductible in the October 2026 budget debate. The BBB website could not be opened.",
+      "quotes": [
+        {
+          "text_en": "In a country as rich as the Netherlands we surely should not punish people because they fall ill?",
+          "text_nl": "In een land zo rijk als Nederland zouden we mensen toch niet moeten straffen omdat ze ziek worden?",
+          "speaker": "Femke Wiersma (BBB MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        },
+        {
+          "text_en": "You should not put up thresholds for people to use care",
+          "text_nl": "Je moet geen drempels opwerpen voor mensen om zorg te gebruiken",
+          "speaker": "Femke Wiersma, as quoted by NOS",
+          "date": "2026-04-15",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s10",
+        "s9",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Opposition. DENK wants to abolish the deductible completely and lower the premium, and says the system should centre on people rather than insurers' revenue model. Its MP filed motions in June 2026 on lowering financial thresholds in care and against accumulating costs for chronically ill people; these were rejected. DENK supported the request to vote on a freeze.",
+      "salience": "high",
+      "salience_basis": "Abolishing the deductible is point 1 of the party's health positions; five DENK motions on care costs were voted on 23 June 2026.",
+      "quotes": [
+        {
+          "text_en": "DENK wants to abolish it completely and lower the health insurance premium.",
+          "text_nl": "DENK wil het volledig afschaffen en de zorgpremie verlagen.",
+          "speaker": "DENK website, 'Gezondheid'",
+          "date": "2026",
+          "source_id": "s42"
+        }
+      ],
+      "source_ids": [
+        "s42",
+        "s6",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "Opposition. 50PLUS filed the motion against a co-payment for district nursing (rejected 23 June 2026) and its MP called that co-payment very unwise in the budget debate. It voted against postponing the deductible bill and supported the request to vote on a freeze.",
+      "salience": "high",
+      "salience_basis": "Own motion on district nursing in June 2026; long contribution on elderly care and care costs in the October 2026 budget debate.",
+      "quotes": [
+        {
+          "text_en": "Not next year but after that they want to introduce a co-payment. That is extremely unwise.",
+          "text_nl": "Nog niet komend jaar maar daarna willen zij een eigen bijdrage invoeren. Dat is buitengewoon onverstandig.",
+          "speaker": "Corrie van Brenk (50PLUS MP)",
+          "date": "2026-10-14",
+          "source_id": "s9"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s9",
+        "s8"
+      ]
+    },
+    {
+      "party": "Lid Keijzer",
+      "position": "In the budget debate Mona Keijzer questioned the assumption in CPB models that a lower deductible leads to more care use, pointing to staff shortages and hospital budget ceilings.",
+      "salience": "low",
+      "salience_basis": "Interventions in one debate (14 October 2026); no other activity found.",
+      "quotes": [],
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Volt voted against postponing the deductible bill and against the motion rejecting a district nursing co-payment on 23 June 2026.",
+      "salience": "low",
+      "salience_basis": "Only voting record found; no statements on this issue located.",
+      "quotes": [],
+      "source_ids": [
+        "s6"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "From 1 January 2027 adults pay the first €400 (was €385) of most care in the basic package themselves. GP visits, the out-of-hours GP service, midwifery and maternity care and district nursing do not count towards the deductible. With the maximum voluntary deductible of €500 the total is €900.",
+      "source_ids": [
+        "s30",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Every basic policy analysed became more expensive for 2027; the average is €173.13 a month, and the gap between the cheapest (€148.40) and most expensive (€202.50) policy is €649 a year. The basic package is the same at every insurer; differences concern, among other things, free choice of provider.",
+      "source_ids": [
+        "s24",
+        "s25"
+      ]
+    },
+    {
+      "applies_to": [
+        "income_low",
+        "on_benefits"
+      ],
+      "text": "The maximum healthcare allowance for a single person is expected to rise to about €140 a month in 2027; the government says this largely compensates the premium increase. According to a comparison site citing the budget, the asset limit for the allowance falls to €119,122 for singles and €158,748 for partners.",
+      "source_ids": [
+        "s2",
+        "s26",
+        "s27"
+      ]
+    },
+    {
+      "applies_to": [
+        "income_low"
+      ],
+      "text": "NOS reported from the CPB assessment of the coalition agreement that the planned deductible increase affects people on lower incomes more than those on higher incomes. In a Nivel survey, people with a net household income below €2,300 a month more often expected the deductible to be an obstacle to necessary care.",
+      "source_ids": [
+        "s12",
+        "s22"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Pending proposal (cabinet): a further €60 increase of the deductible on 1 January 2028, and from 2028 a maximum of €150 of the deductible per treatment in specialist medical care. The increase requires a change in the law for which the coalition had no majority as of the sources consulted.",
+      "source_ids": [
+        "s1",
+        "s10"
+      ]
+    },
+    {
+      "applies_to": [
+        "retired"
+      ],
+      "text": "Pending proposals (cabinet): a co-payment for district nursing, booked in the budget from 2029, and domestic help no longer offered as a tailored municipal provision from 2029, with municipalities continuing to provide for people who cannot arrange help themselves. On 1 April 2026, 17,538 people were waiting for a nursing home place, 94% of them with interim care.",
+      "source_ids": [
+        "s1",
+        "s16"
+      ]
+    },
+    {
+      "applies_to": [
+        "retired",
+        "self_employed"
+      ],
+      "text": "The income-related health insurance contribution paid directly by pensioners and the self-employed rises from 4.85% to 5.02% in 2027, according to a comparison site citing the health budget; the budget itself gives the employer rate of 6.27%, up 0.17 percentage point.",
+      "source_ids": [
+        "s27",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "The employer-paid income-related contribution for the Health Insurance Act is 6.27% in 2027, 0.17 percentage point more than in 2026. The budget puts employers' share of care costs at €29.7 billion in 2027.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "The cap on patient co-payments for medicines stays at €250 a year in 2027. The coalition plans to remove selected medicines from the basic package from 2028.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent"
+      ],
+      "text": "Children must be insured but the deductible applies only from age 18. The cabinet plans a co-payment in youth care and to stop collectively funding light parenting support (proposals from the coalition agreement and 2027 budget).",
+      "source_ids": [
+        "s30",
+        "s31",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "eu_citizen",
+        "non_eu_resident",
+        "expat_ruling"
+      ],
+      "text": "Basic health insurance is compulsory for anyone who lives or works in the Netherlands, and insurers must accept every applicant for the basic policy at the same premium regardless of age or health.",
+      "source_ids": [
+        "s31"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "eigen risico",
+    "zorgpremie",
+    "zorgtoeslag",
+    "zorgverzekeringswet",
+    "basispakket",
+    "wachtlijsten ggz",
+    "huisartsentekort",
+    "verpleeghuiszorg",
+    "wet langdurige zorg",
+    "wijkverpleging",
+    "integraal zorgakkoord",
+    "aanvullend zorg- en welzijnsakkoord",
+    "geneesmiddelentekorten",
+    "personeelstekort zorg",
+    "passende zorg"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2027 - Memorie van toelichting (Kamerstuk 37020-XVI, nr. 2)",
+      "publisher": "Tweede Kamer / Ministerie van VWS",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-37020-XVI-2.html",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s2",
+      "title": "Kabinet zet in op gezondheid en op zorg die klaar is voor de toekomst",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/kabinet-zet-in-op-gezondheid-en-op-zorg-die-klaar-is-voor-de-toekomst",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s3",
+      "title": "Regeerakkoord 'Aan de slag. Bouwen aan een beter Nederland' - Een gezonde samenleving",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord/nederland-werkt/een-gezonde-samenleving",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s4",
+      "title": "Wijziging van de Zorgverzekeringswet teneinde het verplicht eigen risico voor de zorgverzekering per 2027 te verhogen - Memorie van toelichting (Kamerstuk 36943, nr. 3)",
+      "publisher": "Tweede Kamer / Ministerie van VWS",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36943-3.pdf",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "Wijziging van de Zorgverzekeringswet (verhoging verplicht eigen risico per 2027) - Nota naar aanleiding van het verslag (Kamerstuk 36943, nr. 6)",
+      "publisher": "Tweede Kamer / Ministerie van VWS",
+      "url": "https://zoek.officielebekendmakingen.nl/dossier/kst-36943-6.pdf",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "s6",
+      "title": "Stemmingen moties Zorgverzekeringsstelsel (inclusief pakketbeheer), 23 juni 2026",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D44379",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "s7",
+      "title": "Motie van het lid Beckerman over het eigen risico in 2027 bevriezen op 385 euro (Kamerstuk 37020-IX, nr. 35)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D47891",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "s8",
+      "title": "Plenair verslag Tweede Kamer, 9e vergadering, 1 oktober 2026",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/9",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "s9",
+      "title": "Plenair verslag Tweede Kamer, 14e vergadering, 14 oktober 2026 (Begroting Volksgezondheid, Welzijn en Sport 2027)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/14",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "s10",
+      "title": "Kabinet wil eigen risico verhogen naar 455 euro, maar heeft geen steun",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2610606",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s11",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s12",
+      "title": "Doorrekening kabinetsplannen: lagere inkomens harder geraakt, NAVO-norm wel gehaald",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2603256",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "s13",
+      "title": "Honderdduizenden mensen op zoek naar huisarts, zegt Algemene Rekenkamer",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2562067",
+      "date": "2025-04-02"
+    },
+    {
+      "id": "s14",
+      "title": "Middellangetermijnraming zorg 2027-2033",
+      "publisher": "CPB",
+      "url": "https://www.cpb.nl/sites/default/files/omnidownload/CPB-Publicatie-Middellangetermijnraming-zorg-2027-2033.pdf",
+      "date": "2025-02"
+    },
+    {
+      "id": "s15",
+      "title": "Nieuwe berekening laat zien: zorgakkoorden kunnen personeelstekort flink verminderen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/12/19/nieuwe-berekening-laat-zien-zorgakkoorden-kunnen-personeelstekort-flink-verminderen",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "s16",
+      "title": "Landelijke rapportage wachtlijsten verpleegzorg (Wlz), eerste kwartaal 2026",
+      "publisher": "Zorgverzekeraars Nederland / Zorginstituut Nederland",
+      "url": "https://www.zn.nl/app/uploads/2026/07/Rapport-Wachtlijsten-Verpleeghuiszorg-Q1-2026.pdf",
+      "date": "2026-07"
+    },
+    {
+      "id": "s17",
+      "title": "Aantal wachtplekken basis en specialistische GGZ",
+      "publisher": "RIVM",
+      "url": "https://www.rivm.nl/mentale-gezondheid/monitor/gevolgen-mentale-ongezondheid/wachtplekken_GGZ",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Dossier Geneesmiddelentekorten",
+      "publisher": "KNMP",
+      "url": "https://www.knmp.nl/dossiers/geneesmiddelentekorten",
+      "date": null
+    },
+    {
+      "id": "s19",
+      "title": "Aanvullend Zorg- en Welzijnsakkoord ondertekend",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/09/08/aanvullend-zorg--en-welzijnsakkoord-ondertekend",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "s20",
+      "title": "Ouderenzorgakkoord ondertekend: zorg beschikbaar nu en in de toekomst",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport/nieuws/2025/07/10/ouderenzorgakkoord-ondertekend-zorg-beschikbaar-nu-en-in-de-toekomst",
+      "date": "2025-07-10"
+    },
+    {
+      "id": "s21",
+      "title": "Het Integraal Zorgakkoord - samen werken aan gezonde zorg",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/kwaliteit-van-de-zorg/integraal-zorgakkoord",
+      "date": null
+    },
+    {
+      "id": "s22",
+      "title": "Hoe kijken verzekerden naar een mogelijk verhoogd eigen risico?",
+      "publisher": "Nivel",
+      "url": "https://www.nivel.nl/sites/default/files/bestanden/13403.pdf",
+      "date": "2026-05"
+    },
+    {
+      "id": "s23",
+      "title": "Eerste zorgpremie voor 2027 bekend",
+      "publisher": "Consumentenbond",
+      "url": "https://www.consumentenbond.nl/zorgverzekering/eerste-zorgpremie-voor-2027-bekend",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "s24",
+      "title": "Zorgpremies 2027 bekend: alle polissen duurder, premiekloof stijgt naar € 649,- per jaar",
+      "publisher": "Overstappen.nl",
+      "url": "https://www.overstappen.nl/nieuws/zorgpremies-2027-bekend-alle-polissen-duurder-premiekloof-stijgt-naar-649-euro-per-jaar/",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s25",
+      "title": "Zorgpremies 2027 bekend: grootste stijging in jaren",
+      "publisher": "Keuze.nl",
+      "url": "https://www.keuze.nl/nieuws/zorgpremies-2027-bekend",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s26",
+      "title": "Eigen risico definitief naar € 400: dit ligt nu vast voor 2027 (en dit nog niet)",
+      "publisher": "Zorgwijzer",
+      "url": "https://www.zorgwijzer.nl/zorgverzekering-2027/eigen-risico-definitief-naar-e-400-dit-ligt-nu-vast-voor-2027-en-dit-nog-niet",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "s27",
+      "title": "Miljoenennota 2027: zorgpremie hard omhoog, toch stijging eigen risico",
+      "publisher": "Zorgwijzer",
+      "url": "https://www.zorgwijzer.nl/zorgverzekering-2027/miljoenennota-2027-zorgpremie-hard-omhoog-toch-stijging-eigen-risico",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s28",
+      "title": "Eigen risico zorgverzekering stijgt naar € 520 in 2030",
+      "publisher": "Zorgwijzer",
+      "url": "https://www.zorgwijzer.nl/zorgverzekering-2027/eigen-risico-zorgverzekering-stijgt-naar-e-520-in-2030",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "s29",
+      "title": "Plans to cut Dutch healthcare deductible taken off the table",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/plans-cut-dutch-healthcare-deductible-taken-table",
+      "date": "2025-11-06"
+    },
+    {
+      "id": "s30",
+      "title": "Wanneer betaal ik een eigen risico voor mijn zorg?",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/zorgverzekering/vraag-en-antwoord/eigen-risico-zorgverzekering",
+      "date": null
+    },
+    {
+      "id": "s31",
+      "title": "Hoe is de zorgverzekering in Nederland geregeld?",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/zorgverzekering/zorgverzekeringsstelsel-in-nederland",
+      "date": null
+    },
+    {
+      "id": "s32",
+      "title": "Rechtszaak om wachtlijsten GGZ: Consumentenbond en huisartsen eisen harde hand zorgtoezichthouder",
+      "publisher": "Consumentenbond",
+      "url": "https://www.consumentenbond.nl/nieuws/2026/rechtszaak-om-wachtlijsten-ggz-consumentenbond-en-huisartsen-eisen-harde-hand-zorgtoezichthouder",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "s33",
+      "title": "Kiezen voor houdbare zorg. Mensen, middelen en maatschappelijk draagvlak",
+      "publisher": "WRR",
+      "url": "https://www.wrr.nl/publicaties/rapporten/2021/09/15/kiezen-voor-houdbare-zorg",
+      "date": "2021-09-15"
+    },
+    {
+      "id": "s34",
+      "title": "Prinsjesdag: Zorg - Meer geld voor de gezondheid van mensen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/overheid-en-democratie/prinsjesdag/zorg",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s35",
+      "title": "Standpunt Zorg en gezondheid",
+      "publisher": "D66",
+      "url": "https://d66.nl/standpunten/zorg-en-gezondheid/",
+      "date": null
+    },
+    {
+      "id": "s36",
+      "title": "Pijler Zorg en gezondheid",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/pijlers/zorg-en-gezondheid/",
+      "date": null
+    },
+    {
+      "id": "s37",
+      "title": "Verkiezingsprogramma PVV 2025: Dit is uw land",
+      "publisher": "PVV",
+      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s38",
+      "title": "Standpunt Volksgezondheid en zorg",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/standenpunten/standpunt/volksgezondheid-en-zorg",
+      "date": null
+    },
+    {
+      "id": "s39",
+      "title": "Standpunt Zorg",
+      "publisher": "Forum voor Democratie",
+      "url": "https://fvd.nl/standpunten/zorg",
+      "date": null
+    },
+    {
+      "id": "s40",
+      "title": "Standpunt Zorg",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/standpunt/zorg",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "Standpunt Eigen risico",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/standpunten/eigen-risico",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "Standpunten: Gezondheid",
+      "publisher": "DENK",
+      "url": "https://denk.nl/standpunten/gezondheid/",
+      "date": null
+    }
+  ]
+}
