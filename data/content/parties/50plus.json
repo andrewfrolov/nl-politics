@@ -1,0 +1,163 @@
+{
+  "abbr": "50PLUS",
+  "slug": "50plus",
+  "name_nl": "50PLUS",
+  "name_en": "50PLUS (party focused on the interests of people over 50)",
+  "founded": "2009",
+  "updated": "2026-11-25",
+  "seats_house": 2,
+  "seats_senate": 1,
+  "seats_house_2025_election": 2,
+  "seats_house_2023_election": 0,
+  "in_coalition": false,
+  "party_leader": "Jan Struijs",
+  "house_group_leader": "Jan Struijs",
+  "senate_group_leader": "Martin van Rooijen",
+  "website": "https://www.50pluspartij.nl",
+  "described_as": [
+    {
+      "text": "Parlement.com, a Dutch parliamentary reference site, describes 50PLUS as a non-ideological, broad people's party focused on the interests of people over 50, building on individual freedom, social justice and social responsibility and aiming to work across generations.",
+      "source_ids": ["s4"]
+    },
+    {
+      "text": "The party's 2025 manifesto opens with 'Wij doen mee. 50PLUS is er voor iedereen, jong en oud.' (We take part. 50PLUS is there for everyone, young and old.) and says the party pays particular attention to the interests of people in the phase of life from age 50. It ends its list of core points with the line '50PLUS verbindt generaties' (50PLUS connects generations).",
+      "source_ids": ["s6"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2009",
+      "event": "According to the Documentation Centre for Dutch Political Parties (DNPP), the party originates in the Onafhankelijke Ouderen en Kinderen Unie (OokU), founded in 2009 by among others Jan Nagel and Kees de Lange, which took the name 50PLUS in November 2010. Parlement.com gives 5 November 2011 as the founding date of 50PLUS.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2012",
+      "event": "50PLUS enters the House of Representatives with two seats under lead candidate Henk Krol.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2017",
+      "event": "The party wins four House seats (3.1%), its highest result.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2020-05",
+      "event": "House group leader Henk Krol leaves the party after internal disputes; Corrie van Brenk succeeds him as group leader.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2021",
+      "event": "In the March 2021 election the party falls from four seats to one (1.0%). In May 2021 its only House member, Liane den Haan, leaves the party and keeps her seat, leaving 50PLUS without House representation. Martin van Rooijen is appointed political leader on 17 June 2021.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2023",
+      "event": "The party holds one Senate seat after the 2023 Senate election (two after 2015 and 2019). A party congress on 30 September 2023 is disrupted and, according to Parlement.com, required police involvement; it resumes online and elects Gerard van Hooft as lead candidate. In the House election of 22 November 2023 the party wins 0.5% and no seats.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2025-08",
+      "event": "Jan Struijs, former chair of the Dutch Police Union (Nederlandse Politiebond), becomes political leader and lead candidate.",
+      "source_ids": ["s4", "s7"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "House election: 50PLUS wins two seats (1.4%). Jan Struijs and Corrie van Brenk are installed on 12 November 2025, ending the party's absence from the House since May 2021.",
+      "source_ids": ["s4", "s7"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Wij doen mee — Verkiezingsprogramma 2025-2029",
+    "url": "https://dnpprepo.ub.rug.nl/88767/7/50PLUS%20Verkiezingsprogramma%202025-2029.pdf",
+    "key_points": [
+      {
+        "topic": "State pension (AOW)",
+        "text": "The first core point reads 'Handen af van de AOW' (hands off the state pension). The AOW stays linked to the statutory minimum wage; pensioners pay no AOW premium; a thirteenth month for AOW recipients; the AOW age stays the same during the coming cabinet period; an early 'AOW-light' benefit for people with physically heavy jobs or a working history of 40 years or more.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Supplementary pensions",
+        "text": "Amend the Wet toekomst pensioenen (the law introducing the new pension system): write purchasing-power improvement into the pension law, give participants and pensioners a say in the transition, keep the right to catch-up indexation, and give pensioners an opt-out choice between a fixed and a variable benefit.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Taxes",
+        "text": "Abolish gift and inheritance tax; no taxes aimed specifically at older people; full inflation correction in income tax; base the new box 3 system (the tax on savings and investments) on actual returns with a capital gains tax rather than a tax on unrealised growth; bring back the Wet Hillen (the tax benefit for homeowners who have paid off their mortgage); healthy food in the low VAT rate and unhealthy products in the high rate.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Build more for older people so that existing homes become available for others: realise the target of 290,000 homes for seniors, promote multi-generation homes and small courtyard-style housing, and re-establish a Ministry for Volkshuisvesting (public housing).",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Healthcare and elderly care",
+        "text": "An Ouderenzorgwet (elderly care act) giving older people rights comparable to those of young people under youth care law; quickly available emergency care; better facilities and leave arrangements for informal carers; tackling healthcare fraud. The manifesto states that euthanasia is legally permitted in cases of unbearable and hopeless suffering.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Safety and digital access",
+        "text": "More visible police on the street; protection against fraud and scams; cash remains valid tender everywhere; government services offer a paper alternative to older and disabled people who have difficulty with digital forms.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Migration",
+        "text": "The manifesto says 50PLUS chooses 'a strict migration policy'. It wants the Refugee Convention amended together with a coalition of like-minded European countries, no right to asylum for economic refugees or people from safe countries, the inflow limited to an agreed maximum, and reception in the region as the rule. Employers share responsibility for labour migration and universities for student migration.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Climate and economy",
+        "text": "The same rules for everyone within Europe: no national CO2 levies and no extra rules on top of European agreements; CO2 pricing at European level and a phase-out of national climate policy once European pricing has been scaled up; Dutch agricultural policy no stricter than that of neighbouring countries.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Defence",
+        "text": "The manifesto calls NATO the cornerstone of Dutch security policy. It wants defence spending raised in line with NATO agreements, a stronger national defence industry and a modernised general social service duty for defence, care, climate projects or civil security.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Transport",
+        "text": "Public transport reachable and affordable for everyone; where there is no public transport, other solutions are facilitated.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Public finances and media",
+        "text": "A review of all government spending by a team of civil servants and entrepreneurs; a cautious development of the budget deficit within European budget rules; a smaller public broadcaster with fewer broadcasting associations.",
+        "source_ids": ["s6"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "event": "DNPP reports 1,935 party members on 1 January 2026.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-03-18",
+      "event": "Municipal elections: according to Parlement.com, 50PLUS takes part in 33 municipalities and wins seats in, among others, Almelo, Haarlemmermeer and Rheden, where it stood for the first time.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The House group consists of Jan Struijs (leader) and Corrie van Brenk. The party holds one of the 75 Senate seats, held by Martin van Rooijen. No leadership changes in 2026 were found in the sources consulted.",
+      "source_ids": ["s1", "s2", "s3", "s4"]
+    }
+  ],
+  "key_people": [
+    {"name": "Jan Struijs", "role": "Political leader (since August 2025) and House group leader (since 30 October 2025)"},
+    {"name": "Corrie van Brenk", "role": "House member; House group leader in 2020-2021"},
+    {"name": "Martin van Rooijen", "role": "Senator and Senate group leader"},
+    {"name": "Willem Dekker", "role": "Party chair since 30 March 2024"},
+    {"name": "Henk Krol", "role": "Former lead candidate and House group leader; left the party in 2020"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s2", "title": "50PLUS (fractie)", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/50plus", "date": null},
+    {"id": "s3", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s4", "title": "50PLUS", "publisher": "Parlement.com", "url": "https://parlement.com/partij/50plus", "date": null},
+    {"id": "s5", "title": "50PLUS", "publisher": "Documentatiecentrum Nederlandse Politieke Partijen (University of Groningen)", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/50plus", "date": "2026-03-06"},
+    {"id": "s6", "title": "Verkiezingsprogramma 2025-2029", "publisher": "50PLUS (archived by DNPP, University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88767/7/50PLUS%20Verkiezingsprogramma%202025-2029.pdf", "date": "2025"},
+    {"id": "s7", "title": "50PLUS en Tweede Kamerverkiezingen 2025", "publisher": "Parlement.com", "url": "https://parlement.com/50plus-en-tweede-kamerverkiezingen-2025", "date": null}
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "abbr": "Groep Markuszower",
+  "slug": "groep-markuszower",
+  "name_nl": "Groep Markuszower",
+  "name_en": "Markuszower Group",
+  "founded": "2026",
+  "updated": "2026-11-25",
+  "seats_house": 7,
+  "seats_senate": 0,
+  "seats_house_2025_election": 0,
+  "seats_house_2023_election": 0,
+  "in_coalition": false,
+  "party_leader": null,
+  "house_group_leader": "Gidi Markuszower",
+  "senate_group_leader": null,
+  "website": "https://www.denederlandsealliantie.nl/",
+  "described_as": [
+    {
+      "text": "Parlement.com describes the Groep Markuszower as a group in the House of Representatives that came into being on 20 January 2026, when seven members led by Gidi Markuszower left the PVV parliamentary group. The group did not take part in any election under its own name: its seven members were elected on 29 October 2025 on the PVV list and kept their seats.",
+      "source_ids": ["s1", "s2"]
+    },
+    {
+      "text": "On 17 April 2026 the group founded a political party, De Nederlandse Alliantie (DNA, 'The Dutch Alliance'). The party's own press page describes it as 'a political movement for a resilient, prosperous and self-aware Netherlands' (Dutch: 'een politieke beweging voor een weerbaar, welvarend en zelfbewust Nederland') that stands for lower taxes and charges, order and security, control of migration and preservation of Dutch culture and the rule of law, and says it is represented in the House by the Groep Markuszower.",
+      "source_ids": ["s3", "s4"]
+    },
+    {
+      "text": "Parlement.com describes De Nederlandse Alliantie as a right-wing conservative party ('rechts-conservatieve politieke partij'). The English-language news site DutchNews.nl calls it a 'far-right party'.",
+      "source_ids": ["s3", "s5"]
+    },
+    {
+      "text": "In the House the seven are formally a 'groep' (group), not a 'fractie' (parliamentary party). The House's Rules of Procedure treat members who split off from a parliamentary party as a group. On tweedekamer.nl the group is listed on 25 November 2026 as 'Groep Markuszower' with 7 seats.",
+      "source_ids": ["s6", "s7", "s8"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2025-10-29",
+      "event": "In the House election the PVV won 26 seats, down from 37. The seven later members of the Groep Markuszower were elected on the PVV list; Shanna Schilder was number 3 on the list, Annelotte Lammers number 4, René Claassen number 7, Nicole Moinat number 17 and Tamara ten Hove number 20.",
+      "source_ids": ["s9", "s10"]
+    },
+    {
+      "date": "2026-01-16",
+      "event": "The domain name nederlandsevrijheidsalliantie.nl was registered by PVV MP Hidde Heutink, four days before the split. NOS reported this on the basis of a disclosure by journalist Chris Aalberts and wrote that the group's leadership confirmed the name.",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Seven of the 26 PVV MPs left the PVV parliamentary group after a group meeting in which they criticised the course of party leader Geert Wilders: Gidi Markuszower, Hidde Heutink, Shanna Schilder, Annelotte Lammers, René Claassen, Nicole Moinat and Tamara ten Hove. They continued as the Groep Markuszower, with Markuszower as chair and Heutink as vice-chair. The PVV group shrank from 26 to 19 seats.",
+      "source_ids": ["s1", "s2", "s10", "s11"]
+    },
+    {
+      "date": "2026-01-22",
+      "event": "Markuszower was received by informateur (coalition-talks mediator) Rianne Letschert during the formation of the D66-CDA-VVD minority cabinet. Parlement.com noted that the group's seven House seats could matter for majorities there, but that it has no senators.",
+      "source_ids": ["s12"]
+    },
+    {
+      "date": "2026-01-29",
+      "event": "The House's executive board decided that the seven may not call themselves a 'fractie'. According to Hart van Nederland/ANP this means less money than a parliamentary party of the same size, less speaking time and fewer rights in day-to-day work, and the group could not adopt the name Nederlandse Vrijheids Alliantie in the House.",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-04-17",
+      "event": "The Groep Markuszower founded the political party De Nederlandse Alliantie (DNA). The party is an association with members; it lists a Chamber of Commerce number and an address in The Hague on its website.",
+      "source_ids": ["s3", "s13", "s14"]
+    },
+    {
+      "date": "2026-06-03",
+      "event": "The Presidium of the House advised the House not to agree to the group's request to be referred to in the House as De Nederlandse Alliantie (DNA), stating that the conditions for a name change were not met; one condition is that it concerns parties that took part in the House election, which 'groups by definition' do not meet.",
+      "source_ids": ["s6"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": null,
+    "url": null,
+    "key_points": [
+      {
+        "topic": "No 2025 manifesto of its own",
+        "text": "The group has no 2025 election manifesto: its members were elected on the PVV list. The website of De Nederlandse Alliantie says a programme for the next House election is 'in preparation' and that it rests on eight points published on its positions page. The points below are the group's and the party's own stated positions since the split in January 2026.",
+        "source_ids": ["s15", "s16"]
+      },
+      {
+        "topic": "Migration and borders",
+        "text": "DNA's positions page says the Netherlands should 'become sovereign again', be 'boss in its own country' and 'decide itself who enters our country and who leaves'. On founding the party, Markuszower said it wants control over immigration and the borders. In May 2026 he wrote on social media that an asylum freeze must be implemented, according to DutchNews.nl.",
+        "source_ids": ["s16", "s13", "s17"]
+      },
+      {
+        "topic": "Culture and identity",
+        "text": "DNA says it wants the country's 'own identity, culture, rule of law and Humanist and Judeo-Christian norms and values' to be leading again, and that cultures and influences from outside that 'threaten' these should be combated. Its 'about us' page states as its aim a society in which the Netherlands 'retains and strengthens its national identity and character' and which is 'primarily organised for the benefit of its own population'.",
+        "source_ids": ["s16", "s14"]
+      },
+      {
+        "topic": "Taxes and cost of living",
+        "text": "The party's home page calls for lower taxes and charges ('lagere lasten') for people who work and run businesses. At the party's founding, Markuszower named lower burdens for citizens as a goal alongside migration control.",
+        "source_ids": ["s18", "s13"]
+      },
+      {
+        "topic": "Business",
+        "text": "DNA says entrepreneurs should get 'room and freedom to do what they do best: doing business'.",
+        "source_ids": ["s16"]
+      },
+      {
+        "topic": "Security and housing",
+        "text": "DNA says security should be a 'core task' of the state, and that every family should be able to build an affordable existence, with good healthcare and enough homes for the next generations.",
+        "source_ids": ["s16"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "DNA says care should be accessible when needed and that the GP, the district nurse and a healthy living environment should matter more than 'the power of health insurers' and the 'volume thinking of hospital administrators'.",
+        "source_ids": ["s16"]
+      },
+      {
+        "topic": "Education",
+        "text": "DNA says schools should teach children to read, write and do arithmetic again, and teach them 'how' to think rather than 'what' to think.",
+        "source_ids": ["s16"]
+      },
+      {
+        "topic": "Cooperation with the minority cabinet",
+        "text": "Unlike PVV leader Wilders, the group says it is willing to talk and strike compromises with the D66-CDA-VVD minority cabinet and other parties. On the day of the split Markuszower said that this is what one should do 'precisely in a situation of a minority coalition'; ANP quoted him shortly afterwards as saying 'Iets is beter dan niets' (something is better than nothing). The group did not support Wilders' motion of no confidence in the Jetten cabinet in February 2026.",
+        "source_ids": ["s11", "s19"]
+      },
+      {
+        "topic": "State pension age (AOW)",
+        "text": "Together with SGP, JA21 and the coalition parties, the group helped a motion on 'softening' coalition plans to raise the state pension (AOW) age faster to a majority, ANP reported on 10 March 2026.",
+        "source_ids": ["s19"]
+      },
+      {
+        "topic": "Party democracy",
+        "text": "DNA is a membership party: its website says the members' meeting helps decide positions and who represents the party, and that the party runs on membership fees and donations. The lack of members and internal democracy in the PVV was one of the group's stated reasons for leaving.",
+        "source_ids": ["s14", "s13", "s2"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-20",
+      "event": "Who left: Gidi Markuszower (MP since 2017, PVV senator 2015-2017, PVV group secretary until 19 January 2026), Hidde Heutink (PVV campaign leader in the 2025 election), Shanna Schilder, Annelotte Lammers, René Claassen, Nicole Moinat and Tamara ten Hove. Markuszower, Claassen and Heutink had sat on the PVV committee that selected candidates for the 2025 election.",
+      "source_ids": ["s10", "s11", "s20", "s21"]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Stated reasons: according to Parlement.com, the seven set out four points in an urgent letter ('brandbrief'). They held Wilders responsible for the 2025 election result and wanted an independent evaluation of the campaign; they wanted more cooperation with other parties, including talks with the parties then forming a cabinet (D66, CDA, VVD); they wanted the PVV to profile itself on more themes than asylum migration and Islam; and they demanded internal democracy, the PVV being the only party without members. NOS, citing a preparatory document, reported that they demanded changes of course taking effect immediately, said it was not good that Wilders was the party's only member, and had also proposed that someone else could become party leader. The document said that posting insulting images about (the symbols of) Islam on X 'does not solve a single problem of the voter'. The seven also praised Wilders for founding the party and for his 'gigantic personal sacrifice'. Markuszower said they had tried to start a discussion 'but that proved not possible'.",
+      "source_ids": ["s2", "s10", "s21"]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "PVV response: Wilders said he was surprised and called it 'a black day for the PVV' ('een zwarte dag voor de PVV'). He said the course had been discussed in recent weeks and that the seven had then agreed. He said a main point of dispute was that the seven wanted the PVV to be more constructive and to seek cooperation with coalition and opposition parties: 'That is not what we plan to do. And I am not in favour of a membership party.' He said the seven did not have a majority in the group, and that he would not sling mud at Markuszower, who 'besides being a colleague was also a friend'. PVV MP Dion Graus called the seven 'matennaaiers' (roughly: people who stab their mates in the back). In a message on X that evening Wilders promised to stay on 'for certainly another ten years', NOS reported.",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Reactions from other parties: VVD leader Yesilgöz said that if the group wanted to cooperate constructively 'that is good news'; D66 leader Jetten said a group that wants to cooperate constructively 'offers opportunities' and that the question was what its course on substance would be; GroenLinks-PvdA leader Klaver said he was 'glad that the right is fragmenting further'. After the split GroenLinks-PvdA (now PRO), with 20 seats, became the largest opposition group.",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2026-02-24",
+      "event": "BBB group leader Henk Vermeer said BBB MP Mona Keijzer had held talks with the Groep Markuszower without consulting her group. Keijzer and Markuszower contradicted his account: they said there had been one conversation and that no concrete proposal for the group to move to BBB was on the table. Vermeer said BBB had discussed exploring cooperation with the seven but never a merger.",
+      "source_ids": ["s22"]
+    },
+    {
+      "date": "2026-03-10",
+      "event": "ANP reported, on the basis of data supplied by the House, that since the split the group and the PVV had voted differently on 147 of 679 motions (more than one in five). The group did not support a PVV motion asking the cabinet to send 'Moroccan scum' back to Morocco; group member Annelotte Lammers called that motion 'misleading and needlessly hurtful'. The group voted against a motion, adopted with the support of the rest of the opposition, stating that the House does not feel bound by the coalition's financial agreements, and against a series of animal-rights motions, including ones from PVV MP Dion Graus.",
+      "source_ids": ["s19"]
+    },
+    {
+      "date": "2026-04-20",
+      "event": "Markuszower announced on the SBS programme Nieuws van de Dag that the group had founded the party De Nederlandse Alliantie (DNA) on Friday 17 April, and that former VVD minister Rita Verdonk had joined and 'coaches and helps the new party'. He had earlier considered the name Nederlandse Vrijheids Alliantie (NVA). Anyone can become a member. The aim is to take part in the next provincial elections. Who will lead the party was still unclear; Markuszower said he did not have that ambition himself. Asked about Mona Keijzer, he said she knows his party is open to working with her.",
+      "source_ids": ["s13", "s23"]
+    },
+    {
+      "date": "2026-05",
+      "event": "DutchNews.nl reported that human-rights group The Rights Forum said it would file a formal complaint against Markuszower after he called, in an interview with online platform Left Laser, for 'maximum force' against Palestinian refugees at the border. The Rights Forum said the comments incited violence against Palestinians as a people. PRO leader Jesse Klaver called for 'total condemnation'. Markuszower responded on social media that an asylum freeze must be implemented and that using force where necessary already happens 'in all civilised countries'. DutchNews.nl also reported criticism of his attendance at a rally outside a planned asylum centre in Loosdrecht.",
+      "source_ids": ["s17"]
+    },
+    {
+      "date": "2026-06-03",
+      "event": "The House Presidium published its advice not to accept the name De Nederlandse Alliantie (DNA) for the group in the House. On 25 November 2026 tweedekamer.nl still lists the group as Groep Markuszower.",
+      "source_ids": ["s6", "s7", "s8"]
+    },
+    {
+      "date": "2026-06-27",
+      "event": "NOS wrote, in a report on the JA21 congress, that Forum voor Democratie, PVV and Groep Markuszower were 'for varying reasons' no longer attractive cooperation partners for the cabinet.",
+      "source_ids": ["s24"]
+    },
+    {
+      "date": "2026-11-25",
+      "event": "Status of the new party: Parlement.com's profile of De Nederlandse Alliantie lists no political leader and no party chair and says the membership administration is not yet open. The party's own website says its board is 'being set up' and that names will follow, invites visitors to become members, and says it is building local branches. According to the party's website, which says it draws on the House's open data, the seven MPs had by 25 November 2026 tabled 171 motions (48 adopted) and 68 amendments (4 adopted) and asked 205 sets of written questions.",
+      "source_ids": ["s3", "s14", "s18"]
+    }
+  ],
+  "key_people": [
+    {"name": "Gidi Markuszower", "role": "Chair of the Groep Markuszower in the House; founder of De Nederlandse Alliantie (DNA)"},
+    {"name": "Hidde Heutink", "role": "Vice-chair of the group; MP"},
+    {"name": "René Claassen", "role": "MP"},
+    {"name": "Annelotte Lammers", "role": "MP"},
+    {"name": "Shanna Schilder", "role": "MP"},
+    {"name": "Tamara ten Hove", "role": "MP"},
+    {"name": "Nicole Moinat", "role": "MP"},
+    {"name": "Rita Verdonk", "role": "Former VVD minister; adviser and coach to De Nederlandse Alliantie since April 2026"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Tweede Kamerfractie Groep-Markuszower", "publisher": "Parlement.com", "url": "https://www.parlement.com/tweede-kamerfractie-groep-markuszower", "date": null},
+    {"id": "s2", "title": "Afsplitsing groep-Markuszower (2026)", "publisher": "Parlement.com", "url": "https://parlement.com/afsplitsing-groep-markuszower-2026", "date": null},
+    {"id": "s3", "title": "De Nederlandse Alliantie", "publisher": "Parlement.com", "url": "https://parlement.com/de-nederlandse-alliantie", "date": null},
+    {"id": "s4", "title": "Pers & media", "publisher": "De Nederlandse Alliantie", "url": "https://www.denederlandsealliantie.nl/pers", "date": null},
+    {"id": "s5", "title": "Markuszower forms new far-right party after split with Wilders", "publisher": "DutchNews.nl", "url": "https://www.dutchnews.nl/2026/04/markuszower-forms-new-far-right-party-after-split-with-wilders/", "date": "2026-04"},
+    {"id": "s6", "title": "Naamgeving fracties; Brief van het Presidium (Kamerstuk 36 959, nr. 1)", "publisher": "Tweede Kamer / Officiële Bekendmakingen", "url": "https://zoek.officielebekendmakingen.nl/kst-36959-1.pdf", "date": "2026-06-03"},
+    {"id": "s7", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s8", "title": "Groep Markuszower", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/groep-markuszower", "date": null},
+    {"id": "s9", "title": "PVV-afsplitsing Groep Markuszower is geen fractie, krijgt minder geld", "publisher": "Hart van Nederland / ANP", "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/pvv-afsplitsing-groep-markuszower-geen-fractie-minder-geld", "date": "2026-01-29"},
+    {"id": "s10", "title": "Opstand tegen Wilders: zeven PVV'ers beginnen eigen fractie", "publisher": "NOS", "url": "https://nos.nl/l/2598974", "date": "2026-01-20"},
+    {"id": "s11", "title": "Kansen voor minderheidskabinet door afgesplitste PVV'ers", "publisher": "NOS", "url": "https://nos.nl/artikel/2599004-kansen-voor-minderheidskabinet-door-afgesplitste-pvv-ers", "date": "2026-01-20"},
+    {"id": "s12", "title": "Informateur ontvangt Groep-Markuszower", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202601/informateur-ontvangt-groep-markuszower", "date": "2026-01-22"},
+    {"id": "s13", "title": "Rita Verdonk coach van nieuwe partij Markuszower 'De Nederlandse Alliantie'", "publisher": "NOS", "url": "https://nos.nl/l/2611342", "date": "2026-04-20"},
+    {"id": "s14", "title": "Over ons", "publisher": "De Nederlandse Alliantie", "url": "https://www.denederlandsealliantie.nl/over-ons", "date": null},
+    {"id": "s15", "title": "Verkiezingsprogramma", "publisher": "De Nederlandse Alliantie", "url": "https://www.denederlandsealliantie.nl/verkiezingsprogramma", "date": null},
+    {"id": "s16", "title": "Standpunten", "publisher": "De Nederlandse Alliantie", "url": "https://www.denederlandsealliantie.nl/standpunten", "date": null},
+    {"id": "s17", "title": "Rights group to report Markuszower over Palestinian comments", "publisher": "DutchNews.nl", "url": "https://www.dutchnews.nl/2026/05/rights-group-to-report-markuszower-over-palestinian-comments/", "date": "2026-05"},
+    {"id": "s18", "title": "De Nederlandse Alliantie (home page)", "publisher": "De Nederlandse Alliantie", "url": "https://www.denederlandsealliantie.nl/", "date": "2026-11-25"},
+    {"id": "s19", "title": "PVV en Groep Markuszower bij een op vijf moties oneens met elkaar", "publisher": "Nieuws.nl / ANP", "url": "https://nieuws.nl/algemeen/pvv-en-groep-markuszower-bij-een-op-vijf-moties-oneens-met-elkaar", "date": "2026-03-10"},
+    {"id": "s20", "title": "G. (Gidi) Markuszower", "publisher": "Parlement.com", "url": "https://parlement.com/biografie/g-gidi-markuszower", "date": null},
+    {"id": "s21", "title": "Zeven leden verlaten de PVV-Tweede Kamerfractie", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202601/zeven-leden-verlaten-de-pvv-tweede-kamerfractie", "date": "2026-01-20"},
+    {"id": "s22", "title": "Nieuwe BBB-fractieleider Vermeer: vertrouwen in Keijzer echt geknakt", "publisher": "NOS", "url": "https://nos.nl/l/2603821", "date": "2026-02-24"},
+    {"id": "s23", "title": "PVV deserters announce new party details; Name raises eyebrows", "publisher": "NL Times", "url": "https://nltimes.nl/2026/04/21/pvv-deserters-announce-new-party-details-name-raises-eyebrows", "date": "2026-04-21"},
+    {"id": "s24", "title": "JA21-leider Eerdmans: kabinet moet nu echt gaan kiezen tussen ons en Pro", "publisher": "NOS", "url": "https://nos.nl/l/2620559", "date": "2026-06-27"}
+  ]
+}

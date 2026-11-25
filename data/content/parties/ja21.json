@@ -1,0 +1,198 @@
+{
+  "abbr": "JA21",
+  "slug": "ja21",
+  "name_nl": "JA21 (Juiste Antwoord 2021)",
+  "name_en": "JA21 (Right Answer 2021)",
+  "founded": "2020",
+  "updated": "2026-11-25",
+  "seats_house": 9,
+  "seats_senate": 2,
+  "seats_house_2025_election": 9,
+  "seats_house_2023_election": 1,
+  "in_coalition": false,
+  "party_leader": "Joost Eerdmans",
+  "house_group_leader": "Joost Eerdmans",
+  "senate_group_leader": "Karin van Bijsterveld",
+  "website": "https://ja21.nl/",
+  "described_as": [
+    {
+      "text": "In the foreword to its 2025 manifesto, party leader Joost Eerdmans describes JA21 as a 'broad conservative-liberal party' ('brede conservatief-liberale partij') that chooses 'a smaller government'.",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "Parlement.com describes JA21 as 'a conservative-liberal and nationalist party'. It says the name stands for 'het Juiste Antwoord' (the right answer) and also for the initials of founders Joost Eerdmans and Annabel Nanninga, and that the party wants to take back powers shared with the EU in a number of areas, less immigration and lower taxes and charges.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "At the party congress on 27 June 2026 Eerdmans described JA21 as 'sensibly right-wing: firm on substance, civilised in tone' ('verstandig rechts: stevig op de inhoud, beschaafd in de toon'), NOS reported.",
+      "source_ids": ["s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2020-12",
+      "event": "Joost Eerdmans and Annabel Nanninga founded JA21 after both had left Forum voor Democratie (FVD). Parlement.com gives 9 December 2020 in its key data and 18 December 2020 in its history section; the Senate website gives 18 December 2020. Other former FVD politicians, including senators and Members of the European Parliament, then moved to JA21.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2021-03",
+      "event": "JA21 took part in a House election for the first time and won 3 seats (2.4% of the vote).",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-04",
+      "event": "After a critical open letter from a large number of members, the party congress decided on reforms: the party board would be elected democratically, dual roles would end and a party council would be set up.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023-06-13",
+      "event": "JA21 entered the Senate under its own name with 3 seats after the 2023 Senate election; the former Fractie-Nanninga became the JA21 group.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2023-09-01",
+      "event": "MPs Derk Jan Eppink and Nicki Pouw-Verweij moved to BBB, leaving Eerdmans as the only JA21 MP. In August 2023 MEPs Rob Roos and Rob Rooken had left the party.",
+      "source_ids": ["s2", "s6"]
+    },
+    {
+      "date": "2023-11-22",
+      "event": "JA21 won 1 seat (0.7%) in the House election.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "JA21 won 9 seats (6.0%) in the House election, up from 1, with Eerdmans as lead candidate.",
+      "source_ids": ["s2", "s6"]
+    },
+    {
+      "date": "2026-01-09",
+      "event": "D66, CDA and VVD announced they would form a minority cabinet without JA21. NOS reported that the VVD had tried until the last moment to bring JA21 in, but that this met resistance from D66. JA21 called it a missed opportunity. Parlement.com lists JA21 as an opposition party under the Jetten cabinet.",
+      "source_ids": ["s7", "s2"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "De Juiste Aanpak voor Nederland",
+    "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf",
+    "key_points": [
+      {
+        "topic": "Asylum",
+        "text": "Shelter refugees in their own region and move asylum procedures and reception to partner countries outside the EU; modernise the European Convention on Human Rights with a coalition of European countries and refocus the 1951 UN Refugee Convention on reception in the region. Intensify border controls, replace the single asylum status with a two-status system, abolish permanent asylum residence permits, make active work of the return of Syrian asylum seekers and status holders, and deport asylum seekers and status holders who commit crimes. The manifesto calls limiting asylum migration JA21's highest priority and opposes the Spreidingswet (the law obliging municipalities to provide asylum reception).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Labour and family migration, naturalisation",
+        "text": "No low-skilled labour migration from outside the EU, while highly skilled knowledge migrants 'with added value' remain welcome; more room within the EU to regulate labour migration from other member states per sector. For partner migration: at most one marriage partner brought over in a lifetime, an income requirement at the level of the modal income and a minimum age of 25 for both partners. Naturalisation only after at least ten years of lawful residence.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Crime and policing",
+        "text": "More community police officers (one per 4,000 inhabitants instead of one per 5,000), reopening closed neighbourhood police stations, minimum sentences for serious violent and sexual offences, the option of a life sentence after three serious violent crimes ('three strikes and you're out'), and widening the offences for which people with dual nationality can lose Dutch citizenship and be deported. No headscarves or other religious expressions for police, municipal enforcement officers and other public officials in a public-facing role.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes",
+        "text": "Structurally lower taxes on labour and replace the system of allowances (toeslagen) and tax credits with a simpler system. One corporate tax rate of 20% instead of the two brackets of 19% and 25.8%, with investments in capital goods fully deductible in the year of investment. Abolish box 2 (the tax on income from a substantial shareholding) and tax such holdings in box 3 (the tax on savings and investments); replace the notional return in box 3 with a tax on actually realised return; abolish inheritance and gift tax.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Work and social security",
+        "text": "Shorter continued payment of wages during illness, relaxed dismissal law, simpler rules for the self-employed (zzp'ers) with the Belgian model as an example, and working past the state pension (AOW) age without fiscal or financial obstacles. Benefits keep an obligation to look for work.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Government and democracy",
+        "text": "A Minister for Government Efficiency and Autonomy to slim down government with a hard target for reducing regulatory burden; elected mayors; referendums on, among other things, migration policy, population growth and nature; fewer civil servants and a lower collective tax burden.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Withdraw the Wet betaalbare huur (Affordable Rent Act) and lower the tax burden on the rental market to restore investor confidence; abolish transfer tax (overdrachtsbelasting) on private homes entirely; designate new building locations in a new national spatial plan; appoint a government commissioner for housing production; legally anchor migration ceilings to limit population growth.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Cars, aviation and infrastructure",
+        "text": "Lower fuel excise duties, no kilometre charge, road pricing or rush-hour charge, and no ban on fuel cars. Abolish the air passenger tax, no shrinking of Schiphol and allow commercial flights at Lelystad Airport. An extra 0.5% of GDP for replacing and renovating infrastructure.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Energy and climate",
+        "text": "At least 20 gigawatts of new nuclear power plants in the next 25 years, starting with the phased construction of four plants, and several small modular reactors produced in the Netherlands before 2035. Keep coal and gas plants open, drop the target of being natural-gas-free by 2050, continue responsible gas extraction in Groningen and intensify it in the North Sea. Lower VAT on energy, no national climate levies on top of European rules, and a distance norm for wind turbines of 10 times the mast height.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Agriculture and nitrogen",
+        "text": "Support scrapping the critical deposition value (KDW, the legal nitrogen norm for nature areas) and introducing a calculation threshold of 1 mol; regional tailor-made packages instead of generic measures; sufficient money for voluntary extensification and buy-out schemes; conditions by 2026 for active wolf management by provinces, including culling.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Drastically cut administrative burdens to free up care staff, keep free choice of doctor, strengthen primary care, fund care on outcomes and accessibility rather than production, and bring back care homes for the elderly (bejaardentehuizen).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence and foreign policy",
+        "text": "Grow linearly to spending of 5% of GDP in 2035 and to a scalable force of 200,000 military personnel, reservists and civilians, with an expanded voluntary service year and steps towards compulsory elements of conscription on the Scandinavian model. No EU army. Continue supporting Ukraine but not admit it to NATO or the EU; move the Dutch embassy in Israel to Jerusalem; limit development aid with a focus on emergency aid.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "European Union",
+        "text": "Keep the member states' veto in the European Council, no joint European debt in any form, a lower EU budget, no EU membership for Turkey, no digital euro and no European digital identity, and strict enforcement of the Stability and Growth Pact budget rules.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-09",
+      "event": "The three parties negotiating a cabinet (D66, CDA, VVD) chose a minority cabinet instead of a majority coalition including JA21's nine seats. According to NOS the VVD wanted JA21 at the table but D66 objected. The three parties together hold 66 of the 150 House seats.",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2026-03-10",
+      "event": "ANP reported that JA21, together with SGP, the Groep Markuszower and the coalition parties, gave a majority to a motion on 'softening' coalition plans to raise the state pension (AOW) age faster.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-06-27",
+      "event": "At the JA21 members' congress in Ede, Eerdmans called on the cabinet to choose, ahead of Prinsjesdag (budget day), between cooperating with PRO or with JA21, saying working with both 'does not work'. He said JA21 would only agree to the cabinet's financial plans if they contain tax relief; NOS reported that his demands were a stricter asylum policy, more money for security and above all a lower 'vrijheidsbijdrage' (the cabinet's levy to fund defence). NOS reported that PRO leader Klaver had earlier said he did not want to cooperate with JA21 either. Eerdmans said a JA21 deal would also need the SGP for a House majority and pointed to the provincial elections of March 2027, after which a new Senate is elected.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-11",
+      "event": "JA21's website lists newly presented lead candidates for the provincial elections in, among others, Noord-Brabant, Gelderland, Drenthe, Flevoland, Friesland, Zuid-Holland, Utrecht, Zeeland and Overijssel.",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-11-25",
+      "event": "Senate seats: the Senate website lists a JA21 group of 2 members (Karin van Bijsterveld, group chair since 6 November 2025, and R. Baumgarten). JA21 won 3 Senate seats in 2023. Senator Toine Beukering, a former member of the Fractie-Nanninga that became JA21, has formed the one-member Fractie-Beukering since 18 November 2025. Parlement.com's party profile still gives JA21 3 Senate seats.",
+      "source_ids": ["s4", "s5", "s10", "s11", "s2"]
+    }
+  ],
+  "key_people": [
+    {"name": "Joost Eerdmans", "role": "Party leader and chair of the House group; co-founder"},
+    {"name": "Annabel Nanninga", "role": "MP; co-founder; lead candidate in the 2023 Senate election"},
+    {"name": "Ingrid Coenradie", "role": "MP"},
+    {"name": "Michiel Hoogeveen", "role": "MP"},
+    {"name": "Diederik Boomsma", "role": "MP; moved from NSC to JA21 in 2025"},
+    {"name": "Maarten Goudzwaard", "role": "MP"},
+    {"name": "Simon Ceulemans", "role": "MP"},
+    {"name": "Ranjith Clemminck", "role": "MP"},
+    {"name": "Daniël van den Berg", "role": "MP"},
+    {"name": "Karin van Bijsterveld", "role": "Chair of the Senate group since 6 November 2025"},
+    {"name": "Adrien de Boer", "role": "Party chair (per Parlement.com)"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "De Juiste Aanpak voor Nederland. JA21 Verkiezingsprogramma 2025", "publisher": "JA21", "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf", "date": "2025"},
+    {"id": "s2", "title": "JA21 (Het Juiste Antwoord 21)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/ja21-het-juiste-antwoord-21", "date": null},
+    {"id": "s3", "title": "JA21-leider Eerdmans: kabinet moet nu echt gaan kiezen tussen ons en Pro", "publisher": "NOS", "url": "https://nos.nl/l/2620559", "date": "2026-06-27"},
+    {"id": "s4", "title": "JA21-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/ja21", "date": null},
+    {"id": "s5", "title": "Historisch overzicht zeteltal JA21", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/begrip/historisch_overzicht_zeteltal_ja21", "date": null},
+    {"id": "s6", "title": "Tweede Kamerfractie JA21", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-ja21", "date": null},
+    {"id": "s7", "title": "D66, CDA en VVD kiezen voor minderheidskabinet, uitzonderlijk in Nederland", "publisher": "NOS", "url": "https://nos.nl/l/2597547", "date": "2026-01-09"},
+    {"id": "s8", "title": "PVV en Groep Markuszower bij een op vijf moties oneens met elkaar", "publisher": "Nieuws.nl / ANP", "url": "https://nieuws.nl/algemeen/pvv-en-groep-markuszower-bij-een-op-vijf-moties-oneens-met-elkaar", "date": "2026-03-10"},
+    {"id": "s9", "title": "Nieuws", "publisher": "JA21", "url": "https://ja21.nl/nieuws", "date": "2026-11-25"},
+    {"id": "s10", "title": "Bgen (b.d.) drs. A.J.A. Beukering (Fractie-Beukering)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/persoon/bgen_b_d_drs_a_j_a_beukering", "date": null},
+    {"id": "s11", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s12", "title": "JA21", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/ja21", "date": null}
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "abbr": "DENK",
+  "slug": "denk",
+  "name_nl": "DENK",
+  "name_en": "DENK (the name means 'think' in Dutch)",
+  "founded": "2015",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 0,
+  "seats_house_2025_election": 3,
+  "seats_house_2023_election": 3,
+  "in_coalition": false,
+  "party_leader": "Stephan van Baarle",
+  "house_group_leader": "Stephan van Baarle",
+  "senate_group_leader": null,
+  "website": "https://www.bewegingdenk.nl",
+  "described_as": [
+    {
+      "text": "Parlement.com, a Dutch parliamentary reference site, describes DENK as a party focused on respect for all Dutch people that aims for tolerance, equality within the democratic constitutional state and a social, sustainable and just society, and that sees diversity as a driving force. It lists DENK as an opposition party under the Jetten cabinet.",
+      "source_ids": ["s4"]
+    },
+    {
+      "text": "In the foreword to the 2025 manifesto, party leader Stephan van Baarle writes that fighting discrimination and 'the struggle against the far right' is why the party was founded, and calls DENK 'the insurance policy for the protection of your rights' (original: 'dé verzekeringspolis voor de bescherming van jouw rechten').",
+      "source_ids": ["s6"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2014-11",
+      "event": "House members Tunahan Kuzu and Selçuk Öztürk break with the PvdA (Labour) group over integration policy.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2015-02-09",
+      "event": "Kuzu and Öztürk found DENK in The Hague.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2017-03",
+      "event": "In its first House election DENK wins three seats with about 216,000 votes (2.06%). It has won three seats in every House election since (2021, 2023, 2025).",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2020",
+      "event": "Leadership crisis: Kuzu resigns as House group leader on 21 March; after a reconciliation Öztürk steps down as party chair on 6 June. Farid Azarkan becomes political leader and Ejder Köse becomes party chair in September.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2022",
+      "event": "DENK wins 24 municipal council seats and supplies three aldermen, in Rotterdam and Schiedam.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2023-08",
+      "event": "Stephan van Baarle succeeds Farid Azarkan as House group leader (2 August) and leads the party into the November 2023 election, in which it wins nearly 250,000 votes and three seats.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2025-08",
+      "event": "Van Baarle, named lead candidate on 13 June, withdraws in mid-August citing a disagreement with the party board over the candidate list. House members Ismail el Abassi and Doğukan Ergin say in a video that the board 'betrayed' and 'deceived' him. The board resigns and Van Baarle returns as lead candidate, followed on the list by Ergin and El Abassi. According to DNPP, co-founder Tunahan Kuzu is chosen as the new party chair.",
+      "source_ids": ["s5", "s4", "s7"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "House election: DENK wins three seats (2.3%).",
+      "source_ids": ["s4", "s7"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Nu is het moment, meer dan ooit! — Verkiezingsprogramma Tweede Kamerverkiezingen 2025",
+    "url": "https://dnpprepo.ub.rug.nl/88779/1/DENK%20Verkiezingsprogramma%20TK%202025.pdf",
+    "key_points": [
+      {
+        "topic": "Israel and Palestine",
+        "text": "The first chapter is titled 'Vrij Palestina' (Free Palestine). DENK demands the heaviest possible sanctions against Israel, which the manifesto writes in quotation marks throughout, and an end to arms deliveries. It states that the two-state solution has been made impossible and calls for one state with equal rights for everyone, named Palestine; the Netherlands should recognise the Palestinian state and the Palestinian right of return. The manifesto describes the war in Gaza as genocide.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Discrimination and racism",
+        "text": "Write into the Constitution that the Netherlands rejects fascism and far-right politics; replace the National Coordinator against Discrimination and Racism with an Authority against Discrimination and Racism with its own budget and powers; a racism register listing people irrevocably convicted of racist or discriminatory acts, who may not work for the government for five years; diversity quotas in government and business; a National Coordinator against anti-Muslim hatred.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Housing",
+        "text": "A target of 100,000 homes, a national housing construction fund and a state construction company; a legal norm for new building of 50% social rent and purchase, 40% affordable mid-range and 10% higher segment; rents are frozen if increases weigh too heavily on purchasing power and in the longer term may not rise faster than incomes. The hypotheekrenteaftrek (mortgage interest tax relief) is kept.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Income and poverty",
+        "text": "Raise the minimum wage to 18 euros an hour; an energy allowance for low incomes as long as energy prices stay high; lower VAT to bring down grocery prices; a full-time Minister for Poverty Reduction.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Fully abolish the eigen risico (the compulsory annual excess in health insurance), lower the health insurance premium especially for low and middle incomes, limit market forces in healthcare, and charge no VAT on fruit and vegetables.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Education and young people",
+        "text": "Free breakfast and lunch at schools in vulnerable neighbourhoods; interest on student debt back to zero percent; full compensation for the so-called 'pechgeneratie' (students who studied under the loan system without a basic grant); a higher basic student grant; a Minister for the Youth Agenda.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Asylum",
+        "text": "Scrap the stricter asylum laws of the previous government (no restriction of refugees' legal position, no shorter residence permits, no harder family reunification, no two-status system); keep the Spreidingswet (the law that distributes asylum reception across municipalities); small-scale reception across the country; refugees get the right to work as soon as possible.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Climate and energy",
+        "text": "DENK says it stands by the climate targets: climate neutral in 2050 and 55% lower emissions in 2030. Coal plants disappear as soon as possible. Nuclear energy is not ruled out, with safe storage of nuclear waste as a hard condition.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Transport",
+        "text": "Free public transport for low incomes, people aged 65 and over, children and young people, and more investment in public transport.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Defence and Ukraine",
+        "text": "DENK opposes the additional billions for defence which it says are spent under pressure from NATO Secretary General Mark Rutte and US President Donald Trump, and considers current defence spending sufficient. It wants prior parliamentary control over support measures for Ukraine and does not support what it calls a premature push for Ukrainian EU and NATO membership.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Police",
+        "text": "Extra police capacity, an end to ethnic profiling (race or origin may never be part of police risk profiles) and more diversity policy within the police.",
+        "source_ids": ["s6"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "event": "Parlement.com reports 5,305 party members on 1 January 2026.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The House group consists of Stephan van Baarle (leader), Ismail el Abassi and Doğukan Ergin. DENK has no seats in the Senate or the European Parliament. No leadership changes or splits in 2026 were found in the sources consulted.",
+      "source_ids": ["s1", "s2", "s3", "s4"]
+    }
+  ],
+  "key_people": [
+    {"name": "Stephan van Baarle", "role": "Political leader and House group leader (group leader since 2 August 2023)"},
+    {"name": "Doğukan Ergin", "role": "House member"},
+    {"name": "Ismail el Abassi", "role": "House member"},
+    {"name": "Tunahan Kuzu", "role": "Co-founder; former political leader"},
+    {"name": "Selçuk Öztürk", "role": "Co-founder; party chair until June 2020"},
+    {"name": "Farid Azarkan", "role": "Political leader 2020-2023"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s2", "title": "DENK (fractie)", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/denk", "date": null},
+    {"id": "s3", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s4", "title": "DENK", "publisher": "Parlement.com", "url": "https://www.parlement.com/partij/denk", "date": null},
+    {"id": "s5", "title": "DENK - geschiedenis", "publisher": "Documentatiecentrum Nederlandse Politieke Partijen (University of Groningen)", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/denk/geschiedenis", "date": "2026-06-11"},
+    {"id": "s6", "title": "Nu is het moment, meer dan ooit! Verkiezingsprogramma Tweede Kamerverkiezingen 2025", "publisher": "DENK (archived by DNPP, University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88779/1/DENK%20Verkiezingsprogramma%20TK%202025.pdf", "date": "2025"},
+    {"id": "s7", "title": "DENK en Tweede Kamerverkiezingen 2025", "publisher": "Parlement.com", "url": "https://parlement.com/denk-en-tweede-kamerverkiezingen-2025", "date": null}
+  ]
+}

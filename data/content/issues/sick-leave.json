@@ -1,0 +1,1238 @@
+{
+  "id": "sick-leave",
+  "title": "Sick leave, disability benefits and fraud",
+  "tagline": "Two years of employer-paid sick leave, a gridlocked disability-benefit system, and what is known about fraud",
+  "updated": "2026-11-25",
+  "summary": "Dutch employers must keep paying at least 70% of a sick employee's wage for up to 104 weeks; after that the employee can claim a WIA disability benefit from the benefits agency UWV. Absenteeism stood at 5.3% in the third quarter of 2026, WIA applications are rising and UWV does not have enough insurance doctors, so more than 11,000 people had waited over six months for an assessment in June 2026. The D66-VVD-CDA cabinet wants to make sick pay 'more workable' for small firms and reform the WIA; in May 2026, after a trade-union ultimatum, it shelved its planned WIA cuts in their proposed form, and in September 2026 it published scenarios for shortening sick pay without making a proposal. UWV recorded about 4,000 breaches of the duty to report information in 2025 across all its benefits; official statistics do not measure how often employees wrongly call in sick.",
+  "key_facts": [
+    {
+      "label": "Absenteeism rate, employees",
+      "value": "5.3% in Q3 2026; 5.4% in Q2 2026; 5.8% in Q1 2026",
+      "note": "Share of working days lost to sickness. Annual figure 2025: 5.4%; 2024: 5.2%; lowest annual figure since 1996 was 3.8% in 2014; highest 5.6% in 2022.",
+      "source_ids": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "label": "Long-run average (first quarters)",
+      "value": "5.0% since 1996, against 5.8% in Q1 2026",
+      "note": "CBS compares quarters with the same quarter of earlier years because absenteeism is higher in winter.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Absenteeism by sector and firm size",
+      "value": "Health and welfare 8.2%; firms under 10 employees 2.8%; firms of 100+ employees 6.8% (Q1 2026)",
+      "note": "Lowest sector: agriculture, forestry and fishing. Financial services and information/communication: 4.3%.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Employer sick pay",
+      "value": "At least 70% of wages for 104 weeks",
+      "note": "Capped at the maximum daily wage; in the first year at least the statutory minimum wage. According to the ministry, most employees under a collective agreement receive 170% or more of a year's wage over the two years because of top-ups.",
+      "source_ids": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "label": "WIA disability benefits being paid",
+      "value": "483,810 at end of 2025 (454,644 at end of 2024)",
+      "note": "Of which WGA (partial or non-permanent incapacity) 294,424 and IVA (full and permanent incapacity) 189,386. All disability schemes together (WIA, WAO, WAZ, Wajong): 873,461.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "label": "New WIA benefits and applications",
+      "value": "71,325 new benefits and 96,700 applications in 2025 (2024: 69,046 and 93,100)",
+      "note": "UWV carried out 74,500 WIA assessments in 2025, down from 83,700 in 2024.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "label": "People waiting over 6 months for a WIA assessment",
+      "value": "More than 11,000 (June 2026); 7,900 at end of 2025; 1,100 at end of 2024",
+      "note": "UWV paid 36,900 advances in 2025 to people waiting beyond the legal deadline.",
+      "source_ids": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "label": "UWV benefit spending",
+      "value": "EUR 28.9 billion in 2025 (EUR 27.1 billion in 2024)",
+      "note": "All UWV benefits together. UWV paid EUR 1.0 billion more in WIA benefits than in 2024.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Ziektewet (Sickness Benefits Act) benefits",
+      "value": "343,907 new benefits in 2025; 111,156 being paid at end of 2025",
+      "note": "The Ziektewet covers sick people who no longer have an employer, among others.",
+      "source_ids": [
+        "s6",
+        "s37"
+      ]
+    },
+    {
+      "label": "Detected breaches of the duty to report (all UWV benefits)",
+      "value": "4,000 in 2025, involving EUR 13.1 million overpaid (2024: 3,800 and EUR 9.0 million)",
+      "note": "UWV counts intentional and unintentional breaches together. 600 fines (EUR 0.8 million), 2,600 warnings, 21 reports to the Public Prosecution Service.",
+      "source_ids": [
+        "s6"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "High absenteeism and rising disability claims",
+      "text": "Statistics Netherlands (CBS) measured an absenteeism rate of 5.8% in the first quarter of 2026, the same as a year earlier and above the average of 5.0% for first quarters since 1996. Flu, colds and other viral infections are the reasons employees mention most often. At the same time the number of WIA disability benefits rose by 6% in 2025 to 483,810. UWV says WIA inflow rose more than expected, partly because of more people with mental-health complaints. TNO reported in November 2026 that 15% of employees say they have stressful work (high demands and little autonomy).",
+      "source_ids": [
+        "s1",
+        "s6",
+        "s35"
+      ]
+    },
+    {
+      "heading": "UWV cannot keep up with assessments",
+      "text": "UWV writes that demand for medical assessments has for years exceeded what its doctors can handle. Its average capacity of doctors fell from 742 full-time equivalents in 2024 to 720 in 2025; from October 2025 it stopped hiring self-employed insurance doctors because of stricter enforcement of the law against bogus self-employment. More than 11,000 people had waited longer than six months for an assessment in June 2026. The minister's June 2025 forecast, cited by UWV, was about 100,000 people waiting in 2027 and about 200,000 in 2030 without structural change; the government's June 2026 news release mentions roughly 100,000 to 150,000 in 2030. UWV now only does reassessments in urgent cases.",
+      "source_ids": [
+        "s6",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "heading": "Errors in WIA benefits",
+      "text": "In September 2024 it became known that UWV had calculated tens of thousands of WIA benefits too high or too low. The Court of Audit (Algemene Rekenkamer) concluded in December 2025 that UWV had for years failed to steer quality checks properly and that the ministry also fell short. According to the government, 12.5% of daily-wage calculations made between 2020 and 2024 were wrong. UWV is manually checking about 51,000 WIA benefits and says the operation may take two years; in its 2026 eight-month report it says it tightened and widened the selection criteria after signals from staff. People who received too much do not have to repay; people who received too little are compensated.",
+      "source_ids": [
+        "s8",
+        "s7",
+        "s24",
+        "s38",
+        "s39"
+      ]
+    },
+    {
+      "heading": "Employers say two years of sick pay deters hiring",
+      "text": "The coalition agreement states that employers experience long and high sick pay as a heavy burden and that small entrepreneurs therefore do not dare to hire permanent staff. The ministry writes that the Netherlands is an international outlier, with the longest private period of sick pay in the world, and that 45% of employers say the obligations are an obstacle to offering permanent contracts (a 2014 Panteia study). About 70% of employers with 2 to 50 staff have taken out private insurance against the cost.",
+      "source_ids": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "How the system is built",
+      "text": "A sick employee keeps at least 70% of wages from the employer for 104 weeks, and cannot be dismissed because of the sickness during that period. Under the Wet verbetering poortwachter (Gatekeeper Improvement Act) employer and employee must both work on reintegration. Around week 93 the employee applies for a WIA benefit; UWV first tests whether enough was done to reintegrate (the RIV test) and can extend the employer's pay obligation by up to 52 weeks (the 'wage sanction'). People without an employer can apply to UWV for a Ziektewet benefit.",
+      "source_ids": [
+        "s5",
+        "s4",
+        "s37"
+      ]
+    },
+    {
+      "heading": "Privacy rules on medical information",
+      "text": "According to the Dutch Data Protection Authority, an employer may not ask what illness an employee has when they report sick, and may not record it even if the employee tells them. Only the occupational health service or company doctor (bedrijfsarts) may ask for and store medical data, and may pass on to the employer only what is necessary, such as expected duration and the employee's limitations and possibilities. The employer may require the employee to attend the company doctor's consultation.",
+      "source_ids": [
+        "s23"
+      ]
+    },
+    {
+      "heading": "Why the second year exists, according to the ministry",
+      "text": "The Minister of Work and Participation writes that extending sick pay and reintegration duties to two years proved effective in getting sick employees back to work and raised labour participation, citing the Central Planning Bureau (CPB). He also writes that many employees still recover in the second year and therefore never reach the WIA. Top-ups above the statutory 70%, mostly agreed in collective agreements, weaken the financial incentive to return to work, according to the same letter.",
+      "source_ids": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "heading": "A complex law and too few doctors",
+      "text": "The coalition agreement calls the disability system 'virtually unworkable'. The Court of Audit said the WIA needs fundamental revision and that the ministry had been too hesitant to simplify the rules. UWV names complex legislation, outdated systems, high staff turnover and persistent shortages of insurance doctors and IT staff. A UWV spokesperson told NOS that insurance medicine is not a very popular specialisation and that many doctors will retire in the coming years.",
+      "source_ids": [
+        "s3",
+        "s8",
+        "s6",
+        "s10"
+      ]
+    },
+    {
+      "heading": "Limits on fraud detection",
+      "text": "UWV disabled its 'risk scan for stays outside the Netherlands' after problems with data collection that were reported to parliament from 2023. The ministers wrote in April 2026 that the scan can no longer be used and that UWV sees few other starting points for data-driven, risk-based supervision of this kind; UWV keeps checking for unauthorised stays abroad in other ways. UWV also reports that companies, bookkeepers and witnesses cooperate poorly or not at all with investigations into fictitious employment contracts.",
+      "source_ids": [
+        "s19",
+        "s6"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-09",
+      "event": "It becomes known that tens of thousands of people received a WIA benefit that was too high or too low for years.",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "event": "UWV stops using self-employed (zzp) insurance doctors because of enforcement of the law against bogus self-employment; its assessment capacity falls.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-12-03",
+      "event": "The Court of Audit publishes its report on WIA errors and concludes that UWV and the ministry ignored signals; it says the WIA needs fundamental revision.",
+      "source_ids": [
+        "s8",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "event": "The interdepartmental policy review (IBO) of the WIA is sent to parliament. It advises task reallocation away from insurance doctors, stricter conditions for reassessments, abolishing the IVA for new cases, and keeping the 104 weeks of sick pay.",
+      "source_ids": [
+        "s13",
+        "s4"
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "event": "UWV announces it wants more staff with higher professional (hbo) care training to do assessment work and will limit reassessments to urgent cases; about 25,000 people are on the WIA waiting list.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present the coalition agreement 'Aan de slag': make sick pay more workable for small firms, abolish the IVA for new cases, fundamentally revise the sickness and disability system.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "event": "The House adopts the amended Ceulemans (JA21) motion asking for concrete scenarios to shorten mandatory sick pay by Budget Day.",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "event": "Minister Aartsen sends a bill to the House that lets small and medium-sized employers focus second-year reintegration solely on a job with another employer (bill 36 926).",
+      "source_ids": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "event": "Replying to a trade-union ultimatum of 11 May, the cabinet drops its bill to link the state pension age one-to-one to life expectancy and says it will not pursue the WIA changes in their proposed form for now.",
+      "source_ids": [
+        "s14",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "event": "The government reports that more than 11,000 people have waited longer than six months for a disability assessment; the minister decides not to widen the daily-wage repair operation.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "event": "Minister Aartsen sends six scenarios for sick pay to the House, stating that the cabinet 'makes no proposal' and that there is no budget cover for options that cost money.",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s33"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "event": "The Senate adopts the Wet handhaving sociale zekerheid (Social Security Enforcement Act), after the House did so on 2 July 2026.",
+      "source_ids": [
+        "s18"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Coalition agreement: 'more workable' sick pay",
+      "text": "The agreement says the cabinet is working on proposals to make sick pay more workable for employers, especially small and medium-sized firms, while noting that pay in the second year is also an effective incentive for reintegration with the own employer. It promises to remove bureaucratic obstacles in the Gatekeeper Improvement Act and to abolish, for all employers, the compensation they receive for the severance payment after two years of sickness (from 1 January 2028 according to a law firm's reading of the budget annex). In June 2026 Minister Vijlbrief told the House that, in hindsight, the agreement had perhaps paid too little attention to the sick-pay period and prevention.",
+      "source_ids": [
+        "s3",
+        "s34",
+        "s22"
+      ]
+    },
+    {
+      "heading": "WIA: short-term fixes, cuts shelved",
+      "text": "The agreement announces task reallocation, more enforcement on prevention by the Labour Inspectorate, better cooperation between insurance and company doctors, more conditions for WIA reassessments and abolition of the IVA for new cases. Its financial annex also lowered the maximum daily wage on which benefits are based. On 24 August 2026 Minister Vijlbrief wrote that the cabinet 'for now does not pursue these changes to the WIA in the proposed form', that the IVA measure would not apply to current IVA recipients, and that he is mapping alternatives to the lower maximum daily wage in line with an adopted House motion. He wants to discuss alternatives with unions and employers.",
+      "source_ids": [
+        "s3",
+        "s9",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "heading": "Bills and scenarios on sick pay",
+      "text": "Bill 36 926 would let small and medium-sized employers, with the employee's consent or UWV's permission, focus reintegration from the start of the second sick year solely on work with another employer; the House committee issued its report on 15 June 2026. A second bill, making the company doctor's advice leading in UWV's reintegration test, was sent to the Council of State for advice. The scenarios of 8 September 2026 cover capping top-ups, shortening sick pay to one or one and a half years, collectivising the second year for small employers, halving the wage sanction, simplifying dismissal after long-term sickness and widening the no-risk policy.",
+      "source_ids": [
+        "s16",
+        "s17",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "heading": "Enforcement and fraud",
+      "text": "UWV says its approach starts from trust and from preventing breaches, because the rules are complex. It can reclaim overpayments, give warnings or fines and report cases to the Public Prosecution Service. In 2025 it recovered or saved more than EUR 16 million through thematic investigations into organised or large-scale abuse, of which EUR 13 million concerned 'health fraud' (undeclared activities that do not fit the assessed limitations, or feigned health problems) and EUR 1.6 million fictitious employment contracts. Its Intervention Team Abroad visited nine countries in 2025 and it agreed file comparisons with Belgium, Italy and France. The Social Security Enforcement Act, adopted in October 2026, lowers fines, lets agencies refrain from sanctions for mistakes and shortens the recovery period from 20 to 5 years.",
+      "source_ids": [
+        "s6",
+        "s18"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Shorten mandatory sick pay to one or one and a half years",
+      "description": "Would shorten sick pay, the Ziektewet, the WIA waiting period and the dismissal ban for all employers. The ministry estimates government spending would rise by EUR 4.6 billion (one year) or EUR 1.9 billion (one and a half years), employment would fall by 0.2%, WIA inflow would rise, and UWV could not implement it in the short or medium term because of its backlogs. D66's manifesto and FVD's manifesto say one year; JA21 prefers one year; the SGP manifesto says one and a half years as a first step. The Wennink report recommends abolishing the second year; the IBO WIA advises keeping 104 weeks.",
+      "proposed_by": [
+        "D66",
+        "JA21",
+        "FVD",
+        "SGP"
+      ],
+      "status": "In manifestos; scenario described in letter of 2026-09-08, cabinet makes no proposal; motion asking for scenarios adopted 2026-03-31",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s26",
+        "s29",
+        "s31",
+        "s17",
+        "s15"
+      ]
+    },
+    {
+      "title": "Collectivise the second sick year for small employers",
+      "description": "The pay obligation stays 104 weeks, but small employers' wage costs in the second year are paid collectively and UWV takes over reintegration with another employer. Estimated structural cost about EUR 0.75 billion; the ministry says UWV cannot implement it for at least five years and that employer premiums would rise on balance. The VVD manifesto proposes replacing the second year with collective insurance for small employers; SP leader Dijk proposed collective organisation for firms up to 50 employees.",
+      "proposed_by": [
+        "VVD",
+        "SP"
+      ],
+      "status": "In VVD manifesto; Dijk/Yesilgoz-Zegerius motion referred to in letter of 2026-09-08; scenario only",
+      "source_ids": [
+        "s5",
+        "s4",
+        "s27",
+        "s20"
+      ]
+    },
+    {
+      "title": "Cap top-ups above statutory sick pay",
+      "description": "Would ban supplements above 70% from six months of sickness. The ministry, citing CPB, expects less absenteeism, about EUR 1.4 billion lower wage costs for employers and 0.3% more employment, and less income security for sick employees. Legal points include freedom of collective bargaining and the UN Disability Convention.",
+      "proposed_by": [
+        "Minister of Work and Participation (scenario, not a cabinet proposal)"
+      ],
+      "status": "Scenario described in letter of 2026-09-08",
+      "source_ids": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "title": "Second-year reintegration with another employer for small and medium firms (bill 36 926)",
+      "description": "If a sick employee cannot return within a year, an employer with up to 100 employees could, with the employee's consent or UWV's permission, close reintegration in the own company and replace the employee permanently. The two years of sick pay and the dismissal ban remain. Part of the labour-market package agreed with unions and employers.",
+      "proposed_by": [
+        "Cabinet (D66, VVD, CDA)"
+      ],
+      "status": "Bill pending in the House; committee report issued 2026-06-15",
+      "source_ids": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "title": "Company doctor's advice leading in UWV's reintegration test",
+      "description": "Would make the company doctor's advice decisive when UWV tests after two years whether the employer did enough to reintegrate, to give employers more certainty about wage sanctions.",
+      "proposed_by": [
+        "Cabinet (D66, VVD, CDA)"
+      ],
+      "status": "Sent to the Council of State for advice (as reported 2026-04-02)",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "title": "Abolish the IVA for new cases and lower the maximum daily wage",
+      "description": "The coalition agreement abolishes the separate IVA benefit for new fully and permanently disabled people; its financial annex lowers the maximum daily wage, which NOS calculated would cap benefits at EUR 3,705.52 instead of EUR 4,631.90 gross a month and save over EUR 800 million a year. FNV called the WIA plan unacceptable, unnecessary and unfair.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Not pursued 'in the proposed form' for now (letters of 2026-05-26 and 2026-08-24); alternatives being mapped",
+      "source_ids": [
+        "s3",
+        "s9",
+        "s11",
+        "s36"
+      ]
+    },
+    {
+      "title": "Task reallocation and limits on reassessments at UWV",
+      "description": "Lets staff other than registered insurance doctors do more of the assessment work and sets conditions for requesting a reassessment, to reduce waiting lists. UWV says the law must be changed for this.",
+      "proposed_by": [
+        "Cabinet (D66, VVD, CDA)",
+        "UWV"
+      ],
+      "status": "Announced; implementation expected to take several years",
+      "source_ids": [
+        "s7",
+        "s10",
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "title": "Cut spending on enforcement, sanctions and recovery",
+      "description": "SP proposed dropping fraud investigations and recoveries of low financial value and for unintentional mistakes, while keeping targeted fraud investigations, to save money for other spending. Minister Aartsen said EUR 90 million cannot be saved on the enforcement budgets of UWV and SVB without lower proceeds, and that it is not known in advance whether a case involves intentional fraud.",
+      "proposed_by": [
+        "SP"
+      ],
+      "status": "Budget amendment advised against by the minister on 2026-03-19; outcome of the vote not verified",
+      "source_ids": [
+        "s20",
+        "s21"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "Enforcement and recovery in social security cost a lot and yield little; small cases and unintentional mistakes can be dropped without harming the fight against real fraud.",
+      "claimed_by": "SP (Jimmy Dijk, House budget debate, 11 March 2026); disputed by Minister Aartsen (19 March 2026)",
+      "what_data_show": "UWV's 2025 annual report records about 4,000 breaches of the duty to report across all its benefits, involving EUR 13.1 million overpaid (EUR 9.0 million in 2024); 15% led to a fine, 65% to a warning, 20% to neither, and 21 cases went to the Public Prosecution Service. UWV counts intentional and unintentional breaches together and writes that most clients and employers comply. Thematic investigations into organised abuse recovered or saved more than EUR 16 million. Set against EUR 28.9 billion paid in benefits, these are the detected amounts; the report gives no estimate of undetected fraud, and the table is not broken down into Ziektewet and WIA. The minister stated that savings of EUR 90 million on enforcement budgets are not possible without proceeds falling.",
+      "source_ids": [
+        "s20",
+        "s21",
+        "s6"
+      ]
+    },
+    {
+      "claim": "Employees misuse sick leave, for example by reporting sick during a labour conflict.",
+      "claimed_by": "Entrepreneurs in a poll by the Instituut voor het Midden- en Kleinbedrijf (IMK), as reported by MKB Servicedesk",
+      "what_data_show": "The poll had 84 respondents; nine of the 28 who gave an explanation mentioned issues such as waiting times at company doctors, reintegration duties and sick reports in labour conflicts, and the article itself says the results are not representative. CBS measures the share of working days lost to sickness (5.3% in Q3 2026) and the reasons employees themselves give, with flu and colds mentioned most; this file found no CBS or UWV figure for the share of sick reports that are unjustified. Employers may not ask for or record the diagnosis; only the company doctor may assess medical information. UWV's fraud figures concern people receiving UWV benefits, not employees on employer-paid sick leave.",
+      "source_ids": [
+        "s25",
+        "s1",
+        "s2",
+        "s23",
+        "s6"
+      ]
+    },
+    {
+      "claim": "Two years of employer sick pay does not reduce inflow into disability benefits: neighbouring countries have sick pay of weeks and the Netherlands still has relatively high inflow.",
+      "claimed_by": "JA21 (MP Ceulemans, House debates of 11 and 19 March 2026)",
+      "what_data_show": "The Minister of Work and Participation writes that the Netherlands has the longest private sick-pay period in the world, and that the extension to two years 'proved effective' in returning sick employees to work and raised participation and employment (citing CPB, 2020). The ministry's scenario sheet estimates that shortening to one year would increase WIA applications and inflow, lower employment by 0.2% and raise government spending by EUR 4.6 billion. The same letter notes that WIA inflow is rising and that two recent reports disagree: Wennink recommends abolishing the second year, the IBO WIA recommends keeping it.",
+      "source_ids": [
+        "s20",
+        "s21",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "claim": "Long and high sick pay stops small entrepreneurs from hiring people on permanent contracts.",
+      "claimed_by": "Coalition agreement (D66, VVD, CDA); VVD, JA21, FVD and D66 manifestos or spokespeople",
+      "what_data_show": "The ministry cites a 2014 Panteia study in which 45% of employers called the obligations an obstacle to permanent hiring, and a 2026 Sira Consulting study on regulatory burden. In the IMK poll six in ten of 84 entrepreneurs said the rules deter them from hiring; the publisher calls this an indication, not representative. About 70% of employers with 2 to 50 staff are privately insured against the cost. CBS data show absenteeism is lowest in the smallest firms: 2.8% in firms with fewer than 10 employees against 6.8% in firms of 100 or more (Q1 2026). The Council of State is cited in the House report as judging the benefits of bill 36 926 for employers to be limited.",
+      "source_ids": [
+        "s3",
+        "s4",
+        "s25",
+        "s1",
+        "s17"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "The 2025 manifesto wants to shorten mandatory sick pay to one year and calls for fundamental reform of the WIA. In government D66 supplies the Minister of Social Affairs (Vijlbrief) and signed the coalition agreement that speaks of 'more workable' sick pay, abolishing the IVA for new cases and a lower maximum daily wage; the WIA measures were shelved in their proposed form in May 2026. D66 voted for the Ceulemans motion and for the Social Security Enforcement Act. In the report on bill 36 926 it warned the system could become even more complex.",
+      "salience": "high",
+      "salience_basis": "Two bullets in the 2025 manifesto; D66 holds the Social Affairs ministry; D66 MP Neijenhuis filed a motion on rising disability among young women in the March 2026 budget debate.",
+      "quotes": [
+        {
+          "text_en": "To encourage entrepreneurs to offer more permanent contracts, D66 wants to shorten mandatory sick pay to 1 year.",
+          "text_nl": "Om ondernemers te stimuleren om meer vaste contracten aan te bieden wil D66 de verplichte loondoorbetaling bij ziekte verkorten naar 1 jaar.",
+          "speaker": "D66 manifesto 2025",
+          "date": "2025",
+          "source_id": "s26"
+        },
+        {
+          "text_en": "The WIA (Work and Income according to Labour Capacity Act) currently works insufficiently. Inflow is growing, the rules are unclear and people do not always get what they are entitled to. Fundamental reform is needed.",
+          "text_nl": "De Wia (Wet werk en inkomen naar arbeidsvermogen) werkt op dit moment onvoldoende. De instroom groeit, de regels zijn onduidelijk en mensen krijgen niet altijd waar ze recht op hebben. Fundamentele hervorming is nodig.",
+          "speaker": "D66 manifesto 2025",
+          "date": "2025",
+          "source_id": "s26"
+        }
+      ],
+      "source_ids": [
+        "s26",
+        "s3",
+        "s15",
+        "s18",
+        "s17",
+        "s21"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "The manifesto proposes abolishing the second year of sick pay for small employers and replacing it with collective insurance, and reforming the Gatekeeper Improvement Act to cut bureaucracy. VVD supplies the Minister of Work and Participation (Aartsen), who sent the sick-pay scenarios. In the House, VVD called the pay obligation one of the heaviest burdens on employers, voted for the Ceulemans motion and for the Social Security Enforcement Act, and said it had supported SP's proposal on the second year.",
+      "salience": "high",
+      "salience_basis": "Two dedicated bullets in the 2025 manifesto; VVD minister is responsible for the file; VVD raised it in the March 2026 budget debate and at length in the report on bill 36 926.",
+      "quotes": [
+        {
+          "text_en": "For small entrepreneurs in particular it is heavy that they must keep paying wages for two years when an employee is sick. We shorten the period for which small employers are liable and replace the second year with collective insurance.",
+          "text_nl": "Vooral voor kleine ondernemers is het zwaar dat zij twee jaar loon moeten doorbetalen bij ziekte van een werknemer. We verkorten de termijn waarvoor kleine werkgevers aansprakelijk zijn en vervangen het tweede jaar voor een collectieve verzekering.",
+          "speaker": "VVD manifesto 2025",
+          "date": "2025",
+          "source_id": "s27"
+        },
+        {
+          "text_en": "It is a blockade to taking people on.",
+          "text_nl": "Het is een blokkade om mensen in dienst te nemen.",
+          "speaker": "Mevrouw Michon-Derkzen",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s20",
+        "s15",
+        "s18",
+        "s17"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "In the House (where the group was still recorded as GroenLinks-PvdA in spring 2026) the party opposed the lower maximum daily wage and filed motions, including one to reverse the abolition of the allowance for disabled people. On bill 36 926 it voiced concern about the position of employees and the dismissal ban during sickness. It voted against the Ceulemans motion on shortening sick pay and for the Social Security Enforcement Act.",
+      "salience": "high",
+      "salience_basis": "Several motions on benefit levels in the March 2026 budget debate; 35 separate interventions in the committee report on bill 36 926, the most of any group; the 2025 manifesto could not be opened for this file.",
+      "quotes": [
+        {
+          "text_en": "The lowering of the maximum daily wage has enormous income consequences for everyone in the employee insurance schemes: for the people being laid off at Chemours, Tata and Batavus, for the people who are sick from working shifts, for the women entitled to maternity leave and the people who are already in the WIA.",
+          "text_nl": "De verlaging van het maximumdagloon heeft enorme inkomensgevolgen voor alle mensen in werknemersverzekeringen, dus voor de mensen die ontslagen worden bij Chemours, Tata en Batavus, voor de mensen die ziek zijn van het werken in ploegendienst, voor de vrouwen met recht op zwangerschapsverlof en de mensen die nu al in de WIA zitten.",
+          "speaker": "Mevrouw Patijn",
+          "date": "2026-03-19",
+          "source_id": "s21"
+        },
+        {
+          "text_en": "The members of the PRO group note that the ban on dismissal during sickness is precisely intended to prevent employees being dismissed because of their sickness.",
+          "text_nl": "De leden van de PRO-fractie merken op dat het opzegverbod tijdens ziekte juist is bedoeld om te voorkomen dat werknemers vanwege hun ziekte worden ontslagen.",
+          "speaker": "PRO group, committee report on bill 36 926",
+          "date": "2026-06-15",
+          "source_id": "s17"
+        }
+      ],
+      "source_ids": [
+        "s21",
+        "s20",
+        "s17",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "PVV opposes the coalition's WIA cuts, in particular lowering benefits already being paid and abolishing the IVA. On bill 36 926 it asked why the government kept the 104-week obligation although earlier advice (the Borstlap committee) argued for shortening, and it voted for the Ceulemans motion and for the Social Security Enforcement Act. Its 2025 manifesto does not mention sick pay or the WIA; it does propose stopping the 'export of benefits and allowances'.",
+      "salience": "medium",
+      "salience_basis": "No mention of sick pay or WIA in the 2025 manifesto; WIA cuts were the opening theme of PVV's contribution to the March 2026 Social Affairs budget debate and were raised by Wilders in the June 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Should you, as a government, not precisely be reliable by upholding existing agreements you have made with fully disabled people?",
+          "text_nl": "Moet je als overheid nu juist niet betrouwbaar zijn door bestaande afspraken die je met volledig afgekeurde mensen hebt gemaakt te handhaven?",
+          "speaker": "Edgar Mulder",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        },
+        {
+          "text_en": "Why did the government choose to hold on to a wage-continuation obligation of 104 weeks?",
+          "text_nl": "Waarom heeft de regering ervoor gekozen vast te houden aan een loondoorbetalingsplicht van 104 weken?",
+          "speaker": "PVV group, committee report on bill 36 926",
+          "date": "2026-06-15",
+          "source_id": "s17"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s17",
+        "s28",
+        "s15",
+        "s18",
+        "s22"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Coalition party. CDA stresses prevention, faster assessments at UWV and agreement with unions and employers, and calls WIA inflow among young people with mental-health complaints worrying. It voted against the Ceulemans motion on scenarios to shorten sick pay and for the Social Security Enforcement Act. On bill 36 926 it asked how sick employees keep prospects of recovery and return.",
+      "salience": "medium",
+      "salience_basis": "Co-signatory of the coalition agreement; CDA spokesperson Van Ark spoke most often in the June 2026 union-ultimatum debate (23 turns); the 2025 manifesto could not be opened for this file.",
+      "quotes": [
+        {
+          "text_en": "The Netherlands is ageing, the labour market will remain tight for a long time and inflow into the WIA is worryingly high, especially among young people with mental-health complaints.",
+          "text_nl": "Nederland vergrijst, de arbeidsmarkt blijft langdurig krap en de instroom in de WIA is zorgelijk hoog, zeker onder jonge mensen met psychische klachten.",
+          "speaker": "Mevrouw Van Ark",
+          "date": "2026-06-04",
+          "source_id": "s22"
+        }
+      ],
+      "source_ids": [
+        "s22",
+        "s3",
+        "s15",
+        "s18",
+        "s17"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "JA21 wants mandatory sick pay cut, preferably to one year for all employers, and regards bill 36 926 as an intermediate step. Its MP Ceulemans filed the motion, adopted on 31 March 2026, asking for scenarios to shorten sick pay. The manifesto asks for shorter sick pay, faster reintegration and reform of the system. JA21 voted against the Social Security Enforcement Act.",
+      "salience": "high",
+      "salience_basis": "Bullet in the 2025 manifesto; own adopted motion; raised in three plenary debates in 2026; Minister Vijlbrief said on television that sick pay is an important point for JA21, according to Ceulemans in the House.",
+      "quotes": [
+        {
+          "text_en": "Sick pay must be reduced, preferably to one year.",
+          "text_nl": "De loondoorbetaling bij ziekte moet worden teruggebracht, het liefst tot een jaar.",
+          "speaker": "De heer Ceulemans",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        },
+        {
+          "text_en": "JA21 wants shorter sick pay, faster reintegration, and reform of the system that now deters employers from giving permanent contracts.",
+          "text_nl": "JA21 wil kortere loondoorbetaling bij ziekte, snellere reïntegratie, en hervorming van het systeem dat nu werkgevers afschrikt om vaste contracten te geven.",
+          "speaker": "JA21 manifesto 2025",
+          "date": "2025",
+          "source_id": "s32"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s32",
+        "s15",
+        "s17",
+        "s18",
+        "s22"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "The group voted for the Ceulemans motion on scenarios to shorten sick pay and against the Social Security Enforcement Act. In the March 2026 budget debate its MP Moinat criticised UWV's errors in WIA benefits and said the system too often distrusts and sanctions instead of guiding people.",
+      "salience": "low",
+      "salience_basis": "No manifesto of its own (split from PVV in January 2026); two passages in the March 2026 budget debate; no motions on the subject found.",
+      "quotes": [
+        {
+          "text_en": "Many WIA benefits have been calculated wrongly because of errors at UWV.",
+          "text_nl": "Veel WIA-uitkeringen zijn namelijk verkeerd berekend door fouten bij het UWV.",
+          "speaker": "Mevrouw Moinat",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "The manifesto limits sick pay to one year and relaxes dismissal law for small and medium-sized firms. FVD voted for the Ceulemans motion and against the Social Security Enforcement Act.",
+      "salience": "medium",
+      "salience_basis": "Mentioned twice in the 2025 manifesto, in the list of headline points and the business chapter; no own motions on the subject found in 2026.",
+      "quotes": [
+        {
+          "text_en": "Continued pay during sickness is limited to one year so that employers dare to offer their staff a permanent job again.",
+          "text_nl": "Doorbetalen bij ziekte wordt ingeperkt tot één jaar zodat werkgevers hun personeel weer een vaste baan durven aan te bieden.",
+          "speaker": "FVD manifesto 2025",
+          "date": "2025",
+          "source_id": "s29"
+        }
+      ],
+      "source_ids": [
+        "s29",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The manifesto calls the disability insurance system needlessly complicated, wants to harmonise the WIA schemes, add a tailored scheme for terminally ill people and find a solution for people who are less than 35% disabled. In the House it asked the government for an international comparison of sick-pay rules and whether the duration could differ by employer size. It voted for the Ceulemans motion and the Social Security Enforcement Act.",
+      "salience": "medium",
+      "salience_basis": "Dedicated section in the 2025 manifesto; questions in the report on bill 36 926; party leader Bikker intervened ten times in the June 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "The system for insuring against incapacity for work is needlessly complicated and sometimes downright unjust.",
+          "text_nl": "Het stelsel voor verzekering van arbeidsongeschiktheid is nodeloos ingewikkeld en soms regelrecht onrechtvaardig.",
+          "speaker": "ChristenUnie manifesto 2025",
+          "date": "2025",
+          "source_id": "s30"
+        }
+      ],
+      "source_ids": [
+        "s30",
+        "s17",
+        "s15",
+        "s18",
+        "s22"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "SP opposes the WIA and unemployment-benefit cuts and proposed collective financing of the second sick year for small and medium-sized firms with up to 50 employees. It wants less spending on low-value enforcement and recovery while keeping targeted fraud investigations. An SP motion adopted earlier states that money in the disability fund may only be used to improve disability schemes. SP voted against the Ceulemans motion and for the Social Security Enforcement Act.",
+      "salience": "high",
+      "salience_basis": "SP leader Dijk spoke in all three 2026 plenary debates used here, filed motions on the disability fund and announced his own WIA plan in June 2026; the 2025 manifesto could not be opened for this file.",
+      "quotes": [
+        {
+          "text_en": "I believe that just before the elections I made a proposal to organise the second year of sick pay collectively for small and medium-sized businesses with 50 employees, because they often carry a heavy burden and have no large HR department to fix it.",
+          "text_nl": "Volgens mij deed ik vlak voor de verkiezingen een voorstel om het tweede jaar van loondoorbetaling bij ziekte voor midden- en kleinbedrijf met 50 werknemers collectief te organiseren, omdat zij vaak een grote last hebben en geen grote hr-afdeling hebben om het te fiksen.",
+          "speaker": "Jimmy Dijk",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        },
+        {
+          "text_en": "We opt for targeted fraud investigations and recoveries where they are really needed.",
+          "text_nl": "Wij kiezen voor gerichte fraudeonderzoeken en terugvorderingen daar waar die echt nodig zijn.",
+          "speaker": "Jimmy Dijk",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s22",
+        "s15",
+        "s18",
+        "s4"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "PvdD voted against the Ceulemans motion on scenarios to shorten sick pay and for the Social Security Enforcement Act. No statements by the party on sick pay or the WIA were found in the debates and documents consulted for this file.",
+      "salience": "low",
+      "salience_basis": "No contributions on the subject found in the three 2026 plenary debates or the committee report on bill 36 926; the 2025 manifesto could not be opened for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The manifesto shortens mandatory sick pay from two to one and a half years as a first step, wants UWV put in order and lets private providers take over work such as clearing the UWV queue. SGP called bill 36 926 a very limited relief for employers, listed shortening sick pay among its wishes in the June 2026 debate, and voted for the Ceulemans motion and the Social Security Enforcement Act.",
+      "salience": "medium",
+      "salience_basis": "Concrete pledge in the 2025 manifesto with an index entry; questions in the report on bill 36 926; raised by Flach in the June 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Mandatory sick pay is, as a first step, shortened from two to one and a half years.",
+          "text_nl": "De verplichte loondoorbetaling bij ziekte wordt in een eerste stap verkort van twee naar anderhalf jaar.",
+          "speaker": "SGP manifesto 2025",
+          "date": "2025",
+          "source_id": "s31"
+        }
+      ],
+      "source_ids": [
+        "s31",
+        "s17",
+        "s22",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "BBB voted for the Ceulemans motion on scenarios to shorten sick pay and against the Social Security Enforcement Act. In the June 2026 debate its MP Vermeer criticised lowering benefits as a response to UWV waiting times and the use of the disability-fund premium for other purposes.",
+      "salience": "low",
+      "salience_basis": "A handful of interventions in the June 2026 debate; no own motions on the subject found; the 2025 manifesto could not be opened for this file.",
+      "quotes": [
+        {
+          "text_en": "How can Ms Van Ark, her coalition and the cabinet then propose lowering the benefits? Surely that is not a solution for shortening the waiting time at UWV?",
+          "text_nl": "Hoe kunnen mevrouw Van Ark, haar coalitie en het kabinet dan voorstellen om de uitkeringen te verlagen? Dat is toch geen oplossing om de wachttijd bij het UWV te verkorten?",
+          "speaker": "De heer Vermeer",
+          "date": "2026-06-04",
+          "source_id": "s22"
+        }
+      ],
+      "source_ids": [
+        "s22",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "DENK opposes the planned cuts for disabled people and said the plans to trim the WIA and unemployment benefit must be withdrawn. It voted against the Ceulemans motion on shortening sick pay and for the Social Security Enforcement Act.",
+      "salience": "medium",
+      "salience_basis": "Five interventions by Van Baarle in the June 2026 debate, all on benefit cuts; supported other parties' motions rather than filing its own; the 2025 manifesto could not be opened for this file.",
+      "quotes": [
+        {
+          "text_en": "The substantive plans to skimp on the WIA and the WW must also be taken off the table.",
+          "text_nl": "Ook de inhoudelijke plannen om op de WIA en de WW te beknibbelen moeten van tafel.",
+          "speaker": "De heer Van Baarle",
+          "date": "2026-06-04",
+          "source_id": "s22"
+        }
+      ],
+      "source_ids": [
+        "s22",
+        "s15",
+        "s18"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "50PLUS opposes abolishing the IVA and lowering the maximum daily wage and criticised repeated reassessments of older workers by UWV. It voted against the Ceulemans motion and for the Social Security Enforcement Act.",
+      "salience": "medium",
+      "salience_basis": "Seven passages on UWV, WIA and benefit levels in its contribution to the March 2026 budget debate.",
+      "quotes": [
+        {
+          "text_en": "The most brutal measure, abolishing the income provision for fully disabled people, has already been mentioned today.",
+          "text_nl": "De meest brute maatregel, het afschaffen van de inkomensvoorziening voor volledig arbeidsongeschikten, is vandaag al eerder genoemd.",
+          "speaker": "Mevrouw Van Brenk",
+          "date": "2026-03-11",
+          "source_id": "s20"
+        }
+      ],
+      "source_ids": [
+        "s20",
+        "s15",
+        "s18"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "employee"
+      ],
+      "text": "Current rule: if you are sick your employer must keep paying at least 70% of your wage for up to 104 weeks (at least the minimum wage in the first year, and capped at the maximum daily wage); many collective agreements top this up. You cannot be dismissed because of the sickness in that period, and you must cooperate with reintegration.",
+      "source_ids": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "applies_to": [
+        "employee"
+      ],
+      "text": "Current rule: your employer may not ask what illness you have or record it; you must answer the company doctor's medical questions, and the employer may require you to attend the company doctor's consultation.",
+      "source_ids": [
+        "s23"
+      ]
+    },
+    {
+      "applies_to": [
+        "employee",
+        "employer"
+      ],
+      "text": "Proposal (scenario in the minister's letter of 8 September 2026, not a cabinet proposal; backed in different forms by D66, JA21, FVD and SGP): shorten sick pay and the dismissal ban to one or one and a half years. The ministry writes that employees would then lose income protection earlier and could be dismissed earlier, and that a transitional rule would be needed for people already sick.",
+      "source_ids": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Pending bill 36 926 (cabinet): employers with up to 100 employees could, from the start of the second sick year, focus reintegration solely on a job elsewhere and replace the employee, with the employee's consent or UWV's permission; the request to UWV must be made by week 42. The 104 weeks of sick pay stay.",
+      "source_ids": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Coalition agreement: the compensation employers receive for the severance payment after two years of sickness is to be abolished for all employers; a law firm reads the budget annex as taking effect on 1 January 2028. The agreement also fills in the 'freedom contribution' for businesses as a higher disability-fund premium.",
+      "source_ids": [
+        "s3",
+        "s34"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "If you apply for a WIA benefit: UWV's decision period was doubled from 8 to 16 weeks in January 2026 according to NOS, more than 11,000 people had waited over six months in June 2026, and UWV pays advances to people waiting beyond the legal deadline. Reassessments are only done in medically or financially urgent situations.",
+      "source_ids": [
+        "s10",
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "If your WIA benefit was set between January 2020 and December 2024: UWV is checking about 51,000 benefits for daily-wage errors and has informed those concerned. According to NOS, people who received too much do not have to repay and people who received too little are compensated; underpayments averaged EUR 2,745 gross over the whole period by UWV's estimate.",
+      "source_ids": [
+        "s24",
+        "s8"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits",
+        "income_high"
+      ],
+      "text": "Proposal from the coalition agreement's financial annex (D66, VVD, CDA), shelved 'in the proposed form' since May 2026: a lower maximum daily wage from 2029 would cap WW, WIA, Ziektewet and leave benefits at EUR 3,705.52 instead of EUR 4,631.90 gross a month, also for benefits already running. NOS counted 77,500 people who would lose EUR 926 a month and about 83,000 who would lose less. The minister is mapping alternatives.",
+      "source_ids": [
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "Proposal from the coalition agreement: abolish the IVA benefit for new cases. The minister wrote on 24 August 2026 that this would not apply to people who already receive an IVA benefit and that the change is not being pursued in the proposed form for now.",
+      "source_ids": [
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "Decided: the Social Security Enforcement Act was adopted by the Senate on 27 October 2026. It lowers fines, lets UWV, SVB and municipalities refrain from a sanction for mistakes, and shortens the period for recovering wrongly paid benefits from 20 to 5 years.",
+      "source_ids": [
+        "s18"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "Current rule: people on a UWV benefit must report relevant changes such as volunteer work, holidays or moving house. Overpayments must be repaid and UWV can add a warning or fine; in 2025 it imposed 600 fines and 2,600 warnings for 4,000 detected breaches.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed"
+      ],
+      "text": "Self-employed people are not covered by employer sick pay. The coalition agreement continues the bill for a basic disability insurance for the self-employed (BAZ) with the option to insure privately instead.",
+      "source_ids": [
+        "s3"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "loondoorbetaling bij ziekte",
+    "ziekteverzuim",
+    "wet verbetering poortwachter",
+    "wia",
+    "iva",
+    "arbeidsongeschiktheid",
+    "ziektewet",
+    "verzekeringsartsen",
+    "sociaal-medische beoordelingen",
+    "maximumdagloon",
+    "tweede ziektejaar",
+    "hersteloperatie wia",
+    "handhaving sociale zekerheid",
+    "uitkeringsfraude",
+    "re-integratie"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Ziekteverzuim in eerste kwartaal hoger dan gemiddeld in afgelopen 30 jaar",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/23/ziekteverzuim-in-eerste-kwartaal-hoger-dan-gemiddeld-in-afgelopen-30-jaar",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "s2",
+      "title": "Ziekteverzuimpercentage; bedrijfstakken (SBI 2008) en bedrijfsgrootte (StatLine table 80072ned, open data)",
+      "publisher": "CBS",
+      "url": "https://opendata.cbs.nl/ODataApi/odata/80072ned/TypedDataSet",
+      "date": null
+    },
+    {
+      "id": "s3",
+      "title": "Coalitieakkoord 2026-2030 'Aan de slag. Bouwen aan een beter Nederland'",
+      "publisher": "D66, VVD, CDA (published via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s4",
+      "title": "Brief van de minister van Werk en Participatie: scenario's loondoorbetaling bij ziekte (Kamerstuk 32 716, nr. 70)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D41831",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "s5",
+      "title": "Bijlage bij Kamerstuk 32 716, nr. 70: beschrijving scenario's loondoorbetaling bij ziekte",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D41832",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "s6",
+      "title": "UWV jaarverslag 2025",
+      "publisher": "UWV",
+      "url": "https://www.uwv.nl/assets-kai/files/bd78c8a5-8a43-43b2-8cd7-6e45306eea10/uwv-jaarverslag-2025.pdf",
+      "date": null
+    },
+    {
+      "id": "s7",
+      "title": "Meer mensen moeten langer wachten op arbeidsongeschiktheidsuitkering",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/23/meer-mensen-moeten-langer-wachten-op-arbeidsongeschiktheidsuitkering",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "s8",
+      "title": "Algemene Rekenkamer: UWV en ministerie hadden 'blinde vlek' voor fouten WIA",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2593057",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "s9",
+      "title": "Nieuw kabinet wil uitkeringen voor hoge inkomens fors verlagen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2601116-nieuw-kabinet-wil-uitkeringen-voor-hoge-inkomens-fors-verlagen",
+      "date": "2026-02-06"
+    },
+    {
+      "id": "s10",
+      "title": "UWV: meer keuren door hbo'ers en minder herkeuringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2595229-uwv-meer-keuren-door-hbo-ers-en-minder-herkeuringen",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "s11",
+      "title": "Brief van de minister van SZW: reactie op brief over WIA-bezuinigingen en IVA-gerechtigden (Kamerstuk 32 716, nr. 69)",
+      "publisher": "Tweede Kamer (published via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260824/brief_regering_reactie_op_verzoek/document3/f=/vn0ek0t0r9zg.pdf",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "s12",
+      "title": "Brief van de minister van SZW: reactie op brief Landelijke Cliëntenraad over WIA-plannen (Kamerstuk 32 716, nr. 68)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/dossier/kst-1264749.pdf",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "s13",
+      "title": "Brief van de minister van SZW: eerste reactie op IBO WIA (Kamerstuk 32 716, nr. 56)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/dossier/kst-1234117.pdf",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "s14",
+      "title": "Brief reactie ultimatum vakbeweging d.d. 11 mei 2026",
+      "publisher": "Ministerie van SZW (published via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/brief_in/20260526/brief_reactie_ultimatum/f=/vmxvaq4pupje.pdf",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "s15",
+      "title": "Stemming gewijzigde motie-Ceulemans over scenario's om de verplichte loondoorbetaling bij ziekte te verkorten (36800-XV, nr. 110), Handelingen TK 57",
+      "publisher": "Tweede Kamer (published via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/nonav/behandeling/20260331/stemming_motie_begroting_sociale/document3/f=/vmyg804zxzza.pdf",
+      "date": "2026-03-31"
+    },
+    {
+      "id": "s16",
+      "title": "Sneller duidelijkheid voor werkgevers over re-integratie zieke werknemer",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-sociale-zaken-en-werkgelegenheid/nieuws/2026/04/02/sneller-duidelijkheid-voor-werkgevers-over-re-integratie-zieke-werknemer",
+      "date": "2026-04-02"
+    },
+    {
+      "id": "s17",
+      "title": "Verslag wetsvoorstel wijziging re-integratieverplichtingen tweede ziektejaar bij kleine en middelgrote werkgevers (Kamerstuk 36 926, nr. 6)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36926-6.pdf",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "s18",
+      "title": "Wet handhaving sociale zekerheid (36.785)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/36785_wet_handhaving_sociale",
+      "date": null
+    },
+    {
+      "id": "s19",
+      "title": "Stand van de uitvoering sociale zekerheid, april 2026",
+      "publisher": "Ministerie van SZW (published via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/overig/20260407/stand_van_de_uitvoering_sociale/document",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "s20",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 50, item 7: begroting Sociale Zaken en Werkgelegenheid 2026 (eerste termijn Kamer)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-50-7.html",
+      "date": "2026-03-11"
+    },
+    {
+      "id": "s21",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 53, item 9: begroting Sociale Zaken en Werkgelegenheid 2026 (voortzetting)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-53-9.html",
+      "date": "2026-03-19"
+    },
+    {
+      "id": "s22",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 78, item 10: Ultimatum van de vakbeweging inzake de bezuinigingen op de sociale zekerheid",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-78-10.html",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "s23",
+      "title": "Zieke werknemers",
+      "publisher": "Autoriteit Persoonsgegevens",
+      "url": "https://www.autoriteitpersoonsgegevens.nl/themas/werk-en-uitkering/zieke-werknemers",
+      "date": null
+    },
+    {
+      "id": "s24",
+      "title": "Overzicht herstelacties",
+      "publisher": "UWV",
+      "url": "https://www.uwv.nl/nl/over-uwv/herstelacties/overzicht-herstelacties",
+      "date": null
+    },
+    {
+      "id": "s25",
+      "title": "Ziekteregels weerhouden zes op tien ondernemers ervan personeel aan te nemen",
+      "publisher": "MKB Servicedesk",
+      "url": "https://www.mkbservicedesk.nl/nieuws/ondernemersnieuws/ziekteregels-weerhouden-zes-op-tien-ondernemers-ervan-personeel-aan-te-nemen",
+      "date": null
+    },
+    {
+      "id": "s26",
+      "title": "D66 verkiezingsprogramma 2025-2030",
+      "publisher": "D66",
+      "url": "https://media.d66.nl/uploads/2026/04/D66-Verkiezingsprogramma-2025-2030-2-1.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s27",
+      "title": "VVD verkiezingsprogramma Tweede Kamer 2025",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/wp-content/uploads/2025/09/Verkiezingsprogramma-TK-VVD-2025-DEF.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s28",
+      "title": "PVV verkiezingsprogramma 2025",
+      "publisher": "PVV",
+      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s29",
+      "title": "FVD verkiezingsprogramma 2025",
+      "publisher": "FVD",
+      "url": "https://fvd.nl/verkiezingsprogramma",
+      "date": "2025"
+    },
+    {
+      "id": "s30",
+      "title": "ChristenUnie verkiezingsprogramma 2025",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s31",
+      "title": "SGP verkiezingsprogramma 2025-2029",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/download?docID=0bf38fdb632c316533a714ca801a54df72a99572&name=Verkiezingsprogramma_SGP_2025%20eindversie.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s32",
+      "title": "JA21 verkiezingsprogramma Tweede Kamer 2025",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s33",
+      "title": "Scenario's voor loondoorbetaling bij ziekte",
+      "publisher": "Taxence",
+      "url": "https://www.taxence.nl/nieuws/scenarios-voor-loondoorbetaling-bij-ziekte/",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "s34",
+      "title": "Regeerakkoord 2026-2030: wat betekenen de plannen voor arbeid en pensioen?",
+      "publisher": "Dirkzwager",
+      "url": "https://www.dirkzwager.nl/kennis/artikelen/regeerakkoord-2026-2030-wat-betekenen-de-plannen-voor-arbeid-en-pensioen",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "s35",
+      "title": "Factsheet Week van de Werkstress 2026",
+      "publisher": "TNO (Monitor Arbeid)",
+      "url": "https://monitorarbeid.tno.nl/publicaties/factsheet-week-van-de-werkstress-2026/",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "s36",
+      "title": "Vakbonden boos, opluchting in onderwijs en scepsis over zorgplannen van coalitie",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600312",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s37",
+      "title": "Ziekteverzuim en herstel naar werk",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk",
+      "date": null
+    },
+    {
+      "id": "s38",
+      "title": "UWV Achtmaandenverslag 2026 (webpublicatie, voorwoord)",
+      "publisher": "UWV",
+      "url": "https://www.uwv.nl/nl/publicaties/jaar-en-tertaalverslagen/2026/uwv-achtmaandenverslag-2026/webpublicatie-2026",
+      "date": "2026"
+    },
+    {
+      "id": "s39",
+      "title": "Brief van de minister van SZW: voortgang mismatch sociaal-medisch beoordelen, hersteloperatie en kwaliteitsverbeteringen UWV (Kamerstuk 26 448, nr. 862)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26448-862.pdf",
+      "date": "2025-12-19"
+    }
+  ]
+}

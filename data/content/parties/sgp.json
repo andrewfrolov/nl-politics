@@ -1,0 +1,180 @@
+{
+  "abbr": "SGP",
+  "slug": "sgp",
+  "name_nl": "Staatkundig Gereformeerde Partij",
+  "name_en": "Reformed Political Party",
+  "founded": "1918",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 2,
+  "seats_house_2025_election": 3,
+  "seats_house_2023_election": 3,
+  "in_coalition": false,
+  "party_leader": "Chris Stoffer",
+  "house_group_leader": "Chris Stoffer",
+  "senate_group_leader": "Peter Schalk",
+  "website": "https://www.sgp.nl",
+  "described_as": [
+    {
+      "text": "Parlement.com, a Dutch parliamentary reference site, describes the SGP as a conservative Christian (Reformed) party on the right of the political spectrum that wants to conduct politics strictly according to Biblical norms. It notes that the SGP is the oldest existing party in the Netherlands and has never taken part in a government.",
+      "source_ids": ["s4"]
+    },
+    {
+      "text": "In its 2025 manifesto the party says it wants to offer 'richting, rust en houvast met de Bijbel als kompas' (direction, calm and something to hold on to, with the Bible as compass) and says it stands for values that 'protect life, strengthen the family and safeguard security'. The manifesto's slogan is 'Stem christelijk voor Nederland' (Vote Christian for the Netherlands).",
+      "source_ids": ["s6"]
+    },
+    {
+      "text": "The Documentation Centre for Dutch Political Parties (DNPP, University of Groningen) notes that the party's programme of principles still holds that holding political office is contrary to a woman's calling, although the party rules have allowed women to stand for election since March 2013.",
+      "source_ids": ["s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1918-04-24",
+      "event": "The SGP is founded in Middelburg, with the minister Gerrit Hendrik Kersten from Yerseke as driving force, after a break with the Anti-Revolutionary Party (ARP).",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "1922",
+      "event": "The party enters the House of Representatives for the first time. Since 1925 it has generally won just over 2% of the vote.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2006-06-24",
+      "event": "The party's general assembly allows women full membership.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2010-04-09",
+      "event": "The Hoge Raad (Supreme Court) rules that the state must take effective measures against the SGP's exclusion of women from its candidate lists. In 2012 the party loses its case at the European Court of Human Rights.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2013-03",
+      "event": "The SGP changes its rules so that women can formally stand for elected bodies.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2023",
+      "event": "Chris Stoffer succeeds Kees van der Staaij, party leader since 2010, as political leader.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2025-05-24",
+      "event": "At the party congress an amendment from the Vlissingen branch to change the programme's text on women is rejected by a large majority. The party's candidate list for the 2025 House election contains no women, according to DNPP.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "House election: the SGP wins three seats (2.2%), the same number as in every House election since 2012. Chris Stoffer is lead candidate.",
+      "source_ids": ["s4", "s7"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Stem christelijk voor Nederland — Verkiezingsprogramma 2025-2029",
+    "url": "https://dnpprepo.ub.rug.nl/88768/7/SGP%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+    "key_points": [
+      {
+        "topic": "Abortion and euthanasia",
+        "text": "The SGP wants the abortion law repealed; as long as that is not the case it wants a fixed minimum reflection period of five days restored, abortion kept in the criminal code and the 24-week limit lowered, which the manifesto calls medically outdated. The party also wants to repeal the euthanasia law and opposes any widening of assisted suicide, including for a so-called completed life.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Family",
+        "text": "Introduce a single, simple child contribution into which kinderbijslag (child benefit), the kindgebonden budget (income-dependent child budget) and the kinderopvangtoeslag (childcare allowance) are merged, without clawbacks. A 'zwemlesbonus' (swimming-lesson bonus) of 1,000 euros for every four-year-old. Parlement.com also lists a possible minister for the Family.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Children and social media",
+        "text": "Ban social media for children under 15, with compulsory age verification at app-store level.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Freeze the eigen risico (the compulsory annual excess in health insurance) at 385 euros for the coming cabinet period.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Defence",
+        "text": "Meet the new NATO spending norm: by 2035 the Netherlands spends 5% of GDP on defence, of which 1.5% on broader investment in societal resilience and infrastructure. No European army; decisions on deploying troops stay in The Hague, not Brussels.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Israel",
+        "text": "Move the Dutch embassy in Israel to Jerusalem, which the manifesto calls the undivided capital of Israel. The SGP opposes unilateral recognition of a Palestinian state and does not support the Palestinian Authority without reforms. Parlement.com summarises the position as full support for Israel.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Migration and asylum",
+        "text": "A guiding target number with a clear upper limit for net migration, with bandwidths for all types of migration; processing of asylum applications in partner countries outside the EU, under Dutch responsibility; an EU upper limit on the number of labour migrants entering the EU each year.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Sunday rest",
+        "text": "The manifesto states that Sunday ought to be a day of rest. It proposes a Sunday driving ban for lorries and freedom for municipalities to regulate shop opening.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Prostitution, pornography and drugs",
+        "text": "Make both visiting prostitutes and operating prostitution punishable; ban the production, distribution and possession of pornography; end the toleration policy for drugs and aim for a drug-free society.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Criminal justice",
+        "text": "The manifesto states that the death penalty 'can be a just punishment' for crimes against life, including terrorist crimes, and that a life sentence should mean life.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Housing and land",
+        "text": "The SGP says it is not in favour of abolishing the hypotheekrenteaftrek (mortgage interest tax relief) but does not reject a revision of it. Expropriation of land should not be made easier.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Energy and nitrogen",
+        "text": "Energy should come first of all from domestic sources, among which the manifesto names wind, solar, nuclear energy and heat from soil, water and air. On nitrogen, the manifesto says emissions continue to fall and calls for legalising the so-called PAS-knelgevallen (farms left without a valid permit after a 2019 court ruling).",
+        "source_ids": ["s6"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "event": "Parlement.com reports 31,426 party members on 1 January 2026.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "A motion by independent member Mona Keijzer and Chris Stoffer to halve the tasks and staff of advisory bodies, filed during the debate on the 2027 Tax Plan, is rejected with 71 votes in favour, according to the House website.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-11-18",
+      "event": "The House website lists a motion by Chris Stoffer on withdrawing the Dutch intervention in South Africa's genocide case against Israel. The page consulted does not state the outcome.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The SGP House group consists of Chris Stoffer (leader), André Flach and Diederik van Dijk. The party holds two of the 75 Senate seats and one seat in the European Parliament. No leadership changes in 2026 were found in the sources consulted.",
+      "source_ids": ["s1", "s2", "s3", "s4"]
+    }
+  ],
+  "key_people": [
+    {"name": "Chris Stoffer", "role": "Political leader and House group leader (leader since 2023)"},
+    {"name": "André Flach", "role": "House member"},
+    {"name": "Diederik van Dijk", "role": "House member"},
+    {"name": "Peter Schalk", "role": "Senate group leader"},
+    {"name": "Bert-Jan Ruissen", "role": "Member of the European Parliament"},
+    {"name": "Dick van Meeuwen", "role": "Party chair since January 2021"},
+    {"name": "Kees van der Staaij", "role": "Political leader 2010-2023"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s2", "title": "SGP (fractie)", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/sgp", "date": null},
+    {"id": "s3", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s4", "title": "SGP (Staatkundig Gereformeerde Partij)", "publisher": "Parlement.com", "url": "https://www.parlement.com/partij/sgp-staatkundig-gereformeerde-partij", "date": null},
+    {"id": "s5", "title": "SGP - geschiedenis", "publisher": "Documentatiecentrum Nederlandse Politieke Partijen (University of Groningen)", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/sgp/geschiedenis", "date": "2026-06-05"},
+    {"id": "s6", "title": "Stem christelijk voor Nederland. Verkiezingsprogramma 2025-2029", "publisher": "SGP (archived by DNPP, University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88768/7/SGP%20Verkiezingsprogramma%20TK%202025-2029.pdf", "date": "2025"},
+    {"id": "s7", "title": "SGP en Tweede Kamerverkiezingen 2025", "publisher": "Parlement.com", "url": "https://parlement.com/sgp-en-tweede-kamerverkiezingen-2025", "date": null},
+    {"id": "s8", "title": "Mona Keijzer (Lid Keijzer) - member page with motions and amendments", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/keijzer-mcg-lid-keijzer", "date": null}
+  ]
+}

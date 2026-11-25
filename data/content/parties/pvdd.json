@@ -1,0 +1,204 @@
+{
+  "abbr": "PvdD",
+  "slug": "pvdd",
+  "name_nl": "Partij voor de Dieren",
+  "name_en": "Party for the Animals",
+  "founded": "2002",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 2,
+  "seats_house_2025_election": 3,
+  "seats_house_2023_election": 3,
+  "in_coalition": false,
+  "party_leader": "Christine Teunissen",
+  "house_group_leader": "Ines Kostić (acting since 24 November 2026, during Christine Teunissen's pregnancy and maternity leave)",
+  "senate_group_leader": "Peter Nicolaï",
+  "website": "https://www.partijvoordedieren.nl",
+  "described_as": [
+    {
+      "text": "Parlement.com, a Dutch parliamentary reference site, describes the PvdD as a party that regards animals as the most vulnerable members of society, wants animal welfare on the political agenda and wants better legal protection of animal rights. It lists the party as part of the opposition.",
+      "source_ids": ["s5"]
+    },
+    {
+      "text": "In the introduction to its 2025 election manifesto the party says it wants to put first what it calls most important and most vulnerable: animals, nature, the environment and people. It calls this approach 'ecocentraal' (ecocentric) and closes the introduction with the words 'Want wij zijn er voor alles wat leeft. Natuurlijk.' (Because we are there for everything that lives. Naturally.).",
+      "source_ids": ["s12"]
+    },
+    {
+      "text": "The cabinet in office in 2026 is described by NOS as a cabinet of D66, VVD and CDA; the PvdD is not part of it.",
+      "source_ids": ["s9", "s5"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2002-10-28",
+      "event": "The party is founded. Marianne Thieme and Niko Koffeman are named by NOS as co-founders.",
+      "source_ids": ["s5", "s10"]
+    },
+    {
+      "date": "2006",
+      "event": "The PvdD wins its first two seats in the House of Representatives. Marianne Thieme becomes House group leader on 23 November 2006.",
+      "source_ids": ["s5", "s6"]
+    },
+    {
+      "date": "2007",
+      "event": "The party enters the Senate; according to the Senate website it has been represented there since 12 June 2007.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2014",
+      "event": "The party wins its first seat in the European Parliament.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2019-10",
+      "event": "Esther Ouwehand succeeds Marianne Thieme as party leader and House group leader (9 October 2019).",
+      "source_ids": ["s6", "s8"]
+    },
+    {
+      "date": "2021",
+      "event": "The party wins six House seats, its highest number to date (five in 2017).",
+      "source_ids": ["s5", "s8"]
+    },
+    {
+      "date": "2023",
+      "event": "In September 2023 the party board withdraws its nomination of Ouwehand as lead candidate, citing reports of integrity violations. After most local and provincial representatives back her, the board resigns and her nomination is restored. NOS later reported that the new board stated that all nine complaints came from members of the old board and that none was found to be justified. In the November 2023 election the party falls from six to three seats.",
+      "source_ids": ["s5", "s10", "s8"]
+    },
+    {
+      "date": "2025-10-21",
+      "event": "Co-founder and senator Niko Koffeman ends his party membership, saying he is dissatisfied with the party's direction and that it is drifting too far from animal suffering; he keeps his Senate seat. The party responds that all its representatives prioritise the interests of all animals. NOS reports that dissatisfaction with the broader course led to the founding of a new animal party, Vrede voor Dieren.",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "House election: the PvdD keeps three seats (2.2% of the vote). Lead candidate is Esther Ouwehand.",
+      "source_ids": ["s5", "s14"]
+    },
+    {
+      "date": "2025-11-10",
+      "event": "The three-member Senate group splits. Senator Ingrid Visseren-Hamakers, group leader since February 2025, continues as the one-member Fractie-Visseren-Hamakers; Peter Nicolaï and Niko Koffeman continue as the PvdD Senate group with Nicolaï as leader. The party board disputes this: it says Koffeman cancelled his membership and Nicolaï was expelled, so that in its view Visseren-Hamakers is the party's only remaining senator.",
+      "source_ids": ["s11", "s15", "s4"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Natuurlijk. — Verkiezingsprogramma Partij voor de Dieren, Verkiezingen Tweede Kamer 2025 (plain-language edition published by the party)",
+    "url": "https://assets.partijvoordedieren.nl/assets/algemeen/2.-Documenten/Verkiezingsprogrammas/Verkiezingsprogramma-TK25/PVDD-programma-TK2025-eenvoudige-taal.pdf",
+    "key_points": [
+      {
+        "topic": "Climate",
+        "text": "Spend 5% of national income every year on fighting what the party calls the climate and nature crisis; make the Netherlands climate neutral by 2030 at the latest with a national CO2 budget; immediately end fossil-fuel and agricultural subsidies, which the manifesto puts at 40 billion euros a year.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Livestock farming and animal rights",
+        "text": "Reduce the number of animals in livestock farming by at least 75% within two years and help farmers switch to plant-based and organic farming. Make glass walls compulsory in slaughterhouses, stables and transport vehicles and install cameras there; close slaughterhouses that break the rules. NOS also reports a pledge to end goat farming within one year.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Energy",
+        "text": "No new nuclear power plants; existing plants close. Banks and funds may no longer invest in oil and gas. Advertising for products the party considers harmful to the climate is banned.",
+        "source_ids": ["s12"]
+      },
+      {
+        "topic": "Work and income",
+        "text": "Raise the minimum wage to 18 euros an hour and let it, and benefits such as the AOW (state pension) and bijstand (social assistance), rise with wages; abolish the lower youth minimum wage; make 32 hours the standard working week.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Taxes",
+        "text": "Lower taxes for low incomes and higher taxes for high incomes, with an extra rate above a top income of about 246,000 euros (2025); a climate tax on large fortunes; higher taxes on large inheritances and bonuses; 0% VAT on repairs, circular products and organic fruit and vegetables; a higher CO2 levy and a higher flight tax for frequent flyers and private jets.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Abolish the eigen risico (the compulsory annual excess in health insurance). The manifesto says the zorgtoeslag (healthcare allowance) would then become unnecessary. Parlement.com also lists an expansion of the basic insurance package.",
+        "source_ids": ["s12", "s14"]
+      },
+      {
+        "topic": "Housing",
+        "text": "No rent increases for five years; apply the points system that sets maximum rents (WWS) to all rental homes including the free sector; at least 40% of new-build homes to be social rent; raise the income limit for social housing; homes energy neutral by 2030. The manifesto links land for housing to the 75% reduction in livestock farming.",
+        "source_ids": ["s12"]
+      },
+      {
+        "topic": "Transport and aviation",
+        "text": "Shrink aviation: Schiphol becomes half its size, Lelystad Airport does not open, flights under 750 km are banned where a train connection exists and private planes disappear. Introduce a per-kilometre road charge, build no new motorways or road widenings and ban the sale of large polluting cars such as SUVs and pick-ups.",
+        "source_ids": ["s12"]
+      },
+      {
+        "topic": "Education",
+        "text": "Raise the basisbeurs (basic student grant) to at least 500 euros a month for students living away from home and 130 euros for those living with their parents; substantially lower tuition fees. NOS reports a pledge that children may have a smartphone only from age 14.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Defence",
+        "text": "The Netherlands and Europe spend more on their own defence, but not at the expense of climate, nature, healthcare and education. No European army and no conscription. The party wants a different form of cooperation than NATO, without the United States; until then the Netherlands remains a NATO member. Nuclear weapons are removed from the Netherlands.",
+        "source_ids": ["s12", "s13"]
+      },
+      {
+        "topic": "Israel, Palestine and Russia",
+        "text": "End all cooperation with Israel 'as long as they commit war crimes' (manifesto wording), including arms deliveries and EU trade agreements; recognise Palestine as a state; the manifesto also condemns Hamas, calling it a terrorist organisation that commits war crimes. End purchases of Russian oil and gas and seek further measures against Russia.",
+        "source_ids": ["s12", "s14"]
+      },
+      {
+        "topic": "Democracy",
+        "text": "Give young people the right to vote from age 16.",
+        "source_ids": ["s12"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "event": "Parlement.com reports 33,556 party members on 1 January 2026.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-06-04",
+      "event": "Esther Ouwehand (49) steps down as party leader and House group leader after almost seven years; Christine Teunissen (40) takes over both roles. Ouwehand stays on as a House member and, according to NOS, plans two private member's bills: one to end intensive livestock farming and one to limit animal suffering at slaughter.",
+      "source_ids": ["s8", "s6"]
+    },
+    {
+      "date": "2026-06-20",
+      "event": "In her first speech as leader, at a party congress in Den Bosch, Teunissen continues the broadened course of her predecessor, according to NOS: climate, animals and nature first, but also attention for other vulnerable groups. She criticises the D66-VVD-CDA cabinet for, in her view, doing too little against climate change, naming the opening of Lelystad Airport, support for Tata Steel and the abolition of the CO2 levy for large companies.",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-11-24",
+      "event": "Christine Teunissen goes on pregnancy and maternity leave. Debbie Mathijsen is sworn in as her temporary replacement in the House and Ines Kostić becomes acting House group leader.",
+      "source_ids": ["s7", "s6", "s2"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The Senate website lists a PvdD group of two members (Peter Nicolaï, leader since 10 November 2025, and Niko Koffeman) and a separate one-member Fractie-Visseren-Hamakers. The party board's position, as reported in November 2025, is that Nicolaï was expelled and Koffeman left the party.",
+      "source_ids": ["s3", "s4", "s11"]
+    }
+  ],
+  "key_people": [
+    {"name": "Christine Teunissen", "role": "Party leader and House group leader since 4 June 2026; on pregnancy and maternity leave from 24 November 2026"},
+    {"name": "Ines Kostić", "role": "House member; acting House group leader since 24 November 2026"},
+    {"name": "Esther Ouwehand", "role": "House member; party leader 2019 to June 2026"},
+    {"name": "Debbie Mathijsen", "role": "Temporary House member since 24 November 2026 (replacing Teunissen)"},
+    {"name": "Peter Nicolaï", "role": "Leader of the PvdD group in the Senate since 10 November 2025"},
+    {"name": "Niko Koffeman", "role": "Senator, co-founder; ended his party membership in October 2025"},
+    {"name": "Zwanny Naber", "role": "Party chair (as listed by Parlement.com)"},
+    {"name": "Anja Hazekamp", "role": "Member of the European Parliament"},
+    {"name": "Marianne Thieme", "role": "Co-founder; party leader until 2019"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s2", "title": "Partij voor de Dieren (PvdD)", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/partij_voor_de_dieren", "date": null},
+    {"id": "s3", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s4", "title": "Partij voor de Dieren (fractie)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/partij_voor_de_dieren", "date": null},
+    {"id": "s5", "title": "PvdD (Partij voor de Dieren)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/pvdd-partij-voor-de-dieren", "date": null},
+    {"id": "s6", "title": "Tweede Kamerfractie Partij voor de Dieren", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-partij-voor-de-dieren", "date": null},
+    {"id": "s7", "title": "Ch. (Christine) Teunissen", "publisher": "Parlement.com", "url": "https://parlement.com/biografie/ch-christine-teunissen", "date": null},
+    {"id": "s8", "title": "Ouwehand stopt als leider Partij voor de Dieren, Teunissen neemt het over", "publisher": "NOS", "url": "https://nos.nl/l/2617104", "date": "2026-06-04"},
+    {"id": "s9", "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger", "publisher": "NOS", "url": "https://nos.nl/l/2619487", "date": "2026-06-20"},
+    {"id": "s10", "title": "Mede-oprichter Partij voor de Dieren Niko Koffeman stapt uit partij", "publisher": "NOS", "url": "https://nos.nl/l/2587289", "date": "2025-10-21"},
+    {"id": "s11", "title": "Nicolaï en Koffeman vormen PvdD-fractie, Visseren-Hamakers vormt eigen fractie", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202511/nicolai-en-koffeman-vormen-pvdd-fractie-visseren-hamakers-vormt-eigen-fractie", "date": "2025-11-10"},
+    {"id": "s12", "title": "Verkiezingsprogramma Partij voor de Dieren, Verkiezingen Tweede Kamer 2025 (eenvoudige taal)", "publisher": "Partij voor de Dieren", "url": "https://assets.partijvoordedieren.nl/assets/algemeen/2.-Documenten/Verkiezingsprogrammas/Verkiezingsprogramma-TK25/PVDD-programma-TK2025-eenvoudige-taal.pdf", "date": "2025"},
+    {"id": "s13", "title": "Partij voor de Dieren pleit in verkiezingsprogramma voor glazen slachthuiswanden", "publisher": "NOS", "url": "https://nos.nl/l/2579177", "date": "2025-08-19"},
+    {"id": "s14", "title": "PvdD en Tweede Kamerverkiezingen 2025", "publisher": "Parlement.com", "url": "https://parlement.com/pvdd-en-tweede-kamerverkiezingen-2025", "date": null},
+    {"id": "s15", "title": "Afsplitsingen in de Eerste Kamer", "publisher": "Parlement.com", "url": "https://parlement.com/afsplitsingen-de-eerste-kamer", "date": null}
+  ]
+}
