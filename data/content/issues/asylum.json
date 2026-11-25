@@ -1,0 +1,1281 @@
+{
+  "id": "asylum",
+  "title": "Asylum: applications, reception, returns and fraud",
+  "tagline": "How many people apply, what it costs, which laws passed or failed, and what is known about abuse of the system",
+  "updated": "2026-11-25",
+  "summary": "The asylum system covers who may apply for protection in the Netherlands, how the immigration service IND decides, where applicants are housed by the reception agency COA, and what happens after a grant or rejection. First applications fell to 24,070 in 2025 and stood at 15,660 for January-August 2026; about 48,000 applications were still undecided at the end of August 2026 and COA locations were 102.1% occupied on 1 October 2026. On 21 April 2026 the Senate rejected the Asylum Emergency Measures Act and the criminalisation of illegal stay but adopted the two-status system; several of the rejected measures were then enacted through the law implementing the EU Asylum and Migration Pact, which has applied since 12 June 2026. Official figures exist for crime and incidents among reception residents, Dublin cases and document fraud at the border, but the minister states that there are no aggregated figures on residence permits obtained with an invented asylum story.",
+  "key_facts": [
+    {
+      "label": "First asylum applications",
+      "value": "24,070 in 2025 (32,180 in 2024; 38,380 in 2023); 15,660 in January-August 2026 (13,920 in the same months of 2025)",
+      "note": "IND counts. The government's median forecast for all of 2026 is 29,200.",
+      "source_ids": [
+        "s9",
+        "s11",
+        "s15"
+      ]
+    },
+    {
+      "label": "Family members arriving (nareis)",
+      "value": "16,500 in 2025 (11,880 in 2024); 11,270 in January-August 2026",
+      "note": "Nareis is family reunification with a person who has been granted asylum. Average decision time on these applications was 101 weeks in January-August 2026.",
+      "source_ids": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "label": "Share of asylum applications granted",
+      "value": "36% in 2025 in the general/extended procedure (58% in 2024); 22% in January-April 2026",
+      "note": "CBS, as reported by NOS: 15,550 first decisions in 2025, of which 8,120 rejections and 7,430 grants, the first year in years with more rejections than grants. For applications filed under the EU Pact rules since 12 June 2026, 15% of the 1,630 decisions taken up to end August 2026 were grants. The government forecast assumes about 24% for 2026.",
+      "source_ids": [
+        "s10",
+        "s11",
+        "s15",
+        "s12"
+      ]
+    },
+    {
+      "label": "Undecided asylum applications",
+      "value": "47,960 at end August 2026 (54,920 at end 2025)",
+      "note": "Of which 42,350 first applications. Average decision time was 67 weeks in 2025 and 78 weeks in January-April 2026.",
+      "source_ids": [
+        "s11",
+        "s10",
+        "s9"
+      ]
+    },
+    {
+      "label": "Penalty payments by IND for late decisions",
+      "value": "EUR 79 million in 2025 (EUR 36.8 million in 2024)",
+      "note": "Paid to applicants when legal decision deadlines are exceeded. Judicial penalty payments were abolished by the Return and Immigration Detention Act adopted by the Senate on 13 October 2026.",
+      "source_ids": [
+        "s9",
+        "s15"
+      ]
+    },
+    {
+      "label": "People in COA reception",
+      "value": "79,100 at end 2025 (71,800 at end 2024); occupancy rate 102.1% on 1 October 2026",
+      "note": "End 2025: 55,850 adult asylum seekers, 18,500 status holders (people already granted a permit) and 4,750 unaccompanied minors. COA estimates it needs 96,000 places by 1 January 2028.",
+      "source_ids": [
+        "s24",
+        "s15"
+      ]
+    },
+    {
+      "label": "Cost of reception per resident",
+      "value": "EUR 65,100 per year in emergency shelter vs EUR 33,400 in regular shelter (2025)",
+      "note": "COA annual report 2025: total reception costs EUR 3.7 billion (EUR 3.5 billion in 2024); 65% of capacity was emergency shelter; 215 of 326 locations were emergency locations.",
+      "source_ids": [
+        "s24"
+      ]
+    },
+    {
+      "label": "Departures of people without right to stay",
+      "value": "23,490 in 2025 (22,170 in 2024), of which 5,570 forced, 7,710 independent and 10,210 'left without supervision'",
+      "note": "Chain-wide count of police, Marechaussee and the Repatriation and Departure Service (DTenV). 'Without supervision' means the person is no longer at the last known address and departure is assumed but not demonstrated.",
+      "source_ids": [
+        "s14",
+        "s17"
+      ]
+    },
+    {
+      "label": "Reception residents registered as crime suspects",
+      "value": "3,270 unique suspects in 2025 = 3% of the 112,745 people who stayed in reception that year",
+      "note": "WODC Incident Monitor. 11% were registered as involved in an aggression or violence incident inside reception. Police suspect registrations rose 23% to 7,515.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "label": "Dublin cases",
+      "value": "The Netherlands sent 6,880 Dublin claims to other EU states in 2025 (14% fewer than 2024) and received 5,160; DTenV recorded 1,030 forced and 490 independent Dublin departures",
+      "note": "A Dublin claim asks another European country to take over an applicant because that country is responsible for the application.",
+      "source_ids": [
+        "s14"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Decisions take far longer than the law allows",
+      "text": "The IND reported that the average general asylum procedure took 67 weeks in 2025 and that over 51,000 applicants were waiting on 1 January 2026. Because deadlines were exceeded, the IND paid EUR 79 million in penalty payments in 2025, more than double the 2024 amount. The Court of Audit (Algemene Rekenkamer) wrote in September 2026 that the backlog at end 2025 exceeded 50,000 applications and lists control of asylum decision deadlines as a management shortcoming at the ministry. IND director-general Rhodia Maas said people are waiting too long and that the dwangsom procedures cost capacity without speeding up decisions.",
+      "source_ids": [
+        "s9",
+        "s34"
+      ]
+    },
+    {
+      "heading": "Reception is full and relies on expensive emergency shelter",
+      "text": "COA housed 79,100 people at end 2025 and its locations were 102.1% occupied on 1 October 2026. Two thirds of capacity at end 2025 was emergency shelter, which cost on average EUR 65,100 per resident per year against EUR 33,400 in a regular centre. In spring 2026 COA introduced controlled access to the registration centre in Ter Apel and arranged night shelter at changing locations for people waiting for a place. About 18,500 residents at end 2025 already had a residence permit but had not yet been housed by a municipality. Parlement.com records that protests against new or temporary centres got out of hand in Loosdrecht, IJsselstein, Den Bosch and Apeldoorn.",
+      "source_ids": [
+        "s24",
+        "s15",
+        "s35"
+      ]
+    },
+    {
+      "heading": "Nuisance and crime by a part of reception residents",
+      "text": "The WODC (the justice ministry's research centre) counted 17,750 COA-registered incidents of aggression, violence, suicide threats or self-harm in 2025 (16,740 in 2024) and 7,515 police registrations of suspects living in reception (+23%). 3% of residents were registered as a crime suspect; 64% of registrations concerned property crime such as theft and 14% violent crime. Seven completed homicides were registered in 2025. Shares of suspects were highest among Algerian (33% of Algerian residents), Moroccan (31%) and Tunisian (25%) residents; 21% of suspects were minors. Syrians were the largest group in absolute numbers among people involved in incidents, at a rate equal to the 11% average. The minister describes this as nuisance and crime 'caused by a limited group of asylum seekers'.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "heading": "Fraud and abuse: what is documented and what is not counted",
+      "text": "Documented cases exist. A legal adviser who sold invented asylum stories for EUR 2,000 to 7,000 was sentenced in 2023 to four years in prison for people smuggling; the IND re-examined over one hundred Iranian cases, and by September 2026 about ten permits had been definitively withdrawn, about seventy withdrawal procedures were pending and in more than ten cases withdrawal was dropped because of new facts. The Council of State ruled on 8 July 2026 that such permits may be withdrawn. At the external border, 670 incidents of identity or document fraud involving 970 documents were detected in 2025 (910 incidents in 2024). At the same time the minister told parliament that the number of people who obtained a permit on an asylum story later found false 'cannot be retrieved in aggregated form from the systems', and that withdrawals are recorded without the ground for withdrawal. Written questions of 8 April 2026 about age fraud by applicants claiming to be minors had not been answered in the documents consulted for this file, and those documents contain no official count of applicants using multiple identities or of status holders travelling to their country of origin. Separately, NOS reported in June 2024 on NRC research into six suspicious permit grants raised by two IND whistleblowers; the IND said an internal inquiry found no evidence of wrongdoing and that a new inquiry was started after additional information.",
+      "source_ids": [
+        "s17",
+        "s21",
+        "s14",
+        "s20",
+        "s23"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "More applications over several years than the IND can process",
+      "text": "The IND states that the sustained pressure arises partly because the number of asylum applications was for several years higher than it can handle, that the remaining stock increasingly consists of complex files, and that assessment has become more intensive through changing rules and country policies. The minister adds that a rejection takes more time than a grant because a written intention to reject must first be issued and the lawyer may respond.",
+      "source_ids": [
+        "s9",
+        "s37"
+      ]
+    },
+    {
+      "heading": "War and instability in countries of origin",
+      "text": "The 2026 government forecast cites increased geopolitical unrest in the Middle East and the worsening situation in Sudan and the Horn of Africa. The low 2025 figure is linked to the decision-and-departure moratorium for Syrians after the change of regime in Syria at the end of 2024; applications rose again during 2025 and into 2026. The top nationalities among applications under the Pact rules in 2026 were Syrian, Eritrean and Sudanese.",
+      "source_ids": [
+        "s15",
+        "s11"
+      ]
+    },
+    {
+      "heading": "Status holders cannot move out of reception",
+      "text": "Municipalities are legally responsible for housing status holders under a half-yearly target set by the state (16,300 people for the second half of 2026). According to the government's information page many status holders wait a long time for housing and thereby occupy places in full centres. In November 2024 the combined municipal backlog was just under 11,000 people.",
+      "source_ids": [
+        "s15",
+        "s33",
+        "s46"
+      ]
+    },
+    {
+      "heading": "Too few permanent reception places and unstable funding",
+      "text": "COA states that the constant opening and closing of temporary locations (100 closed and 93 opened in 2025) shows the instability of the system. The cabinet writes that scaling IND and COA capacity up and down with the inflow 'no longer works' and that the 41,000 permanent COA places agreed in 2023 were in earlier years not secured in the national budget. COA told MPs in November 2024 that the state could save EUR 1 billion with policy that makes emergency shelter less necessary.",
+      "source_ids": [
+        "s24",
+        "s15",
+        "s25"
+      ]
+    },
+    {
+      "heading": "Limits on Dublin transfers and returns",
+      "text": "In 2025 the Netherlands could not make Dublin transfers to Greece, Malta, Hungary and Italy, and since a Council of State ruling of 23 July 2025 non-vulnerable single men may not be transferred to Belgium; such applications are then in principle handled by the Netherlands. Forced return to Syria was not possible in 2025. Demonstrable departure of unaccompanied minors 'hardly takes place at present' because return requires adequate reception in the country of origin.",
+      "source_ids": [
+        "s14"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-05-16",
+      "event": "The outline agreement of PVV, VVD, NSC and BBB announces repeal of the Spreidingswet (the dispersal law that gives municipalities a legal duty to provide asylum reception) and a temporary asylum crisis law.",
+      "source_ids": [
+        "s45"
+      ]
+    },
+    {
+      "date": "2024-12",
+      "event": "The first distribution decisions under the Spreidingswet are taken, assigning reception targets per province and municipality.",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "event": "The House of Representatives adopts the Asielnoodmaatregelenwet (Asylum Emergency Measures Act) by 94 to 56 votes and the Wet invoering tweestatusstelsel (two-status system) by 95 to 55. An amendment adopted with the first bill makes illegal stay, and helping people who stay illegally, a criminal offence.",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "date": "2025-07-04",
+      "event": "The House adopts a housing bill including a PVV amendment banning any priority for status holders in social housing. The then housing minister later removes the amendment through a supplementary bill (novelle).",
+      "source_ids": [
+        "s32",
+        "s31"
+      ]
+    },
+    {
+      "date": "2025-09",
+      "event": "The Netherlands stops using a national list of safe countries of origin after two EU Court of Justice rulings; the applications concerned continue to be handled with priority.",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement. It keeps the Spreidingswet 'for now', promises to implement the two Schoof-cabinet asylum bills if the Senate adopts them, and aims in the long run at processing asylum applications outside Europe.",
+      "source_ids": [
+        "s26",
+        "s27"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "The Jetten minority cabinet (D66, CDA, VVD) takes office. Bart van den Brink becomes Minister of Asylum and Migration.",
+      "source_ids": [
+        "s35",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "The Senate rejects the novelle on criminalising illegal stay (37 for, 38 against) and then the Asielnoodmaatregelenwet (31 for, 44 against). It adopts the two-status system (41 for, 34 against). All five motions, including PVV motions for an asylum stop and repeal of the Spreidingswet, are rejected.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "event": "The Senate adopts the Implementation Act for the EU Asylum and Migration Pact, which the House had adopted on 2 April 2026. According to the government it also anchors parts of the rejected Asielnoodmaatregelenwet: no more permanent asylum permits, temporary permits valid for at most 3 instead of 5 years, and limits on family reunification.",
+      "source_ids": [
+        "s6",
+        "s7",
+        "s47"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "event": "The EU Asylum and Migration Pact becomes applicable. The IND takes over identification and registration of asylum seekers, and the old 'track' system is replaced by an accelerated, a non-accelerated and an AMBV (formerly Dublin) procedure.",
+      "source_ids": [
+        "s7",
+        "s15",
+        "s19"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "event": "The House rejects motions by JA21/SGP and PVV to repeal the Spreidingswet; a roll-call vote on the PVV motion ends 45 for, 100 against.",
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "event": "The Senate adopts the Wet terugkeer en vreemdelingenbewaring (Return and Immigration Detention Act) with its novelle. Two days later the EU Return Regulation enters into force.",
+      "source_ids": [
+        "s15",
+        "s36"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "EU Pact rules and stricter national rules since 12 June 2026",
+      "text": "The Pact introduces mandatory screening to establish identity, fixed decision deadlines and a mandatory border procedure for applicants with little chance of protection (from countries with an EU-wide recognition rate of 20% or less) or who pose a risk to public order. The Dutch implementation act additionally introduced the two-status system (refugee status versus subsidiary protection, with stricter family reunification conditions for the latter), narrowed the family members who qualify, shortened the temporary asylum permit to at most three years and abolished the permanent asylum permit. Between 12 June and 1 October 2026, 7,820 new applications were filed; the IND aims to decide up to 25,000 first applications a year within the new deadlines and started on 1 October 2026 with a plan to decide the pre-Pact backlog within three years.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s15"
+      ]
+    },
+    {
+      "heading": "Reception: Spreidingswet is being applied",
+      "text": "The coalition agreement keeps the Spreidingswet 'at the request of municipalities and implementing organisations' and calls it superfluous once COA has enough permanent and flexible places. The second cycle started in February 2026 with an estimated need of 88,000 places; provincial reports are due by 30 November 2026 and the minister takes distribution decisions at the end of December 2026. Municipalities that have not met their first target are under intergovernmental supervision, which can end with the state taking over the municipality's duty. COA is funded for a fixed stock of 41,000 places and the agreement says emergency locations such as cruise ships and hotels are to be closed and replaced by regular places.",
+      "source_ids": [
+        "s26",
+        "s15"
+      ]
+    },
+    {
+      "heading": "Nuisance-causing asylum seekers (overlastgevers)",
+      "text": "The approach rests on four pillars: faster decisions for people causing nuisance, tailored measures in reception, immediate criminal-law response in public space (trial within 72 hours or 17 days where the prosecutor allows) and return. A national case table for mobile nuisance-causing and criminal foreign nationals, including a group of young Syrian asylum seekers, is operational. The coalition agreement adds heavier weighting of convictions in the asylum decision, travel bans for persistent offenders on public transport, more enhanced-supervision locations and structurally more police for municipalities with a registration centre. COA imposed 13,205 measures after incidents in 2025.",
+      "source_ids": [
+        "s16",
+        "s36",
+        "s26"
+      ]
+    },
+    {
+      "heading": "Return and fraud",
+      "text": "The minister states that when it is plausible that an applicant invented an asylum story or committed fraud, the permit is withdrawn and return is 'the logical final step', although other protection grounds must always be examined. The Return and Immigration Detention Act makes cooperation with departure mandatory (deliberate frustration punishable by up to three months in prison or a fine of up to EUR 5,500) and widens the possibility to declare foreign nationals undesirable. The cabinet is preparing a new bill to criminalise people who frustrate their return, and a statutory basis for searching asylum seekers' phones after the Justice and Security Inspectorate found the existing basis inadequate. The government expects DTenV's caseload to grow by about 36% in 2026.",
+      "source_ids": [
+        "s17",
+        "s19",
+        "s15"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Repeal the Spreidingswet",
+      "description": "Initiative bill 36 955 by MPs Ceulemans (JA21), Keijzer, Van der Plas (BBB), Russcher (FVD) and Lammers would withdraw the dispersal law, end the legal duty for municipalities and return to reception on a voluntary basis.",
+      "proposed_by": [
+        "JA21",
+        "Lid Keijzer",
+        "BBB",
+        "FVD"
+      ],
+      "status": "Initiative bill pending in the House (explanatory memorandum published 27 May 2026). Motions asking the government to repeal the law were rejected on 23 June 2026 (PVV motion 45-100).",
+      "source_ids": [
+        "s30",
+        "s28"
+      ]
+    },
+    {
+      "title": "Immediate asylum stop",
+      "description": "Stop accepting asylum applications. The PVV Senate group tabled a motion for an immediate stop; MP Markuszower asked for an asylum stop combined with a plan for large-scale return; FVD's programme calls for an asylum stop and dismantling COA.",
+      "proposed_by": [
+        "PVV",
+        "Groep Markuszower",
+        "FVD"
+      ],
+      "status": "PVV Senate motion rejected 21 April 2026. Minister Van den Brink answered on 21 September 2026 that an asylum stop is contrary to international law.",
+      "source_ids": [
+        "s1",
+        "s17",
+        "s43"
+      ]
+    },
+    {
+      "title": "Handle asylum applications outside Europe",
+      "description": "The coalition agreement sets as an ultimate goal that applications are filed and processed outside Europe and that recognised refugees come through resettlement. The VVD wants all applications to take place outside Europe and refugees to come by invitation only; the ChristenUnie wants applicants to be able to register outside Europe.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA",
+        "ChristenUnie"
+      ],
+      "status": "In the coalition agreement of 30 January 2026 as a long-term aim requiring international support; no bill.",
+      "source_ids": [
+        "s26",
+        "s38",
+        "s40"
+      ]
+    },
+    {
+      "title": "End priority for status holders in social housing",
+      "description": "A new bill would give status holders the same position as other home seekers, so no priority solely because of their status. It would enter into force only once enough alternative housing (flexible homes, shared housing) exists.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Announced by the housing minister on 20 March 2026, who withdrew the previous cabinet's bill; the minister aimed to have a new proposal on paper before the end of 2026. Municipalities currently decide themselves.",
+      "source_ids": [
+        "s31",
+        "s33",
+        "s26"
+      ]
+    },
+    {
+      "title": "Criminalise frustrating one's own return",
+      "description": "A new bill to make it an offence for people obliged to leave to obstruct their return, replacing the general criminalisation of illegal stay that the Senate rejected. The CDA Senate group called for this 'in an acceptable manner' when voting against the Asielnoodmaatregelenwet.",
+      "proposed_by": [
+        "CDA"
+      ],
+      "status": "Bill in preparation by the cabinet, announced in a letter of 24 April 2026.",
+      "source_ids": [
+        "s17",
+        "s2"
+      ]
+    },
+    {
+      "title": "Emergency brake on family reunification",
+      "description": "If applications rise sharply and unexpectedly and the asylum chain collapses, the coalition would take extra inflow-limiting measures, possibly a temporary stop on family reunification for people with subsidiary protection, with a hardship clause.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In the coalition agreement of 30 January 2026; not activated.",
+      "source_ids": [
+        "s26"
+      ]
+    },
+    {
+      "title": "Publish crime and nuisance figures per reception location",
+      "description": "Motion asking the government to make police data and COA figures on nuisance and crime in and around reception locations public per location, up to date and easy to find.",
+      "proposed_by": [
+        "BBB"
+      ],
+      "status": "Motion 19 637 nr. 3582 tabled 17 June 2026; held over at the mover's request on 23 June 2026 (not voted).",
+      "source_ids": [
+        "s29",
+        "s28"
+      ]
+    },
+    {
+      "title": "Statutory children's pardon",
+      "description": "D66's election programme proposes a legal pardon for 'rooted' children who have lived in the Netherlands for more than five years; the ChristenUnie states that rooted children should not be deported and should get a right of residence.",
+      "proposed_by": [
+        "D66",
+        "ChristenUnie"
+      ],
+      "status": "In party programmes; not in the coalition agreement chapter on asylum.",
+      "source_ids": [
+        "s39",
+        "s40"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "Hardly anyone is ever deported: for decades too many migrants were admitted and 'in practice almost no people were removed'.",
+      "claimed_by": "MP Markuszower (Groep Markuszower), written questions of 13 July 2026",
+      "what_data_show": "The minister replied that he does not recognise this and cited chain-wide departure figures: 23,490 in 2025, 22,170 in 2024, 23,140 in 2023, 19,230 in 2022 and 18,480 in 2021. The Staat van Migratie breaks the 2025 figure down into 5,570 forced departures, 7,710 independent departures and 10,210 cases of 'independent departure without supervision', where departure is assumed because the person is no longer at the last known address but is not demonstrated. EU statistics do not count the last category, nor Dublin transfers, as returns. The VVD's website states that 'far too few' rejected asylum seekers actually leave.",
+      "source_ids": [
+        "s17",
+        "s14",
+        "s38"
+      ]
+    },
+    {
+      "claim": "Large numbers of people obtained asylum under false pretences (invented stories), and only two families lost their permit in the known fraud case.",
+      "claimed_by": "MP Markuszower (Groep Markuszower); the figure of two families comes from media reports on the Council of State ruling",
+      "what_data_show": "The minister confirmed that over one hundred Iranian cases linked to a convicted adviser were examined, but said it is not correct that only two led to withdrawal: one pending application was rejected, about ten permits were definitively withdrawn, about seventy withdrawal procedures were still running, more than ten were dropped because of new facts, and some people left voluntarily. On the overall scale no data exist: asked how many people in five years obtained status on a story later found false, the minister answered that these data cannot be retrieved in aggregated form, and that it is known how many permits are withdrawn but not on which ground. How many such withdrawals led to deportation is likewise not recorded.",
+      "source_ids": [
+        "s17",
+        "s21"
+      ]
+    },
+    {
+      "claim": "Refugees stack family reunification on family reunification ('nareis op nareis op nareis'), probably in thousands of cases.",
+      "claimed_by": "Yesilgöz (VVD party leader and justice minister at the time), 2023, as reported by NOS",
+      "what_data_show": "IND figures released in February 2024 showed that on average at most one hundred refugees per year successfully stacked family reunification. The IND regards the practice as improper use because it almost always means family members did not tell the truth in the first procedure, and calls it 'undesirable, but not prohibited'. Total family reunification is far larger: 16,500 family members arrived in 2025. The IND can use DNA tests or interviews when documents proving the family tie are missing; the sources consulted contain no count of reunification applications rejected for fraud.",
+      "source_ids": [
+        "s22",
+        "s10"
+      ]
+    },
+    {
+      "claim": "The vast majority of asylum seekers enter without a valid document or with false papers, and applicants lie about being minors because age is not verified.",
+      "claimed_by": "FVD (Senator Van den Oetelaar, Senate debate 13-14 April 2026; MP Russcher, written questions 8 April 2026)",
+      "what_data_show": "No official figure on the share of applicants without documents was found in the sources consulted. Official data that do exist: 670 incidents of identity or document fraud at external border crossings in 2025 involving 970 documents, counted for all travellers and not only asylum seekers. On age: Russcher's questions state that forensic X-ray age examinations were carried out 142 times in 2023, 157 in 2024 and 42 in 2025; these numbers are his and the minister reported on 29 April 2026 that the questions could not yet be answered because information was missing. In a separate answer the minister said the IND has no data on how many Syrians naturalised without submitting a passport or birth certificate, since admitted asylum seekers and Syrians are exempt from that requirement. The Justice and Security Inspectorate found that the phone checks used to help establish identity and origin lacked an adequate legal basis.",
+      "source_ids": [
+        "s3",
+        "s20",
+        "s14",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "claim": "Asylum seekers cause disproportionate crime and nuisance; opponents say it is a small group and that most residents cause no problems.",
+      "claimed_by": "PVV, FVD, JA21 and BBB in parliamentary debates on one side; the cabinet, D66 and ChristenUnie speak of a 'small' or 'limited' group",
+      "what_data_show": "The WODC reports that 3% of the 112,745 people who stayed in reception in 2025 were registered as a crime suspect, a share it calls fairly constant over 2019-2025, and 11% were involved in an incident registered by COA. Rates differ strongly by nationality: 33% of Algerian, 31% of Moroccan and 25% of Tunisian residents were suspects. Unaccompanied minors are over-represented (29% involved in an incident), which the minister partly attributes to closer supervision at their locations. Applicants from countries formerly listed as safe are a small part of the inflow: the IND recorded 440 such 'track 2' applications in 2025 (970 in 2024), with a grant rate of 0%. The letter consulted does not compare suspect rates with the general population; it does report that prosecutors summoned in 59% of cases and that judges imposed prison or youth detention in 72% of sentences.",
+      "source_ids": [
+        "s16",
+        "s10",
+        "s39",
+        "s40"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Governs with VVD and CDA under a coalition agreement promising 'more control and reduced inflow' together with decent reception. Its election programme supports the EU Pact, keeps the Spreidingswet, and wants a statutory children's pardon and work and language lessons from day one. In the House D66 voted against repealing the Spreidingswet (23 June 2026). In the Senate the D66 group reached a 'negative judgement' on the Schoof-cabinet bills, mainly over criminalising illegal stay, and Senator Dittrich voted against the Asielnoodmaatregelenwet; the group voted for the Pact implementation act.",
+      "salience": "high",
+      "salience_basis": "Separate asylum section in the 2025 election programme; prime minister's party in a cabinet whose coalition agreement has a dedicated asylum chapter; D66 senators' votes decided the fate of the April 2026 bills (novelle rejected 37-38).",
+      "quotes": [
+        {
+          "text_en": "The Dispersal Act stays.",
+          "text_nl": "De Spreidingswet blijft.",
+          "speaker": "D66 election programme 2025",
+          "date": "2025",
+          "source_id": "s39"
+        }
+      ],
+      "source_ids": [
+        "s39",
+        "s26",
+        "s28",
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Wants inflow of all forms of migration to fall and a new system in which all asylum applications are handled outside Europe and refugees come by invitation only, which it says could mean years without admitting asylum seekers. Until then it wants the strictest possible policy: closed reception and faster removal for nuisance-causing applicants, return hubs, and a legal ban on priority for status holders in social housing. The VVD voted against repealing the Spreidingswet on 23 June 2026 as a coalition party; its Senate group supported the Asielnoodmaatregelenwet and the Pact implementation act.",
+      "salience": "high",
+      "salience_basis": "Migration and integration is one of the themed 'pillars' on the party website; coalition party; Senator Kaljouw voted for the Asielnoodmaatregelenwet on 21 April 2026.",
+      "quotes": [
+        {
+          "text_en": "The Netherlands cannot cope with the current asylum inflow.",
+          "text_nl": "Nederland kan de huidige asielinstroom niet aan.",
+          "speaker": "VVD website, 'Migratie en integratie'",
+          "date": "2026",
+          "source_id": "s38"
+        }
+      ],
+      "source_ids": [
+        "s38",
+        "s28",
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "The merged GroenLinks-PvdA voted against repealing the Spreidingswet in the House (23 June 2026). In the Senate, where the group still sits as GroenLinks-PvdA, it requested roll-call votes and voted against the Asielnoodmaatregelenwet and against the Pact implementation act; Senator Karimi said the bills intrude deeply on asylum seekers' rights and that limiting family reunification is legally vulnerable. With the ChristenUnie, PRO obtained a House majority for a motion to examine state-owned property as long-term reception so that children do not end up in emergency shelter.",
+      "salience": "high",
+      "salience_basis": "Active in both chambers: requested the roll-call votes of 21 April 2026 and co-filed an adopted motion on 23 June 2026. The party's 2025 manifesto could not be opened for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s28",
+        "s3",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Wants an immediate asylum stop and repeal of the Spreidingswet, and tabled motions for both in the Senate (rejected 21 April 2026) and the House (rejected 23 June 2026, 45-100 on a roll call it requested). The amendment that criminalised illegal stay in the Asielnoodmaatregelenwet came from PVV MP Vondeling. Its Senate group called the Schoof-cabinet bills 'a step in the right direction', voted for them and for the Pact implementation act. In 2025 a PVV amendment banning any priority for status holders in social housing won a House majority.",
+      "salience": "core",
+      "salience_basis": "The asylum bills of the Schoof cabinet were introduced by PVV minister Faber; PVV filed four of the five Senate motions on 21 April 2026 and four House motions on 17 June 2026.",
+      "quotes": [
+        {
+          "text_en": "requests the government to repeal the Dispersal Act",
+          "text_nl": "verzoekt de regering de Spreidingswet in te trekken",
+          "speaker": "Motion by MP Vondeling (PVV), 19 637 nr. 3579",
+          "date": "2026-06-17",
+          "source_id": "s29"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s3",
+        "s28",
+        "s29",
+        "s32",
+        "s4",
+        "s6",
+        "s46"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Coalition party that supplies the Minister of Asylum and Migration, Bart van den Brink. Supports the EU Pact and voted for its implementation act, and voted against repealing the Spreidingswet. In the Senate the CDA called the criminalisation of illegal stay 'a very nasty political quickie' and voted against the Asielnoodmaatregelenwet once the novelle exempting helpers had been rejected, while asking for new proposals on declaring people undesirable, ending penalty payments and criminalising non-cooperation with return.",
+      "salience": "high",
+      "salience_basis": "Holds the asylum ministry; coalition agreement chapter; explanation of vote by Senator Van Toorenburg on 21 April 2026.",
+      "quotes": [
+        {
+          "text_en": "Control over migration is necessary, but not at any price.",
+          "text_nl": "Grip op migratie is noodzakelijk, maar niet tegen elke prijs.",
+          "speaker": "Senator Madeleine van Toorenburg (CDA)",
+          "date": "2026-04-21",
+          "source_id": "s2"
+        }
+      ],
+      "source_ids": [
+        "s2",
+        "s3",
+        "s6",
+        "s28",
+        "s26"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Wants a sharp reduction of all immigration, a Danish-style model with reception in the region or partner countries, criminalisation of illegal stay and active removal. MP Ceulemans is first signatory of the initiative bill to repeal the Spreidingswet and said the party also wants to end asylum reception altogether. JA21 voted for all motions to repeal the law (23 June 2026); its Senate group supported the Schoof-cabinet bills and the Pact implementation act.",
+      "salience": "core",
+      "salience_basis": "Leads initiative bill 36 955; filed six of the motions debated on 17 June 2026; immigration is among the standpoints listed on its website with five headline demands.",
+      "quotes": [
+        {
+          "text_en": "JA21 stands for a strict but fair asylum policy on the Danish model.",
+          "text_nl": "JA21 staat voor een streng, maar rechtvaardig asielbeleid naar Deens model.",
+          "speaker": "JA21 website, standpoint 'Immigratie en asiel'",
+          "date": "2026",
+          "source_id": "s42"
+        }
+      ],
+      "source_ids": [
+        "s42",
+        "s30",
+        "s29",
+        "s28",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "The group that split from the PVV in January 2026 voted for all motions to repeal the Spreidingswet and to end compulsion on municipalities (23 June 2026). MP Markuszower, after whom the group is named, argues that an asylum stop alone is not enough and asked the minister for a plan with a timetable for large-scale return of people without lawful residence and for systematic withdrawal of permits obtained with invented stories.",
+      "salience": "high",
+      "salience_basis": "Written questions on return and asylum fraud (13 July 2026) and on violence around Ter Apel (answered 20 July 2026); voting record of 23 June 2026. The group was formed after the 2025 election, so it has no 2025 manifesto.",
+      "quotes": [
+        {
+          "text_en": "Are you prepared, in addition to an asylum stop, to submit to the House a concrete plan with a timetable for large-scale return of people without lawful residence?",
+          "text_nl": "Bent u bereid om, naast een asielstop, een concreet plan met tijdpad aan de Kamer voor te leggen voor grootschalige terugkeer van mensen zonder rechtmatig verblijf?",
+          "speaker": "MP Markuszower, written question 11",
+          "date": "2026-07-13",
+          "source_id": "s17"
+        }
+      ],
+      "source_ids": [
+        "s17",
+        "s28",
+        "s48"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Wants to stop asylum reception in the Netherlands, dismantle COA, accept applications only at consulates in conflict regions, criminalise illegal stay and leave treaties such as Schengen and the UN Refugee Convention. FVD co-signed the initiative bill to repeal the Spreidingswet. In the Senate it voted for all three Schoof-cabinet bills, calling the novelle 'bad' but honouring an agreement, and voted against the Pact implementation act because it wants the Netherlands itself to decide who enters.",
+      "salience": "core",
+      "salience_basis": "Website standpoint 'Immigratie en remigratie' opens the party's programme points with an asylum stop; co-initiator of bill 36 955; written questions on age determination (8 April 2026).",
+      "quotes": [
+        {
+          "text_en": "Forum for Democracy wants to repeal this law and has co-submitted a bill with JA21 to arrange this",
+          "text_nl": "Forum voor Democratie wil deze wet intrekken en heeft om dit te regelen een wetsvoorstel mede ingediend met JA21",
+          "speaker": "MP Russcher (FVD)",
+          "date": "2026-06-17",
+          "source_id": "s29"
+        }
+      ],
+      "source_ids": [
+        "s43",
+        "s29",
+        "s1",
+        "s6",
+        "s20",
+        "s30"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "Wants fast and fair procedures, stable small-scale reception and fair distribution; the Spreidingswet should stay. It commits to the EU Pact with human-rights safeguards but its Senate group voted against the Dutch implementation act because of the added national measures, and against the Asielnoodmaatregelenwet. It opposes criminalising illegal stay and wants rooted children to receive a right of residence, while favouring registration of asylum applications outside Europe.",
+      "salience": "high",
+      "salience_basis": "Detailed standpoint page; MP Ceder filed adopted motions on 23 June 2026 and motions on a national network of enhanced-supervision locations.",
+      "quotes": [
+        {
+          "text_en": "We are against criminalising illegal stay, and helping undocumented people will never be punishable; reception and support remain humane.",
+          "text_nl": "We zijn tegen strafbaarstelling van illegaliteit en hulp aan ongedocumenteerden blijft nooit strafbaar; opvang en begeleiding blijven menswaardig.",
+          "speaker": "ChristenUnie website, standpoint 'Asielmigratie'",
+          "date": "2026",
+          "source_id": "s40"
+        }
+      ],
+      "source_ids": [
+        "s40",
+        "s6",
+        "s2",
+        "s3",
+        "s28",
+        "s36"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Says people fleeing war and violence should be received humanely while those with no claim must return as quickly as possible, and wants a net migration ceiling of 40,000 achieved mainly by cutting labour, knowledge and study migration. It wants refugees housed more often in rich municipalities. The SP voted against repealing the Spreidingswet; its Senate group voted against the Asielnoodmaatregelenwet and the Pact implementation act, calling the refusal of transitional rules inhumane.",
+      "salience": "medium",
+      "salience_basis": "Standpoint page on asylum seekers and refugees; Senate contributions by Senator Janssen; no asylum motions by the SP among those voted on 23 June 2026.",
+      "quotes": [
+        {
+          "text_en": "people fleeing war and violence we help and receive humanely, people who have no business here must go back as quickly as possible.",
+          "text_nl": "mensen die vluchten voor oorlog en geweld helpen we en vangen we humaan op, mensen die hier niet wat te zoeken hebben moeten zo snel mogelijk terug.",
+          "speaker": "SP website, standpoint 'Asielzoekers en vluchtelingen'",
+          "date": "2026",
+          "source_id": "s44"
+        }
+      ],
+      "source_ids": [
+        "s44",
+        "s28",
+        "s2",
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Voted against repealing the Spreidingswet in the House. In the Senate the Volt senator spoke partly on behalf of the PvdD against the Schoof-cabinet bills, and PvdD senators voted against the Asielnoodmaatregelenwet and the Pact implementation act; Senator Koffeman said the implementation act carries the spirit of former minister Faber.",
+      "salience": "low",
+      "salience_basis": "No own motions on asylum in the 2026 votes consulted; let another group speak for it in the April 2026 Senate debate. The party's manifesto could not be opened for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s28",
+        "s3",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "Voted for repealing the Spreidingswet in the House (23 June 2026). In the Senate the SGP saw the Asielnoodmaatregelenwet as a means to gain control but voted against it once the novelle protecting people who help undocumented migrants was rejected; it voted for the Pact implementation act. It asks for better IND assessment of persecuted Christians.",
+      "salience": "medium",
+      "salience_basis": "Voting record of 23 June 2026; explanation of vote by Senator Schalk on 21 April 2026. The party's manifesto was not consulted.",
+      "quotes": [
+        {
+          "text_en": "Control over asylum must not come at the expense of mercy.",
+          "text_nl": "Grip op asiel mag niet ten koste gaan van barmhartigheid.",
+          "speaker": "Senator Peter Schalk (SGP)",
+          "date": "2026-04-21",
+          "source_id": "s2"
+        }
+      ],
+      "source_ids": [
+        "s2",
+        "s3",
+        "s6",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "Co-initiator of the bill to repeal the Spreidingswet and voted for all repeal motions. Its Senate group voted for the Asielnoodmaatregelenwet and the Pact implementation act, saying temporary protection must actually be temporary. MP Vermeer asked that crime and nuisance figures be published per reception location.",
+      "salience": "high",
+      "salience_basis": "Co-signed initiative bill 36 955; own motion on 17 June 2026; was a governing party in the cabinet that introduced the 2025 asylum bills.",
+      "quotes": [
+        {
+          "text_en": "In my view we should simply start with honesty towards local residents.",
+          "text_nl": "Volgens mij moeten we gewoon starten met eerlijkheid ten opzichte van omwonenden.",
+          "speaker": "MP Vermeer (BBB)",
+          "date": "2026-06-17",
+          "source_id": "s29"
+        }
+      ],
+      "source_ids": [
+        "s29",
+        "s28",
+        "s30",
+        "s3",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Voted against all motions to repeal the Spreidingswet or to end the duty on municipalities, and for the motions on spreading good practices and on using state property for long-term reception (23 June 2026).",
+      "salience": "low",
+      "salience_basis": "No own asylum motions among those voted on 23 June 2026; the party website's overview of priorities lists housing, education, care, safety and discrimination and does not name asylum. Manifesto not consulted.",
+      "quotes": [],
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "Voted against repealing the Spreidingswet but for a motion asking the government to formulate concrete conditions for repeal. Its senator voted for the Asielnoodmaatregelenwet, criticising D66 for not doing so, and for the Pact implementation act.",
+      "salience": "low",
+      "salience_basis": "No own motions on asylum found; position derived from votes and one Senate explanation of vote.",
+      "quotes": [
+        {
+          "text_en": "deeply sad that Jetten is being abandoned by his own party",
+          "text_nl": "diep treurig dat Jetten door zijn eigen partij in de steek wordt gelaten",
+          "speaker": "Senator Van Rooijen (50PLUS), as quoted by the Senate",
+          "date": "2026-04-21",
+          "source_id": "s1"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s1",
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Wants a humane, common European refugee policy with redistribution between member states, and an end to internal border checks. Voted against repealing the Spreidingswet; in the Senate it requested roll-call votes and voted against all three Schoof-cabinet bills and against the Pact implementation act.",
+      "salience": "medium",
+      "salience_basis": "Dedicated standpoint page on refugees; Senate group requested the roll-call votes of 21 April 2026.",
+      "quotes": [
+        {
+          "text_en": "We therefore choose a humane and solidarity-based refugee policy across the whole EU.",
+          "text_nl": "We kiezen daarom voor een menselijk en solidair vluchtelingenbeleid in de hele EU.",
+          "speaker": "Volt Nederland website",
+          "date": "2026",
+          "source_id": "s41"
+        }
+      ],
+      "source_ids": [
+        "s41",
+        "s28",
+        "s1",
+        "s3",
+        "s6"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Reception and guidance of asylum seekers by COA cost EUR 3.7 billion in 2025, paid from the national budget; the IND additionally paid EUR 79 million in penalty payments for late decisions.",
+      "source_ids": [
+        "s24",
+        "s9"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Every municipality has a legal reception task under the Spreidingswet. The minister takes new distribution decisions per province at the end of December 2026 based on a need of 88,000 places; a municipality that does not comply can ultimately have its task taken over by the state. An initiative bill by JA21, BBB, FVD and others proposes to repeal this duty.",
+      "source_ids": [
+        "s15",
+        "s30"
+      ]
+    },
+    {
+      "applies_to": [
+        "home_seeker",
+        "renter_social"
+      ],
+      "text": "Municipalities currently decide themselves whether status holders get priority for social rental homes, and each municipality has a half-yearly housing target (16,300 people nationally for the second half of 2026). The cabinet proposes to abolish the possibility of priority by law only once enough alternative housing exists; an agreement of October 2026 aims to house 20% of status holders in supplementary housing forms, which are also intended for starters and local urgent home seekers.",
+      "source_ids": [
+        "s33",
+        "s15",
+        "s31"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident"
+      ],
+      "text": "Since 12 June 2026 no new permanent asylum residence permits are issued and temporary asylum permits are valid for at most three years instead of five. The coalition agreement proposes that naturalisation becomes possible after six years for people who have twice received a temporary permit and meet language level B1.",
+      "source_ids": [
+        "s7",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident"
+      ],
+      "text": "For people granted subsidiary protection rather than refugee status, stricter conditions for bringing family members apply under the two-status system, and for all asylum family reunification the circle of eligible family members has been narrowed; adult children and unmarried partners no longer qualify as such, though the minister promised an IND instruction that unmarried partners who can show family life qualify. Decisions on pending family reunification applications took on average 101 weeks in January-August 2026.",
+      "source_ids": [
+        "s15",
+        "s8",
+        "s3",
+        "s11"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident"
+      ],
+      "text": "An asylum permit can be withdrawn if the holder is found to have invented the asylum motive; the Council of State confirmed this on 8 July 2026. In a new assessment the person no longer gets the benefit of the doubt and carries a heavier burden of proof.",
+      "source_ids": [
+        "s17",
+        "s21"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident"
+      ],
+      "text": "Under the Return and Immigration Detention Act adopted on 13 October 2026, a person obliged to leave who deliberately frustrates the return process can be punished with up to three months in prison or a fine of up to EUR 5,500.",
+      "source_ids": [
+        "s17",
+        "s15"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Asylum seekers may currently work once their application has been pending for six months. The cabinet decided on 20 March 2026 on a plan under which applicants with a good chance of a permit may work after three months, with an alternative to the work permit requirement; applicants with little chance would get no right to work.",
+      "source_ids": [
+        "s31",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits"
+      ],
+      "text": "Proposal in the coalition agreement: in status-holder families receiving benefits, women as well as men will be asked to apply for jobs, and the cabinet will examine whether benefits can be cut on refusal; status holders are to get a 'start job' combined with language lessons.",
+      "source_ids": [
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "dutch_citizen",
+        "everyone"
+      ],
+      "text": "Residents near reception centres: the coalition agreement promises structurally more police for municipalities with a registration centre such as Ter Apel and Budel and faster travel bans for asylum seekers who repeatedly cause nuisance or dodge fares on public transport. Since 1 October 2026 public-transport enforcement officers have access to the driving licence register to check identity.",
+      "source_ids": [
+        "s26",
+        "s36"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent"
+      ],
+      "text": "About 19,000 children lived in COA reception at end 2025. The coalition agreement says emergency locations will be replaced by regular places so that children are not continually moved; the House adopted a motion on 23 June 2026 to examine state property for long-term reception for this purpose.",
+      "source_ids": [
+        "s24",
+        "s26",
+        "s28"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "asiel",
+    "asielzoekers",
+    "asielopvang",
+    "spreidingswet",
+    "asielnoodmaatregelenwet",
+    "tweestatusstelsel",
+    "nareis",
+    "gezinshereniging",
+    "statushouders",
+    "vreemdelingenbeleid",
+    "overlastgevende asielzoekers",
+    "terugkeer",
+    "strafbaarstelling illegaal verblijf",
+    "asiel- en migratiepact",
+    "ter apel"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Senaat verwerpt strafbaarstelling illegaliteit, stemt in met tweestatusstelsel",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/nieuws/20260421/senaat_verwerpt_strafbaarstelling",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s2",
+      "title": "Stemming Asielnoodmaatregelenwet (verslag vergadering 21 april 2026)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/verslagdeel/20260421/asielnoodmaatregelenwet",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s3",
+      "title": "Senaat bespreekt asielwetsvoorstellen: debat samengevat",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/nieuws/20260414/senaat_bespreekt",
+      "date": "2026-04-14"
+    },
+    {
+      "id": "s4",
+      "title": "36.704 Asielnoodmaatregelenwet (dossierpagina)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/36704_asielnoodmaatregelenwet",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "36.703 Wet invoering tweestatusstelsel (dossierpagina)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/36703_wet_invoering",
+      "date": null
+    },
+    {
+      "id": "s6",
+      "title": "Senaat steunt Europees asiel- en migratiepact",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/nieuws/20260526/senaat_steunt_europees_asiel_en",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "s7",
+      "title": "Eerste Kamer kiest voor invoering Europees Asiel- en Migratiepact",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/26/eerste-kamer-kiest-voor-invoering-europees-asiel--en-migratiepact",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "s8",
+      "title": "Nieuwe Europese regels voor asiel",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/asielbeleid/nieuwe-europese-regels-voor-asiel",
+      "date": null
+    },
+    {
+      "id": "s9",
+      "title": "IND-jaarcijfers 2025: minder aanvragen, lange wachttijden, hoge dwangsommen",
+      "publisher": "IND",
+      "url": "https://ind.nl/nl/nieuws/ind-jaarcijfers-2025-minder-aanvragen-lange-wachttijden-hoge-dwangsommen",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "s10",
+      "title": "IND tertaalcijfers januari-april 2026",
+      "publisher": "IND",
+      "url": "https://ind.nl/nl/documenten/06-2026/ind-tertaalcijfers-januari-april-2026.pdf",
+      "date": "2026-06"
+    },
+    {
+      "id": "s11",
+      "title": "IND tertaalcijfers januari t/m augustus 2026",
+      "publisher": "IND",
+      "url": "https://ind.nl/nl/documenten/10-2026/ind-tertaalcijfers-januari-augustus-2026.pdf",
+      "date": "2026-10"
+    },
+    {
+      "id": "s12",
+      "title": "Ruim de helft meer asielaanvragen afgewezen in Nederland, sterke daling Syriërs",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2601559",
+      "date": "2026-02-09"
+    },
+    {
+      "id": "s13",
+      "title": "Migratie naar Nederland in 2025 verder gedaald",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/10/migratie-naar-nederland-in-2025-verder-gedaald",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "s14",
+      "title": "De Staat van Migratie 2026",
+      "publisher": "Ministerie van Asiel en Migratie (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1263308.pdf",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "s15",
+      "title": "Kamerbrief actuele situatie asielketen en Meerjaren Productie Prognose 2026 (19 637, nr. 3686)",
+      "publisher": "Minister van Asiel en Migratie (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1280678.pdf",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "s16",
+      "title": "Kamerbrief bij WODC-rapport Incidenten en misdrijven onder bewoners van COA- en gemeentelijke opvanglocaties 2019-2025 (19 637, nr. 3614)",
+      "publisher": "Minister van Asiel en Migratie (via tweedekamer.nl)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D34872",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "s17",
+      "title": "Antwoord op vragen van het lid Markuszower over grootschalige terugkeer naast een asielstop (Aanhangsel 2026-2027, nr. 74)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D44957",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "s18",
+      "title": "Antwoord op vragen van het lid Vondeling over naturalisaties (Aanhangsel 2025-2026, nr. 1163)",
+      "publisher": "Tweede Kamer (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1163.pdf",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "s19",
+      "title": "Beslisnota bij beleidsreactie op brief Inspectie Justitie en Veiligheid over de quickcheck door DISA",
+      "publisher": "Ministerie van Asiel en Migratie (via tweedekamer.nl)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D34844",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "s20",
+      "title": "Vragen van het lid Russcher over het vaststellen van de leeftijd van asielzoekers, met uitstelbericht (Aanhangsel 2025-2026, nr. 1799)",
+      "publisher": "Tweede Kamer (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1799.pdf",
+      "date": "2026-04-29"
+    },
+    {
+      "id": "s21",
+      "title": "Intrekken van verblijfsvergunning bij verzonnen asielverhaal is terecht",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2622197-intrekken-van-verblijfsvergunning-bij-verzonnen-asielverhaal-is-terecht",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "s22",
+      "title": "IND had in zomer al 'incomplete cijfers' gestapelde nareis",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2523637",
+      "date": "2024-06-08"
+    },
+    {
+      "id": "s23",
+      "title": "'IND zocht meldingen over fraude verblijfvergunningen niet uit'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2524194",
+      "date": "2024-06-12"
+    },
+    {
+      "id": "s24",
+      "title": "Noodopvang blijft belangrijkste vorm van asielopvang (COA-publieksjaarverslag 2025)",
+      "publisher": "Binnenlands Bestuur",
+      "url": "https://www.binnenlandsbestuur.nl/sociaal/noodopvang-blijft-belangrijkste-vorm-van-asielopvang",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "s25",
+      "title": "Opvang asielzoekers lastiger en duurder door kabinetsbeleid, zegt het COA",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2546141",
+      "date": "2024-11-27"
+    },
+    {
+      "id": "s26",
+      "title": "Coalitieakkoord D66, VVD, CDA: Aan de slag - Bouwen aan een beter Nederland",
+      "publisher": "D66, VVD, CDA (kopie gepubliceerd door Provincie Zuid-Holland)",
+      "url": "https://www.zuid-holland.nl/publish/besluitenattachments/analyse-coalitieakkoord-d66-vvd-cda/coalitieakkoord-d66-vvd-cda-aan-de-slag-bouwen-aan-een-beter-nederland.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s27",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s28",
+      "title": "Handelingen Tweede Kamer 23 juni 2026: stemmingen moties Tweede cyclus van de Spreidingswet",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D44360",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "s29",
+      "title": "Handelingen Tweede Kamer 17 juni 2026: tweeminutendebat Tweede cyclus van de Spreidingswet",
+      "publisher": "Tweede Kamer (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-83-10.html",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "s30",
+      "title": "Kamerstuk 36 955, nr. 3: Memorie van toelichting initiatiefwetsvoorstel intrekking Spreidingswet",
+      "publisher": "Tweede Kamer (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36955-3.html",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "s31",
+      "title": "Kabinet wil nieuwe wet tegen automatische voorrang statushouder bij huurwoning",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2607083",
+      "date": "2026-03-20"
+    },
+    {
+      "id": "s32",
+      "title": "Tegen wens gemeentes in stemt Kamer voor woningwet die voorrang statushouders verbiedt",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2573598",
+      "date": "2025-07-04"
+    },
+    {
+      "id": "s33",
+      "title": "Huisvesting asielzoekers met verblijfsvergunning",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/asielbeleid/huisvesting-asielzoekers-met-verblijfsvergunning",
+      "date": null
+    },
+    {
+      "id": "s34",
+      "title": "Brief Algemene Rekenkamer: Aandachtspunten bij de ontwerpbegroting 2027 hoofdstuk XX Asiel en Migratie",
+      "publisher": "Algemene Rekenkamer (via eerstekamer.nl)",
+      "url": "https://www.eerstekamer.nl/brief_in/20260922/aandachtspunten_bij_de_14/f=/vn16eefmi8wm.pdf",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "s35",
+      "title": "Kabinet-Jetten (2026-heden)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinet-jetten-2026-heden",
+      "date": null
+    },
+    {
+      "id": "s36",
+      "title": "Beslisnota bij Kamerbrief over de aanpak van overlastgevende asielzoekers",
+      "publisher": "Ministerie van Asiel en Migratie (via tweedekamer.nl)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D58132",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "s37",
+      "title": "Antwoord op vragen over het bericht 'Minder asielaanvragen door IND ingewilligd' (Aanhangsel 2025-2026, nr. 1160)",
+      "publisher": "Tweede Kamer (via officielebekendmakingen.nl)",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1160.pdf",
+      "date": "2026-02-20"
+    },
+    {
+      "id": "s38",
+      "title": "Migratie en integratie (standpunten)",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/pijlers/migratie-en-integratie/",
+      "date": null
+    },
+    {
+      "id": "s39",
+      "title": "Verkiezingsprogramma: Asielbeleid dat wel werkt",
+      "publisher": "D66",
+      "url": "https://d66.nl/verkiezingsprogramma/europa-defensie-internationale-samenwerking-en-migratie/asielbeleid-dat-wel-werkt/",
+      "date": "2025"
+    },
+    {
+      "id": "s40",
+      "title": "Standpunt asielmigratie",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/standpunt/asielmigratie",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "Een eerlijke en veilige plek voor vluchtelingen (standpunt)",
+      "publisher": "Volt Nederland",
+      "url": "https://voltnederland.org/standpunten/ga-voor-gelijkwaardigheid/een-eerlijke-en-veilige-plek-voor-vluchtelingen",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "Standpunt immigratie en asiel",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/standenpunten/standpunt/immigratie-en-asiel",
+      "date": null
+    },
+    {
+      "id": "s43",
+      "title": "Standpunt immigratie en remigratie",
+      "publisher": "Forum voor Democratie",
+      "url": "https://fvd.nl/standpunten/immigratie-remigratie",
+      "date": null
+    },
+    {
+      "id": "s44",
+      "title": "Standpunt asielzoekers en vluchtelingen",
+      "publisher": "SP",
+      "url": "https://www.sp.nl/standpunt/asielzoekers-en-vluchtelingen",
+      "date": null
+    },
+    {
+      "id": "s45",
+      "title": "Nieuwe coalitie wil Spreidingswet intrekken",
+      "publisher": "Binnenlands Bestuur",
+      "url": "https://www.binnenlandsbestuur.nl/sociaal/asiel-en-inburgering/nieuwe-coalitie-wil-spreidingswet-intrekken",
+      "date": "2024-05-16"
+    },
+    {
+      "id": "s46",
+      "title": "'Helft van het aantal asielopvangplekken in 2026 bezet door statushouders'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2543598",
+      "date": "2024-11-07"
+    },
+    {
+      "id": "s47",
+      "title": "36.871 Uitvoerings- en implementatiewet Asiel- en migratiepact 2026 (dossierpagina)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/36871_uitvoerings_en",
+      "date": null
+    },
+    {
+      "id": "s48",
+      "title": "Antwoord op vragen van het lid Markuszower over de sfeer rond Ter Apel (Aanhangsel 2025-2026, nr. 2578)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D37155",
+      "date": "2026-07-20"
+    }
+  ]
+}

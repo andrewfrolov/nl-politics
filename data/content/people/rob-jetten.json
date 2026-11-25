@@ -1,0 +1,1375 @@
+{
+ "slug": "rob-jetten",
+ "name": "Rob Jetten",
+ "role": "Prime Minister of the Netherlands and Minister of General Affairs since 23 February 2026, leading a minority cabinet of D66, VVD and CDA; D66 party leader since August 2023",
+ "party": "D66",
+ "updated": "2026-11-25",
+ "bio": [
+  {
+   "date": "1987",
+   "event": "Born on 25 March 1987 in Veghel (province of Noord-Brabant).",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "1999-2005",
+   "event": "Secondary school (vwo, the pre-university track) at Udens College.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2005-2011",
+   "event": "Studied public administration (bestuurskunde) at Radboud University Nijmegen: bachelor 2005-2010, master with specialisation Good Governance 2010-2011.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2007-2009",
+   "event": "Policy officer for the D66 group in the Senate (2007-2008) and national chair of the Jonge Democraten, the D66 youth organisation (2008-2009).",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2010-2017",
+   "event": "Member of the Nijmegen municipal council and leader of the D66 group there.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2011-2017",
+   "event": "Worked at ProRail, the state-owned railway infrastructure manager: management trainee (September 2011 - September 2013), strategic adviser (September 2013 - December 2014) and regional manager for construction management (December 2014 - March 2017).",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2017-03-23",
+   "event": "Became a member of the House of Representatives for D66. NOS reported in 2018 that he spoke for the group on climate, economic affairs and democratic reform.",
+   "source_ids": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "date": "2018-10-09",
+   "event": "Unanimously chosen by the D66 House group as its leader (fractievoorzitter), succeeding Alexander Pechtold; he was 31. NOS noted that the group leader was not automatically the party leader. (The government profile page gives October 2019 for this step; the NOS report of the event is dated 9 October 2018.)",
+   "source_ids": [
+    "s4",
+    "s1"
+   ]
+  },
+  {
+   "date": "2022-01-10",
+   "event": "Sworn in as Minister for Climate and Energy in the fourth Rutte cabinet; he held the post until 2 July 2024.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2023-07-14",
+   "event": "Announced his candidacy to succeed Sigrid Kaag as D66 lead candidate (lijsttrekker). The government profile lists him as D66 party leader from August 2023.",
+   "source_ids": [
+    "s5",
+    "s1"
+   ]
+  },
+  {
+   "date": "2023",
+   "event": "Fought his first election campaign as party leader in 2023; the party went from 24 to 9 seats, according to NOS.",
+   "source_ids": [
+    "s7"
+   ]
+  },
+  {
+   "date": "2024-07-02",
+   "event": "After the Schoof cabinet took office he continued as member of the House of Representatives and D66 group leader, until 23 February 2026.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2025-06-28",
+   "event": "Elected by D66 members as lead candidate for the general election of 29 October 2025.",
+   "source_ids": [
+    "s6"
+   ]
+  },
+  {
+   "date": "2025-10-29",
+   "event": "D66 won 26 seats under his leadership, up from 9; NOS described it as the first time D66 became the largest party. On 31 October 2025 he said: 'I am prepared to take on the role of prime minister.' The campaign slogan was 'Het kan wél' ('It can be done').",
+   "source_ids": [
+    "s16",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "date": "2025-11-05",
+   "event": "In his talk with scout (verkenner) Wouter Koolmees he argued for the quick formation of a majority cabinet and advised exploring a coalition of D66, VVD, GL-PvdA (now PRO) and CDA; the official report states he ruled out cooperation with PVV and FVD.",
+   "source_ids": [
+    "s9"
+   ]
+  },
+  {
+   "date": "2026-01-09",
+   "event": "D66, VVD and CDA announced they would form a minority cabinet, with 66 of the 150 seats in the House. According to NOS, the VVD had wanted to include JA21, which met resistance from D66.",
+   "source_ids": [
+    "s10"
+   ]
+  },
+  {
+   "date": "2026-01-30",
+   "event": "D66, VVD and CDA presented the coalition agreement 'Aan de slag. Bouwen aan een beter Nederland'.",
+   "source_ids": [
+    "s12",
+    "s11",
+    "s13"
+   ]
+  },
+  {
+   "date": "2026-02-03",
+   "event": "The House of Representatives appointed him formateur (the person who assembles the cabinet), with the task of forming a cabinet of D66, VVD and CDA within three weeks.",
+   "source_ids": [
+    "s11"
+   ]
+  },
+  {
+   "date": "2026-02-23",
+   "event": "Sworn in as Prime Minister and Minister of General Affairs. The Jetten cabinet has 18 ministers and 10 state secretaries (D66: 7 and 3; VVD: 6 and 3; CDA: 5 and 3; one state secretary without party). The formation took 117 days. According to NL Times, he ended the distinction between a 'minister of' and a 'minister for', so that all cabinet members carry the title 'minister of'.",
+   "source_ids": [
+    "s1",
+    "s2",
+    "s3",
+    "s46"
+   ]
+  },
+  {
+   "date": "2026-02-25",
+   "event": "Delivered the government policy statement (regeringsverklaring) in the House of Representatives.",
+   "source_ids": [
+    "s14"
+   ]
+  },
+  {
+   "date": "2026-06-21",
+   "event": "Offered apologies on behalf of the Dutch government for the treatment of the first generation of Moluccans brought to the Netherlands in 1951, in a speech at the National Moluccan Monument in Rotterdam.",
+   "source_ids": [
+    "s36"
+   ]
+  },
+  {
+   "date": "2026-09-16/17",
+   "event": "Took part in his first Algemene Politieke Beschouwingen (the annual general debate on the budget) as Prime Minister; he said it was his ninth time attending in total.",
+   "source_ids": [
+    "s24"
+   ]
+  },
+  {
+   "date": "2026-11",
+   "event": "After the House adopted the 2027 Tax Plan on 12 November 2026 with an amendment agreed by D66 and CDA with PRO and Volt, and with coalition party VVD voting against, several days of crisis talks followed. On 17 November Jetten said the cabinet would continue; on 20 November he asked Sybrand Buma, vice-president of the Council of State, to advise on how the minority cabinet can cooperate with parliament on financial decisions.",
+   "source_ids": [
+    "s43",
+    "s44",
+    "s34",
+    "s35"
+   ]
+  }
+ ],
+ "speaking_themes": [
+  {
+   "theme": "Cooperation and a different political culture",
+   "summary": "A central message since the formation: a minority cabinet has to work with opposition parties, social partners and other governments, and democracy should be 'more than half plus one'. It was the closing section of the government policy statement of 25 February 2026, the opening of his reply in the September 2026 general budget debate, and a recurring topic in his weekly press conferences. In November 2026, after the coalition crisis over the Tax Plan, he said cooperation on financial decisions had proved harder and asked for outside advice on it.",
+   "quotes": [
+    {
+     "text_en": "Because democracy has to be more than half plus one.",
+     "text_nl": "Omdat democratie meer moet zijn dan de helft plus één.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "But to put it bluntly: we do have to do business with each other here.",
+     "text_nl": "Maar plat gezegd: we moeten hier wel zaken doen met elkaar.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "They expect us to really tackle problems with each other and to do that together.",
+     "text_nl": "Ze verwachten dat we met elkaar problemen ook echt aanpakken en dat we dat sámen doen.",
+     "context": "Opening of his reply in the Algemene Politieke Beschouwingen, House of Representatives; 'they' refers to people in the country watching the debate",
+     "date": "2026-09-17",
+     "source_id": "s24"
+    },
+    {
+     "text_en": "as a cabinet we observe that over the past months it has been possible to cooperate well with parliament on a great many files, but that on financial decision-making in particular it has really proved more difficult.",
+     "text_nl": "wij als kabinet constateren dat er afgelopen maanden op heel veel dossiers goed kan worden samengewerkt met het parlement, maar dat het met name op die financiële besluitvorming toch echt moeilijker is gebleken.",
+     "context": "Weekly press conference after the cabinet meeting, answering a question about the request for advice to Sybrand Buma",
+     "date": "2026-11-20",
+     "source_id": "s35"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s24",
+    "s32",
+    "s33",
+    "s35",
+    "s44"
+   ]
+  },
+  {
+   "theme": "Optimism and progress for the next generation",
+   "summary": "The 2025 D66 campaign ran under the slogan 'Het kan wél' ('It can be done'); EenVandaag and NOS described optimism and the use of the Dutch flag as its distinguishing features. As Prime Minister he frames politics as the promise that children can be better off than their parents, and at the D66 60th anniversary congress on 27 September 2026 he contrasted 'optimists' with 'shouters'.",
+   "quotes": [
+    {
+     "text_en": "Politics is about a good life for everyone, including the hopeful promise that children can be better off than their parents.",
+     "text_nl": "Politiek gaat over een goed leven voor iedereen, inclusief de hoopvolle belofte dat kinderen het beter kunnen krijgen dan hun ouders.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "Once an optimistic guiding nation for freedom and progress. Now an exporter of chaos and division.",
+     "text_nl": "Ooit een optimistisch gidsland voor vrijheid en vooruitgang. Nu exporteur van chaos en verdeeldheid.",
+     "context": "Speech as D66 group leader in the Algemene Politieke Beschouwingen 2025, about the Netherlands under the outgoing cabinet",
+     "date": "2025-09-17",
+     "source_id": "s23"
+    },
+    {
+     "text_en": "They may shout louder, but we get more done",
+     "text_nl": "Zij schreeuwen misschien harder, maar wij krijgen meer voor elkaar",
+     "context": "Speech at the D66 60th anniversary congress, as quoted by NOS",
+     "date": "2026-09-27",
+     "source_id": "s37"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s22",
+    "s23",
+    "s37",
+    "s7"
+   ]
+  },
+  {
+   "theme": "Housing: building more homes",
+   "summary": "Housing was the first of five 'breakthroughs' in the D66 2025 manifesto ('ten new cities'). As Prime Minister he speaks of 100,000 homes a year and 30 large-scale building sites, and names housing together with nitrogen as the subjects that have kept the country 'locked'.",
+   "quotes": [
+    {
+     "text_en": "Yes, D66 wants ten new cities. For all those homes we need in the coming years.",
+     "text_nl": "Ja, D66 wil tien nieuwe steden. Voor al die woningen die we de komende jaren nodig hebben.",
+     "context": "Speech as D66 group leader in the Algemene Politieke Beschouwingen 2025",
+     "date": "2025-09-17",
+     "source_id": "s23"
+    },
+    {
+     "text_en": "Together with housing corporations, builders and our fellow governments we will also pull out all the stops to reach that target of one hundred thousand homes a year, with 30 large-scale new-build sites across the country.",
+     "text_nl": "We gaan ook samen met corporaties, bouwers en onze collega-overheden alles uit de kast halen om die doelstelling van honderdduizend woningen per jaar te halen, met 30 grootschalige nieuwbouwlocaties in het hele land.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "Mr Speaker, if there are 2 subjects that have kept the Netherlands locked for far too long, they are nitrogen and housing.",
+     "text_nl": "Voorzitter, als er 2 onderwerpen zijn die Nederland nu al veel te lang op slot zetten, dan zijn dat stikstof en wonen.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    }
+   ],
+   "source_ids": [
+    "s15",
+    "s23",
+    "s14"
+   ]
+  },
+  {
+   "theme": "Migration: 'control' with a stricter line",
+   "summary": "In June 2025 he announced a change of D66's course on asylum in an interview with the AD newspaper, as reported by NOS. As Prime Minister he describes the cabinet's aims as lower inflow, decent reception and letting asylum seekers with good prospects take part from day one, and points to legislation passed in 2026.",
+   "quotes": [
+    {
+     "text_en": "The current migration system is broken",
+     "text_nl": "Het huidige migratiesysteem is stuk",
+     "context": "Interview with AD, as quoted by NOS",
+     "date": "2025-06-23",
+     "source_id": "s17"
+    },
+    {
+     "text_en": "From migration that happens to us, we will have to move to migration that we control ourselves.",
+     "text_nl": "Van migratie die ons overkomt, zullen we naar migratie moeten die we zelf in de hand hebben.",
+     "context": "Interview with AD, as quoted by NOS",
+     "date": "2025-06-23",
+     "source_id": "s17"
+    },
+    {
+     "text_en": "Our plans are both strict and aimed at an asylum chain that works.",
+     "text_nl": "Onze plannen zijn zowel streng, als gericht op een asielketen die werkt.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "I mention the biggest change of law in the field of asylum and migration, through which we have much more control over our external borders.",
+     "text_nl": "Ik noem de grootste wetswijziging op het gebied van asiel en migratie, waardoor we veel meer grip hebben op onze buitengrenzen.",
+     "context": "Algemene Politieke Beschouwingen, reply to PVV leader Wilders",
+     "date": "2026-09-17",
+     "source_id": "s24"
+    }
+   ],
+   "source_ids": [
+    "s17",
+    "s14",
+    "s24"
+   ]
+  },
+  {
+   "theme": "Security, Ukraine and a strong Europe",
+   "summary": "He called international security possibly 'our first priority' in the government policy statement, linking continued support for Ukraine, higher defence spending anchored in law and an active Dutch role in the EU. Ukraine and European affairs feature in the opening statements of many weekly press conferences.",
+   "quotes": [
+    {
+     "text_en": "Our security is our own responsibility.",
+     "text_nl": "Onze veiligheid is onze eigen verantwoordelijkheid.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "We believe that a strong Europe and a strong Netherlands are an extension of each other.",
+     "text_nl": "Wij geloven dat een sterk Europa en een sterk Nederland in elkaars verlengde liggen.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "But such an agreement can only come about if Russia stops this war and comes to negotiate seriously about a solution.",
+     "text_nl": "Maar zo’n akkoord kan er alleen komen als Rusland deze oorlog stopt en serieus komt onderhandelen over een oplossing.",
+     "context": "Weekly press conference, after a summit of the Coalition of the Willing in Berlin",
+     "date": "2026-11-20",
+     "source_id": "s35"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s35"
+   ]
+  },
+  {
+   "theme": "'Necessary choices': reforms of health care costs and social security",
+   "summary": "He presents measures such as a shorter unemployment benefit (WW), a higher state pension age from 2033 and a brake on health care costs as choices that cannot be postponed without burdening young people. In October 2026 the cabinet withdrew the announced cuts to the WW and disability benefits to make room for talks with employers and unions.",
+   "quotes": [
+    {
+     "text_en": "The point is, not choosing now will hurt even more in the long run.",
+     "text_nl": "Het punt is, nu niet kiezen, gaat op termijn nog meer pijn doen.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "The best moment to start on that was a few years ago.",
+     "text_nl": "Het beste moment om daarmee te beginnen, was een paar jaar geleden.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives, on controlling the costs of health care and ageing",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "raising the own risk leads, in our conviction, ultimately to a lower health insurance premium per month.",
+     "text_nl": "verhoging van het eigen risico leidt in onze overtuiging uiteindelijk tot een lagere zorgpremie per maand.",
+     "context": "Weekly press conference, answering NOS on the proposed increase of the compulsory health insurance deductible (eigen risico)",
+     "date": "2026-04-17",
+     "source_id": "s29"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s29",
+    "s31"
+   ]
+  },
+  {
+   "theme": "Climate and energy",
+   "summary": "Minister for Climate and Energy in 2022-2024, he says as Prime Minister that climate policy stalled in recent years and must speed up again, and ties this to expanding the electricity grid. In September 2026 the planning agencies CPB, SCP and PBL concluded that the Netherlands was not on course to meet its climate goals.",
+   "quotes": [
+    {
+     "text_en": "Over the past few years we have unfortunately come to a standstill because of yo-yo policy on climate and because a number of big choices were postponed. So it is now up to us to really press the sustainable accelerator all the way down again.",
+     "text_nl": "De afgelopen paar jaar zijn we helaas tot stilstand gekomen door jojobeleid op het gebied van klimaat en doordat een aantal grote keuzes zijn uitgesteld. Het is nu dus aan ons om het duurzame gaspedaal echt weer vol in te trappen.",
+     "context": "Algemene Politieke Beschouwingen, House of Representatives",
+     "date": "2026-09-17",
+     "source_id": "s24"
+    },
+    {
+     "text_en": "And the climate challenge too, which is so decisive for the future of our young people, calls for new knowledge and new applications of that knowledge.",
+     "text_nl": "En ook de klimaatopgave, die zo bepalend is voor de toekomst van onze jongeren, vraagt om nieuwe kennis en nieuwe toepassingen van die kennis.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    }
+   ],
+   "source_ids": [
+    "s24",
+    "s25",
+    "s14",
+    "s26"
+   ]
+  },
+  {
+   "theme": "Nitrogen: getting the country 'off the lock'",
+   "summary": "He describes the nitrogen problem (permits for building and farming blocked because of nitrogen deposition on protected nature) as a condition for economic growth and housing construction, and says farmers need clarity. A cabinet package has been before the House since June 2026 according to his statement in the September 2026 budget debate.",
+   "quotes": [
+    {
+     "text_en": "Because Dutch farmers deserve a clear perspective and our country now really has to come off the lock.",
+     "text_nl": "Want Nederlandse boeren verdienen een duidelijk perspectief en ons land moet nu echt van het slot.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "We want to get the Netherlands off the nitrogen lock as quickly as possible, because nitrogen affects our economy directly: from the construction of new homes to the expansion of our businesses and infrastructure.",
+     "text_nl": "We willen Nederland zo snel mogelijk van het stikstofslot krijgen, want stikstof raakt onze economie direct: van de bouw van nieuwe woningen tot de uitbreiding van onze bedrijven en infrastructuur.",
+     "context": "Weekly press conference, opening statement",
+     "date": "2026-10-30",
+     "source_id": "s50"
+    },
+    {
+     "text_en": "Only a firm package of measures will give the Netherlands room again to do business, to build and to farm.",
+     "text_nl": "Alleen een stevig pakket maatregelen gaat Nederland weer ruimte geven om te ondernemen, te bouwen en te boeren.",
+     "context": "Weekly press conference, opening statement",
+     "date": "2026-10-30",
+     "source_id": "s50"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s50",
+    "s24"
+   ]
+  },
+  {
+   "theme": "Equal rights and the democratic rule of law",
+   "summary": "He regularly says that origin, skin colour, religion or sexual orientation should not matter in the Netherlands, and speaks against threats to the rule of law. At the D66 congress on 27 September 2026 he criticised what NOS quoted as 'anti-Dutch forces that want to hollow out our democracy'; a remark there about people attacking minorities led to an apology (see controversies).",
+   "quotes": [
+    {
+     "text_en": "Because in the Netherlands, in our country, it should not matter where you live, what the colour of your skin is, where your cradle stood or that of your parents, what you believe or whom you love.",
+     "text_nl": "Want in Nederland, in óns land, moet het niet uitmaken waar je woont, wat de kleur van je huid is, waar je wieg stond of die van je ouders, wat je gelooft of van wie je houdt.",
+     "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+     "date": "2026-02-25",
+     "source_id": "s14"
+    },
+    {
+     "text_en": "What matters to me is that we must fight for equal rights for everyone.",
+     "text_nl": "Waar het mij om gaat is dat we moeten strijden voor gelijke rechten voor iedereen.",
+     "context": "Statement when retracting his 'vol op hun bek' remark, as quoted by Hart van Nederland",
+     "date": "2026-09-28",
+     "source_id": "s39"
+    }
+   ],
+   "source_ids": [
+    "s14",
+    "s37",
+    "s39"
+   ]
+  }
+ ],
+ "promises": [
+  {
+   "promise": "Build ten new cities, mainly next to existing cities or towns and at large public transport hubs.",
+   "quote": {
+    "text_en": "D66 wants to build ten new cities, mainly next to existing cities or towns and at large public transport hubs.",
+    "text_nl": "D66 wil tien nieuwe steden bouwen, vooral bij bestaande steden of kernen en bij grote ov-",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (the first of its five 'breakthroughs'); the quoted line breaks off at a hyphen in the PDF and continues 'knooppunten'",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025 (manifesto); repeated in the House on 2025-09-17",
+   "where": "manifesto / parliamentary speech",
+   "status": "partly_kept",
+   "evidence": "The coalition agreement of 30 January 2026 does not name a number of new cities. It says: 'We bouwen minstens 30 grootschalige nieuwbouwlocaties van nationaal belang verspreid over het land. Dat kunnen nieuwe wijken zijn, maar ook nieuwe steden.' (at least 30 large-scale building sites of national importance; these can be new districts, but also new cities). On 2 October 2026 Jetten said new housing sites had been designated ('Nieuwe woningbouwlocaties aangewezen'); how many of these are new cities was not found in the sources consulted. In the House debate of 17 September 2026 ChristenUnie leader Bikker said of the ten new cities: 'ik weet niet helemaal of dat er tien worden'.",
+   "source_ids": [
+    "s15",
+    "s23",
+    "s12",
+    "s31",
+    "s24"
+   ]
+  },
+  {
+   "promise": "Phase out the mortgage interest deduction (hypotheekrenteaftrek, the tax relief on mortgage interest for home owners), while sparing people who recently took out a mortgage, and use the proceeds for lower income tax.",
+   "quote": {
+    "text_en": "We reduce the differences in tax advantages between renters and people with an owner-occupied home. We do this among other things by phasing out the mortgage interest deduction,",
+    "text_nl": "koopwoning. Dit doen we onder andere via de afbouw van de hypotheekrenteaftrek,",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (fragment as printed across two lines of the PDF; the English gives the full sentence)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "broken",
+   "evidence": "The coalition agreement states: 'Om het eigen huis betaalbaar te houden en rust op de woningmarkt te bewaren blijft de fiscale behandeling van de eigen woning ongewijzigd' (the tax treatment of the owner-occupied home remains unchanged). In the debate on the government policy statement on 26 February 2026 Jetten said the coalition talks had 'evidently' not produced agreement on this and: 'We hebben er bewust voor gekozen om dat niet te doen.' According to the ANP report, D66 and CDA had campaigned for further phasing out while for the VVD that was a breaking point. On 22 May 2026 he said deviating from the coalition agreement would need the consent of all coalition parties, 'and I do not see that at the moment'.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s13",
+    "s21",
+    "s30"
+   ]
+  },
+  {
+   "promise": "Do not raise the compulsory health insurance deductible (eigen risico) above 385 euros.",
+   "quote": {
+    "text_en": "We do not raise the own risk of 385 euros and you pay no more than 150 euros per treatment.",
+    "text_nl": "D66 kiest daarom voor een gerichte aanpak. We verhogen het",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (the Dutch fragment is the start of the sentence as printed in the PDF, which continues: 'eigen risico van €385 euro niet en je betaalt niet meer dan €150 euro per behandeling.')",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "unclear",
+   "evidence": "The coalition agreement of D66, VVD and CDA says the current deductible is kept and indexed and 'verhogen we het eigenrisico met €60 per 2027'; NOS summarised this as a rise from 385 to 460 euros. On 17 April 2026 Jetten defended a stepwise increase at his press conference, saying it leads to a lower monthly premium, after NOS put to him that a count in the Senate showed no majority. On 2 October 2026 a journalist (SBS 6) stated at the press conference that there was 'no support for the desired increase of the own risk'. The position in the coalition agreement differs from the manifesto pledge; whether the deductible actually rises in 2027 could not be established from the sources consulted.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s13",
+    "s29",
+    "s31"
+   ]
+  },
+  {
+   "promise": "Cap what a patient pays from the deductible at 150 euros per treatment.",
+   "quote": {
+    "text_en": "you pay no more than 150 euros per treatment.",
+    "text_nl": "eigen risico van €385 euro niet en je betaalt niet meer dan €150 euro per behandeling.",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement contains the same cap: 'We zorgen dat je nooit in een keer het hele eigen risico kwijt bent maar maximaal 150 euro per behandeling.' On 17 April 2026 Jetten said the cabinet wanted to combine the deductible increase with 'a limit on how much money you lose from the own risk each time'. Adoption of the legislation was not verified in the sources consulted.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s29"
+   ]
+  },
+  {
+   "promise": "Keep the Spreidingswet (the law distributing asylum reception places across municipalities).",
+   "quote": {
+    "text_en": "We invest in reception on a human scale, fairly distributed across our country. The Spreidingswet stays.",
+    "text_nl": "De Spreidingswet blijft.",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (the English includes the preceding sentence)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "kept",
+   "evidence": "The coalition agreement keeps the law, with a condition: 'Op verzoek van de gemeenten en de uitvoeringsorganisaties in het asielsysteem houden we de spreidingswet nu voorlopig in stand' and adds that the law becomes superfluous once there are enough fixed and flexible reception places. NOS listed 'the Spreidingswet remains in force' among the coalition's asylum agreements on 30 January 2026.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "promise": "No cooperation with PVV and FVD.",
+   "quote": {
+    "text_en": "Because of fundamental differences in views on the democratic rule of law, Mr Jetten rules out cooperation with the PVV and FvD.",
+    "text_nl": "heer Jetten samenwerking met de PVV en FvD uit.",
+    "context": "Official report of his conversation with scout Wouter Koolmees (wording of the report, not a first-person quote; fragment as printed across two lines of the PDF). ANP reported on 19 October 2025 that he had told De Telegraaf he wanted to work with 'positive forces' of all parties except FVD and PVV.",
+    "date": "2025-11-05",
+    "source_id": "s9"
+   },
+   "made": "2025-10 (campaign) and 2025-11-05 (formation)",
+   "where": "campaign interview / formation talks",
+   "status": "kept",
+   "evidence": "The cabinet sworn in on 23 February 2026 consists of D66, VVD and CDA. According to NL Times, the 2027 Tax Plan passed the House on 12 November 2026 with the votes of D66, CDA, PRO, Volt, ChristenUnie, DENK, PvdD and 50PLUS. No coalition or support agreement with PVV or FVD was found in the sources consulted. On 22 April 2026 Jetten accused the PVV of 'political sabotage' after the Senate rejected an asylum bill.",
+   "source_ids": [
+    "s9",
+    "s19",
+    "s2",
+    "s43",
+    "s27"
+   ]
+  },
+  {
+   "promise": "No centre-right coalition of D66 with VVD and JA21; cooperation with JA21 on individual subjects remains possible.",
+   "quote": {
+    "text_en": "I have said more often that there are combinations in which D66 and JA21 could work together. But not a combination consisting of three right-wing parties. Centre-right is not a passable route, because that is not a majority, not in the House of Representatives and not in the Senate.",
+    "text_nl": "Ik heb al vaker gezegd dat er combinaties zijn waarin D66 en JA21 samen zouden kunnen werken. Maar niet een combinatie die bestaat uit drie rechtse partijen. Centrumrechts is geen begaanbare route, omdat dat geen meerderheid is, niet in de Tweede Kamer en niet in de Eerste Kamer.",
+    "context": "On camera for WNL during the formation",
+    "date": "2025-12-06",
+    "source_id": "s20"
+   },
+   "made": "2025-10-19 and 2025-12-06",
+   "where": "campaign statement / formation",
+   "status": "kept",
+   "evidence": "On 19 October 2025 ANP reported that Jetten did not see D66 entering a coalition with JA21 soon, while remaining open to cooperation on subjects. NOS reported on 9 January 2026 that the VVD had tried until the end to include JA21 but that this met resistance from D66; the cabinet was formed without JA21. On 8 May 2026 the cabinet said it embraced an amendment by SGP and JA21 to abolish court-imposed penalty payments for the immigration service IND.",
+   "source_ids": [
+    "s19",
+    "s20",
+    "s10",
+    "s28"
+   ]
+  },
+  {
+   "promise": "Meet the NATO agreement to spend at least 3.5% of GDP on defence.",
+   "quote": {
+    "text_en": "We meet the NATO agreement to spend at least 3.5% of GDP on defence",
+    "text_nl": "We komen de NAVO‑afspraak na om minimaal 3,5% van het bbp aan defensie uit te geven",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement says defence spending is scaled up to reach the NATO norm of 3.5% of GDP and that the norm is anchored in law. NOS reported 19 billion euros extra for defence, partly paid through a 'freedom contribution' (vrijheidsbijdrage) in taxes. In the government policy statement Jetten said: 'En we gaan dat ook wettelijk vastleggen'. The planning agencies noted in September 2026 that defence receives the most extra money in the 2027 budget. On 2 October 2026 a journalist stated at the press conference that the freedom contribution for citizens had been dropped for 2027. Whether the law anchoring the norm has been adopted was not verified.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s13",
+    "s14",
+    "s26",
+    "s31"
+   ]
+  },
+  {
+   "promise": "Reverse earlier cuts in science and invest considerably more in education and research.",
+   "quote": {
+    "text_en": "That is why we reverse earlier cuts and invest considerably more.",
+    "text_nl": "kunnen wonen. Daarom draaien we eerdere bezuinigingen terug én investeren we fors meer. We",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025, chapter on science and innovation (line as printed in the PDF, including the end and start of the neighbouring sentences)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "NOS reported on the coalition agreement: the education cuts are off the table, 1 billion euros extra is to be freed up in the coming year, rising to 1.5 billion after some years. CPB, SCP and PBL wrote on the 2027 budget (September 2026) that extra money goes to education among other areas. Jetten listed 'Forse investeringen in toponderwijs en toponderzoek' among the cabinet's results on 2 October 2026. The 2027 budget process was still under way in the autumn of 2026.",
+   "source_ids": [
+    "s15",
+    "s13",
+    "s26",
+    "s31"
+   ]
+  },
+  {
+   "promise": "Raise the basic student grant (basisbeurs) by 166 euros per month.",
+   "quote": {
+    "text_en": "D66 raises the basic grant by 166 euros per month, so that students can make ends meet better.",
+    "text_nl": "D66 verhoogt de basisbeurs met €166 euro per maand, zodat studenten beter kunnen",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF; the sentence continues 'rondkomen')",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "unclear",
+   "evidence": "The coalition agreement says: 'De uitwonende beurs gaat omhoog, we maximeren de rente voor studenten op 2,5%' (the grant for students living away from home goes up; interest on student loans is capped at 2.5%). It names no amount and refers only to the grant for students living away from home. The amount decided was not found in the sources consulted.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "promise": "Get the Netherlands back on course for the climate targets: 55% lower greenhouse gas emissions in 2030, 90% in 2040, climate neutral in 2050, laid down in the Climate Act.",
+   "quote": {
+    "text_en": "D66 brings the Netherlands back on course for the climate targets of 2030, 2040 and 2050.",
+    "text_nl": "op koers voor de klimaatdoelen van 2030, 2040 en 2050. In 2030 is er 55% minder uitstoot van",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement says the cabinet holds on to the targets of the national Climate Act, refers to the EU agreement on a 90% net reduction in 2040, and announces additional national measures in spring 2027 'if necessary'. It also plans at least four new nuclear power plants. In their joint reflection on the 2027 budget (September 2026), CPB, SCP and PBL concluded: 'Ondanks de extra klimaatuitgaven ligt Nederland niet op koers om de klimaatdoelen te halen.' In the House on 17 September 2026 Jetten said additional measures would follow in the coming months and that the Crisis Act on grid congestion had been sent to the Council of State.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s26",
+    "s24"
+   ]
+  },
+  {
+   "promise": "Refugees must be able to file their asylum request outside Europe (the 'Canadian model').",
+   "quote": {
+    "text_en": "Refugees must be able to submit their asylum request outside Europe.",
+    "text_nl": "binnen- en buitenland niet inperkt. Vluchtelingen moeten buiten Europa hun asielverzoek",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF; the sentence continues 'kunnen indienen'). Jetten announced the change of course in AD on 23 June 2025.",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025-06-23 (interview) and 2025 (manifesto)",
+   "where": "interview / manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement adopts this as an ultimate goal: 'Doel is uiteindelijk dat asielaanvragen buiten Europa kunnen worden ingediend en afgehandeld, en dat in Nederland geen asielprocedures meer hoeven worden doorlopen', and announces an asylum summit and diplomatic initiatives. Jetten himself said in June 2025 that changing treaties takes much time. In the House on 17 September 2026 he referred to a meeting to be organised in November as a step towards 'a whole new international approach to migration flows'. No change to the system itself was found in the sources consulted.",
+   "source_ids": [
+    "s17",
+    "s15",
+    "s12",
+    "s24"
+   ]
+  },
+  {
+   "promise": "Make childcare almost free in the short term, with access to five days a week for every child, including children with one working parent.",
+   "quote": {
+    "text_en": "On the way to this public provision we make childcare almost free.",
+    "text_nl": "Op weg naar deze publieke voorziening maken we de kinderopvang bijna gratis. Elk kind",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement says: 'We gaan ongewijzigd door met bijna gratis kinderopvang voor werkende ouders' (we continue unchanged with almost free childcare for working parents) and lists abolishing the childcare benefit through direct financing. It refers to working parents; the manifesto also named children with one working parent. In the House on 17 September 2026 Jetten said the cabinet is working 'in the coming years' on the almost-free childcare system. A start date was not verified.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s24"
+   ]
+  },
+  {
+   "promise": "Stay committed to halving nitrogen emissions by 2030.",
+   "quote": {
+    "text_en": "D66 remains committed to halving nitrogen emissions in 2030",
+    "text_nl": "D66 blijft gecommitteerd aan halvering van de stikstofuitstoot in 2030",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "broken",
+   "evidence": "The coalition agreement sets the legal nitrogen targets for 2035, not 2030: 'We leggen stikstofdoelen voor 2035 per sector in de wet vast, met een tussendoel in 2030.' The 2035 targets are 42-46% ammonia reduction for agriculture compared with 2019, 50% for industry and 50% (NOx) for mobility; for agriculture the 2030 aim is a band of 23-25% reduction. Jetten said in September 2026 that a nitrogen package had been before the House since June 2026 and was broadly well received, and on 6 November 2026 that a 'big step' had been taken in consultation with farmers' organisations LTO and NAJK.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s24",
+    "s52"
+   ]
+  },
+  {
+   "promise": "Take a significant step towards restoring the development cooperation budget to 0.7% of GDP.",
+   "quote": {
+    "text_en": "We take a significant step towards restoring the budget to 0.7% of",
+    "text_nl": "samenwerking. We zetten een significante stap naar herstel van het budget naar 0,7% van het",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF)",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "in_progress",
+   "evidence": "The coalition agreement says: 'We investeren in ontwikkelingssamenwerking en zetten daarmee een stap richting de internationale OESO-norm.' It names no percentage or year. In the government policy statement Jetten mentioned 'extra money for the network of diplomatic posts and development cooperation'. The amounts in the 2027 budget were not verified.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s14"
+   ]
+  },
+  {
+   "promise": "Reform the unemployment benefit (WW): a higher benefit at the start and a shorter duration.",
+   "quote": {
+    "text_en": "The duration of the benefit becomes shorter, because people nowadays often find new work faster than in the past.",
+    "text_nl": "inkomen kleiner is. De duur van de uitkering wordt korter, omdat mensen tegenwoordig vaak",
+    "context": "D66 manifesto 'Het kan wél' for the election of 29 October 2025 (line as printed in the PDF; the sentence continues 'sneller dan vroeger een nieuw werk vinden')",
+    "date": "2025",
+    "source_id": "s15"
+   },
+   "made": "2025",
+   "where": "manifesto",
+   "status": "unclear",
+   "evidence": "According to NOS, the coalition agreement shortens the WW from two years to one while raising the benefit; Jetten named 'de verkorting van de WW' among the reforms in the government policy statement. On 2 October 2026 he announced that, to make talks with employers and unions possible, 'halen we de eerder aangekondigde bezuinigingen op de WW, tegemoetkoming arbeidsongeschikten en WIA van tafel' (the announced cuts to the WW and to disability arrangements are withdrawn). Talks on a social agreement were continuing in November 2026; what happens to the WW depends on them.",
+   "source_ids": [
+    "s15",
+    "s13",
+    "s14",
+    "s31",
+    "s52"
+   ]
+  },
+  {
+   "promise": "As Prime Minister: present new proposals to limit asylum inflow within two weeks after the Senate rejected the asylum emergency measures bill on 21 April 2026.",
+   "quote": {
+    "text_en": "A missed opportunity, but the cabinet will not be thrown off course by one vote in the Senate",
+    "text_nl": "Een gemiste kans, maar het kabinet laat zich niet door één stemming in de Eerste Kamer uit het veld slaan",
+    "context": "Reaction as quoted by NOS, which reported that the cabinet would come with new proposals 'within two weeks'",
+    "date": "2026-04-22",
+    "source_id": "s27"
+   },
+   "made": "2026-04-22",
+   "where": "statement to the press",
+   "status": "partly_kept",
+   "evidence": "NOS reported on 22 April 2026 that new proposals would come within two weeks: wider possibilities to declare foreign nationals undesirable, and abolition of the penalty payments the immigration service IND must pay when procedures overrun. On 8 May 2026 (16 days later, at the first cabinet meeting after the May recess) Jetten announced that the Minister of Asylum and Migration was sending an amending note (nota van wijziging) to the House that day on the 'undesirable' declaration, and that the cabinet embraced an existing SGP/JA21 amendment to abolish the penalty payments rather than submitting its own proposal. On 2 October 2026 Jetten said the cabinet had steered 'the largest legislative package on migration in 25 years' through both Houses.",
+   "source_ids": [
+    "s27",
+    "s28",
+    "s31"
+   ]
+  },
+  {
+   "promise": "As Prime Minister: reach the target of 100,000 new homes per year, with 30 large-scale building sites.",
+   "quote": {
+    "text_en": "Together with housing corporations, builders and our fellow governments we will also pull out all the stops to reach that target of one hundred thousand homes a year, with 30 large-scale new-build sites across the country.",
+    "text_nl": "We gaan ook samen met corporaties, bouwers en onze collega-overheden alles uit de kast halen om die doelstelling van honderdduizend woningen per jaar te halen, met 30 grootschalige nieuwbouwlocaties in het hele land.",
+    "context": "Government policy statement (regeringsverklaring) in the House of Representatives",
+    "date": "2026-02-25",
+    "source_id": "s14"
+   },
+   "made": "2026-02-25; repeated at the D66 congress on 2026-09-27",
+   "where": "government policy statement / party congress",
+   "status": "not_yet_due",
+   "evidence": "At the D66 congress on 27 September 2026 Jetten said, according to NOS, that the 100,000 homes will 'gewoon wel' (simply) be there next year. In the House on 17 September 2026 D66 group leader Paternotte cited a forecast of 99,700 homes for 2027 and said the Prime Minister had spoken of a possible building record next year. On 6 November 2026 Jetten said the amended Tax Plan includes 'an extra multi-billion impulse' for housing corporations. Completion figures for 2027 do not yet exist.",
+   "source_ids": [
+    "s14",
+    "s37",
+    "s24",
+    "s52"
+   ]
+  },
+  {
+   "promise": "As Prime Minister: work towards a broad social agreement with employers and unions as quickly as possible.",
+   "quote": {
+    "text_en": "But people in the country may expect of us that we work towards that social agreement as quickly as possible.",
+    "text_nl": "Maar mensen in het land mogen van ons verwachten dat we zo snel mogelijk naar dat sociaal akkoord toewerken.",
+    "context": "Weekly press conference, after a first meeting with social partners at the Catshuis",
+    "date": "2026-10-09",
+    "source_id": "s51"
+   },
+   "made": "2026-10-02 and 2026-10-09",
+   "where": "press conference",
+   "status": "in_progress",
+   "evidence": "On 2 October 2026 the cabinet withdrew announced cuts to the WW and disability arrangements and invited employers and unions for talks; a first meeting took place at the Catshuis on 7 October. On 6 November 2026 Jetten said the cabinet would meet employers and employees again the following week. No agreement had been reported in the sources consulted by 20 November 2026.",
+   "source_ids": [
+    "s31",
+    "s51",
+    "s52"
+   ]
+  }
+ ],
+ "fact_checks": [
+  {
+   "claim": "No AI was used for posts on the Prime Minister's official social media accounts.",
+   "date": "2026-09-29",
+   "where": "Written answers to parliamentary questions",
+   "checker": "de Volkskrant (as reported by NL Times; the Volkskrant article itself could not be opened)",
+   "verdict": "Incorrect: the newspaper reported under the headline 'Jetten informeerde Tweede Kamer onjuist over AI-gebruik' (Jetten informed the House of Representatives incorrectly about AI use)",
+   "verdict_class": "false",
+   "explanation": "Using the detection model Pangram, the Volkskrant found at least five undisclosed AI-written posts on the official 'minpres' accounts, and two experts it consulted identified language characteristics of AI models. The Government Information Service (RVD) told the paper it does not deny that AI was used for these posts but 'does not share the conclusion that the cited examples were generated entirely by AI'. FVD member Van Houwelingen put written questions about the report; the Ministry of General Affairs prepared answers dated 26 October 2026.",
+   "url": "https://nltimes.nl/node/92268",
+   "source_ids": [
+    "s41",
+    "s40",
+    "s42"
+   ]
+  },
+  {
+   "claim": "D66 election manifesto 2023 (Jetten was lead candidate): the housing stock consists for 64 percent of single-family homes, while only 27 percent of households are families with children.",
+   "date": "2023",
+   "where": "D66 manifesto for the November 2023 election (a party document, not a personal statement by Jetten)",
+   "checker": "Nieuwscheckers (Leiden University)",
+   "verdict": "True (Waar)",
+   "verdict_class": "true",
+   "explanation": "According to Nieuwscheckers (15 November 2023), Statistics Netherlands (CBS) data for 1 January 2023 show that 64% of the 8,125,229 homes were single-family homes, and CBS and ABF Research figures show 72% of households consist of one or two persons.",
+   "url": "https://nieuwscheckers.nl/d66-heeft-gelijk-nederland-telt-veel-meer-gezinswoningen-dan-gezinnen-en-dat-is-een-probleem/",
+   "source_ids": [
+    "s48"
+   ]
+  }
+ ],
+ "reversals": [
+  {
+   "topic": "Asylum: applications outside the EU",
+   "before": "Until June 2025 D66 did not advocate handling asylum applications outside the EU; NOS described the June 2025 announcement as D66 changing its course on migration. The earlier D66 texts themselves were not retrieved.",
+   "after": "23 June 2025: in an interview with AD, Jetten argued that refugees should apply for asylum outside Europe's borders (a 'Canadian migration model'), that treaties should be looked at for modernisation, and that asylum seekers causing persistent nuisance should go to closed reception. The 2025 manifesto and the January 2026 coalition agreement contain the aim of asylum applications being filed outside Europe.",
+   "explanation_given": "\"Het huidige migratiesysteem is stuk\" (the current migration system is broken). He said centre parties should not 'leave the migration debate to the flanks' and that party members found the change 'exciting' but 'necessary': \"Want doorgaan op de huidige weg kan ook niet.\"",
+   "source_ids": [
+    "s17",
+    "s15",
+    "s12"
+   ]
+  },
+  {
+   "topic": "Mortgage interest deduction",
+   "before": "2025 manifesto: reduce the difference in tax advantages between renters and owners, among other things by phasing out the mortgage interest deduction.",
+   "after": "30 January 2026 coalition agreement: the tax treatment of the owner-occupied home remains unchanged. 26 February 2026: Jetten said in the House there was little chance of further phasing out.",
+   "explanation_given": "He said that on some subjects the coalition negotiations had 'evidently' reached no agreement and: \"We hebben er bewust voor gekozen om dat niet te doen.\" On 22 May 2026 he added that deviating from the coalition agreement requires the consent of all coalition parties.",
+   "source_ids": [
+    "s15",
+    "s12",
+    "s21",
+    "s30"
+   ]
+  },
+  {
+   "topic": "Health insurance deductible (eigen risico)",
+   "before": "2025 manifesto: 'We verhogen het eigen risico van €385 euro niet'. In the RTL debate of 19 October 2025, NOS reported, D66 kept the deductible at a maximum of 385 euros per year and Jetten argued that lowering or abolishing it leads to longer waiting lists.",
+   "after": "30 January 2026 coalition agreement: the deductible is indexed and raised by 60 euros per 2027. 17 April 2026: Jetten defended a stepwise increase at his press conference.",
+   "explanation_given": "\"verhoging van het eigen risico leidt in onze overtuiging uiteindelijk tot een lagere zorgpremie per maand.\" He said the increase would be combined with a limit on the amount paid per treatment.",
+   "source_ids": [
+    "s15",
+    "s18",
+    "s12",
+    "s29"
+   ]
+  },
+  {
+   "topic": "Taxing the Royal House",
+   "before": "2024: according to NL Times, D66 member of parliament Joost Sneller obtained a large majority for a motion to make the Royal Family pay tax, and D66 criticised Prime Ministers Rutte and Schoof for not carrying it out.",
+   "after": "28 October 2026: Jetten said in a House debate that he does not intend to require members of the Royal House to pay taxes, and did not carry out a similar motion by PRO member Bromet. He announced a broader inquiry into a 'future-proof monarchy'.",
+   "explanation_given": "According to NL Times he called the annual debate on the tax exemptions a 'fruitless dynamic' in which the same positions return each time. RTL Nieuws sources, cited by NL Times, attributed the change to pressure from coalition partners VVD and CDA; SP and PRO members criticised it.",
+   "source_ids": [
+    "s45"
+   ]
+  },
+  {
+   "topic": "Coalition with JA21",
+   "before": "18 October 2025: an article in De Telegraaf reported him as wanting to work with 'positive forces' of all parties except FVD and PVV, which was read as keeping a coalition with JA21 open (as described by ANP).",
+   "after": "19 October 2025: he said he did not see D66 entering a coalition with JA21 soon, citing a 'large gap' on security, rights of women and LGBTI people, medical ethics and climate. 6 December 2025: he called a centre-right coalition with VVD and JA21 'not a passable route'.",
+   "explanation_given": "He said his Telegraaf quotes should be read as openness to cooperation on subjects such as reversing education cuts, and on 6 December 2025: \"Ik heb al vaker gezegd dat er combinaties zijn waarin D66 en JA21 samen zouden kunnen werken. Maar niet een combinatie die bestaat uit drie rechtse partijen.\"",
+   "source_ids": [
+    "s19",
+    "s20"
+   ]
+  },
+  {
+   "topic": "Cuts to unemployment and disability benefits (as Prime Minister)",
+   "before": "30 January 2026 coalition agreement and 25 February 2026 government policy statement: shortening of the unemployment benefit (WW) presented as a necessary reform.",
+   "after": "2 October 2026: the cabinet withdrew the announced cuts to the WW, the allowance for people with an occupational disability and the WIA disability scheme.",
+   "explanation_given": "\"Om dit gesprek met de polder mogelijk te maken, halen we de eerder aangekondigde bezuinigingen op de WW, tegemoetkoming arbeidsongeschikten en WIA van tafel.\" He described it as making room for an agreement between employers and employees on the future of social security.",
+   "source_ids": [
+    "s13",
+    "s14",
+    "s31"
+   ]
+  }
+ ],
+ "controversies": [
+  {
+   "date": "2022-09",
+   "summary": "NOS reported that Jetten, then Minister for Climate and Energy, would be absent from the Algemene Politieke Beschouwingen because of an international clean-energy meeting in the United States. Members of parliament including Pieter Omtzigt and PVV leader Wilders called this inappropriate given high energy bills. Prime Minister Rutte wrote to the House that the cabinet considered Dutch representation at the meeting to be in the national interest. A personal response by Jetten was not found in the source.",
+   "source_ids": [
+    "s47"
+   ]
+  },
+  {
+   "date": "2025-10-19",
+   "summary": "In the RTL election debate GroenLinks-PvdA leader Timmermans said Jetten was 'jokken' (fibbing) after Jetten said there would remain room in the basic health insurance package for new medicines: 'U heeft een slot gezet op het basispakket.' NOS reported that the CPB's costing of party programmes shows D66 had indeed submitted to the CPB that it did not want to add new treatments to the basic package, worth 500 million euros after five years. Jetten replied: \"Dat slaat nergens op. U moet niet aan angstzaaierij gaan doen.\" He said he mainly wanted to check whether treatments that do not work are being reimbursed, and countered that GroenLinks-PvdA's CPB submission also differed from its manifesto on the deductible.",
+   "source_ids": [
+    "s18"
+   ]
+  },
+  {
+   "date": "2026-04-21/22",
+   "summary": "The Senate rejected the asylum emergency measures bill. NOS reported that D66 senators also voted against, which Jetten said had been agreed within the coalition; he did not answer whether he had pressed them to vote for an amendment that might have saved the bill. Jetten blamed the PVV, accusing it of 'politieke sabotage' of laws it had long asked for, and announced new proposals.",
+   "source_ids": [
+    "s27"
+   ]
+  },
+  {
+   "date": "2026-09-10 to 2026-10",
+   "summary": "De Volkskrant reported (via NL Times) that at least 232 of 1,812 social media posts by Jetten and D66 since 2021, 68 of them from Jetten's own accounts, were generated with an AI chatbot, mostly from 4 June 2025 onward, along with passages of his book and lines in campaign videos. D66 acknowledged using AI 'as a tool' and said the texts 'were written based on input from Rob Jetten and are approved and adjusted by Rob Jetten himself'; Jetten did not answer the paper's questions. On 29 September 2026 he wrote to the House that no AI was used on the Prime Minister's official accounts; on 8 October NL Times reported the Volkskrant had found at least five such posts. The Government Information Service did not deny AI use but disputed that the posts were generated entirely by AI and pointed to a new guideline under which AI use need not be disclosed for each post if a human has reviewed it.",
+   "source_ids": [
+    "s40",
+    "s41",
+    "s42"
+   ]
+  },
+  {
+   "date": "2026-09-27 to 2026-09-29",
+   "summary": "During a question session at the D66 60th anniversary congress, Jetten said of people who attack LGBTI people, women and minorities that 'we are going to hit them full in the face' (Dutch as quoted by WNL: \"We gaan ze vol op hun bek slaan\"). PVV leader Wilders, independent member Keijzer and Rotterdam ombudsman Marianne van den Anker ('Premier onwaardig. Dit roept op tot geweld') criticised the remark; farmers' action group FDF called on supporters to file police reports. On 28 September Jetten called it a 'slip of the tongue' and said: \"Zo bedoel ik het absoluut niet.\" DutchNews reported that he told parliament he had not meant it literally and would try to avoid such slips in future.",
+   "source_ids": [
+    "s37",
+    "s38",
+    "s39"
+   ]
+  },
+  {
+   "date": "2026-11-11 to 2026-11-17",
+   "summary": "After weeks without a majority for the 2027 Tax Plan, D66 and CDA reached a deal with PRO and Volt (about 1 billion euros more tax on wealthy individuals and about 900 million euros less for low and middle incomes, according to NL Times) without coalition partner VVD. The House adopted the amended plan on 12 November by 76 votes; the VVD voted against and its group leader Brekelmans called the events 'disgraceful' and said his party had been ambushed. Four days of crisis talks followed. On 13 November Jetten said relations had been affected and 'Dat kan beter en moet beter'. On 17 November he said trust had been restored and, as quoted by NL Times, 'I was too optimistic about how easily it would be to secure support'; he announced fixed agreements on the financial framework, a package for small and medium-sized businesses, and a request for advice to Sybrand Buma.",
+   "source_ids": [
+    "s43",
+    "s44",
+    "s34",
+    "s35"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "title": "Rob Jetten: profile and career (Loopbaan)",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/rob-jetten",
+   "date": null
+  },
+  {
+   "id": "s2",
+   "title": "Kabinet-Jetten (sinds 2026)",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/regering/over-de-regering/kabinetten-sinds-1945/kabinet-jetten",
+   "date": null
+  },
+  {
+   "id": "s3",
+   "title": "Kabinet-Jetten beëdigd",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/23/kabinet-jetten-beedigd",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "s4",
+   "title": "Rob Jetten nieuwe fractievoorzitter D66",
+   "publisher": "NOS",
+   "url": "https://nos.nl/artikel/2254034-rob-jetten-nieuwe-fractievoorzitter-d66.html",
+   "date": "2018-10-09"
+  },
+  {
+   "id": "s5",
+   "title": "Rob Jetten wil lijsttrekker van D66 worden, 'ook gooi naar premierschap'",
+   "publisher": "NOS",
+   "url": "https://nos.nl/collectie/13944/artikel/2482729-rob-jetten-wil-lijsttrekker-van-d66-worden-ook-gooi-naar-premierschap",
+   "date": "2023-07-14"
+  },
+  {
+   "id": "s6",
+   "title": "Rob Jetten verkozen tot lijsttrekker D66",
+   "publisher": "D66",
+   "url": "https://d66.nl/nieuws/rob-jetten-verkozen-tot-lijsttrekker-d66/",
+   "date": "2025-06-28"
+  },
+  {
+   "id": "s7",
+   "title": "Hoe wil D66-leider Jetten de kabinetsformatie aanpakken?",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2588672",
+   "date": "2025-10-31"
+  },
+  {
+   "id": "s8",
+   "title": "Winst D66 staat vast, maar hoeveel zetels de partij krijgt is nog even spannend",
+   "publisher": "NOS",
+   "url": "https://nos.nl/collectie/14006/artikel/2588655-winst-d66-staat-vast-maar-hoeveel-zetels-de-partij-krijgt-is-nog-even-spannend",
+   "date": "2025-10-31"
+  },
+  {
+   "id": "s9",
+   "title": "Verslag gesprek met de heer R.A.A. Jetten met verkenner W. Koolmees, d.d. 05-11-2025 (blg-1222586)",
+   "publisher": "Officiële Bekendmakingen / Tweede Kamer",
+   "url": "https://zoek.officielebekendmakingen.nl/blg-1222586.pdf",
+   "date": "2025-11-05"
+  },
+  {
+   "id": "s10",
+   "title": "D66, CDA en VVD kiezen voor minderheidskabinet, uitzonderlijk in Nederland",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2597547",
+   "date": "2026-01-09"
+  },
+  {
+   "id": "s11",
+   "title": "Rob Jetten aan de slag als formateur kabinet",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/nieuws/kamernieuws/rob-jetten-aan-de-slag-als-formateur-kabinet",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "s12",
+   "title": "Aan de slag. Bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 D66, VVD en CDA",
+   "publisher": "Eerste Kamer (publication of the coalition agreement)",
+   "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s13",
+   "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2600274",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s14",
+   "title": "Regeringsverklaring (full text, delivered 25 February 2026)",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/regering/regeringsverklaring",
+   "date": "2026-02-25"
+  },
+  {
+   "id": "s15",
+   "title": "Het kan wél. Verkiezingsprogramma 2025-2030 (D66)",
+   "publisher": "D66, archived by Documentatiecentrum Nederlandse Politieke Partijen (University of Groningen)",
+   "url": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "s16",
+   "title": "D66 en Tweede Kamerverkiezingen 2025",
+   "publisher": "Parlement.com",
+   "url": "https://parlement.com/d66-en-tweede-kamerverkiezingen-2025",
+   "date": null
+  },
+  {
+   "id": "s17",
+   "title": "D66 verandert migratiekoers: asielaanvragen alleen nog buiten de EU",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2572145",
+   "date": "2025-06-23"
+  },
+  {
+   "id": "s18",
+   "title": "RTL-debat: anderhalve week voor de verkiezingen wordt de toon wat harder",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2587110",
+   "date": "2025-10-20"
+  },
+  {
+   "id": "s19",
+   "title": "Jetten ziet een coalitie met JA21 niet snel gebeuren (ANP)",
+   "publisher": "Welingelichte Kringen / ANP",
+   "url": "https://www.welingelichtekringen.nl/samenleving/jetten-ziet-een-coalitie-met-ja21-niet-snel-gebeuren",
+   "date": "2025-10-19"
+  },
+  {
+   "id": "s20",
+   "title": "Rob Jetten: 'Coalitie met JA21 en VVD geen begaanbare route'",
+   "publisher": "Welingelichte Kringen",
+   "url": "https://www.welingelichtekringen.nl/politiek/rob-jetten-coalitie-met-ja21-en-vvd-geen-begaanbare-route",
+   "date": "2025-12-06"
+  },
+  {
+   "id": "s21",
+   "title": "Jetten ziet weinig ruimte om hypotheekrenteaftrek af te bouwen",
+   "publisher": "Welingelichte Kringen",
+   "url": "https://www.welingelichtekringen.nl/samenleving/jetten-ziet-weinig-ruimte-om-hypotheekrenteaftrek-af-te-bouwen",
+   "date": "2026-02-26"
+  },
+  {
+   "id": "s22",
+   "title": "Terugclaimen van Nederlandse vlag en optimisme: zo zag de campagne van D66 eruit",
+   "publisher": "EenVandaag (AVROTROS)",
+   "url": "https://eenvandaag.avrotros.nl/artikelen/terugclaimen-van-nederlandse-vlag-en-optimisme-zo-zag-de-campagne-van-d66-eruit-161793",
+   "date": "2025-10-30"
+  },
+  {
+   "id": "s23",
+   "title": "Rob Jetten tijdens Kamerdebat na Prinsjesdag: \"Vooruit met durf en ambitie\" (speech text, Algemene Politieke Beschouwingen 2025)",
+   "publisher": "D66",
+   "url": "https://d66.nl/nieuws/rob-jetten-tijdens-kamerdebat-na-prinsjesdag/",
+   "date": "2025-09-17"
+  },
+  {
+   "id": "s24",
+   "title": "Plenair verslag Tweede Kamer, 3e vergadering, donderdag 17 september 2026 (Algemene Politieke Beschouwingen, corrected report)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3",
+   "date": "2026-09-17"
+  },
+  {
+   "id": "s25",
+   "title": "Premier Jetten wil duurzaam gaspedaal vol intrappen en belooft klimaatversnelling na jaren jojobeleid",
+   "publisher": "Solar & Storage Magazine",
+   "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44821/premier-jetten-wil-duurzaam-gaspedaal-vol-intrappen-en-belooft-klimaatversnelling-na-jaren-jojobeleid",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "s26",
+   "title": "Prinsjesdag: Kabinet-Jetten investeert in de toekomst maar schuift óók belangrijke opgaven door",
+   "publisher": "PBL (with CPB and SCP)",
+   "url": "https://www.pbl.nl/actueel/nieuws/prinsjesdag-kabinet-jetten-investeert-in-de-toekomst-maar-schuift-ook-belangrijke-opgaven-door",
+   "date": "2026-09"
+  },
+  {
+   "id": "s27",
+   "title": "Premier Jetten: binnen twee weken nieuwe wetsvoorstellen asiel",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2611537",
+   "date": "2026-04-22"
+  },
+  {
+   "id": "s28",
+   "title": "Letterlijke tekst persconferentie na ministerraad 8 mei 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/05/08/letterlijke-tekst-persconferentie-na-ministerraad-8-mei-2026",
+   "date": "2026-05-08"
+  },
+  {
+   "id": "s29",
+   "title": "Letterlijke tekst persconferentie na ministerraad 17 april 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/04/17/letterlijke-tekst-persconferentie-na-ministerraad-17-april-2026",
+   "date": "2026-04-17"
+  },
+  {
+   "id": "s30",
+   "title": "Letterlijke tekst persconferentie na ministerraad 22 mei 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/05/22/letterlijke-tekst-persconferentie-na-ministerraad-22-mei-2026",
+   "date": "2026-05-22"
+  },
+  {
+   "id": "s31",
+   "title": "Letterlijke tekst persconferentie na ministerraad 2 oktober 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/10/02/letterlijke-tekst-persconferentie-na-ministerraad-2-oktober-2026",
+   "date": "2026-10-02"
+  },
+  {
+   "id": "s32",
+   "title": "Letterlijke tekst persconferentie na ministerraad 18 september 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/09/18/letterlijke-tekst-persconferentie-na-ministerraad-18-september-2026",
+   "date": "2026-09-18"
+  },
+  {
+   "id": "s33",
+   "title": "Letterlijke tekst persconferentie na ministerraad 25 september 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/09/25/letterlijke-tekst-persconferentie-na-ministerraad-25-september-2026",
+   "date": "2026-09-25"
+  },
+  {
+   "id": "s34",
+   "title": "Letterlijke tekst persconferentie na ministerraad 13 november 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/11/13/letterlijke-tekst-persconferentie-na-ministerraad-13-november-2026",
+   "date": "2026-11-13"
+  },
+  {
+   "id": "s35",
+   "title": "Letterlijke tekst persconferentie na ministerraad 20 november 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/11/20/letterlijke-tekst-persconferentie-na-ministerraad-20-november-2026",
+   "date": "2026-11-20"
+  },
+  {
+   "id": "s36",
+   "title": "Excuses premier Jetten voor behandeling eerste generatie Molukkers: 'U wordt gezien'",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2619642",
+   "date": "2026-06-21"
+  },
+  {
+   "id": "s37",
+   "title": "Jetten vol optimisme op jubileumcongres D66: 'Wij bereiken meer dan schreeuwers'",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2632761",
+   "date": "2026-09-27"
+  },
+  {
+   "id": "s38",
+   "title": "Jetten apologises for call to punch abusers \"hard in the face\"",
+   "publisher": "DutchNews",
+   "url": "https://www.dutchnews.nl/2026/09/jetten-apologises-for-call-to-punch-abusers-hard-in-the-face/",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "s39",
+   "title": "Jetten komt terug op uitspraak 'vol op hun bek slaan'",
+   "publisher": "Hart van Nederland",
+   "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/nederland-jetten-komt-terug-op-uitspraak-vol-op-hun-bek-slaan",
+   "date": "2026-09-28"
+  },
+  {
+   "id": "s40",
+   "title": "Dutch PM Rob Jetten uses AI to write social media posts",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/2026/09/10/dutch-pm-rob-jetten-uses-ai-write-social-media-posts",
+   "date": "2026-09-10"
+  },
+  {
+   "id": "s41",
+   "title": "PM Jetten misinformed parliament about using AI for social media posts",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/node/92268",
+   "date": "2026-10-08"
+  },
+  {
+   "id": "s42",
+   "title": "Beslisnota bij beantwoording schriftelijke vragen van het lid Van Houwelingen (FVD) over het bericht 'Jetten informeerde Tweede Kamer onjuist over AI-gebruik' (2026D53049)",
+   "publisher": "Tweede Kamer / Ministerie van Algemene Zaken",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=2026D53049",
+   "date": "2026-10-26"
+  },
+  {
+   "id": "s43",
+   "title": "Jetten Cabinet in trouble as left-center income & asset tax deals pass despite VVD protest",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/2026/11/12/jetten-cabinet-trouble-left-center-income-asset-tax-deals-pass-despite-vvd-protest",
+   "date": "2026-11-12"
+  },
+  {
+   "id": "s44",
+   "title": "Jetten I Cabinet to continue with \"less bickering,\" new ground rules for support",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/2026/11/17/jetten-cabinet-continue-less-bickering-new-ground-rules-support",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "s45",
+   "title": "Cabinet won't make Royals pay taxes; Left-wing opposition frustrated by D66 backpedaling",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/2026/10/29/cabinet-wont-make-royals-pay-taxes-left-wing-opposition-frustrated-d66-backpedaling",
+   "date": "2026-10-29"
+  },
+  {
+   "id": "s46",
+   "title": "Jetten I Cabinet divides portfolios, abolishes 'Minister for' titles",
+   "publisher": "NL Times",
+   "url": "https://nltimes.nl/2026/02/21/jetten-cabinet-divides-portfolios-abolishes-minister-titles",
+   "date": "2026-02-21"
+  },
+  {
+   "id": "s47",
+   "title": "Energieminister Jetten ondanks kritiek niet bij Algemene Beschouwingen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/artikel/2443764-energieminister-jetten-ondanks-kritiek-niet-bij-algemene-beschouwingen",
+   "date": "2022-09-08"
+  },
+  {
+   "id": "s48",
+   "title": "D66 heeft gelijk: Nederland telt véél meer gezinswoningen dan gezinnen (en dat is een probleem)",
+   "publisher": "Nieuwscheckers (Leiden University)",
+   "url": "https://nieuwscheckers.nl/d66-heeft-gelijk-nederland-telt-veel-meer-gezinswoningen-dan-gezinnen-en-dat-is-een-probleem/",
+   "date": "2023-11-15"
+  },
+  {
+   "id": "s49",
+   "title": "Als we niks doen, is in 2040 25% van Nederland ouder dan 65 en werkt 25% in de zorg",
+   "publisher": "Nieuwscheckers (Leiden University)",
+   "url": "https://nieuwscheckers.nl/als-we-niks-doen-is-in-2040-25-van-nederland-ouder-dan-65-en-werkt-25-in-de-zorg/",
+   "date": "2023-10-19"
+  },
+  {
+   "id": "s50",
+   "title": "Letterlijke tekst persconferentie na ministerraad 30 oktober 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/10/30/letterlijke-tekst-persconferentie-na-ministerraad-30-oktober-2026",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "s51",
+   "title": "Letterlijke tekst persconferentie na ministerraad 9 oktober 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/10/09/letterlijke-tekst-persconferentie-na-ministerraad-9-oktober-2026",
+   "date": "2026-10-09"
+  },
+  {
+   "id": "s52",
+   "title": "Letterlijke tekst persconferentie na ministerraad 6 november 2026",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/2026/11/06/letterlijke-tekst-persconferentie-na-ministerraad-6-november-2026",
+   "date": "2026-11-06"
+  }
+ ],
+ "fact_checks_note": "This list is incomplete: when this profile was compiled, the archives of NOS, Nu.nl, Pointer, AD, NRC, Trouw and EenVandaag and the 2025 election-debate fact-checks could not be searched. One item checks a claim in the D66 manifesto rather than a statement by Jetten personally, and is labelled as such."
+}
