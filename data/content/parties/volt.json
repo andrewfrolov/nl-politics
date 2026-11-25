@@ -1,0 +1,174 @@
+{
+  "abbr": "Volt",
+  "slug": "volt",
+  "name_nl": "Volt Nederland",
+  "name_en": "Volt Netherlands",
+  "founded": "2018",
+  "updated": "2026-11-25",
+  "seats_house": 1,
+  "seats_senate": 2,
+  "seats_house_2025_election": 1,
+  "seats_house_2023_election": 2,
+  "in_coalition": false,
+  "party_leader": "Laurens Dassen",
+  "house_group_leader": "Laurens Dassen",
+  "senate_group_leader": "Gaby Perin-Gopie",
+  "website": "https://voltnederland.org",
+  "described_as": [
+    {
+      "text": "Parlement.com, a Dutch parliamentary reference site, describes Volt Nederland as the Dutch branch of a pan-European progressive movement that has the same core principles in every country where it is active and argues that EU member states can solve problems better by working together. It lists Volt as part of the opposition.",
+      "source_ids": ["s4"]
+    },
+    {
+      "text": "The party's 2025 manifesto opens with the motto 'Doe iets nieuws' (Do something new) and says Volt works towards 'a federal and democratic European Union'. It sets itself against what it calls 'de oude politiek' (the old politics).",
+      "source_ids": ["s6"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2017-03-29",
+      "event": "Volt Europa is founded as a pan-European party.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2018-06-23",
+      "event": "Volt Nederland is founded, with Reinier van Lanschot as chair and Laurens Dassen as treasurer.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2019",
+      "event": "In the European Parliament election Volt wins 1.9% of the Dutch vote and no seat.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2021-03",
+      "event": "Volt enters the House of Representatives with three seats (2.4%), led by Laurens Dassen.",
+      "source_ids": ["s5", "s4"]
+    },
+    {
+      "date": "2022",
+      "event": "In February 2022 House member Nilüfer Gündoğan is removed from the group following reports of transgressive behaviour. A court orders her readmission on 9 March; the group removes her definitively on 22 March. On 7 February 2023 the Amsterdam Court of Appeal overturns the earlier ruling and dismisses Gündoğan's claims.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2023",
+      "event": "Volt enters the Senate with two seats after the 2023 Senate election; Gaby Perin-Gopie has chaired the Senate group since 13 June 2023. In the House election of 22 November 2023 the party falls from three seats to two (1.7%).",
+      "source_ids": ["s4", "s8"]
+    },
+    {
+      "date": "2024",
+      "event": "Volt wins two Dutch seats in the European Parliament, held by Reinier van Lanschot and Anna Strolenberg, who sit in the Greens/EFA group.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "House election: Volt wins one seat (1.1%), leaving Laurens Dassen as its only House member.",
+      "source_ids": ["s4", "s5", "s7"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Doe iets nieuws — Verkiezingsprogramma Tweede Kamerverkiezingen 2025",
+    "url": "https://dnpprepo.ub.rug.nl/88740/13/Volt%20Verkiezingsprogramma%20TK%202025.pdf",
+    "key_points": [
+      {
+        "topic": "Basic income",
+        "text": "Introduce a monthly basic income that replaces all toeslagen (income-dependent allowances): a fixed amount per household with supplements per adult and per child. All allowances, tax credits and deductions are abolished and income tax gets additional brackets. The manifesto says the plan is to be costed by the CPB (the government's economic forecasting agency).",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Climate",
+        "text": "Lay down in law that the Netherlands and the EU are climate neutral in 2040; stop using fossil energy and make polluters contribute to the transition; a strong climate ministry.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Industry",
+        "text": "Close the Tata Steel plant 'as soon as possible' and use the site for what the manifesto calls 'Tata-stad': a new district with sustainable businesses and housing.",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "Energy",
+        "text": "Renewable energy and nuclear energy form the basis of the future energy system. Volt supports the plans for two large nuclear power plants and wants to enable several small modular reactors spread across the country.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Extra funding for housing construction funds so that the goal of 100,000 homes a year becomes realistic; phase out the hypotheekrenteaftrek (mortgage interest tax relief) and the eigenwoningforfait (the notional rental value taxed on owner-occupied homes) as quickly as possible and move the owner-occupied home step by step to box 3 (the tax on savings and investments), with compensation through lower income tax and the basic income; abolish corporation tax for housing associations.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Pay a larger share of healthcare costs from collective funds so that the nominal health insurance premium can fall to zero euros. The eigen risico (the compulsory annual excess) remains.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Defence",
+        "text": "Build a European army so that the EU can defend itself and is no longer dependent on other countries, 'including the United States' (manifesto wording).",
+        "source_ids": ["s6", "s7"]
+      },
+      {
+        "topic": "European Union",
+        "text": "Work towards a federal and democratic EU: abolish national vetoes and give the European Parliament the right to propose legislation.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Technology",
+        "text": "A European Tech Fund for high-risk investment in AI, quantum technology and biotech ('Silicon Europa'), a new European legal form for companies with the same rules across the EU, and a digital services tax.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Asylum and migration",
+        "text": "Volt says it wants a fair, efficient and fast asylum policy. Everyone entitled to asylum has the right to family reunification regardless of status; asylum seekers may work, including as self-employed. On labour migration it wants stricter enforcement against exploitation and states that labour migrants become dependent when the same employer provides both work and housing.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Aviation",
+        "text": "Schiphol handles at most 400,000 flights a year from 2026 and Lelystad Airport stays closed; Volt supports a ban on private flights at Schiphol.",
+        "source_ids": ["s6"]
+      },
+      {
+        "topic": "Culture and education",
+        "text": "Invest at least 0.7% of GDP in arts, culture and media; Parlement.com summarises this as an extra 1 billion euros for culture. Raise the basisbeurs (basic student grant), make internship pay compulsory and abolish the lower youth minimum wage.",
+        "source_ids": ["s6", "s7"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-01",
+      "event": "Parlement.com reports 19,004 party members on 1 January 2026.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-02-11",
+      "event": "The Amsterdam district court finds former Volt House member Nilüfer Gündoğan's claim for more than 1 million euros in damages against the party not awardable, according to DNPP.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-05-09",
+      "event": "At a party congress the board presents the strategy 'RE:Align29' for 2026-2029, following what DNPP calls disappointing election results. Its stated targets are six House seats, growth from 19,000 to 30,000 members and at least 800 candidates in the 2029 municipal elections.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-11",
+      "event": "Laurens Dassen is Volt's only House member. In the Senate the party holds two of the 75 seats (Gaby Perin-Gopie and Eddy Hartog).",
+      "source_ids": ["s1", "s3", "s8"]
+    }
+  ],
+  "key_people": [
+    {"name": "Laurens Dassen", "role": "Political leader and the party's only House member"},
+    {"name": "Gaby Perin-Gopie", "role": "Senate group leader since 13 June 2023"},
+    {"name": "Eddy Hartog", "role": "Senator"},
+    {"name": "Reinier van Lanschot", "role": "Member of the European Parliament; first chair of Volt Nederland"},
+    {"name": "Anna Strolenberg", "role": "Member of the European Parliament"},
+    {"name": "Kees van Lede", "role": "Party chair (as listed by Parlement.com)"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s3", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s4", "title": "Volt Nederland", "publisher": "Parlement.com", "url": "https://www.parlement.com/partij/volt-nederland", "date": null},
+    {"id": "s5", "title": "Volt - geschiedenis", "publisher": "Documentatiecentrum Nederlandse Politieke Partijen (University of Groningen)", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/volt/geschiedenis/?lang=nl", "date": null},
+    {"id": "s6", "title": "Verkiezingsprogramma Tweede Kamerverkiezingen 2025 (Doe iets nieuws)", "publisher": "Volt Nederland (archived by DNPP, University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88740/13/Volt%20Verkiezingsprogramma%20TK%202025.pdf", "date": "2025"},
+    {"id": "s7", "title": "Volt en Tweede Kamerverkiezingen 2025", "publisher": "Parlement.com", "url": "https://parlement.com/volt-en-tweede-kamerverkiezingen-2025", "date": null},
+    {"id": "s8", "title": "Volt (fractie)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/volt", "date": null}
+  ]
+}

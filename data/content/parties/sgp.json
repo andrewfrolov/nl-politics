@@ -111,7 +111,7 @@
       },
       {
         "topic": "Sunday rest",
-        "text": "The manifesto states that Sunday ought to be a day of rest. It proposes a Sunday driving ban for lorries and freedom for municipalities to regulate shop opening.",
+        "text": "The manifesto states that Sunday ought to be a day of rest. It proposes a Sunday driving ban for lorries and refers to the freedom to regulate shop opening.",
         "source_ids": ["s6"]
       },
       {
@@ -131,7 +131,7 @@
       },
       {
         "topic": "Energy and nitrogen",
-        "text": "Energy should come first of all from domestic sources, among which the manifesto names wind, solar, nuclear energy and heat from soil, water and air. On nitrogen, the manifesto says emissions continue to fall and calls for legalising the so-called PAS-knelgevallen (farms left without a valid permit after a 2019 court ruling).",
+        "text": "Energy should come first of all from domestic sources, among which the manifesto names wind, solar, nuclear energy and heat from soil, water and air. On nitrogen, the manifesto says emissions continue to fall and calls for legalising the so-called PAS-knelgevallen (farms without a valid nature permit under the former nitrogen programme PAS).",
         "source_ids": ["s6"]
       }
     ]

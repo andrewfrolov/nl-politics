@@ -1,0 +1,196 @@
+{
+  "abbr": "Lid Keijzer",
+  "slug": "lid-keijzer",
+  "name_nl": "Lid Keijzer",
+  "name_en": "Member Keijzer (one-member House group of Mona Keijzer)",
+  "founded": "2026",
+  "updated": "2026-11-25",
+  "seats_house": 1,
+  "seats_senate": 0,
+  "seats_house_2025_election": 0,
+  "seats_house_2023_election": 0,
+  "in_coalition": false,
+  "party_leader": "Mona Keijzer",
+  "house_group_leader": "Mona Keijzer",
+  "senate_group_leader": null,
+  "website": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/keijzer-mcg-lid-keijzer",
+  "described_as": [
+    {
+      "text": "Lid Keijzer ('Member Keijzer') is not a political party but the name of a one-member group in the House of Representatives. It consists of Mona Keijzer, who was elected on 29 October 2025 on the list of BBB (BoerBurgerBeweging, the Farmer-Citizen Movement) and left the BBB group on 23 February 2026. The House website lists her as group leader of a group with one seat.",
+      "source_ids": ["s1", "s2", "s3"]
+    },
+    {
+      "text": "When she left the BBB group, Keijzer said she would stay in the House 'om te werken aan het sociaal-conservatieve verhaal waar Nederland behoefte aan heeft' (to work on the socially conservative story that the Netherlands needs), as quoted by NOS and Parlement.com.",
+      "source_ids": ["s4", "s8"]
+    },
+    {
+      "text": "Because the group did not exist at the 2025 election, it has no election manifesto; the seat counts for the 2023 and 2025 elections are therefore zero. Keijzer was elected in 2025 as a BBB candidate.",
+      "source_ids": ["s3", "s4"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2012",
+      "event": "After serving as an alderman in Waterland and Purmerend, Mona Keijzer becomes a House member for the CDA (Christian Democrats) on 20 September 2012. She had finished second in the CDA leadership vote in May 2012 with 26%.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2017",
+      "event": "Keijzer becomes state secretary (junior minister) for Economic Affairs and Climate in the Rutte III cabinet on 26 October 2017.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2021-09-25",
+      "event": "Keijzer is dismissed as state secretary after questioning public support for the COVID-19 entry pass in an interview with De Telegraaf. She leaves the House a few days later.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Having ended her CDA membership in August 2023, Keijzer announces her move to BBB. She becomes a BBB House member on 6 December 2023.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2024-07-02",
+      "event": "Keijzer becomes Minister of Housing and Spatial Planning and a deputy prime minister in the Schoof cabinet for BBB. From 19 June 2025 she is also responsible for asylum reception. Parlement.com lists her as minister until 23 February 2026.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2025-11-12",
+      "event": "Keijzer is sworn in again as a House member after the election of 29 October 2025, in which BBB won four seats. NL Times reports that she nearly matched party leader Caroline van der Plas's number of votes.",
+      "source_ids": ["s3", "s9", "s4"]
+    },
+    {
+      "date": "2026-02-13",
+      "event": "Three of the four BBB House members decide that Henk Vermeer, not Keijzer, will succeed Caroline van der Plas as party leader and group leader, according to NOS. Keijzer says it had been agreed shortly after the October 2025 election that she would take over if Van der Plas stepped down.",
+      "source_ids": ["s4", "s9"]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "Keijzer announces in De Telegraaf that she is leaving the BBB group and will keep her seat. She calls the decision on the leadership 'een grote vertrouwensbreuk' (a major breach of trust). NOS reports a dispute over direction: Van der Plas and Vermeer wanted to return to the party's agricultural roots, while Keijzer favoured a broader message including asylum and migration. BBB falls from four seats to three.",
+      "source_ids": ["s4", "s8", "s9"]
+    },
+    {
+      "date": "2026-02-24",
+      "event": "Keijzer becomes group leader of the one-member group Lid Keijzer.",
+      "source_ids": ["s3", "s8"]
+    },
+    {
+      "date": "2026-03-27",
+      "event": "At an extraordinary BBB members' meeting in Barneveld, Keijzer announces that she is ending her party membership. Parlement.com dates the end of her membership at 28 March 2026.",
+      "source_ids": ["s5", "s3"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": null,
+    "url": null,
+    "key_points": [
+      {
+        "topic": "Political profile",
+        "text": "Keijzer describes her course as socially conservative. On 27 August 2026 she announced a political movement called 'Project2029', which Parlement.com describes as socially conservative and aimed at less regulation, more housing and limiting immigration.",
+        "source_ids": ["s3", "s4"]
+      },
+      {
+        "topic": "Asylum reception",
+        "text": "She is co-sponsor of a private member's bill (36 955, with House member Ceulemans and four others) to repeal the Spreidingswet, the law that distributes asylum reception across municipalities.",
+        "source_ids": ["s3"]
+      },
+      {
+        "topic": "Housing for refugees with residence permits",
+        "text": "She is co-sponsor of a private member's bill (36 935) to ban priority in housing allocation for statushouders (refugees who have been granted a residence permit).",
+        "source_ids": ["s3"]
+      },
+      {
+        "topic": "Demonstrations",
+        "text": "She is co-sponsor of a private member's bill titled 'Wet weerbare waarden' (37 014) concerning public demonstrations. In October and November 2026 she submitted written questions about the organisers of pro-Palestinian demonstrations and about foreign funding of Gaza protests.",
+        "source_ids": ["s3", "s2"]
+      },
+      {
+        "topic": "Civic integration and remigration",
+        "text": "A motion she co-submitted on tightening the 'Z-route' (a track within the civic integration system) was adopted on 24 November 2026 with 90 votes. On 16 November 2026 she submitted a motion with House member Nanninga to reopen the Remigration Act to new applications.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Prisons and justice budget",
+        "text": "In November 2026 she submitted amendments to the 2027 justice budget to allocate 10 million euros to prisons and to move funds from external staffing and from traffic enforcement to prisons.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Diversity policy",
+        "text": "On 3 November 2026 she submitted amendments to the 2027 Interior budget to end separate diversity and inclusion programmes and to end funding for the National Coordinator against Discrimination and Racism, redirecting that money to prisons.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Size of government",
+        "text": "With SGP leader Chris Stoffer she submitted a motion to halve the tasks and staff of advisory bodies; it was rejected on 12 November 2026 with 71 votes in favour. She also asked written questions about oversight of the efficiency of government agencies.",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Box 3",
+        "text": "On 9 November 2026 she submitted an amendment to the 2027 Tax Plan on cost deductions for rental property in box 3 (the tax on savings and investments).",
+        "source_ids": ["s2"]
+      },
+      {
+        "topic": "Regions",
+        "text": "Her profile on the House website carries the statement 'We moeten meer aandacht geven aan de regio's buiten de Randstad en het platteland' (We must pay more attention to the regions outside the Randstad and to the countryside).",
+        "source_ids": ["s2"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-02-23",
+      "event": "Keijzer leaves the BBB House group after Henk Vermeer is designated party leader. She says she will not join another group such as Groep Markuszower or JA21, and that she does not want to 'step straight into a next experiment'.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-02-26",
+      "event": "BBB leader Henk Vermeer says Keijzer threatened to leave many times and held talks with Gidi Markuszower; Keijzer denies both and says she will not 'throw mud'. She says she remains without a party for now.",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-03-05",
+      "event": "Sixty prominent BBB members, including former ministers and state secretaries, send the party board a letter asking for Keijzer's return, independent mediation and an independent evaluation, NOS reports.",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2026-03-10",
+      "event": "Keijzer is appointed Officer in the Order of Orange-Nassau.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-03-25",
+      "event": "Vermeer tells Nieuwsuur he will not hand the leadership to Keijzer. Keijzer says she is not hopeful about a return and calls it a shame that another socially conservative party is falling apart, according to NOS.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-03-27",
+      "event": "Keijzer ends her BBB membership at the members' meeting in Barneveld, shortly before a vote on a motion for an independent mediator. NOS quotes her as saying 'Ik kan niets anders doen dan afscheid nemen' (I can do nothing other than say goodbye).",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-08-27",
+      "event": "Keijzer announces the political movement 'Project2029'.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-11-24",
+      "event": "A motion co-submitted by Keijzer on tightening the Z-route in civic integration is adopted by the House with 90 votes.",
+      "source_ids": ["s2"]
+    }
+  ],
+  "key_people": [
+    {"name": "Mona Keijzer", "role": "Sole member and group leader; former CDA state secretary (2017-2021) and former BBB minister and deputy prime minister (2024-2026)"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s2", "title": "Mona Keijzer (Lid Keijzer)", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/keijzer-mcg-lid-keijzer", "date": null},
+    {"id": "s3", "title": "M.C.G. (Mona) Keijzer", "publisher": "Parlement.com", "url": "https://parlement.com/biografie/mcg-mona-keijzer", "date": null},
+    {"id": "s4", "title": "Mona Keijzer verlaat BBB en gaat als zelfstandig Kamerlid verder", "publisher": "NOS", "url": "https://nos.nl/l/2603756", "date": "2026-02-23"},
+    {"id": "s5", "title": "Mona Keijzer keert BBB definitief de rug toe: 'Kan niet anders dan afscheid nemen'", "publisher": "NOS", "url": "https://nos.nl/l/2608117", "date": "2026-03-27"},
+    {"id": "s6", "title": "Verzoening BBB en Mona Keijzer lijkt kansloos: 'Zonde dat partij stukgaat'", "publisher": "NOS", "url": "https://nos.nl/l/2607821", "date": "2026-03-25"},
+    {"id": "s7", "title": "Opnieuw oproer binnen BBB, prominenten willen terugkomst Keijzer", "publisher": "NOS", "url": "https://nos.nl/l/2605091", "date": "2026-03-05"},
+    {"id": "s8", "title": "Mona Keijzer stapt uit BBB, Henk Vermeer wordt fractievoorzitter", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202602/mona-keijzer-stapt-uit-bbb-henk-vermeer-wordt-fractievoorzitter", "date": "2026-02-24"},
+    {"id": "s9", "title": "Keijzer leaves BBB after being passed over for leadership, will serve as independent", "publisher": "NL Times", "url": "https://nltimes.nl/2026/02/23/keijzer-leaves-bbb-passed-leadership-will-serve-independent", "date": "2026-02-23"},
+    {"id": "s10", "title": "Mona Keijzer blijft partijloos en 'gaat niet met modder gooien'", "publisher": "Hart van Nederland (ANP)", "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/mona-keijzer-blijft-partijloos-en-gooit-niet-met-modder", "date": "2026-02-26"}
+  ]
+}

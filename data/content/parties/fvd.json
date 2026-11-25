@@ -1,0 +1,213 @@
+{
+  "abbr": "FVD",
+  "slug": "fvd",
+  "name_nl": "Forum voor Democratie",
+  "name_en": "Forum for Democracy",
+  "founded": "2016",
+  "updated": "2026-11-25",
+  "seats_house": 7,
+  "seats_senate": 3,
+  "seats_house_2025_election": 7,
+  "seats_house_2023_election": 3,
+  "in_coalition": false,
+  "party_leader": "Lidewij de Vos",
+  "house_group_leader": "Ralf Dekker",
+  "senate_group_leader": "Johan Dessing",
+  "website": "https://fvd.nl/",
+  "described_as": [
+    {
+      "text": "In its 2025 manifesto FVD describes itself as 'in the first place a democratic renewal movement' ('in de eerste plaats een democratische vernieuwingsbeweging') that wants binding referendums, directly elected mayors and a strengthening of 'free, uncensored public debate'. It names three overall goals: stopping 'mass immigration' and bringing about remigration; stopping climate and nitrogen policy; and stopping the growth of the state apparatus and breaking loose from EU regulation.",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "Parlement.com describes the core of FVD's programme as introducing forms of direct democracy such as referendums and elected officials, and strengthening or regaining national sovereignty. It says the party statutes name as main aim 'a more democratic Netherlands and breaking the party cartel'.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "After a House debate on 26 May 2026, leaders of other parliamentary groups characterised FVD in strongly negative terms. CDA leader Bontenbal said: 'It is a party that does not distance itself from antisemitism'; VVD group leader Brekelmans spoke of 'far-right and racist ideas' beneath an appearance of moderation; D66 group leader Paternotte spoke of a 'cocktail of conspiracies'. Party leader De Vos wrote to members that she had been 'attacked for more than 72 minutes' in the House.",
+      "source_ids": ["s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2015-02",
+      "event": "Forum voor Democratie was founded as a think tank.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2016-09-25",
+      "event": "FVD became a political party, founded by Thierry Baudet together with Henk Otten and Rob Rooken. According to Parlement.com this was a reaction to what the founders saw as the ignoring of the result of the referendum on the EU-Ukraine association agreement.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2017",
+      "event": "FVD won 2 seats (1.8%) in its first House election; Baudet became group leader.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2019",
+      "event": "FVD was, in Parlement.com's words, the big winner of the March provincial elections and entered the Senate with 12 seats. In July 2019 co-founder Henk Otten was expelled after a conflict with Baudet; two senators joined him.",
+      "source_ids": ["s2", "s5"]
+    },
+    {
+      "date": "2020-11",
+      "event": "Chat messages from the youth wing JFVD containing far-right and antisemitic statements were leaked. After a conflict over Baudet's response, a large part of the party leadership turned against him; he announced his departure as leader, reversed that decision and won a members' poll. Several senators, the MEPs and provincial representatives left; seven former FVD senators formed the Fractie-Nanninga, and Joost Eerdmans and Annabel Nanninga founded JA21.",
+      "source_ids": ["s2", "s6"]
+    },
+    {
+      "date": "2021",
+      "event": "FVD won 8 seats (5%) in the March House election. Three months later three MPs split off as the Groep Van Haga.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023",
+      "event": "FVD won 2 seats in the Senate election of 30 May 2023 and 3 seats (2.2%) in the House election of 22 November 2023.",
+      "source_ids": ["s2", "s5"]
+    },
+    {
+      "date": "2025-08-30",
+      "event": "Baudet announced he would not be lead candidate in the 2025 election and would stand at number 2 on the list; Lidewij de Vos became lead candidate and, from 4 September 2025, chair of the House group. Baudet said in a press release that he was standing in the way of 'new growth' of the party 'because of polarised opinions about me'. He had been group leader since 2017.",
+      "source_ids": ["s4", "s7"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "FVD won 7 seats (4.5%) in the House election with De Vos as lead candidate.",
+      "source_ids": ["s2", "s8"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Verkiezingsprogramma 2025 (opening chapter: 'Nederland weer vrij, trots & bruisend')",
+    "url": "https://res.cloudinary.com/fvdcdm/image/upload/v1759824498/FVD_verkiezingsprogramma-2025_A4_FORMAAT_digitaal-DEF-V5_t8qcsr.pdf",
+    "key_points": [
+      {
+        "topic": "Immigration and remigration",
+        "text": "Stop asylum reception in the Netherlands entirely, invest in reception in the region and make illegal residence a criminal offence. A ten-year stop on naturalisations, support for remigration to countries of origin, and a 'GreenCard' system for economically valuable migrants to stay temporarily. Withdraw from treaties such as Schengen and the UN Refugee Convention.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Climate and energy",
+        "text": "Repeal the Climate Act, withdraw from the Paris climate agreement and stop all forms of sustainability policy. Reopen closed coal plants, build thorium nuclear plants and resume gas extraction in Groningen. The manifesto says this saves 1,000 billion euros and that some 585 billion euros in gas revenues can still be realised in Groningen; these are the party's own figures.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "No mandatory sustainability upgrades of existing homes and scrapping climate and environmental rules for construction. The owner-occupied home stays in box 1 and untaxed; transfer tax of 2% for everyone including companies, with an exemption for anyone buying a first home; mortgage interest relief is kept, with the maximum deduction rate returned to the pre-2014 level (52%). Landlords may choose their tenants freely; no housing of status holders (refugees with a residence permit) in social housing and priority on waiting lists for Dutch people.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "EU and sovereignty",
+        "text": "Steer towards an 'intelligent exit' from the EU ('NEXIT') and review involvement in other supranational organisations such as NATO. Scrap articles 93 and 94 of the Constitution so that Dutch law always ranks above international treaties.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Democracy",
+        "text": "Binding referendums on the Swiss model; directly elected mayors and other public officials; end judicial review against international treaties and scrap the possibility of public-interest litigation to force policy (the manifesto refers to the Urgenda case).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes and business",
+        "text": "A tax-free threshold of 30,000 euros for all workers and pensioners and a flat tax; VAT rates lowered to 6% and 19%; income in box 3 (the tax on savings and investments) entirely tax-free; inheritance and gift tax abolished; the self-employed deduction raised to 15,000 euros; continued payment of wages during illness limited to one year.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Agriculture and nitrogen",
+        "text": "Scrap nitrogen policy entirely, stop (semi-)forced expropriations, restore the energy tax discount for horticulture and (agricultural) industry, keep crop protection products available and facilitate the handover of farms to the next generation.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Education and culture",
+        "text": "Focus on vocational training; Dutch as the language of instruction in secondary and academic education; compensation for students of 2015-2023 who missed the basic grant; abolish research funder NWO. The manifesto says it will ban 'transgender propaganda' in schools and youth television and make sex-change operations, hormone therapy and puberty blockers impossible for minors.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Lower health insurance premiums; contraception, physiotherapy and dental care back in the basic package; more money for nurses; stop the closure of (regional) hospitals; limit the influence of insurers and the pharmaceutical industry.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Security and civil liberties",
+        "text": "Zero tolerance for street crime, more police capacity, minimum sentences for violent and sexual offences, deportation of criminal status holders and denaturalisation of criminals with dual nationality. No mandatory health registrations or return of QR codes, no central bank digital currency, an 'anti-censorship law' for the internet, and cash to remain legal tender without withdrawal limits.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Transport",
+        "text": "Raise the maximum speed to 130 km/h and higher where possible, lower traffic fines, abolish average-speed checks, cut fuel excise duties sharply, abolish urban environmental zones, widen motorways and build a new airport in the North Sea.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Foreign policy and defence",
+        "text": "Neutrality 'on the Swiss model': stop all military and financial support to Ukraine and stop sanctions that the party says harm the Dutch economy; development cooperation to be reasoned from the Dutch interest.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-07",
+      "event": "Thierry Baudet temporarily gave up his House seat to concentrate on the campaign for the municipal elections of 18 March 2026; Tom Russcher, until then FVD's national spokesman, was sworn in as his replacement on 15 January 2026. According to Parlement.com Baudet remained party chair and said he would not use the transitional allowance for former MPs. On 25 November 2026 the House website lists Russcher, and not Baudet, among FVD's seven MPs.",
+      "source_ids": ["s9", "s10", "s8"]
+    },
+    {
+      "date": "2026-04-24",
+      "event": "Party leader Lidewij de Vos announced that she was expecting her first child and would take pregnancy leave for a few months after the summer recess.",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2026-05-13",
+      "event": "MP Freek Jansen resigned from the House, citing fatherhood. Milan Schenk (born 2000), a municipal councillor in Teylingen, was sworn in as his successor on 19 May 2026 and became the youngest member of the House.",
+      "source_ids": ["s12", "s13"]
+    },
+    {
+      "date": "2026-05-26",
+      "event": "In a House debate on violence in society that ran into the night, De Vos was questioned by MPs from several parties about racism and antisemitism. Asked by MP Mona Keijzer whether FVD still holds that Europe and the Netherlands should remain predominantly white, De Vos answered, according to NOS, that her party wants 'the people who originally live here' to keep feeling at home and to 'remain the majority in the Netherlands', and that the fact that these were originally white people 'is a factual observation'. The next day the leaders of CDA, VVD and D66 groups said the debate had shown racist and antisemitic ideas within FVD; D66's Paternotte said parties should end all cooperation with FVD. De Vos said in an email to members that she had been attacked for more than 72 minutes; according to NOS she did not address the discussion about racism and antisemitism. Keijzer said FVD stood at sixteen seats in the polls.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-08-18",
+      "event": "It was announced that MP Ralf Dekker would replace De Vos as chair of the House group during her pregnancy leave. Iem al Biyati was sworn in as temporary MP in her place on 1 September 2026. On 25 November 2026 the House website lists Dekker as group chair; Parlement.com lists De Vos as political leader and Baudet as party chair.",
+      "source_ids": ["s14", "s15", "s8", "s2"]
+    },
+    {
+      "date": "2026-11",
+      "event": "After a broadcast of the television programme Zembla on 18 November 2026, FVD said it had 'with disapproval' taken note of reports that two FVD members had been present at a fight event of 'an extremist group', and that the party board had expelled both. One of them, a municipal councillor in Den Bosch, gave up his council seat at the board's request; in a statement published by the party he said he had been invited by an acquaintance without knowing what the event was and had left shortly after it began.",
+      "source_ids": ["s16"]
+    },
+    {
+      "date": "2026-11-25",
+      "event": "Seats and membership: FVD has 7 House seats and 3 Senate seats. It won 2 Senate seats in 2023; senator Eric Kemperman, elected for BBB in 2023, joined the FVD group on 9 September 2025. Parlement.com gives FVD's membership as 70,687 on 1 January 2026.",
+      "source_ids": ["s8", "s5", "s17", "s18", "s2"]
+    }
+  ],
+  "key_people": [
+    {"name": "Lidewij de Vos", "role": "Political leader; lead candidate in 2025; chair of the House group since 4 September 2025, on pregnancy leave since the 2026 summer recess"},
+    {"name": "Ralf Dekker", "role": "Acting chair of the House group since the 2026 summer recess"},
+    {"name": "Thierry Baudet", "role": "Co-founder and party chair; group leader 2017-2025; temporarily gave up his House seat in January 2026"},
+    {"name": "Gideon van Meijeren", "role": "MP"},
+    {"name": "Pepijn van Houwelingen", "role": "MP"},
+    {"name": "Peter van Duijvenvoorde", "role": "MP"},
+    {"name": "Tom Russcher", "role": "MP since 15 January 2026 (replacing Baudet)"},
+    {"name": "Milan Schenk", "role": "MP since 19 May 2026"},
+    {"name": "Iem al Biyati", "role": "Temporary MP since 1 September 2026 (replacing De Vos)"},
+    {"name": "Johan Dessing", "role": "Chair of the Senate group since 31 March 2022"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Forum voor Democratie verkiezingsprogramma 2025", "publisher": "Forum voor Democratie", "url": "https://res.cloudinary.com/fvdcdm/image/upload/v1759824498/FVD_verkiezingsprogramma-2025_A4_FORMAAT_digitaal-DEF-V5_t8qcsr.pdf", "date": "2025"},
+    {"id": "s2", "title": "FVD (Forum voor Democratie)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/fvd-forum-voor-democratie", "date": null},
+    {"id": "s3", "title": "Fractievoorzitters waarschuwen voor racisme en antisemitisme van Forum: 'Doodeng'", "publisher": "NOS", "url": "https://nos.nl/l/2616086", "date": "2026-05-27"},
+    {"id": "s4", "title": "Thierry Baudet geen FvD-lijsttrekker bij komende verkiezingen, maar op nummer 2", "publisher": "NOS", "url": "https://nos.nl/l/2580484", "date": "2025-08-30"},
+    {"id": "s5", "title": "Historisch overzicht zeteltal FVD", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/begrip/historisch_overzicht_zeteltal_fvd", "date": null},
+    {"id": "s6", "title": "JA21 (Het Juiste Antwoord 21)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/ja21-het-juiste-antwoord-21", "date": null},
+    {"id": "s7", "title": "Ralf Dekker tijdelijk fractievoorzitter FVD en Iem al Biyati vervangt tijdelijk De Vos", "publisher": "Parlement.com", "url": "https://www.parlement.com/nieuws/202608/ralf-dekker-tijdelijk-fractievoorzitter-fvd", "date": "2026-08-18"},
+    {"id": "s8", "title": "Forum voor Democratie", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/fvd", "date": null},
+    {"id": "s9", "title": "Tom Russcher (FVD) beëdigd als Tweede Kamerlid", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202601/tom-russcher-fvd-beedigd-als-tweede-kamerlid", "date": "2026-01-15"},
+    {"id": "s10", "title": "Nieuws (FVD news list)", "publisher": "Parlement.com", "url": "https://parlement.com/node/45264/nieuws", "date": null},
+    {"id": "s11", "title": "De Vos (FVD) na zomerreces paar maanden met zwangerschapsverlof", "publisher": "Nieuws.nl / ANP", "url": "https://nieuws.nl/algemeen/de-vos-fvd-na-zomerreces-paar-maanden-met-zwangerschapsverlof", "date": "2026-04-24"},
+    {"id": "s12", "title": "Freek Jansen (FVD) dient ontslag in per 13 mei", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202605/freek-jansen-fvd-dient-ontslag-13-mei", "date": "2026-05-12"},
+    {"id": "s13", "title": "Milan Schenk (FVD) beëdigd als Tweede Kamerlid", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws/202605/milan-schenk-fvd-beedigd-als-tweede-kamerlid", "date": "2026-05-19"},
+    {"id": "s14", "title": "Ralf Dekker tijdelijk fractievoorzitter FVD en Iem al Biyati vervangt tijdelijk De Vos", "publisher": "Parlement.com", "url": "https://www.parlement.com/nieuws/202608/ralf-dekker-tijdelijk-fractievoorzitter-fvd", "date": "2026-08-18"},
+    {"id": "s15", "title": "Tweede Kamerfractie FVD", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-forum-voor-democratie", "date": null},
+    {"id": "s16", "title": "FVD reageert op nieuwsberichten; twee leden geroyeerd", "publisher": "Forum voor Democratie", "url": "https://fvd.nl/nieuws/fvd-reageert-op-nieuwsberichten-twee-leden-geroyeerd", "date": "2026-11"},
+    {"id": "s17", "title": "FVD-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/forum_voor_democratie", "date": null},
+    {"id": "s18", "title": "Drs. E. Kemperman MBA (FVD)", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/persoon/drs_e_kemperman_mba_fvd", "date": null}
+  ]
+}
