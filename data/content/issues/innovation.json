@@ -1,0 +1,1193 @@
+{
+  "id": "innovation",
+  "title": "Innovation, productivity and the business climate",
+  "tagline": "How the Netherlands tries to raise productivity growth, R&D spending and investment, and what holds firms back",
+  "updated": "2026-11-25",
+  "summary": "Dutch labour productivity grew by an average of 0.3% a year over the past decade, and R&D spending has stayed around 2.3% of GDP against a 3% target. An advisory report by former ASML chief executive Peter Wennink (December 2025) said about 1.5% annual growth and 151 to 187 billion euros of extra investment by 2035 are needed. The D66-VVD-CDA minority cabinet adopted the 1.5% growth aim, and in September 2026 announced a national investment institution with about 6.6 billion euros of core capital, 500 million euros for an agency for disruptive innovation and a new 375 million euro National Growth Fund round. Business groups name nitrogen rules, grid congestion, permitting and regulatory burden as obstacles; parties differ on how far the state should steer and who pays.",
+  "key_facts": [
+    {
+      "label": "Labour productivity growth, 2025",
+      "value": "+2.4% (GDP per hour worked, whole economy, 2025)",
+      "note": "Highest increase in twenty years according to CBS; productivity had fallen in 2023 and 2024. The economy grew 1.8% while hours worked fell 0.6%.",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "label": "Productivity growth, ten-year average",
+      "value": "0.3% per year over the past ten years (to 2025)",
+      "note": "CBS: 0.7% and 1.7% per year in the two preceding decades.",
+      "source_ids": [
+        "s11",
+        "s4"
+      ]
+    },
+    {
+      "label": "R&D spending",
+      "value": "2.29% of GDP in 2024 (provisional CBS figure); EU target 3%",
+      "note": "7th of 27 EU countries in 2024. Public R&D spending 0.7% of GDP (10th of 27), private 1.6% (7th of 27). Rathenau Instituut: below the OECD average and above the EU-27 average in 2023.",
+      "source_ids": [
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "label": "Gap to the 3% R&D target",
+      "value": "12.7 billion euros more R&D spending needed in 2026 than in 2023",
+      "note": "Rathenau Instituut estimate; of this at least 1.2 billion euros extra from central government on top of budgeted growth. Calculated on budgets from before the Jetten cabinet's plans.",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "label": "Investment need according to Wennink",
+      "value": "151 to 187 billion euros extra by 2035",
+      "note": "Productivity-raising investment the report says is needed for at least 1.5% structural growth a year; it also lists 51 propositions with an investment potential of about 126 billion euros.",
+      "source_ids": [
+        "s10",
+        "s2"
+      ]
+    },
+    {
+      "label": "Venture capital raised by Dutch tech firms",
+      "value": "2.64 billion euros in 2025 (+11.5% on 2024)",
+      "note": "11,301 active tech companies. Scale-up ratio (share of start-ups raising more than 10 million euros) 21.6%, against 24.1% in Europe and 52.2% in the United States.",
+      "source_ids": [
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "label": "National Investment Institution (NII) core capital",
+      "value": "about 6.6 billion euros (announced 25 September 2026)",
+      "note": "About 3.3 billion euros new, from the sale of TenneT Germany, plus the existing capital of Invest-NL and Invest International. Signatories of a declaration of intent foresee a total investment volume of about 30 billion euros.",
+      "source_ids": [
+        "s20"
+      ]
+    },
+    {
+      "label": "Agency for disruptive innovation (NADI)",
+      "value": "500 million euros (decided August 2026, subject to parliamentary approval)",
+      "note": "Ambition: fully operational by the first half of 2028 at the latest. Wennink had recommended an agency with a budget of 2 billion euros.",
+      "source_ids": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "label": "WBSO budget 2027",
+      "value": "1,959 million euros",
+      "note": "WBSO is the tax credit for research and development wage costs; rates unchanged in 2027 (36% first bracket, 50% for starters, 16% second bracket).",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "label": "Businesses waiting for grid capacity",
+      "value": "15,498 requests for consumption capacity at regional grid operators (first half of 2026)",
+      "note": "Up from 15,154 at end 2025; requested capacity rose from 9,305 to 9,986 megawatts. TenneT, the national grid operator, had a further 205 requests (34.2 gigawatts).",
+      "source_ids": [
+        "s30"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Low productivity growth",
+      "text": "Labour productivity (GDP per hour worked) is, according to CBS (Statistics Netherlands), the most important source of long-term economic growth. It rose by an average of 0.3% a year over the past ten years, against 0.7% and 1.7% in the two decades before. In the commercial sector productivity fell 2.0% in 2023 and 0.4% in 2024 before rising 2.5% in 2025. The cabinet wrote in July 2026 that the 2025 rise is a temporary cyclical effect and that the ten-year average is far too low to meet its growth aim.",
+      "source_ids": [
+        "s11",
+        "s12",
+        "s4"
+      ]
+    },
+    {
+      "heading": "R&D spending below the 3% target",
+      "text": "EU countries agreed to spend 3% of GDP on research and development. According to the Rathenau Instituut, Dutch R&D spending has fluctuated between 2.1% and 2.3% of GDP for more than a decade and has shown no structural rise since 2020; it was 2.29% in 2024. On budgets drawn up before the Jetten cabinet's plans, central government R&D spending would fall by 10% between 2026 and 2030, from 9.6 to 8.6 billion euros, or from 0.80% of GDP in 2024 to 0.67% in 2030.",
+      "source_ids": [
+        "s14",
+        "s13"
+      ]
+    },
+    {
+      "heading": "Start-ups grow, but few scale up",
+      "text": "Techleap's State of Dutch Tech 2026 report counts 11,301 tech companies and 2.64 billion euros of venture capital in 2025, but a scale-up ratio of 21.6%, below the European average of 24.1%. The number of deals fell 14.5% as capital moved to larger, later rounds. In funding rounds of 50 to 100 million euros, the share with US investors rose from 14% to 40% while European participation fell from 55% to 21%. The Netherlands has Europe's highest density of AI professionals (10.9 per 10,000 inhabitants), but 21.2% of Dutch AI start-ups reach scale-up status, against 31.1% in Europe and 80.9% in the United States.",
+      "source_ids": [
+        "s17",
+        "s18",
+        "s19"
+      ]
+    },
+    {
+      "heading": "Obstacles named by business and by the Wennink report",
+      "text": "The Wennink report says the lack of the right conditions is the largest obstacle to growth: slow and complex permitting, a growing shortage of skilled people, energy prices higher than in surrounding countries, nitrogen rules and grid congestion that block economic development, and overdue maintenance of physical and digital infrastructure. The employers' organisations VNO-NCW and MKB-Nederland listed slow permitting, the 'nitrogen lock', high energy costs, grid congestion, a tax system they call uncompetitive and the volume of regulation. VNO-NCW chair Ingrid Thijssen called grid congestion one of the biggest obstacles in the investment climate.",
+      "source_ids": [
+        "s10",
+        "s34",
+        "s31"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Growth has to come from productivity",
+      "text": "As summarised by the cabinet, Wennink argues that because of population ageing, economic growth will have to come almost exclusively from productivity growth, and that this growth is levelling off. The cabinet's productivity agenda says ageing has taken the slack out of the labour market.",
+      "source_ids": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Knowledge is not turned into companies at scale",
+      "text": "The cabinet's summary of the Wennink report says the Netherlands often has strong knowledge positions but commercialises and industrialises that knowledge only to a limited extent. TNO and Techleap report 405 new spin-offs from Dutch universities and knowledge institutes since 2022 and say the ecosystem is set up mainly for fast-growing digital services rather than capital-intensive, strategic technology. Invest-NL chief executive Rinke Zonneveld said too little suitable financing is available in the growth phase for technologies with long development times.",
+      "source_ids": [
+        "s2",
+        "s18"
+      ]
+    },
+    {
+      "heading": "Budget cuts under the previous cabinet",
+      "text": "The Rathenau Instituut writes that the 2024 outline agreement of the Schoof cabinet was mainly about spending cuts. Times Higher Education reported that the Schoof cabinet, which collapsed in June 2025, approved cuts to higher education and research of about 1.2 billion euros, prompting protests by students and academics. Rathenau also reports falling structural funding for applied research institutes such as TNO, partly due to savings targets set by the previous cabinet.",
+      "source_ids": [
+        "s14",
+        "s38"
+      ]
+    },
+    {
+      "heading": "Grid, nitrogen and permits",
+      "text": "Grid operators laid a record length of cable in 2025, but waiting lists at regional operators kept growing in the first half of 2026. The cabinet wrote in July 2026 that the nitrogen problem keeps agriculture in great uncertainty, hampers economic development and harms nature. The Wennink report, as summarised by the cabinet, says a risk-averse reflex in government has put procedures above societal goals.",
+      "source_ids": [
+        "s30",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Policy instability, according to MPs and employers",
+      "text": "VNO-NCW and MKB-Nederland said in reaction to the Wennink report that a cabinet with targeted measures and stable policy was needed to get investment going again. In the September 2026 debate, MPs from several opposition parties (BBB, ChristenUnie, SGP) said changing policy undermines willingness to invest.",
+      "source_ids": [
+        "s34",
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-06-27",
+      "event": "The Schoof cabinet and the Groningen region announce about 200 million euros for an 'AI factory' (an AI expertise centre and supercomputer) in Groningen: 70 million euros from central government, 60 million from the region and a 70 million euro EU co-financing request.",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "date": "2025-07",
+      "event": "The Schoof cabinet presents a '3% R&D action plan', which states that the Netherlands will not reach the 3% target on unchanged policy and focuses on mobilising more private R&D investment.",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "event": "The University of Groningen reports that EU funding makes the AI factory in Groningen definite, with construction planned to start in 2026 and use planned for 2027.",
+      "source_ids": [
+        "s33"
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "event": "Peter Wennink, former chief executive of chip-machine maker ASML, presents his advisory report 'De route naar toekomstige welvaart' to prime minister Schoof and economic affairs minister Karremans. The press release calls it a translation of the EU-level Draghi report to the Dutch context.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present the coalition agreement 'Aan de slag', which adopts the 1.5% growth aim, the 3% R&D norm, a national investment institution and an agency for disruptive innovation. NOS notes the coalition lacks a majority in the House.",
+      "source_ids": [
+        "s1",
+        "s39"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "event": "Government, grid operators, the regulator ACM and business organisations agree on eight actions to connect a considerable part of the grid waiting list within two years.",
+      "source_ids": [
+        "s31"
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "event": "Techleap publishes the State of Dutch Tech 2026 report with TNO and Invest-NL.",
+      "source_ids": [
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "NOS reports new CBS figures: the economy grew 1.8% in 2025 and labour productivity 2.4%, the highest rise in twenty years.",
+      "source_ids": [
+        "s15",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "event": "The council of ministers decides to spend up to 428 million euros a year extra on research and science and to cancel research cuts made by the previous cabinet.",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "event": "Minister Herbert sends the cabinet's response to the Wennink report, a letter on the Taskforce on Future Prosperity and Business Climate and a second productivity agenda to the House.",
+      "source_ids": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "event": "After a plenary debate on 3 September, the House votes on 18 motions about the Wennink report; 11 are adopted, including motions on an accelerated permitting zone, conditions for NADI and a budget method that values the returns on investments.",
+      "source_ids": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Budget Day: the cabinet presents the 2027 budget and announces 500 million euros for NADI, a new 375 million euro National Growth Fund round and 3.3 billion euros for the National Investment Institution, which is formally launched with private financiers on 25 September.",
+      "source_ids": [
+        "s5",
+        "s23",
+        "s20"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Coalition agreement: 1.5% growth and four domains",
+      "text": "The coalition agreement of D66, VVD and CDA (30 January 2026) says the government 'chooses economic growth' and will steer actively on 1.5% structural growth, adjusting course if it is not reached. It selects four domains: digitalisation and AI, security and resilience, energy and climate technology, and life sciences and biotechnology. It commits to working towards the 3% R&D norm (mostly to come from business), acting more often as first customer for innovative technology, an agency for disruptive innovation, regulatory sandboxes, a single national technology transfer office for university spin-offs, scrapping or simplifying at least 500 rules a year, an annual Simplification Act (the first to take effect in early 2027) and faster permitting. It keeps the innovation box (a lower corporate tax rate on profits from innovation), the WBSO and the expat ruling, does not raise corporate income tax, and promises to make it easier to pay staff partly in shares or options. It also backs an AI factory in the northern Netherlands and 'European-autonomous' data centres.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "heading": "Response to Wennink: Taskforce and six markets",
+      "text": "In its response of 10 July 2026 the cabinet said it welcomes the advice and adopts the aim of 1.5% structural growth. It set up a Taskforce on Future Prosperity and Business Climate and named six markets for industrial policy: digital services and AI, semiconductors, defence-related applications, biotechnology, machine building and innovative chemistry. It said it keeps the Environment and Planning Act intact, keeps the expat ruling and innovation box, and will keep spending and the deficit within European limits. Wennink's proposals for a National Investment Bank with 10 to 20 billion euros of core capital and an agency with up to 2 billion euros were answered with a National Investment Institution and NADI on a smaller scale.",
+      "source_ids": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Three financing instruments (September 2026)",
+      "text": "The cabinet made 500 million euros available for NADI, which is to fund mission-driven programmes aimed at technological breakthroughs and to be fully operational by the first half of 2028 at the latest. It plans a new National Growth Fund round of 375 million euros from money freed up within the fund, for consortia in the six industrial-policy markets, with contributions of 30 to 100 million euros per project and money available from the fourth quarter of 2027. The National Growth Fund has invested about 11 billion euros in 50 projects. The National Investment Institution is created by merging Invest-NL and Invest International, focuses on young innovative companies that cannot get financing, and will be formally established by law; the aim is to recruit a chief executive in 2027.",
+      "source_ids": [
+        "s5",
+        "s20",
+        "s24",
+        "s41"
+      ]
+    },
+    {
+      "heading": "2027 budget: research, tax and business measures",
+      "text": "The 2027 budget presents growth as resting on investing, reforming and international cooperation. The education ministry invests 668 million euros in 2027, rising to almost 1.3 billion euros structurally; research cuts are partly reversed with a structural 428 million euros, including 132 million euros a year for university sector plans, 80 million a year to help win European grants, 185 million for the successor to the national supercomputer Snellius and 25 million extra for preparing the Einstein Telescope. WBSO rates are unchanged; the flat hourly wage used for first-time WBSO applicants rises from 29 to 33 euros and the flat-rate innovation box scheme for small and medium-sized firms is widened. After the VVD House group voted against the amended Tax Plan in November 2026, prime minister Jetten announced a package for small and medium-sized businesses, to be worked out in the 2027 spring budget update.",
+      "source_ids": [
+        "s23",
+        "s22",
+        "s25",
+        "s36"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Lower tax on employee share options at start-ups and scale-ups",
+      "description": "Under the Wet fiscale stimulering start-ups en scale-ups a smaller part of the gain from share options counts as taxable income, and tax is due at the latest when the shares are sold. The company must be recognised as a start-up or scale-up by the enterprise agency RVO.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Cabinet bill; approved by the House, pending in the Senate; expected to take effect on 1 January 2027",
+      "source_ids": [
+        "s26",
+        "s1"
+      ]
+    },
+    {
+      "title": "National Investment Institution established by law",
+      "description": "A state-backed institution at arm's length from politics that provides mostly market-conform financing where private financiers hold back, mobilises private and institutional capital and becomes the Dutch partner of the European Investment Bank.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Launched 25 September 2026 using existing mandates of Invest-NL and Invest International; legislation still to be introduced",
+      "source_ids": [
+        "s20",
+        "s1"
+      ]
+    },
+    {
+      "title": "Accelerated permitting zone for an innovation cluster",
+      "description": "Asks the government to designate at least one innovation cluster as a zone with accelerated permitting.",
+      "proposed_by": [
+        "D66"
+      ],
+      "status": "Motion Oualhadj (36630 nr. 23) adopted 2026-09-08",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Budget method that values the returns on investments",
+      "description": "Asks for a budgeting system that correctly values the benefits of investments.",
+      "proposed_by": [
+        "SP"
+      ],
+      "status": "Motion Jimmy Dijk c.s. (36630 nr. 5) adopted 2026-09-08; VVD, JA21 and PVV voted against",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Investment institution allowed to act on non-market terms",
+      "description": "Would design the National Investment Institution so that it can help solve market failures by not always having to act on market-conform terms.",
+      "proposed_by": [
+        "PRO"
+      ],
+      "status": "Motion Van der Lee (36630 nr. 7) rejected 2026-09-08",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Conditions on NADI funding to keep value in the Netherlands and Europe",
+      "description": "Asks that NADI, following a German example, applies conditions so that value creation stays in the Netherlands and Europe as much as possible.",
+      "proposed_by": [
+        "PRO",
+        "D66"
+      ],
+      "status": "Amended motion Van der Lee/Oualhadj (36630 nr. 25) adopted 2026-09-08; only the PVV voted against",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Placing investments outside the regular expenditure frameworks",
+      "description": "Asks the government to study how investments can be placed outside the regular budget expenditure ceilings.",
+      "proposed_by": [
+        "Volt"
+      ],
+      "status": "Motion Dassen (36630 nr. 10) rejected 2026-09-08",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Stricter rules for the highly skilled migrant scheme",
+      "description": "According to the government's business portal, the income requirement would rise (for under-30s to 1.1 times the average gross annual salary) and requirements for recognised sponsors would be tightened, for example losing recognition after three or more fines in four years or after two years without employing a highly skilled migrant.",
+      "proposed_by": [],
+      "status": "Government plan described on Business.gov.nl; effective date not yet known; requires parliamentary approval. The portal does not state which cabinet proposed it.",
+      "source_ids": [
+        "s28"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "The rise in productivity in 2025 shows the stagnation is over.",
+      "claimed_by": "Reading discussed in media coverage of the CBS figures; economists told NOS the figures are good news",
+      "what_data_show": "CBS reports +2.4% for the whole economy and +2.5% for the commercial sector in 2025, on provisional figures, after declines in 2023 and 2024. CBS chief economist Peter-Hein van Mulligen told NOS the new figure can give a distorted picture of how much more productive the country has actually become. The cabinet wrote in July 2026 that the rise was partly due to fewer hours worked and is a temporary cyclical effect; the ten-year average remains 0.3% a year.",
+      "source_ids": [
+        "s11",
+        "s12",
+        "s15",
+        "s4"
+      ]
+    },
+    {
+      "claim": "Without about 1.5% growth a year, Dutch purchasing power falls; an average household loses about 1,700 euros over ten years.",
+      "claimed_by": "Peter Wennink (report of 12 December 2025), repeated by VNO-NCW/MKB-Nederland and by D66 in the House",
+      "what_data_show": "The figure is Wennink's own calculation, as the cabinet's summary states; it assumes extra spending on defence, climate and ageing is covered by higher taxes rather than debt. The cabinet adopted the 1.5% aim. In the House, the SP called the report one-sided because it draws on CEOs, VNO-NCW and consultants, and PRO said 1.5% growth is not a goal in itself. Trade unions FNV, CNV and VCP said they were not consulted and objected to the recommendations on dismissal law and sick pay, according to the cabinet's response. No independent calculation by CPB (the Netherlands Bureau for Economic Policy Analysis) of the 1,700 euro figure was found for this file.",
+      "source_ids": [
+        "s2",
+        "s34",
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "claim": "The cabinet is working towards 3% of GDP for R&D.",
+      "claimed_by": "D66, VVD and CDA (coalition agreement)",
+      "what_data_show": "CBS and Rathenau put R&D at 2.29% of GDP in 2024, with no structural rise since 2020. Rathenau estimates 12.7 billion euros more a year is needed than in 2023 to reach 3% in 2026; its projections predate the cabinet's new spending. PRO said in the House that about 15 billion euros of public money is needed; that figure is the party's own statement. The coalition agreement says most of the increase must come from business and gives no target year.",
+      "source_ids": [
+        "s1",
+        "s14",
+        "s13",
+        "s6"
+      ]
+    },
+    {
+      "claim": "The cuts to higher education and research have been reversed.",
+      "claimed_by": "Cabinet (press release of 26 June 2026: 'bezuinigingen teruggedraaid')",
+      "what_data_show": "The cabinet's Budget Day statement says the earlier research cuts are 'partly' reversed, with a structural 428 million euros. Times Higher Education put the Schoof cabinet's cuts at about 1.2 billion euros. The universities' association UNL said the coalition agreement invests 1.5 billion euros in total in education and science and that the precise allocation was not yet fully clear in January 2026. A single official table reconciling these amounts was not found for this file.",
+      "source_ids": [
+        "s21",
+        "s22",
+        "s38",
+        "s37"
+      ]
+    },
+    {
+      "claim": "Scrapping or simplifying 500 rules a year will reduce the regulatory burden on business.",
+      "claimed_by": "Cabinet (coalition agreement and response to Wennink)",
+      "what_data_show": "The commitment counts rules, not cost or time. SGP MP Flach said in the House that this is too meagre when thousands of new rules and obligations are added each year, and asked for a target measured in time and cost; minister Herbert said she works on scrapping and simplifying rules daily with state secretary Van der Burg. A motion by 50PLUS for a regulatory-burden taskforce with measurable goals was rejected. No official figure on the net change in regulatory burden in 2026 was found for this file.",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s9",
+        "s8"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Governing party. The coalition agreement it signed with VVD and CDA commits to steering on 1.5% structural growth, working towards the 3% R&D norm, a national investment institution, an agency for disruptive innovation (NADI) and easier employee share options for start-ups. In the 3 September 2026 debate MP Oualhadj asked for AI test environments (sandboxes) before summer 2027 and for physical space where a company can build a first pilot plant without waiting years for permits; her motion to designate at least one innovation cluster as an accelerated permitting zone was adopted on 8 September 2026.",
+      "salience": "high",
+      "salience_basis": "The coalition agreement co-written by D66 contains separate sections on investing, innovation and entrepreneurship; D66 spoke in the plenary debate on the Wennink report on 3 September 2026 and filed a motion that was adopted. D66's own 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "The ideas are there, the money is there and these companies are ready. Now it is our turn when it comes to space, making choices and granting permits.",
+          "text_nl": "De ideeën zijn er, het geld is er en deze bedrijven staan klaar. Nu zijn wij aan zet wat betreft ruimte, keuzes maken en vergunningen verlenen.",
+          "speaker": "Oualhadj (D66), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Governing party. In the debate MP Martens-America said the Netherlands needs 1.5% to 2% growth, called for labour-market reform (she described the two-year sick-pay obligation as excessive and dismissal law as outdated), asked what the minister is doing to unlock private R&D spending, and said the cabinet response to Wennink came late and was brief. The VVD voted against the SP motion on a budget method that values the returns on investments and against replacing the second year of sick pay for small employers with a collective scheme. In November 2026 the VVD group in the House voted against the amended 2027 Tax Plan after an amendment by PRO and Volt shifted part of the tax burden from labour to wealth.",
+      "salience": "high",
+      "salience_basis": "The coalition agreement co-written by VVD contains separate sections on investing, innovation and entrepreneurship; the VVD opened the plenary debate on the Wennink report on 3 September 2026; VVD finance minister Heinen co-launched the national investment institution. The VVD's own 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "As far as the VVD is concerned, we do not only aim for preservation, we choose the future, the next ASML.",
+          "text_nl": "Wat de VVD betreft zetten we niet alleen in op het behoud, maar kiezen we voor de toekomst, voor de volgende ASML.",
+          "speaker": "Martens-America (VVD), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s6",
+        "s8",
+        "s36",
+        "s20"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "Opposition. MP Van der Lee said 1.5% growth can be desirable but is not a goal in itself, asked why clean technology is not one of the cabinet's focus markets, and said about 15 billion euros of public money is needed to bring R&D to 3% of GDP. He said he would prefer a national investment bank and called a broad social accord including the trade unions crucial. His motion to let the investment institution act on non-market terms to fix market failures was rejected; his motion (co-signed by D66) to attach conditions to NADI so that value creation stays in the Netherlands and Europe was adopted. With Volt, PRO filed the amendment to the 2027 Tax Plan that shifted part of the tax burden from labour to wealth.",
+      "salience": "medium",
+      "salience_basis": "PRO spoke in the plenary debate on the Wennink report on 3 September 2026 and filed two motions plus one joint motion with Volt; it signed a business accord with company executives the day before the debate, according to its MP. PRO's 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "If we want a safer, healthier, more sustainable and more productive Netherlands, 1.5% economic growth can be very desirable, but it is not a goal in itself.",
+          "text_nl": "Als we een veiliger, gezonder, duurzamer en productiever Nederland willen, kan 1,5% economische groei heel gewenst zijn, maar is het geen doel op zich.",
+          "speaker": "Van der Lee (PRO), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s36"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Opposition. MP Prickaertz said the PVV shares the analysis that the Netherlands must keep investing, innovating and growing, but objects to the government choosing strategic sectors; he argued small and medium-sized businesses need affordable energy, lower taxes and permits issued on time rather than a multi-billion fund for strategic technology. His motion against preferential treatment for specific sectors was rejected. The PVV was the only group to vote against the motion setting conditions for NADI, and also voted against the motions on a capital-market plan and on first choosing among existing economic plans.",
+      "salience": "medium",
+      "salience_basis": "The PVV spoke in the plenary debate on the Wennink report on 3 September 2026 and filed one motion. The PVV's 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "No ministry, no civil servant and no advisory committee can predict with certainty which sector will conquer the world in twenty years.",
+          "text_nl": "Geen ministerie, geen ambtenaar en geen adviescommissie kan met zekerheid voorspellen welke sector over twintig jaar de wereld gaat veroveren.",
+          "speaker": "Prickaertz (PVV), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Governing party; the minister of Economic Affairs and Climate, Heleen Herbert, was described in the debate as a CDA minister. MP Bühler said a new economy cannot be built from The Hague alone and that regional ecosystems run into missing grid connections, permits blocked by nitrogen rules, lack of business space, talent shortages and insufficient growth capital. Her motion to make a 'breakthrough approach' for priority investment projects part of the Taskforce's assignment was adopted.",
+      "salience": "high",
+      "salience_basis": "The coalition agreement co-written by CDA contains separate sections on investing, innovation and entrepreneurship; the CDA holds the Economic Affairs portfolio according to statements in the debate; it spoke in the plenary debate on the Wennink report on 3 September 2026 and filed a motion that was adopted. The CDA's own 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "Choose nationally where we want to be strong, organise regionally where the strength lies, and ensure the power to push through when things get stuck.",
+          "text_nl": "Kies nationaal waar we sterk in willen zijn, organiseer regionaal waar de kracht zit en zorg voor doorzettingsmacht wanneer het vastloopt.",
+          "speaker": "Bühler (CDA), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Opposition. MP Nanninga said the state has grown too large and businesses face too many rules, permits, subsidies and sustainability requirements, and that industry matters for national security. She said JA21 always opposed the National Growth Fund but has become less critical of an investment institution, on condition that economic return, productivity growth and Dutch strategic interest are central. Her motions for a capital-market improvement plan alongside the investment institution, and (with MP Keijzer) that policy on gender, origin or cultural background must not be an investment criterion, were both adopted.",
+      "salience": "medium",
+      "salience_basis": "JA21 spoke in the plenary debate on the Wennink report on 3 September 2026 and filed two motions, both adopted. JA21's 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "JA21 has always been against the National Growth Fund, because the State should not get involved in the economy.",
+          "text_nl": "JA21 is altijd tegen het Nationaal Groeifonds geweest, omdat de Staat zich niet in de economie moet gaan roeren.",
+          "speaker": "Nanninga (JA21), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "Opposition. The group did not speak in the 3 September 2026 debate on the Wennink report. In the votes of 8 September 2026 it supported, among others, the motions on a budget method that values the returns on investments, on conditions for NADI, on a capital-market plan, on an accelerated permitting zone for an innovation cluster, and the PVV motion against preferential treatment for specific sectors.",
+      "salience": "low",
+      "salience_basis": "No speaker in the plenary debate on the Wennink report on 3 September 2026 and no motions filed in that debate; position derived only from its recorded votes on 8 September 2026. No manifesto was found or reviewed for this group.",
+      "quotes": [],
+      "source_ids": [
+        "s8",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Opposition. MP Schenk said the Wennink report describes symptoms of political choices (regulatory burden he attributes to transfers of power to Brussels, neglected education, energy prices he attributes to the energy transition) and that its remedies amount to a merger of big government and big business; he said less government is needed, not more. FVD co-filed motions to give food and agriculture a full position in the follow-up and to make the prosperity of the Dutch population leading in the 1.5% growth aim; both were rejected.",
+      "salience": "medium",
+      "salience_basis": "FVD spoke in the plenary debate on the Wennink report on 3 September 2026 and co-filed two motions. FVD's 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "Whoever does acknowledge that cause comes to the conclusion that we need not more, but in fact less government.",
+          "text_nl": "Wie die oorzaak wél erkent, komt tot de conclusie dat we niet meer, maar juist minder overheid nodig hebben.",
+          "speaker": "Schenk (FVD), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "Opposition. MP Grinwis said grid tariffs for industry are much too high compared with neighbouring countries and that policy unpredictability destroys willingness to invest. He suggested the state take stakes in strategic sectors and conclude contracts that cover companies against policy risk, and said he misses 'Rhineland' stakeholder thinking in the Wennink report. His motion with the SGP to explore protecting companies against policy risks during the payback period of large investments was adopted.",
+      "salience": "medium",
+      "salience_basis": "The ChristenUnie spoke in the plenary debate on the Wennink report on 3 September 2026 and filed one motion, adopted. Its 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "Zigzag policy destroys the willingness to invest.",
+          "text_nl": "Zwabberbeleid vernietigt de investeringsbereidheid.",
+          "speaker": "Grinwis (ChristenUnie), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Opposition. MP Jimmy Dijk called the Wennink report one-sided, describing it as a plan of CEOs, VNO-NCW and consultants that leads to more public spending, debt and risk for ordinary people and private profits for shareholders. He said the SP wants a different economic model that puts people before profit. His motion for a budget method that correctly values the benefits of investments was adopted; his motion with MP Keijzer to replace the second year of sick pay for small employers with a collective scheme was also adopted. The SP voted against the motion for a capital-market plan.",
+      "salience": "medium",
+      "salience_basis": "The SP spoke in the plenary debate on the Wennink report on 3 September 2026 and filed two motions, both adopted; at the SP's request the cabinet response included the reactions of trade unions and employers. The SP's 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "The Wennink report is cut from exactly that same neoliberal cloth. It is a plan by CEOs, VNO-NCW and consultants.",
+          "text_nl": "Het rapport-Wennink is exact geschoeid op diezelfde neoliberale leest. Het is een plan van CEO's, VNO-NCW en consultants.",
+          "speaker": "Jimmy Dijk (SP), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s2"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Opposition. The PvdD did not speak in the 3 September 2026 debate on the Wennink report. In the votes of 8 September 2026 it supported the motions on a budget method that values the returns on investments, on replacing the second year of sick pay for small employers with a collective scheme, on conditions for NADI and on studying how investments can be placed outside the regular expenditure frameworks; it voted against the motions on a capital-market plan, on the breakthrough approach for investment projects, on a launching-customer role for European AI companies and on protecting companies against policy risk.",
+      "salience": "low",
+      "salience_basis": "No speaker in the plenary debate on the Wennink report on 3 September 2026 and no motions filed in that debate; position derived only from its recorded votes on 8 September 2026. The PvdD manifesto could not be retrieved for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s8",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "Opposition. MP Flach said the SGP wants a national business accord with long-term agreements on investment, taxes and the business climate, and a cabinet-wide reduction target for regulatory burden measured in time and cost to businesses rather than number of rules. He called Wennink's reasoning on nitrogen and agriculture elitist and short-sighted. The SGP co-filed the adopted motion on protecting companies against policy risk.",
+      "salience": "medium",
+      "salience_basis": "The SGP spoke in the plenary debate on the Wennink report on 3 September 2026 and co-filed one motion. Its 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "Scrapping 500 rules sounds nice, but is really too meagre.",
+          "text_nl": "500 regels schrappen klinkt leuk, maar is eigenlijk te mager.",
+          "speaker": "Flach (SGP), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "Opposition. MP Vermeer named the nitrogen law, grid congestion and constantly changing policy as the main causes of a worsening business climate, and asked why agrifood is not one of the cabinet's six strategic markets and why roads, bridges and waterways are not treated as economic infrastructure. His motion with the SP to include physical mobility infrastructure was adopted; his motion with FVD on food and agriculture was rejected. He also put written questions to ministers about the national investment institution on 2 September 2026.",
+      "salience": "medium",
+      "salience_basis": "BBB spoke in the plenary debate on the Wennink report on 3 September 2026, filed two motions and asked written questions on the investment institution. Its 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "Our earning capacity is not made in The Hague, but by entrepreneurs who invest here in this country, hire people, apply new techniques and take risks.",
+          "text_nl": "Ons verdienvermogen wordt niet in Den Haag gemaakt, maar door ondernemers die hier in dit land investeren, mensen aannemen, nieuwe technieken toepassen en risico nemen.",
+          "speaker": "Vermeer (BBB), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s9",
+        "s42"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Opposition. DENK did not speak in the 3 September 2026 debate on the Wennink report. In the votes of 8 September 2026 it supported, among others, the motions on a budget method that values the returns on investments, on letting the investment institution act on non-market terms, on conditions for NADI and on studying investments outside the regular expenditure frameworks; MP Van Baarle stated afterwards that DENK wished to be recorded as in favour of the motion on an accelerated permitting zone.",
+      "salience": "low",
+      "salience_basis": "No speaker in the plenary debate on the Wennink report on 3 September 2026 and no motions filed in that debate; position derived only from its recorded votes on 8 September 2026. The DENK manifesto could not be retrieved for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s8",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "Opposition. MP Van Brenk said the Wennink and Draghi reports are a wake-up call, noted that earlier strategic choices for green technology did not make the Netherlands or Europe a leader in solar panels, wind turbines or batteries, and asked why regulatory burden is outside the Taskforce's scope. Her motion to turn regulatory-burden reduction into a taskforce with measurable goals was rejected.",
+      "salience": "medium",
+      "salience_basis": "50PLUS spoke in the plenary debate on the Wennink report on 3 September 2026 and filed one motion. Its 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "These reports are in fact a kick up our backside.",
+          "text_nl": "Deze rapporten vormen in feite een schop tegen onze kont.",
+          "speaker": "Van Brenk (50PLUS), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "party": "Lid Keijzer",
+      "position": "Opposition. MP Keijzer opposed Wennink's proposals for a commissioner for future prosperity and a taskforce, and called for shorter permit deadlines, removal of Dutch additions to EU rules, a solution to the nitrogen deadlock without sacrificing agriculture, long-term tax certainty and changes to box 3 (the tax on savings and investments). Her motion on short-term box 3 relief was rejected.",
+      "salience": "medium",
+      "salience_basis": "Keijzer spoke in the plenary debate on the Wennink report on 3 September 2026 and filed one motion and co-filed two.",
+      "quotes": [
+        {
+          "text_en": "We must again become a country that builds instead of blocks, that does business instead of regulates, and that makes work pay again.",
+          "text_nl": "We moeten weer een land worden dat bouwt in plaats van blokkeert, dat onderneemt in plaats van reguleert en dat werken weer laat lonen.",
+          "speaker": "Keijzer (Lid Keijzer), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s7"
+        }
+      ],
+      "source_ids": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Opposition. MP Dassen said the finance minister's approach to the budget blocks long-term investment, asked when the investment bank will be ready, and said much computing power on European soil is owned or bought up by American companies. His motion to use the government's launching-customer role for European AI companies was adopted, as was his motion with PRO to first choose which existing economic plans will be carried out; his motion to study placing investments outside the regular expenditure frameworks was rejected. With PRO, Volt filed the amendment to the 2027 Tax Plan that shifted part of the tax burden from labour to wealth.",
+      "salience": "medium",
+      "salience_basis": "Volt spoke in the plenary debate on the Wennink report on 3 September 2026 and filed three motions. Its 2025 manifesto was not reviewed for this file.",
+      "quotes": [
+        {
+          "text_en": "We are in fact losing the AI race on our own continent, with all the consequences that entails for our future prosperity.",
+          "text_nl": "We zijn namelijk zelf op ons eigen continent de AI-race aan het verliezen, met alle gevolgen van dien voor onze toekomstige welvaart.",
+          "speaker": "Dassen (Volt), Tweede Kamer debate",
+          "date": "2026-09-03",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s36"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "employee"
+      ],
+      "text": "Proposal (cabinet bill, approved by the House, pending in the Senate): if you work for a company recognised by RVO as a start-up or scale-up, a smaller part of your gain from employee share options would be taxed and the tax would be due at the latest when you sell the shares, expected from 1 January 2027.",
+      "source_ids": [
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer",
+        "self_employed"
+      ],
+      "text": "WBSO rates for research and development are unchanged in 2027: 36% in the first bracket (up to 391,020 euros of R&D costs), 50% for starters and 16% above that. The flat hourly R&D wage used for first-time applicants rises from 29 to 33 euros, and the flat-rate innovation box scheme for small and medium-sized firms is widened. These parameters are final only once the Senate has approved them.",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "applies_to": [
+        "business_grid_user",
+        "employer"
+      ],
+      "text": "Companies requesting a new or heavier electricity connection can face a waiting list: regional grid operators had 15,498 pending requests for consumption capacity in the first half of 2026. Under the February 2026 agreement, grid operators get more financial room to pay businesses that shift consumption away from peak hours, and at least four regional tenders for freeing up capacity were to start in 2026.",
+      "source_ids": [
+        "s30",
+        "s31"
+      ]
+    },
+    {
+      "applies_to": [
+        "expat_ruling"
+      ],
+      "text": "Decided: for employees whose expat ruling started after 1 January 2024, the tax-free share of salary falls from a maximum of 30% to 27% from 1 January 2027, and the income standard rises to 50,436 euros (38,388 euros for under-30s with a master's degree), indexed annually. The coalition agreement says the expat ruling will not be reduced further.",
+      "source_ids": [
+        "s27",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident",
+        "employer"
+      ],
+      "text": "Current rule: the 2026 gross monthly salary thresholds for a highly skilled migrant residence permit are 5,942 euros (aged 30 or over), 4,357 euros (under 30) and 3,122 euros (reduced criterion after a Dutch orientation year or recent graduation). Pending plan, effective date unknown: a higher income requirement and stricter conditions for employers that act as recognised sponsors.",
+      "source_ids": [
+        "s29",
+        "s28"
+      ]
+    },
+    {
+      "applies_to": [
+        "student"
+      ],
+      "text": "The coalition agreement scraps the test on non-Dutch-language teaching for new programmes and keeps existing non-Dutch-language programmes, while allowing an enrolment cap (numerus fixus) for English-taught bachelor's programmes and for non-EEA students. Universities receive 132 million euros a year extra for sector plans focused on priority research domains from 2027.",
+      "source_ids": [
+        "s1",
+        "s22",
+        "s37"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Young innovative companies that cannot obtain financing are the stated target group of the National Investment Institution; until it is established by law, financing runs through the existing mandates of Invest-NL and Invest International. Consortia of companies and knowledge institutions can submit draft plans to RVO for the new 375 million euro National Growth Fund round, with funding available from the fourth quarter of 2027.",
+      "source_ids": [
+        "s20",
+        "s24"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer",
+        "self_employed"
+      ],
+      "text": "Announced, not yet worked out: prime minister Jetten said on 17 November 2026 that the cabinet will present a package to support small and medium-sized businesses with investing, innovating and becoming more sustainable, and the cabinet said it wants to raise the SME profit exemption; the details are to be included in the 2027 spring budget update.",
+      "source_ids": [
+        "s36"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer",
+        "employee"
+      ],
+      "text": "Proposal under discussion: employers' organisations VNO-NCW and MKB-Nederland want to change the obligation to continue paying sick employees for two years. A House motion (SP and Keijzer, adopted 8 September 2026; D66, VVD and CDA voted against) asks the government to propose, before 1 December 2026, replacing the second year for small employers with a collective scheme.",
+      "source_ids": [
+        "s35",
+        "s8"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor"
+      ],
+      "text": "Planned: the coalition agreement announces an 'EU investment account' to encourage households to invest savings in the economy and says box 3 (the tax on savings and investments) will be developed towards taxing capital gains when realised; on Budget Day 2026 the cabinet said concrete proposals would follow at the next budget decision moment.",
+      "source_ids": [
+        "s1",
+        "s23"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "innovatie",
+    "arbeidsproductiviteit",
+    "verdienvermogen",
+    "vestigingsklimaat",
+    "rapport-wennink",
+    "nationale investeringsinstelling",
+    "nadi",
+    "nationaal groeifonds",
+    "wbso",
+    "innovatiebox",
+    "regeldruk",
+    "netcongestie",
+    "kennismigrant",
+    "start-ups",
+    "r&d",
+    "industriebeleid"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Aan de slag. Bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 (D66, VVD en CDA)",
+      "publisher": "Eerste Kamer (coalition agreement PDF)",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s2",
+      "title": "Kabinetsreactie op het rapport van Peter Wennink (bijlage bij Kamerstuk 36630 nr. 3)",
+      "publisher": "Ministerie van Economische Zaken en Klimaat / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1265488.pdf",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "s3",
+      "title": "Brede Welvaart; brief van de minister van Economische Zaken en Klimaat over de Taskforce Toekomstige Welvaart en Vestigingsklimaat (Kamerstuk 36630 nr. 3)",
+      "publisher": "Tweede Kamer / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1265487.pdf",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "s4",
+      "title": "De tweede productiviteitsagenda (bijlage bij Kamerstuk 36630 nr. 3)",
+      "publisher": "Ministerie van Economische Zaken en Klimaat / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1265489.pdf",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "s5",
+      "title": "Brede Welvaart; brief van de ministers van EZK en OCW (Septemberbrief Taskforce: NADI, Nationaal Groeifonds en NII; Kamerstuk 36630 nr. 27)",
+      "publisher": "Eerste Kamer (Kamerstuk PDF)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260915/brief_regering_septemberbrief/document3/f=/vn1johd7vdn3.pdf",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s6",
+      "title": "Handeling 2025-2026, nr. 93 item 7: debat Rapport-Wennink 'De route naar toekomstige welvaart' (eerste deel)",
+      "publisher": "Tweede Kamer / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-93-7.html",
+      "date": "2026-09-03"
+    },
+    {
+      "id": "s7",
+      "title": "Handeling 2025-2026, nr. 93 item 11: debat Rapport-Wennink 'De route naar toekomstige welvaart' (voortzetting)",
+      "publisher": "Tweede Kamer / Officiële bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-93-11.html",
+      "date": "2026-09-03"
+    },
+    {
+      "id": "s8",
+      "title": "Stemmingen moties Rapport-Wennink 'De route naar toekomstige welvaart' (Handelingen TK 94-17)",
+      "publisher": "Eerste Kamer (Handelingen Tweede Kamer PDF)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260908/stemming_moties_rapport_wennink_de/document3/f=/vn1vigh3irzd.pdf",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "s9",
+      "title": "Rapport-Wennink over toekomstige welvaart (debat in het kort)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/kamer_in_het_kort/rapport-wennink-over-toekomstige-welvaart",
+      "date": "2026-09-03"
+    },
+    {
+      "id": "s10",
+      "title": "Persbericht: Rapport Wennink: Nederland moet nú investeren om toekomstige welvaart veilig te stellen",
+      "publisher": "Rapport Wennink (press release PDF)",
+      "url": "https://www.boercroon.nl/wp-content/uploads/2026/01/rapport_wennink_persbericht_12december2025.pdf",
+      "date": "2025-12-12"
+    },
+    {
+      "id": "s11",
+      "title": "Labour productivity in the Dutch economy up by 2.4 percent in 2025",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/en-gb/news/2026/17/labour-productivity-in-the-dutch-economy-up-by-2-4-percent-in-2025",
+      "date": null
+    },
+    {
+      "id": "s12",
+      "title": "Arbeidsproductiviteit commerciële sector stijgt met 2,5 procent",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/41/arbeidsproductiviteit-commerciele-sector-stijgt-met-2-5-procent",
+      "date": null
+    },
+    {
+      "id": "s13",
+      "title": "SDG 9.3 Kennis en innovatie (Monitor Brede Welvaart en de Sustainable Development Goals)",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/visualisaties/monitor-brede-welvaart-en-de-sustainable-development-goals/sdg-s/sdg-9-3-kennis-en-innovatie",
+      "date": null
+    },
+    {
+      "id": "s14",
+      "title": "TWIN 2024-2030: Totale investeringen in wetenschap en innovatie",
+      "publisher": "Rathenau Instituut",
+      "url": "https://www.rathenau.nl/sites/default/files/2026-04/TWIN-2024-2030_Rathenau_Instituut.pdf",
+      "date": null
+    },
+    {
+      "id": "s15",
+      "title": "Nederlandse werkenden meest productief in 20 jaar, hoe kan dat?",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2611466",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s16",
+      "title": "Dutch labour productivity rises 2.4%, biggest gain in 20 years",
+      "publisher": "DutchNews",
+      "url": "https://www.dutchnews.nl/2026/04/dutch-labour-productivity-rises-2-4-biggest-gain-in-20-years/",
+      "date": null
+    },
+    {
+      "id": "s17",
+      "title": "State of Dutch Tech Report 2026",
+      "publisher": "Techleap",
+      "url": "https://techleap.nl/reports/state-of-dutch-tech-report-2026",
+      "date": "2026-02-11"
+    },
+    {
+      "id": "s18",
+      "title": "State of Dutch Tech 2026: The Netherlands must dare to scale at a global level",
+      "publisher": "TNO",
+      "url": "https://www.tno.nl/en/newsroom/2026/02/state-dutch-tech-2026/",
+      "date": "2026-02-11"
+    },
+    {
+      "id": "s19",
+      "title": "Fewer Dutch start-ups launched in 2025 but strong focus on AI",
+      "publisher": "DutchNews",
+      "url": "https://www.dutchnews.nl/2026/02/fewer-dutch-start-ups-launched-in-2025-but-strong-focus-on-ai/",
+      "date": null
+    },
+    {
+      "id": "s20",
+      "title": "Kabinet en private financierders geven startschot nationale investeringsinstelling",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/25/kabinet-en-private-financierders-geven-startschot-nationale-investeringsinstelling",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "s21",
+      "title": "Kabinet kiest voor wetenschap; bezuinigingen teruggedraaid",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/26/kabinet-kiest-voor-wetenschap-bezuinigingen-teruggedraaid",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "s22",
+      "title": "Prinsjesdag: kabinet investeert in talent, taal en media",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-kabinet-investeert-in-talent-taal-en-media",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s23",
+      "title": "Prinsjesdag 2026: welvaart opnieuw verdienen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s24",
+      "title": "Nieuwe ronde Nationaal Groeifonds richt zich op strategisch industriebeleid",
+      "publisher": "Nationaal Groeifonds",
+      "url": "https://www.nationaalgroeifonds.nl/actueel/nieuws/2026/09/15/nieuwe-ronde-nationaal-groeifonds-richt-zich-op-strategisch-industriebeleid",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s25",
+      "title": "WBSO in 2027: aangekondigde wijzigingen",
+      "publisher": "RVO",
+      "url": "https://www.rvo.nl/nieuws/wbso-2027-wijzigingen",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "s26",
+      "title": "Belasting op aandelenopties start-ups en scale-ups daalt",
+      "publisher": "Ondernemersplein (Rijksoverheid/KVK)",
+      "url": "https://ondernemersplein.overheid.nl/wetswijzigingen/lagere-belasting-aandelenopties-startups-en-scale-ups/",
+      "date": null
+    },
+    {
+      "id": "s27",
+      "title": "30% ruling: compensation for expats down to 27%",
+      "publisher": "Business.gov.nl",
+      "url": "https://business.gov.nl/amendments/30-percent-ruling-compensation-down-to-27-percent/",
+      "date": null
+    },
+    {
+      "id": "s28",
+      "title": "Rules for highly skilled migrants to change",
+      "publisher": "Business.gov.nl",
+      "url": "https://business.gov.nl/amendments/rules-highly-skilled-migrants-change/",
+      "date": null
+    },
+    {
+      "id": "s29",
+      "title": "Nieuwsbrief Zakelijk, editie 18 december 2025",
+      "publisher": "IND",
+      "url": "https://ind.nl/nl/documenten/01-2026/nieuwsbrief-zakelijk-18-december-2025.pdf",
+      "date": "2025-12-18"
+    },
+    {
+      "id": "s30",
+      "title": "Alle feiten en cijfers over het stroomnet: van groeiende wachtrijen tot explosief gestegen transportrechten",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45175/alle-feiten-en-cijfers-over-het-stroomnet-van-groeiende-wachtrijen-tot-explosief-gestegen-transportrechten",
+      "date": "2026-10-24"
+    },
+    {
+      "id": "s31",
+      "title": "Gezamenlijk plan om de wachtrij voor het volle stroomnet komende jaren fors te versnellen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws/2026/02/04/gezamenlijk-plan-om-de-wachtrij-voor-het-volle-stroomnet-komende-jaren-fors-te-versnellen",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "s32",
+      "title": "Nederland zet in op € 200 miljoen voor AI-fabriek in Groningen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/nieuws/2025/06/27/nederland-zet-in-op-200-miljoen-euro-voor-aifabriek-in-groningen",
+      "date": "2025-06-27"
+    },
+    {
+      "id": "s33",
+      "title": "AI-fabriek komt definitief naar Groningen",
+      "publisher": "Rijksuniversiteit Groningen",
+      "url": "https://www.rug.nl/about-ug/latest-news/news/archief2025/nieuwsberichten/1010-ai-fabriek?lang=nl",
+      "date": "2025-10-10"
+    },
+    {
+      "id": "s34",
+      "title": "'Rapport Wennink onderstreept urgentie van verbeteren investeringsklimaat'",
+      "publisher": "VNO-NCW",
+      "url": "https://www.vno-ncw.nl/nieuws/rapport-wennink-onderstreept-urgentie-van-verbeteren-investeringsklimaat",
+      "date": null
+    },
+    {
+      "id": "s35",
+      "title": "Werkgevers: nieuwe voorstellen kabinet maken weg vrij voor groei",
+      "publisher": "Accountant.nl (ANP)",
+      "url": "https://www.accountant.nl/nieuws/2026/9/werkgevers-nieuwe-voorstellen-kabinet-maken-weg-vrij-voor-groei/",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "s36",
+      "title": "Mkb krijgt steunpakket, na eerder conflict binnen kabinet over belastingplan",
+      "publisher": "Accountant.nl",
+      "url": "https://www.accountant.nl/nieuws/2026/11/mkb-krijgt-steunpakket-na-eerder-conflict-binnen-kabinet-over-belastingplan/",
+      "date": "2026-11-20"
+    },
+    {
+      "id": "s37",
+      "title": "UNL: coalitie kiest voor kennis en zet in op internationaal talent",
+      "publisher": "Universiteit Twente (bericht van Universiteiten van Nederland)",
+      "url": "https://www.utwente.nl/onderwijs/student-services/actueel/nieuws/2026/1/779291/unl-coalitie-kiest-voor-kennis-en-zet-in-op-internationaal-talent",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s38",
+      "title": "'Cautious optimism' as new Dutch coalition reverses research cuts",
+      "publisher": "Times Higher Education",
+      "url": "https://www.timeshighereducation.com/node/741242",
+      "date": "2026-02-06"
+    },
+    {
+      "id": "s39",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s40",
+      "title": "Arbeidsproductiviteit gestegen in 2025 na twee jaar daling",
+      "publisher": "Accountant.nl (ANP/CBS)",
+      "url": "https://www.accountant.nl/nieuws/2026/10/arbeidsproductiviteit-gestegen-in-2025-na-twee-jaar-daling/",
+      "date": "2026-10-07"
+    },
+    {
+      "id": "s41",
+      "title": "Home | Nationaal Groeifonds",
+      "publisher": "Nationaal Groeifonds",
+      "url": "https://www.nationaalgroeifonds.nl/",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "Antwoord op vragen van het lid Vermeer (BBB) over de Nationale Investeringsinstelling en publieke investeringscapaciteit (Aanhangsel Handelingen 2026-2027, nr. 120)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D46439",
+      "date": null
+    }
+  ]
+}
