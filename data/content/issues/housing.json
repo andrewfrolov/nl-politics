@@ -1,1259 +1,1259 @@
 {
-  "id": "housing",
-  "title": "Housing: cost and shortage of homes",
-  "tagline": "A shortage of about 384,000 homes, sale prices above half a million euros and disputes over rent rules and tax relief",
-  "updated": "2026-11-25",
-  "summary": "ABF Research, which calculates the figure for the government, estimates the 2026 housing shortage at 384,000 homes, 4.6% of the housing stock; the government's target is 2%. The average sale price of an existing home was 508,793 euros in October 2026, 2.9% above a year earlier on the CBS/Kadaster price index. The D66-VVD-CDA minority cabinet, in office under the coalition agreement of 30 January 2026, aims for 100,000 new homes a year, leaves the mortgage interest deduction unchanged, and put 7 billion euros for housebuilding up to 2035 in the 2027 budget. The Wet versterking regie volkshuisvesting (a law giving central government, provinces and municipalities more control over where and what is built) took effect on 1 July 2026.",
-  "key_facts": [
+ "id": "housing",
+ "title": "Housing: cost and shortage of homes",
+ "tagline": "A shortage of about 384,000 homes, sale prices above half a million euros and disputes over rent rules and tax relief",
+ "updated": "2026-11-25",
+ "summary": "ABF Research, which calculates the figure for the government, estimates the 2026 housing shortage at 384,000 homes, 4.6% of the housing stock; the government's target is 2%. The average sale price of an existing home was 508,793 euros in October 2026, 2.9% above a year earlier on the CBS/Kadaster price index. The D66-VVD-CDA minority cabinet, in office under the coalition agreement of 30 January 2026, aims for 100,000 new homes a year, leaves the mortgage interest deduction unchanged, and put 7 billion euros for housebuilding up to 2035 in the 2027 budget. The Wet versterking regie volkshuisvesting (a law giving central government, provinces and municipalities more control over where and what is built) took effect on 1 July 2026.",
+ "key_facts": [
+  {
+   "label": "Average sale price, existing homes",
+   "value": "€508,793 (October 2026)",
+   "note": "CBS/Kadaster. CBS notes the average sale price is not corrected for quality differences; price trends are measured with the price index.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "label": "Annual price growth, existing homes",
+   "value": "+2.9% (October 2026 vs October 2025); +3.4% in Q3 2026",
+   "note": "CBS/Kadaster price index. CBS says year-on-year growth has slowed almost continuously since November 2024. Prices were 17.9% above the previous peak of July 2022.",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "label": "NVM estate agents' figures",
+   "value": "Average sale price €503,000 in Q3 2026 (+1.8% year on year); 39,000 homes for sale (+24%)",
+   "note": "Figures of the estate agents' association NVM, as reported by De Hypotheker; NVM measures differently from CBS.",
+   "source_ids": [
+    "s3"
+   ]
+  },
+  {
+   "label": "Housing shortage",
+   "value": "384,000 homes = 4.6% of the housing stock (2026 estimate)",
+   "note": "ABF Research (Primos forecast) for the government. 4.8% (396,000 homes) in 2025, 4.9% in 2024. Target: 2%, for which 213,000 extra homes would be needed immediately.",
+   "source_ids": [
+    "s5",
+    "s4",
+    "s53"
+   ]
+  },
+  {
+   "label": "Homes added vs 100,000 target",
+   "value": "Almost 80,000 homes added in 2025 (about 69,000 new-build, 11,000 by splitting or conversion)",
+   "note": "CBS figures as reported by NOS; over 90,000 in 2022. ABF forecasts 99,700 for 2027.",
+   "source_ids": [
+    "s7",
+    "s6"
+   ]
+  },
+  {
+   "label": "Building permits",
+   "value": "Almost 86,000 new-build homes permitted in 2025; 23,500 in Q1 2026",
+   "note": "Q1 2026 was 4,700 more than Q1 2025. Homes permitted but not yet completed: 226,600 at the end of Q1 2026.",
+   "source_ids": [
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "label": "Average rent increase",
+   "value": "+4.4% in July 2026 vs July 2025",
+   "note": "CBS. Social housing +4.3%, free-sector rents +4.5%. Increases were 4.9% in 2025 and 5.4% in 2024.",
+   "source_ids": [
+    "s9"
+   ]
+  },
+  {
+   "label": "Legal maximum rent increase 2026",
+   "value": "Social 4.1% (from 1 July 2026); mid-rent 6.1% and free sector 4.4% (from 1 January 2026)",
+   "note": "The maximums for 2027 had not been published as of 17 November 2026; Aedes states the calculation method stays the same.",
+   "source_ids": [
+    "s10",
+    "s12"
+   ]
+  },
+  {
+   "label": "Free-sector rent for new tenants",
+   "value": "€19.32 per m² per month in Q2 2026 (+9.4% year on year)",
+   "note": "NVM and VGM NL, homes let through their members. Apartments €20.72 per m², houses €15.10 per m².",
+   "source_ids": [
+    "s13"
+   ]
+  },
+  {
+   "label": "NHG mortgage guarantee limit",
+   "value": "€470,000 in 2026; €500,000 in 2027",
+   "note": "With energy-saving measures: €498,200 in 2026, €530,000 in 2027. One-off fee 0.4% of the mortgage amount.",
+   "source_ids": [
+    "s14",
+    "s15"
+   ]
+  }
+ ],
+ "problem": [
+  {
+   "heading": "More demand than homes",
+   "text": "ABF Research estimates that in 2026 there are 384,000 fewer homes than households seeking one, equal to 4.6% of the stock. The ministry describes 2% as normal tension on the housing market. If 100,000 homes are built every year, ABF expects the 2% level to be reached in the course of 2034. The yearly target of 100,000 homes has not been met: almost 80,000 homes were added in 2025, the third consecutive yearly fall according to NOS reporting on CBS figures. The minister wrote on 1 July 2026 that reaching 100,000 in 2027 would be the first time since 1990.",
+   "source_ids": [
+    "s5",
+    "s4",
+    "s7"
+   ]
+  },
+  {
+   "heading": "Prices for buyers",
+   "text": "The average sale price of an existing home was 508,793 euros in October 2026. Price growth has slowed: the CBS/Kadaster index rose 2.9% year on year in October 2026, against 11.9% in November 2024. The Kadaster registered 20,376 sales in October 2026, almost 7% fewer than a year earlier. Kadaster research reported in October 2025 found that a single first-time buyer is on average 31 years old at purchase, unchanged since 2015, and that first-time buyers accounted for almost 42% of purchases in the first half of 2025.",
+   "source_ids": [
+    "s1",
+    "s37"
+   ]
+  },
+  {
+   "heading": "Rents and the rental stock",
+   "text": "Rents rose on average 4.4% in July 2026. Rental housing falls into three legal segments in 2026: social rent up to 932.93 euros a month, regulated mid-rent between 932.93 and 1,228.07 euros, and the free sector above that. In August 2025 the Kadaster reported that the number of non-housing-association rental homes was falling for the first time since it began measuring in 2010, as investors sold more homes than they bought or built. NVM and VGM NL reported that their members let almost 2,900 existing free-sector homes in Q2 2026, a level they call historically low.",
+   "source_ids": [
+    "s9",
+    "s11",
+    "s34",
+    "s13"
+   ]
+  },
+  {
+   "heading": "Waiting for social housing",
+   "text": "No single national waiting-time figure was found in official sources for 2026. NOS reported in October 2025 that the average waiting time for a social rental home has risen sharply in many municipalities, giving about 11 years for Utrecht as an example, and that in larger municipalities households with urgency status can receive more than a quarter of the homes that become available.",
+   "source_ids": [
+    "s33"
+   ]
+  }
+ ],
+ "causes": [
+  {
+   "heading": "Population growth and smaller households",
+   "text": "The housing minister's letter of 1 July 2026 calls household growth the main driver of the building task. The number of households is expected to grow by 795,000, from 8.5 million to almost 9.3 million, through population growth and because households are getting smaller. According to the letter, 44% of the homes to be built are needed for population growth, 25% because households are shrinking, 17% to reduce the existing shortage and 14% to replace demolished homes. The population is projected to grow by over 1 million to 19.2 million between 2026 and 2040. The coalition agreement says the cabinet also wants 'grip on all forms of migration' in order to manage housing demand.",
+   "source_ids": [
+    "s4",
+    "s19"
+   ]
+  },
+  {
+   "heading": "Too little building, slow procedures",
+   "text": "The coalition agreement states that too few homes were built in past years and that long procedures, permit processes, (local) regulation, affordability requirements and the tax climate cause new-build projects to take years. The minister's letter of 1 July 2026 names grid congestion (a full electricity network), nitrogen rules and long procedures as bottlenecks to be tackled. NOS reported, citing CBS, that building takes increasingly long once a permit is granted and that 3 to 5% of permits have been withdrawn each year since 2019.",
+   "source_ids": [
+    "s19",
+    "s4",
+    "s7"
+   ]
+  },
+  {
+   "heading": "Tax treatment of home ownership",
+   "text": "Mortgage interest is deductible from taxable income (hypotheekrenteaftrek). De Hypotheker reported that the planning agencies CPB and PBL, in their analysis of the coalition agreement published in February 2026, expect a slight dampening effect of the coalition plans on house prices, partly offset by what they call a 'limited widening' of the deduction. NOS reported in September 2025 that economists say reducing the deduction has a dampening effect on house prices but cannot say by how much.",
+   "source_ids": [
+    "s24",
+    "s22"
+   ]
+  },
+  {
+   "heading": "Rules for landlords and investor sales",
+   "text": "The Wet betaalbare huur (Affordable Rent Act, in force since 2024) sets maximum rents for many homes through a points system. The Kadaster's housing-market expert told NOS in August 2025 that this law is an important reason why investors sell rental homes, alongside the higher transfer tax introduced in 2021, the 'opkoopbescherming' (municipal rules against buy-to-let purchases) and new rules for box 3 (the tax on savings and investments). He added that the sold homes are mainly bought by first-time buyers.",
+   "source_ids": [
+    "s34",
+    "s36"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2025-07-04",
+   "event": "The House of Representatives passes the Wet versterking regie volkshuisvesting, including a PVV amendment banning priority for status holders (refugees with a residence permit) in social housing.",
+   "source_ids": [
+    "s29"
+   ]
+  },
+  {
+   "date": "2025-09-22",
+   "event": "The Council of State advises against the then cabinet's separate bill to end priority for status holders, saying it leads to unequal treatment contrary to the Constitution. Minister Keijzer says she will submit it anyway.",
+   "source_ids": [
+    "s30"
+   ]
+  },
+  {
+   "date": "2025-12-15",
+   "event": "The ministry announces the 2026 maximum rent increases: 4.1% social (from 1 July), 6.1% mid-rent and 4.4% free sector (from 1 January).",
+   "source_ids": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "date": "2026-01-30",
+   "event": "D66, VVD and CDA present the coalition agreement 'Aan de slag'. On the same day NOS reports CBS figures showing almost 80,000 homes were added in 2025.",
+   "source_ids": [
+    "s19",
+    "s20",
+    "s7"
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "event": "The new cabinet withdraws the previous cabinet's bill on status-holder priority and announces a replacement bill plus an agreement with municipalities on flexible housing locations.",
+   "source_ids": [
+    "s32",
+    "s31"
+   ]
+  },
+  {
+   "date": "2026-03-24",
+   "event": "The House approves the 'novelle' (amending bill) that repairs three amendments to the Wet versterking regie volkshuisvesting.",
+   "source_ids": [
+    "s49"
+   ]
+  },
+  {
+   "date": "2026-05-12",
+   "event": "A GroenLinks-PvdA motion to reverse an automatic increase of the mortgage interest deduction gets a House majority with the votes of coalition parties D66 and CDA; VVD says the coalition's agreements stand.",
+   "source_ids": [
+    "s21"
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "event": "The Senate adopts the Wet versterking regie volkshuisvesting and the novelle; the law takes effect on 1 July 2026.",
+   "source_ids": [
+    "s28",
+    "s27"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "event": "The minister sends the Primos 2026 forecast to parliament: shortage down from 4.8% to 4.6%; 99,700 new homes forecast for 2027.",
+   "source_ids": [
+    "s6",
+    "s4"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "event": "Budget Day: the cabinet announces 7 billion euros for housebuilding up to and including 2035 and a cut in transfer tax for non-owner-occupier buyers from 8% to 7% in 2027.",
+   "source_ids": [
+    "s25"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "event": "The House approves the 2027 Tax Plan with amendments; the Senate still has to vote.",
+   "source_ids": [
+    "s17"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "event": "CBS reports existing-home prices 2.9% higher in October 2026 than a year earlier and an average sale price of 508,793 euros.",
+   "source_ids": [
+    "s1"
+   ]
+  }
+ ],
+ "current_policy": [
+  {
+   "heading": "Coalition agreement: build more, cut rules",
+   "text": "The coalition agreement makes resolving the housing shortage the top priority and follows three tracks: more building, affordable housing and fewer obstacles. It promises at least 30 large-scale new-build sites of national importance, which 'can be new districts, but also new towns', plus 'straatje erbij' and 'wijkje erbij' (adding a street or a small neighbourhood to an existing town or village). Objection procedures are to be cut to a single appeal stage with fixed ruling deadlines. For new regional housing deals the aim is two-thirds affordable homes, of which 30% social rent and 25% affordable owner-occupied. The agreement also announces a yearly income test for social tenants and a wealth test for new social tenants. The Nota Ruimte (national spatial strategy) presented on 16 November 2026 says the cabinet will designate 10 new large-scale housing sites.",
+   "source_ids": [
+    "s19",
+    "s41"
+   ]
+  },
+  {
+   "heading": "Wet versterking regie volkshuisvesting (in force 1 July 2026)",
+   "text": "The law obliges central government, provinces and municipalities to draw up housing programmes stating how many homes they will build, where and for whom. Two-thirds of new homes must be affordable for low and middle incomes and 30% of all new-build must be social rent, measured per region. Appeal procedures for housebuilding can be shortened: the administrative court rules within 6 months and permit cases go to one court instead of two; the government says the time saved can be up to a year. All municipalities must have an urgency scheme for nationally designated groups of urgent home seekers. Deadlines are phased: national and municipal programmes by 1 July 2027, municipal housing bye-laws by 1 January 2028. In the Senate FVD, SP, PvdD and PVV voted against the law.",
+   "source_ids": [
+    "s27",
+    "s28"
+   ]
+  },
+  {
+   "heading": "Rent regulation",
+   "text": "Maximum yearly rent increases are set by law per segment: social rent by average inflation over three years plus 0.5 percentage point; regulated mid-rent by collectively agreed wage growth plus 1 point; free sector by the lower of inflation and wage growth plus 1 point. From 1 January 2027 the social-rent ceiling is 959.71 euros a month and the upper limit of regulated mid-rent 1,263.32 euros. The coalition agreement says that, ahead of the evaluation of the Wet betaalbare huur, the cabinet will look at where the law can be 'optimised' to maintain the supply of rental homes; the ministry said in July 2026 that several changes to the law are expected to take effect on 1 January 2027.",
+   "source_ids": [
+    "s10",
+    "s12",
+    "s19",
+    "s39"
+   ]
+  },
+  {
+   "heading": "Taxes: home ownership and investors",
+   "text": "The coalition agreement states that the tax treatment of the owner-occupied home remains unchanged, so the mortgage interest deduction stays. The rate at which interest is deducted is linked to the second income-tax bracket (37.56% in 2026); because the cabinet raises that bracket rate, the deduction rate rises with it, to a provisional 38.16% for 2027 according to the Consumentenbond. Buyers who will live in the home pay 2% transfer tax; buyers aged 18 to 34 pay none on a first use of the exemption for homes up to 555,000 euros in 2026. Buyers who will not live in the home (landlords, second homes, parents buying for a child) pay 8% in 2026; the 2027 Tax Plan lowers this to 7% on 1 January 2027, subject to Senate approval.",
+   "source_ids": [
+    "s19",
+    "s24",
+    "s18",
+    "s16",
+    "s17"
+   ]
+  }
+ ],
+ "proposals": [
+  {
+   "title": "2027 budget: 7 billion euros for housebuilding",
+   "description": "7 billion euros up to and including 2035, of which 2.3 billion for the 'realisatiestimulans' (7,000 euros to municipalities per affordable home), 940 million for large-scale sites including 650 million for the Woningbouwimpuls subsidy, 500 million for a subsidy per mid-rent home, 635 million extra for homes for the elderly, 450 million for homes with shared facilities and 100 million extra for the Nationaal Fonds Betaalbare Koop for first-time buyers. Measures for housing associations are said to create about 28 billion euros of extra investment capacity. Binnenlands Bestuur reports the 7 billion covers 2029-2035 and that builders' association WoningbouwersNL calls it too little.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "In the 2027 draft budget presented 2026-09-15",
+   "source_ids": [
+    "s25",
+    "s26"
+   ]
+  },
+  {
+   "title": "Lower transfer tax for non-owner-occupiers",
+   "description": "Cut the transfer tax on homes the buyer will not live in from 8% to 7% on 1 January 2027; abolish transfer tax on transfers of social rental homes between housing associations.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "Tax Plan 2027 passed by the House on 2026-11-13; pending in the Senate",
+   "source_ids": [
+    "s17",
+    "s25",
+    "s50"
+   ]
+  },
+  {
+   "title": "Reverse the automatic rise in the mortgage interest deduction rate",
+   "description": "Motion asking the government to undo the increase in the deduction rate that follows from raising the second income-tax bracket. PRO leader Klaver said it would raise a few hundred million euros.",
+   "proposed_by": [
+    "PRO"
+   ],
+   "status": "Motion adopted 2026-05-12 with votes of D66 and CDA; VVD and the finance minister said the deduction will not be changed",
+   "source_ids": [
+    "s21"
+   ]
+  },
+  {
+   "title": "Phase out the mortgage interest deduction",
+   "description": "Gradual abolition, with proceeds used for lower income tax or housebuilding. Stated periods in the 2025 campaign: CDA 30 years, GroenLinks-PvdA (now PRO) 8 to 12 years, D66 at least 15 years, ChristenUnie at least 15 years, Volt 'as soon as possible'. SP, DENK and PvdD want to limit the deduction above a home-value threshold.",
+   "proposed_by": [
+    "CDA",
+    "PRO",
+    "D66",
+    "ChristenUnie",
+    "Volt",
+    "SP",
+    "DENK",
+    "PvdD"
+   ],
+   "status": "In 2025 manifestos; not in the coalition agreement, which keeps the tax treatment unchanged",
+   "source_ids": [
+    "s22",
+    "s19"
+   ]
+  },
+  {
+   "title": "End legal priority for status holders in social housing",
+   "description": "A new bill giving status holders the same position as other home seekers, to take effect once enough alternative housing (such as flexible homes and house sharing) exists; combined with a binding agreement with municipalities on flexible housing locations.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "Previous bill withdrawn 2026-03-20; replacement bill announced for public consultation in 2026; until then municipalities decide",
+   "source_ids": [
+    "s32",
+    "s31",
+    "s19"
+   ]
+  },
+  {
+   "title": "Repeal the Wet betaalbare huur",
+   "description": "Withdraw the Affordable Rent Act and lower fiscal and administrative burdens on landlords.",
+   "proposed_by": [
+    "JA21",
+    "FVD"
+   ],
+   "status": "On party websites; no bill found",
+   "source_ids": [
+    "s45",
+    "s46"
+   ]
+  },
+  {
+   "title": "Narrow the 'opkoopbescherming'",
+   "description": "Limit municipal bans on buy-to-let purchases to areas where liveability is under pressure and to homes with a WOZ (official property) value up to the municipal average.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "Announced 2026-10-15; draft bill to go to consultation at the end of 2026",
+   "source_ids": [
+    "s40"
+   ]
+  },
+  {
+   "title": "More room for housing associations to build mid-rent",
+   "description": "Amend the Woningwet so housing associations can borrow more cheaply for mid-rent homes and reach 5,000 mid-rent homes a year from 2029; the ministry says this also frees about 11.8 billion euros of investment room for their other tasks.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "Announced in a letter to the House on 2026-07-08; amendment of the Woningwet in preparation",
+   "source_ids": [
+    "s39"
+   ]
+  }
+ ],
+ "contested_claims": [
+  {
+   "claim": "A large share of social rental homes goes to status holders: 37% (Wilders), '25, 30 percent' (then minister Keijzer); versus about 7% (Jetten) or '7 to 10 percent' (Klaver).",
+   "claimed_by": "Wilders (PVV), Keijzer (then BBB minister), Jetten (D66), Klaver (GroenLinks-PvdA), during the October 2025 campaign",
+   "what_data_show": "NOS reported that CBS found almost 7% of all housing-association homes that became available in 2022 (11,000 of 162,500) were allocated to households with status holders, and 4 to 6% in the four years before. Aedes estimates about 10% for 2023 and 2024. The 37% figure comes from a calculation by Jan van de Beek comparing allocations to status holders with allocations to first-time tenants only; experts quoted by NOS call that comparison skewed. Counting only status holders who are themselves first-time tenants against all first-time allocations, CBS arrives at 17%.",
+   "source_ids": [
+    "s33"
+   ]
+  },
+  {
+   "claim": "Reducing the mortgage interest deduction has not led to more homes or lower prices.",
+   "claimed_by": "Keijzer, then housing minister (BBB), September 2025",
+   "what_data_show": "NOS reported that economists say the reduction does have a dampening effect on house prices, but that because so many factors play a role they cannot say how large it is. The deduction rate has been reduced since 2014, and faster since 2020. CPB and PBL described the effect of the coalition agreement as a limited widening of the deduction that partly offsets an expected slight dampening of prices.",
+   "source_ids": [
+    "s22",
+    "s24"
+   ]
+  },
+  {
+   "claim": "Government subsidies such as the Woningbouwimpuls help build more homes faster.",
+   "claimed_by": "Successive cabinets; the current cabinet allocates a further 650 million euros to the scheme",
+   "what_data_show": "The Netherlands Court of Audit (Algemene Rekenkamer) reported in September 2025 that it is very doubtful whether the 2.25 billion euros reserved over four years led to more or faster building: most rejected projects went ahead anyway and delays were as frequent with as without a contribution. It did find a clear positive effect on the number of affordable homes.",
+   "source_ids": [
+    "s38",
+    "s25"
+   ]
+  },
+  {
+   "claim": "Investors are selling off rental homes, shrinking the rental stock.",
+   "claimed_by": "Kadaster expert (August 2025), investor organisations, VVD, JA21",
+   "what_data_show": "The Kadaster reported in August 2025 that the non-association rental stock was shrinking for the first time since 2010; investors sold more than 16,000 homes in a year and bought 7,800. The minister told the House on 24 April 2026 that, per Kadaster figures, about 114,000 homes were sold by private investors to owner-occupiers in the past five years (about 52,000 by private individuals, 62,000 by companies and institutions), while the total rental stock held by private investors rose from about 679,000 to 752,000 homes between 2021 and 2025 because investors also added new-build.",
+   "source_ids": [
+    "s34",
+    "s35"
+   ]
+  },
+  {
+   "claim": "Without migration, climate policy and nitrogen measures the housing shortage would be much smaller.",
+   "claimed_by": "PVV senator Van Kesteren, Senate debate of 23 June 2026",
+   "what_data_show": "The minister's letter of 1 July 2026 attributes 44% of the homes needed to population growth, 25% to shrinking household size, 17% to the existing shortage and 14% to replacing demolished homes, and names grid congestion, nitrogen and long procedures as bottlenecks. The sources consulted do not quantify how large the shortage would be without migration or without nitrogen rules.",
+   "source_ids": [
+    "s28",
+    "s4"
+   ]
+  }
+ ],
+ "party_positions": [
+  {
+   "party": "D66",
+   "position": "D66 campaigned on building ten new cities and on phasing out the mortgage interest deduction over at least 15 years. In December 2025 D66 and CDA jointly proposed a gradual phase-out once compensation through income tax is possible. In the coalition agreement D66 accepted that the tax treatment of the home stays unchanged; on 12 May 2026 it nevertheless voted for a motion to reverse the automatic increase in the deduction rate.",
+   "salience": "high",
+   "salience_basis": "'Ten new cities' is the opening pledge on the party's housing page; the coalition agreement it co-signed calls the housing shortage 'our top priority'; voted against its coalition partner VVD on the deduction motion in May 2026.",
+   "quotes": [
     {
-      "label": "Average sale price, existing homes",
-      "value": "€508,793 (October 2026)",
-      "note": "CBS/Kadaster. CBS notes the average sale price is not corrected for quality differences; price trends are measured with the price index.",
-      "source_ids": [
-        "s1"
-      ]
+     "text_en": "Housing is a basic right. That is why we are building ten new cities with good connections, sustainable houses and plenty of facilities such as schools, care and parks.",
+     "text_nl": "Wonen is een basisrecht. Daarom bouwen we tien nieuwe steden met goede verbindingen, duurzame huizen en volop voorzieningen zoals scholen, zorg en parken.",
+     "speaker": "D66 website, housing position",
+     "date": "2026",
+     "source_id": "s42"
     },
     {
-      "label": "Annual price growth, existing homes",
-      "value": "+2.9% (October 2026 vs October 2025); +3.4% in Q3 2026",
-      "note": "CBS/Kadaster price index. CBS says year-on-year growth has slowed almost continuously since November 2024. Prices were 17.9% above the previous peak of July 2022.",
-      "source_ids": [
-        "s1",
-        "s2"
-      ]
-    },
-    {
-      "label": "NVM estate agents' figures",
-      "value": "Average sale price €503,000 in Q3 2026 (+1.8% year on year); 39,000 homes for sale (+24%)",
-      "note": "Figures of the estate agents' association NVM, as reported by De Hypotheker; NVM measures differently from CBS.",
-      "source_ids": [
-        "s3"
-      ]
-    },
-    {
-      "label": "Housing shortage",
-      "value": "384,000 homes = 4.6% of the housing stock (2026 estimate)",
-      "note": "ABF Research (Primos forecast) for the government. 4.8% (396,000 homes) in 2025, 4.9% in 2024. Target: 2%, for which 213,000 extra homes would be needed immediately.",
-      "source_ids": [
-        "s5",
-        "s4",
-        "s53"
-      ]
-    },
-    {
-      "label": "Homes added vs 100,000 target",
-      "value": "Almost 80,000 homes added in 2025 (about 69,000 new-build, 11,000 by splitting or conversion)",
-      "note": "CBS figures as reported by NOS; over 90,000 in 2022. ABF forecasts 99,700 for 2027.",
-      "source_ids": [
-        "s7",
-        "s6"
-      ]
-    },
-    {
-      "label": "Building permits",
-      "value": "Almost 86,000 new-build homes permitted in 2025; 23,500 in Q1 2026",
-      "note": "Q1 2026 was 4,700 more than Q1 2025. Homes permitted but not yet completed: 226,600 at the end of Q1 2026.",
-      "source_ids": [
-        "s7",
-        "s8"
-      ]
-    },
-    {
-      "label": "Average rent increase",
-      "value": "+4.4% in July 2026 vs July 2025",
-      "note": "CBS. Social housing +4.3%, free-sector rents +4.5%. Increases were 4.9% in 2025 and 5.4% in 2024.",
-      "source_ids": [
-        "s9"
-      ]
-    },
-    {
-      "label": "Legal maximum rent increase 2026",
-      "value": "Social 4.1% (from 1 July 2026); mid-rent 6.1% and free sector 4.4% (from 1 January 2026)",
-      "note": "The maximums for 2027 had not been published as of 17 November 2026; Aedes states the calculation method stays the same.",
-      "source_ids": [
-        "s10",
-        "s12"
-      ]
-    },
-    {
-      "label": "Free-sector rent for new tenants",
-      "value": "€19.32 per m² per month in Q2 2026 (+9.4% year on year)",
-      "note": "NVM and VGM NL, homes let through their members. Apartments €20.72 per m², houses €15.10 per m².",
-      "source_ids": [
-        "s13"
-      ]
-    },
-    {
-      "label": "NHG mortgage guarantee limit",
-      "value": "€470,000 in 2026; €500,000 in 2027",
-      "note": "With energy-saving measures: €498,200 in 2026, €530,000 in 2027. One-off fee 0.4% of the mortgage amount.",
-      "source_ids": [
-        "s14",
-        "s15"
-      ]
+     "text_en": "Everyone must be able to use the tax benefit for at least half of its term.",
+     "text_nl": "Iedereen moet het belastingvoordeel nog voor minstens de helft van zijn looptijd kunnen gebruiken",
+     "speaker": "Jetten, D66 leader (as quoted by NOS)",
+     "date": "2025-09-09",
+     "source_id": "s22"
     }
-  ],
-  "problem": [
+   ],
+   "source_ids": [
+    "s42",
+    "s22",
+    "s51",
+    "s21",
+    "s19"
+   ]
+  },
+  {
+   "party": "VVD",
+   "position": "VVD wants 30 large new residential districts, fewer rules and shorter objection procedures, more affordable owner-occupied homes and a 'radical' loosening of rules on the rental market to attract investors. It wants to keep the mortgage interest deduction: its leader Yesilgöz said in September 2025 the party would not join a cabinet that changes it, and the coalition agreement keeps it unchanged.",
+   "salience": "high",
+   "salience_basis": "Housing is one of the 'pillars' on the party website; the party made keeping the mortgage interest deduction a campaign condition in September 2025 and defended it against a House majority in May 2026.",
+   "quotes": [
     {
-      "heading": "More demand than homes",
-      "text": "ABF Research estimates that in 2026 there are 384,000 fewer homes than households seeking one, equal to 4.6% of the stock. The ministry describes 2% as normal tension on the housing market. If 100,000 homes are built every year, ABF expects the 2% level to be reached in the course of 2034. The yearly target of 100,000 homes has not been met: almost 80,000 homes were added in 2025, the third consecutive yearly fall according to NOS reporting on CBS figures. The minister wrote on 1 July 2026 that reaching 100,000 in 2027 would be the first time since 1990.",
-      "source_ids": [
-        "s5",
-        "s4",
-        "s7"
-      ]
+     "text_en": "The solution is clear: build, build, build. The VVD wants to add 30 large residential districts.",
+     "text_nl": "De oplossing is duidelijk: bouwen, bouwen, bouwen. De VVD wil 30 grote woonwijken toevoegen.",
+     "speaker": "VVD website, pillar 'Wonen en vervoer'",
+     "date": "2026",
+     "source_id": "s43"
     },
     {
-      "heading": "Prices for buyers",
-      "text": "The average sale price of an existing home was 508,793 euros in October 2026. Price growth has slowed: the CBS/Kadaster index rose 2.9% year on year in October 2026, against 11.9% in November 2024. The Kadaster registered 20,376 sales in October 2026, almost 7% fewer than a year earlier. Kadaster research reported in October 2025 found that a single first-time buyer is on average 31 years old at purchase, unchanged since 2015, and that first-time buyers accounted for almost 42% of purchases in the first half of 2025.",
-      "source_ids": [
-        "s1",
-        "s37"
-      ]
-    },
-    {
-      "heading": "Rents and the rental stock",
-      "text": "Rents rose on average 4.4% in July 2026. Rental housing falls into three legal segments in 2026: social rent up to 932.93 euros a month, regulated mid-rent between 932.93 and 1,228.07 euros, and the free sector above that. In August 2025 the Kadaster reported that the number of non-housing-association rental homes was falling for the first time since it began measuring in 2010, as investors sold more homes than they bought or built. NVM and VGM NL reported that their members let almost 2,900 existing free-sector homes in Q2 2026, a level they call historically low.",
-      "source_ids": [
-        "s9",
-        "s11",
-        "s34",
-        "s13"
-      ]
-    },
-    {
-      "heading": "Waiting for social housing",
-      "text": "No single national waiting-time figure was found in official sources for 2026. NOS reported in October 2025 that the average waiting time for a social rental home has risen sharply in many municipalities, giving about 11 years for Utrecht as an example, and that in larger municipalities households with urgency status can receive more than a quarter of the homes that become available.",
-      "source_ids": [
-        "s33"
-      ]
+     "text_en": "We made clear agreements about it during the formation, that we make no changes to the system",
+     "text_nl": "We hebben er duidelijke afspraken over gemaakt tijdens de formatie, dat we geen aanpassingen doen in de systematiek",
+     "speaker": "Brekelmans, VVD House group leader (as quoted by NOS)",
+     "date": "2026-05-12",
+     "source_id": "s21"
     }
-  ],
-  "causes": [
+   ],
+   "source_ids": [
+    "s43",
+    "s23",
+    "s21"
+   ]
+  },
+  {
+   "party": "PRO",
+   "position": "PRO (the merged GroenLinks-PvdA; the sources cited still use the name GroenLinks-PvdA) wants to phase out the mortgage interest deduction in 8 to 12 years and use the proceeds to build affordable homes. Its motion to reverse the automatic increase in the deduction rate was adopted on 12 May 2026. In the Senate GroenLinks-PvdA voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "high",
+   "salience_basis": "NOS described phasing out the deduction as 'an important election position' of the party in 2025; the party filed the deduction motion adopted in May 2026.",
+   "quotes": [
     {
-      "heading": "Population growth and smaller households",
-      "text": "The housing minister's letter of 1 July 2026 calls household growth the main driver of the building task. The number of households is expected to grow by 795,000, from 8.5 million to almost 9.3 million, through population growth and because households are getting smaller. According to the letter, 44% of the homes to be built are needed for population growth, 25% because households are shrinking, 17% to reduce the existing shortage and 14% to replace demolished homes. The population is projected to grow by over 1 million to 19.2 million between 2026 and 2040. The coalition agreement says the cabinet also wants 'grip on all forms of migration' in order to manage housing demand.",
-      "source_ids": [
-        "s4",
-        "s19"
-      ]
+     "text_en": "The home owner has earned an awful lot of money from the fact that we have scarcity on the housing market.",
+     "text_nl": "De woningbezitter heeft ontzettend veel geld verdiend aan het feit dat wij schaarste hebben op de woningmarkt",
+     "speaker": "De Hoop, GroenLinks-PvdA MP (as quoted by NOS)",
+     "date": "2025-09-09",
+     "source_id": "s22"
     },
     {
-      "heading": "Too little building, slow procedures",
-      "text": "The coalition agreement states that too few homes were built in past years and that long procedures, permit processes, (local) regulation, affordability requirements and the tax climate cause new-build projects to take years. The minister's letter of 1 July 2026 names grid congestion (a full electricity network), nitrogen rules and long procedures as bottlenecks to be tackled. NOS reported, citing CBS, that building takes increasingly long once a permit is granted and that 3 to 5% of permits have been withdrawn each year since 2019.",
-      "source_ids": [
-        "s19",
-        "s4",
-        "s7"
-      ]
-    },
-    {
-      "heading": "Tax treatment of home ownership",
-      "text": "Mortgage interest is deductible from taxable income (hypotheekrenteaftrek). De Hypotheker reported that the planning agencies CPB and PBL, in their analysis of the coalition agreement published in February 2026, expect a slight dampening effect of the coalition plans on house prices, partly offset by what they call a 'limited widening' of the deduction. NOS reported in September 2025 that economists say reducing the deduction has a dampening effect on house prices but cannot say by how much.",
-      "source_ids": [
-        "s24",
-        "s22"
-      ]
-    },
-    {
-      "heading": "Rules for landlords and investor sales",
-      "text": "The Wet betaalbare huur (Affordable Rent Act, in force since 2024) sets maximum rents for many homes through a points system. The Kadaster's housing-market expert told NOS in August 2025 that this law is an important reason why investors sell rental homes, alongside the higher transfer tax introduced in 2021, the 'opkoopbescherming' (municipal rules against buy-to-let purchases) and new rules for box 3 (the tax on savings and investments). He added that the sold homes are mainly bought by first-time buyers.",
-      "source_ids": [
-        "s34",
-        "s36"
-      ]
+     "text_en": "It yields a few hundred million euros and we can use that to make people's lives affordable.",
+     "text_nl": "Het levert een paar honderd miljoen euro op en dat kunnen we gebruiken om het leven van mensen betaalbaar te maken.",
+     "speaker": "Klaver, GroenLinks-PvdA leader (as quoted by NOS)",
+     "date": "2026-05-12",
+     "source_id": "s21"
     }
-  ],
-  "timeline": [
+   ],
+   "source_ids": [
+    "s22",
+    "s21",
+    "s28"
+   ]
+  },
+  {
+   "party": "PVV",
+   "position": "The 2025 manifesto has a chapter 'Homes for the Dutch': a 10% cut in social rents with compensation for housing associations, keeping the mortgage interest deduction, a national crisis plan for housebuilding and no priority for status holders in social housing under any circumstances. A PVV amendment banning such priority was adopted by the House in July 2025 and later removed through the novelle; in the Senate the PVV voted against the Wet versterking regie volkshuisvesting and for the novelle.",
+   "salience": "high",
+   "salience_basis": "Chapter 3 of the 2025 manifesto is devoted to housing; the party's amendment on status holders obtained a House majority in July 2025.",
+   "quotes": [
     {
-      "date": "2025-07-04",
-      "event": "The House of Representatives passes the Wet versterking regie volkshuisvesting, including a PVV amendment banning priority for status holders (refugees with a residence permit) in social housing.",
-      "source_ids": [
-        "s29"
-      ]
+     "text_en": "The mortgage interest deduction stays; it will not be touched!",
+     "text_nl": "De hypotheekrenteaftrek blijft; daar wordt niet aan getornd!",
+     "speaker": "PVV manifesto 2025",
+     "date": "2025",
+     "source_id": "s44"
     },
     {
-      "date": "2025-09-22",
-      "event": "The Council of State advises against the then cabinet's separate bill to end priority for status holders, saying it leads to unequal treatment contrary to the Constitution. Minister Keijzer says she will submit it anyway.",
-      "source_ids": [
-        "s30"
-      ]
-    },
-    {
-      "date": "2025-12-15",
-      "event": "The ministry announces the 2026 maximum rent increases: 4.1% social (from 1 July), 6.1% mid-rent and 4.4% free sector (from 1 January).",
-      "source_ids": [
-        "s10",
-        "s11"
-      ]
-    },
-    {
-      "date": "2026-01-30",
-      "event": "D66, VVD and CDA present the coalition agreement 'Aan de slag'. On the same day NOS reports CBS figures showing almost 80,000 homes were added in 2025.",
-      "source_ids": [
-        "s19",
-        "s20",
-        "s7"
-      ]
-    },
-    {
-      "date": "2026-03-20",
-      "event": "The new cabinet withdraws the previous cabinet's bill on status-holder priority and announces a replacement bill plus an agreement with municipalities on flexible housing locations.",
-      "source_ids": [
-        "s32",
-        "s31"
-      ]
-    },
-    {
-      "date": "2026-03-24",
-      "event": "The House approves the 'novelle' (amending bill) that repairs three amendments to the Wet versterking regie volkshuisvesting.",
-      "source_ids": [
-        "s49"
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "event": "A GroenLinks-PvdA motion to reverse an automatic increase of the mortgage interest deduction gets a House majority with the votes of coalition parties D66 and CDA; VVD says the coalition's agreements stand.",
-      "source_ids": [
-        "s21"
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "event": "The Senate adopts the Wet versterking regie volkshuisvesting and the novelle; the law takes effect on 1 July 2026.",
-      "source_ids": [
-        "s28",
-        "s27"
-      ]
-    },
-    {
-      "date": "2026-07-01",
-      "event": "The minister sends the Primos 2026 forecast to parliament: shortage down from 4.8% to 4.6%; 99,700 new homes forecast for 2027.",
-      "source_ids": [
-        "s6",
-        "s4"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "event": "Budget Day: the cabinet announces 7 billion euros for housebuilding up to and including 2035 and a cut in transfer tax for non-owner-occupier buyers from 8% to 7% in 2027.",
-      "source_ids": [
-        "s25"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "event": "The House approves the 2027 Tax Plan with amendments; the Senate still has to vote.",
-      "source_ids": [
-        "s17"
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "event": "CBS reports existing-home prices 2.9% higher in October 2026 than a year earlier and an average sale price of 508,793 euros.",
-      "source_ids": [
-        "s1"
-      ]
+     "text_en": "Never again priority in social rental homes for status holders – not even with urgency status",
+     "text_nl": "Nooit meer voorrang op sociale huurwoningen voor statushouders – ook niet met urgentie",
+     "speaker": "PVV manifesto 2025",
+     "date": "2025",
+     "source_id": "s44"
     }
-  ],
-  "current_policy": [
+   ],
+   "source_ids": [
+    "s44",
+    "s29",
+    "s28"
+   ]
+  },
+  {
+   "party": "CDA",
+   "position": "CDA's 2025 manifesto proposed phasing out the mortgage interest deduction over thirty years and using the money to lower income tax. In the coalition agreement it accepted leaving the deduction unchanged, and on 12 May 2026 it voted for the motion to reverse the automatic increase. In the Senate CDA voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "high",
+   "salience_basis": "NOS reported in August 2025 that the CDA manifesto 'goes all in on housing'; the party co-signed a coalition agreement that names the housing shortage the top priority.",
+   "quotes": [
     {
-      "heading": "Coalition agreement: build more, cut rules",
-      "text": "The coalition agreement makes resolving the housing shortage the top priority and follows three tracks: more building, affordable housing and fewer obstacles. It promises at least 30 large-scale new-build sites of national importance, which 'can be new districts, but also new towns', plus 'straatje erbij' and 'wijkje erbij' (adding a street or a small neighbourhood to an existing town or village). Objection procedures are to be cut to a single appeal stage with fixed ruling deadlines. For new regional housing deals the aim is two-thirds affordable homes, of which 30% social rent and 25% affordable owner-occupied. The agreement also announces a yearly income test for social tenants and a wealth test for new social tenants. The Nota Ruimte (national spatial strategy) presented on 16 November 2026 says the cabinet will designate 10 new large-scale housing sites.",
-      "source_ids": [
-        "s19",
-        "s41"
-      ]
-    },
-    {
-      "heading": "Wet versterking regie volkshuisvesting (in force 1 July 2026)",
-      "text": "The law obliges central government, provinces and municipalities to draw up housing programmes stating how many homes they will build, where and for whom. Two-thirds of new homes must be affordable for low and middle incomes and 30% of all new-build must be social rent, measured per region. Appeal procedures for housebuilding can be shortened: the administrative court rules within 6 months and permit cases go to one court instead of two; the government says the time saved can be up to a year. All municipalities must have an urgency scheme for nationally designated groups of urgent home seekers. Deadlines are phased: national and municipal programmes by 1 July 2027, municipal housing bye-laws by 1 January 2028. In the Senate FVD, SP, PvdD and PVV voted against the law.",
-      "source_ids": [
-        "s27",
-        "s28"
-      ]
-    },
-    {
-      "heading": "Rent regulation",
-      "text": "Maximum yearly rent increases are set by law per segment: social rent by average inflation over three years plus 0.5 percentage point; regulated mid-rent by collectively agreed wage growth plus 1 point; free sector by the lower of inflation and wage growth plus 1 point. From 1 January 2027 the social-rent ceiling is 959.71 euros a month and the upper limit of regulated mid-rent 1,263.32 euros. The coalition agreement says that, ahead of the evaluation of the Wet betaalbare huur, the cabinet will look at where the law can be 'optimised' to maintain the supply of rental homes; the ministry said in July 2026 that several changes to the law are expected to take effect on 1 January 2027.",
-      "source_ids": [
-        "s10",
-        "s12",
-        "s19",
-        "s39"
-      ]
-    },
-    {
-      "heading": "Taxes: home ownership and investors",
-      "text": "The coalition agreement states that the tax treatment of the owner-occupied home remains unchanged, so the mortgage interest deduction stays. The rate at which interest is deducted is linked to the second income-tax bracket (37.56% in 2026); because the cabinet raises that bracket rate, the deduction rate rises with it, to a provisional 38.16% for 2027 according to the Consumentenbond. Buyers who will live in the home pay 2% transfer tax; buyers aged 18 to 34 pay none on a first use of the exemption for homes up to 555,000 euros in 2026. Buyers who will not live in the home (landlords, second homes, parents buying for a child) pay 8% in 2026; the 2027 Tax Plan lowers this to 7% on 1 January 2027, subject to Senate approval.",
-      "source_ids": [
-        "s19",
-        "s24",
-        "s18",
-        "s16",
-        "s17"
-      ]
+     "text_en": "The tipping point at which there were only opponents is long past.",
+     "text_nl": "Het kantelpunt dat er alleen maar tegenstanders waren is allang voorbij.",
+     "speaker": "Henri Bontenbal (as quoted by NOS)",
+     "date": "2025-09-09",
+     "source_id": "s22"
     }
-  ],
-  "proposals": [
+   ],
+   "source_ids": [
+    "s22",
+    "s54",
+    "s21",
+    "s28"
+   ]
+  },
+  {
+   "party": "JA21",
+   "position": "JA21 wants large-scale building inside and outside existing towns, faster procedures, exempting housebuilding from nitrogen restrictions, repeal of the Wet betaalbare huur and no automatic priority for status holders. NOS noted in 2025 that its manifesto did not mention the mortgage interest deduction. In the Senate JA21 voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "medium",
+   "salience_basis": "Housing has its own position page with a list of pledges; no JA21 housing motions or bills were found in the sources consulted.",
+   "quotes": [
     {
-      "title": "2027 budget: 7 billion euros for housebuilding",
-      "description": "7 billion euros up to and including 2035, of which 2.3 billion for the 'realisatiestimulans' (7,000 euros to municipalities per affordable home), 940 million for large-scale sites including 650 million for the Woningbouwimpuls subsidy, 500 million for a subsidy per mid-rent home, 635 million extra for homes for the elderly, 450 million for homes with shared facilities and 100 million extra for the Nationaal Fonds Betaalbare Koop for first-time buyers. Measures for housing associations are said to create about 28 billion euros of extra investment capacity. Binnenlands Bestuur reports the 7 billion covers 2029-2035 and that builders' association WoningbouwersNL calls it too little.",
-      "proposed_by": [
-        "D66",
-        "VVD",
-        "CDA"
-      ],
-      "status": "In the 2027 draft budget presented 2026-09-15",
-      "source_ids": [
-        "s25",
-        "s26"
-      ]
-    },
-    {
-      "title": "Lower transfer tax for non-owner-occupiers",
-      "description": "Cut the transfer tax on homes the buyer will not live in from 8% to 7% on 1 January 2027; abolish transfer tax on transfers of social rental homes between housing associations.",
-      "proposed_by": [
-        "D66",
-        "VVD",
-        "CDA"
-      ],
-      "status": "Tax Plan 2027 passed by the House on 2026-11-13; pending in the Senate",
-      "source_ids": [
-        "s17",
-        "s25",
-        "s50"
-      ]
-    },
-    {
-      "title": "Reverse the automatic rise in the mortgage interest deduction rate",
-      "description": "Motion asking the government to undo the increase in the deduction rate that follows from raising the second income-tax bracket. PRO leader Klaver said it would raise a few hundred million euros.",
-      "proposed_by": [
-        "PRO"
-      ],
-      "status": "Motion adopted 2026-05-12 with votes of D66 and CDA; VVD and the finance minister said the deduction will not be changed",
-      "source_ids": [
-        "s21"
-      ]
-    },
-    {
-      "title": "Phase out the mortgage interest deduction",
-      "description": "Gradual abolition, with proceeds used for lower income tax or housebuilding. Stated periods in the 2025 campaign: CDA 30 years, GroenLinks-PvdA (now PRO) 8 to 12 years, D66 at least 15 years, ChristenUnie at least 15 years, Volt 'as soon as possible'. SP, DENK and PvdD want to limit the deduction above a home-value threshold.",
-      "proposed_by": [
-        "CDA",
-        "PRO",
-        "D66",
-        "ChristenUnie",
-        "Volt",
-        "SP",
-        "DENK",
-        "PvdD"
-      ],
-      "status": "In 2025 manifestos; not in the coalition agreement, which keeps the tax treatment unchanged",
-      "source_ids": [
-        "s22",
-        "s19"
-      ]
-    },
-    {
-      "title": "End legal priority for status holders in social housing",
-      "description": "A new bill giving status holders the same position as other home seekers, to take effect once enough alternative housing (such as flexible homes and house sharing) exists; combined with a binding agreement with municipalities on flexible housing locations.",
-      "proposed_by": [
-        "D66",
-        "VVD",
-        "CDA"
-      ],
-      "status": "Previous bill withdrawn 2026-03-20; replacement bill announced for public consultation in 2026; until then municipalities decide",
-      "source_ids": [
-        "s32",
-        "s31",
-        "s19"
-      ]
-    },
-    {
-      "title": "Repeal the Wet betaalbare huur",
-      "description": "Withdraw the Affordable Rent Act and lower fiscal and administrative burdens on landlords.",
-      "proposed_by": [
-        "JA21",
-        "FVD"
-      ],
-      "status": "On party websites; no bill found",
-      "source_ids": [
-        "s45",
-        "s46"
-      ]
-    },
-    {
-      "title": "Narrow the 'opkoopbescherming'",
-      "description": "Limit municipal bans on buy-to-let purchases to areas where liveability is under pressure and to homes with a WOZ (official property) value up to the municipal average.",
-      "proposed_by": [
-        "D66",
-        "VVD",
-        "CDA"
-      ],
-      "status": "Announced 2026-10-15; draft bill to go to consultation at the end of 2026",
-      "source_ids": [
-        "s40"
-      ]
-    },
-    {
-      "title": "More room for housing associations to build mid-rent",
-      "description": "Amend the Woningwet so housing associations can borrow more cheaply for mid-rent homes and reach 5,000 mid-rent homes a year from 2029; the ministry says this also frees about 11.8 billion euros of investment room for their other tasks.",
-      "proposed_by": [
-        "D66",
-        "VVD",
-        "CDA"
-      ],
-      "status": "Announced in a letter to the House on 2026-07-08; amendment of the Woningwet in preparation",
-      "source_ids": [
-        "s39"
-      ]
+     "text_en": "Withdraw the Affordable Rent Act, lower the fiscal and administrative pressure on landlords and restore investor confidence in mid-rent.",
+     "text_nl": "De Wet betaalbare huur intrekken, de fiscale en administratieve druk op verhuurders verlagen en het investeringsvertrouwen in de middenhuur herstellen.",
+     "speaker": "JA21 website, position 'Wonen en bouwen'",
+     "date": "2026",
+     "source_id": "s45"
     }
-  ],
-  "contested_claims": [
+   ],
+   "source_ids": [
+    "s45",
+    "s22",
+    "s28"
+   ]
+  },
+  {
+   "party": "Groep Markuszower",
+   "position": "No housing programme, position page or housing statement of this House group was found in the sources consulted for this file.",
+   "salience": null,
+   "salience_basis": "No own manifesto, position page or housing motion found in the sources consulted for this file.",
+   "quotes": [],
+   "source_ids": []
+  },
+  {
+   "party": "FVD",
+   "position": "FVD wants 100,000 homes a year, the scrapping of climate and nitrogen rules for building, repeal of the Wet betaalbare huur, a limited social-rent sector with priority for Dutch citizens over status holders, and a mortgage interest deduction at a higher rate. In the Senate FVD voted against both the Wet versterking regie volkshuisvesting and the novelle.",
+   "salience": "medium",
+   "salience_basis": "Housing has its own position page; NOS reported FVD was the only party in 2025 wanting to return the deduction rate to its pre-2014 level.",
+   "quotes": [
     {
-      "claim": "A large share of social rental homes goes to status holders: 37% (Wilders), '25, 30 percent' (then minister Keijzer); versus about 7% (Jetten) or '7 to 10 percent' (Klaver).",
-      "claimed_by": "Wilders (PVV), Keijzer (then BBB minister), Jetten (D66), Klaver (GroenLinks-PvdA), during the October 2025 campaign",
-      "what_data_show": "NOS reported that CBS found almost 7% of all housing-association homes that became available in 2022 (11,000 of 162,500) were allocated to households with status holders, and 4 to 6% in the four years before. Aedes estimates about 10% for 2023 and 2024. The 37% figure comes from a calculation by Jan van de Beek comparing allocations to status holders with allocations to first-time tenants only; experts quoted by NOS call that comparison skewed. Counting only status holders who are themselves first-time tenants against all first-time allocations, CBS arrives at 17%.",
-      "source_ids": [
-        "s33"
-      ]
-    },
-    {
-      "claim": "Reducing the mortgage interest deduction has not led to more homes or lower prices.",
-      "claimed_by": "Keijzer, then housing minister (BBB), September 2025",
-      "what_data_show": "NOS reported that economists say the reduction does have a dampening effect on house prices, but that because so many factors play a role they cannot say how large it is. The deduction rate has been reduced since 2014, and faster since 2020. CPB and PBL described the effect of the coalition agreement as a limited widening of the deduction that partly offsets an expected slight dampening of prices.",
-      "source_ids": [
-        "s22",
-        "s24"
-      ]
-    },
-    {
-      "claim": "Government subsidies such as the Woningbouwimpuls help build more homes faster.",
-      "claimed_by": "Successive cabinets; the current cabinet allocates a further 650 million euros to the scheme",
-      "what_data_show": "The Netherlands Court of Audit (Algemene Rekenkamer) reported in September 2025 that it is very doubtful whether the 2.25 billion euros reserved over four years led to more or faster building: most rejected projects went ahead anyway and delays were as frequent with as without a contribution. It did find a clear positive effect on the number of affordable homes.",
-      "source_ids": [
-        "s38",
-        "s25"
-      ]
-    },
-    {
-      "claim": "Investors are selling off rental homes, shrinking the rental stock.",
-      "claimed_by": "Kadaster expert (August 2025), investor organisations, VVD, JA21",
-      "what_data_show": "The Kadaster reported in August 2025 that the non-association rental stock was shrinking for the first time since 2010; investors sold more than 16,000 homes in a year and bought 7,800. The minister told the House on 24 April 2026 that, per Kadaster figures, about 114,000 homes were sold by private investors to owner-occupiers in the past five years (about 52,000 by private individuals, 62,000 by companies and institutions), while the total rental stock held by private investors rose from about 679,000 to 752,000 homes between 2021 and 2025 because investors also added new-build.",
-      "source_ids": [
-        "s34",
-        "s35"
-      ]
-    },
-    {
-      "claim": "Without migration, climate policy and nitrogen measures the housing shortage would be much smaller.",
-      "claimed_by": "PVV senator Van Kesteren, Senate debate of 23 June 2026",
-      "what_data_show": "The minister's letter of 1 July 2026 attributes 44% of the homes needed to population growth, 25% to shrinking household size, 17% to the existing shortage and 14% to replacing demolished homes, and names grid congestion, nitrogen and long procedures as bottlenecks. The sources consulted do not quantify how large the shortage would be without migration or without nitrogen rules.",
-      "source_ids": [
-        "s28",
-        "s4"
-      ]
+     "text_en": "The mortgage interest deduction stays, at a higher deduction rate, so that housing becomes and remains affordable.",
+     "text_nl": "Hypotheekrenteaftrek blijft, met een hoger aftrektarief, zodat wonen betaalbaar wordt en blijft.",
+     "speaker": "FVD website, position 'Wonen'",
+     "date": "2026",
+     "source_id": "s46"
     }
-  ],
-  "party_positions": [
+   ],
+   "source_ids": [
+    "s46",
+    "s22",
+    "s28"
+   ]
+  },
+  {
+   "party": "ChristenUnie",
+   "position": "ChristenUnie wants 100,000 new homes a year, at least two-thirds affordable including 30% social rent, a levy on land-value gains ('planbatenheffing') and 20 billion euros extra over the coming decade. It supports phasing out the mortgage interest deduction over at least fifteen years. In the Senate it voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "medium",
+   "salience_basis": "Detailed housing position page with a costed pledge of 20 billion euros; no ChristenUnie housing motions were found in the sources consulted.",
+   "quotes": [
     {
-      "party": "D66",
-      "position": "D66 campaigned on building ten new cities and on phasing out the mortgage interest deduction over at least 15 years. In December 2025 D66 and CDA jointly proposed a gradual phase-out once compensation through income tax is possible. In the coalition agreement D66 accepted that the tax treatment of the home stays unchanged; on 12 May 2026 it nevertheless voted for a motion to reverse the automatic increase in the deduction rate.",
-      "salience": "high",
-      "salience_basis": "'Ten new cities' is the opening pledge on the party's housing page; the coalition agreement it co-signed calls the housing shortage 'our top priority'; voted against its coalition partner VVD on the deduction motion in May 2026.",
-      "quotes": [
-        {
-          "text_en": "Housing is a basic right. That is why we are building ten new cities with good connections, sustainable houses and plenty of facilities such as schools, care and parks.",
-          "text_nl": "Wonen is een basisrecht. Daarom bouwen we tien nieuwe steden met goede verbindingen, duurzame huizen en volop voorzieningen zoals scholen, zorg en parken.",
-          "speaker": "D66 website, housing position",
-          "date": "2026",
-          "source_id": "s42"
-        },
-        {
-          "text_en": "Everyone must be able to use the tax benefit for at least half of its term.",
-          "text_nl": "Iedereen moet het belastingvoordeel nog voor minstens de helft van zijn looptijd kunnen gebruiken",
-          "speaker": "Jetten, D66 leader (as quoted by NOS)",
-          "date": "2025-09-09",
-          "source_id": "s22"
-        }
-      ],
-      "source_ids": [
-        "s42",
-        "s22",
-        "s51",
-        "s21",
-        "s19"
-      ]
-    },
-    {
-      "party": "VVD",
-      "position": "VVD wants 30 large new residential districts, fewer rules and shorter objection procedures, more affordable owner-occupied homes and a 'radical' loosening of rules on the rental market to attract investors. It wants to keep the mortgage interest deduction: its leader Yesilgöz said in September 2025 the party would not join a cabinet that changes it, and the coalition agreement keeps it unchanged.",
-      "salience": "high",
-      "salience_basis": "Housing is one of the 'pillars' on the party website; the party made keeping the mortgage interest deduction a campaign condition in September 2025 and defended it against a House majority in May 2026.",
-      "quotes": [
-        {
-          "text_en": "The solution is clear: build, build, build. The VVD wants to add 30 large residential districts.",
-          "text_nl": "De oplossing is duidelijk: bouwen, bouwen, bouwen. De VVD wil 30 grote woonwijken toevoegen.",
-          "speaker": "VVD website, pillar 'Wonen en vervoer'",
-          "date": "2026",
-          "source_id": "s43"
-        },
-        {
-          "text_en": "We made clear agreements about it during the formation, that we make no changes to the system",
-          "text_nl": "We hebben er duidelijke afspraken over gemaakt tijdens de formatie, dat we geen aanpassingen doen in de systematiek",
-          "speaker": "Brekelmans, VVD House group leader (as quoted by NOS)",
-          "date": "2026-05-12",
-          "source_id": "s21"
-        }
-      ],
-      "source_ids": [
-        "s43",
-        "s23",
-        "s21"
-      ]
-    },
-    {
-      "party": "PRO",
-      "position": "PRO (the merged GroenLinks-PvdA; the sources cited still use the name GroenLinks-PvdA) wants to phase out the mortgage interest deduction in 8 to 12 years and use the proceeds to build affordable homes. Its motion to reverse the automatic increase in the deduction rate was adopted on 12 May 2026. In the Senate GroenLinks-PvdA voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "high",
-      "salience_basis": "NOS described phasing out the deduction as 'an important election position' of the party in 2025; the party filed the deduction motion adopted in May 2026.",
-      "quotes": [
-        {
-          "text_en": "The home owner has earned an awful lot of money from the fact that we have scarcity on the housing market.",
-          "text_nl": "De woningbezitter heeft ontzettend veel geld verdiend aan het feit dat wij schaarste hebben op de woningmarkt",
-          "speaker": "De Hoop, GroenLinks-PvdA MP (as quoted by NOS)",
-          "date": "2025-09-09",
-          "source_id": "s22"
-        },
-        {
-          "text_en": "It yields a few hundred million euros and we can use that to make people's lives affordable.",
-          "text_nl": "Het levert een paar honderd miljoen euro op en dat kunnen we gebruiken om het leven van mensen betaalbaar te maken.",
-          "speaker": "Klaver, GroenLinks-PvdA leader (as quoted by NOS)",
-          "date": "2026-05-12",
-          "source_id": "s21"
-        }
-      ],
-      "source_ids": [
-        "s22",
-        "s21",
-        "s28"
-      ]
-    },
-    {
-      "party": "PVV",
-      "position": "The 2025 manifesto has a chapter 'Homes for the Dutch': a 10% cut in social rents with compensation for housing associations, keeping the mortgage interest deduction, a national crisis plan for housebuilding and no priority for status holders in social housing under any circumstances. A PVV amendment banning such priority was adopted by the House in July 2025 and later removed through the novelle; in the Senate the PVV voted against the Wet versterking regie volkshuisvesting and for the novelle.",
-      "salience": "high",
-      "salience_basis": "Chapter 3 of the 2025 manifesto is devoted to housing; the party's amendment on status holders obtained a House majority in July 2025.",
-      "quotes": [
-        {
-          "text_en": "The mortgage interest deduction stays; it will not be touched!",
-          "text_nl": "De hypotheekrenteaftrek blijft; daar wordt niet aan getornd!",
-          "speaker": "PVV manifesto 2025",
-          "date": "2025",
-          "source_id": "s44"
-        },
-        {
-          "text_en": "Never again priority in social rental homes for status holders – not even with urgency status",
-          "text_nl": "Nooit meer voorrang op sociale huurwoningen voor statushouders – ook niet met urgentie",
-          "speaker": "PVV manifesto 2025",
-          "date": "2025",
-          "source_id": "s44"
-        }
-      ],
-      "source_ids": [
-        "s44",
-        "s29",
-        "s28"
-      ]
-    },
-    {
-      "party": "CDA",
-      "position": "CDA's 2025 manifesto proposed phasing out the mortgage interest deduction over thirty years and using the money to lower income tax. In the coalition agreement it accepted leaving the deduction unchanged, and on 12 May 2026 it voted for the motion to reverse the automatic increase. In the Senate CDA voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "high",
-      "salience_basis": "NOS reported in August 2025 that the CDA manifesto 'goes all in on housing'; the party co-signed a coalition agreement that names the housing shortage the top priority.",
-      "quotes": [
-        {
-          "text_en": "The tipping point at which there were only opponents is long past.",
-          "text_nl": "Het kantelpunt dat er alleen maar tegenstanders waren is allang voorbij.",
-          "speaker": "Henri Bontenbal (as quoted by NOS)",
-          "date": "2025-09-09",
-          "source_id": "s22"
-        }
-      ],
-      "source_ids": [
-        "s22",
-        "s54",
-        "s21",
-        "s28"
-      ]
-    },
-    {
-      "party": "JA21",
-      "position": "JA21 wants large-scale building inside and outside existing towns, faster procedures, exempting housebuilding from nitrogen restrictions, repeal of the Wet betaalbare huur and no automatic priority for status holders. NOS noted in 2025 that its manifesto did not mention the mortgage interest deduction. In the Senate JA21 voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "medium",
-      "salience_basis": "Housing has its own position page with a list of pledges; no JA21 housing motions or bills were found in the sources consulted.",
-      "quotes": [
-        {
-          "text_en": "Withdraw the Affordable Rent Act, lower the fiscal and administrative pressure on landlords and restore investor confidence in mid-rent.",
-          "text_nl": "De Wet betaalbare huur intrekken, de fiscale en administratieve druk op verhuurders verlagen en het investeringsvertrouwen in de middenhuur herstellen.",
-          "speaker": "JA21 website, position 'Wonen en bouwen'",
-          "date": "2026",
-          "source_id": "s45"
-        }
-      ],
-      "source_ids": [
-        "s45",
-        "s22",
-        "s28"
-      ]
-    },
-    {
-      "party": "Groep Markuszower",
-      "position": "No housing programme, position page or housing statement of this House group was found in the sources consulted for this file.",
-      "salience": "low",
-      "salience_basis": "No own manifesto, position page or housing motion found in the sources consulted for this file.",
-      "quotes": [],
-      "source_ids": []
-    },
-    {
-      "party": "FVD",
-      "position": "FVD wants 100,000 homes a year, the scrapping of climate and nitrogen rules for building, repeal of the Wet betaalbare huur, a limited social-rent sector with priority for Dutch citizens over status holders, and a mortgage interest deduction at a higher rate. In the Senate FVD voted against both the Wet versterking regie volkshuisvesting and the novelle.",
-      "salience": "medium",
-      "salience_basis": "Housing has its own position page; NOS reported FVD was the only party in 2025 wanting to return the deduction rate to its pre-2014 level.",
-      "quotes": [
-        {
-          "text_en": "The mortgage interest deduction stays, at a higher deduction rate, so that housing becomes and remains affordable.",
-          "text_nl": "Hypotheekrenteaftrek blijft, met een hoger aftrektarief, zodat wonen betaalbaar wordt en blijft.",
-          "speaker": "FVD website, position 'Wonen'",
-          "date": "2026",
-          "source_id": "s46"
-        }
-      ],
-      "source_ids": [
-        "s46",
-        "s22",
-        "s28"
-      ]
-    },
-    {
-      "party": "ChristenUnie",
-      "position": "ChristenUnie wants 100,000 new homes a year, at least two-thirds affordable including 30% social rent, a levy on land-value gains ('planbatenheffing') and 20 billion euros extra over the coming decade. It supports phasing out the mortgage interest deduction over at least fifteen years. In the Senate it voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "medium",
-      "salience_basis": "Detailed housing position page with a costed pledge of 20 billion euros; no ChristenUnie housing motions were found in the sources consulted.",
-      "quotes": [
-        {
-          "text_en": "There is a large shortage of homes: an estimated 400,000. To make that up, we must build 100,000 new homes every year.",
-          "text_nl": "Er is een groot tekort aan woningen: naar schatting 400.000. Om dat in te lopen, moeten we elk jaar 100.000 nieuwe woningen bouwen.",
-          "speaker": "ChristenUnie website, position 'Wonen'",
-          "date": "2026",
-          "source_id": "s47"
-        }
-      ],
-      "source_ids": [
-        "s47",
-        "s22",
-        "s28"
-      ]
-    },
-    {
-      "party": "SP",
-      "position": "SP wants rents to go down, more social rental homes, a separate ministry and a national building plan. It wants to guarantee the mortgage interest deduction for homes up to 600,000 euros and phase it out faster above that. SP MP Beckerman questioned the minister in April 2026 about investors selling rental homes. In the Senate SP voted against the Wet versterking regie volkshuisvesting.",
-      "salience": "high",
-      "salience_basis": "The party runs campaigns and demonstrations on rents ('0 is genoeg') according to its website and files parliamentary questions on housing (April 2026).",
-      "quotes": [
-        {
-          "text_en": "Houses are there for people to live in and not for slum landlords or speculators to get rich from.",
-          "text_nl": "Huizen zijn er voor mensen om in te wonen en niet voor huisjesmelkers of speculanten om rijk mee te worden.",
-          "speaker": "SP website, 'De wooncrisis aanpakken'",
-          "date": "2026",
-          "source_id": "s48"
-        },
-        {
-          "text_en": "This housing crisis is not a natural phenomenon, but the result of political choices.",
-          "text_nl": "Deze wooncrisis is geen natuurverschijnsel, maar het gevolg van politieke keuzes.",
-          "speaker": "Sandra Beckerman (SP website)",
-          "date": "2026",
-          "source_id": "s48"
-        }
-      ],
-      "source_ids": [
-        "s48",
-        "s22",
-        "s35",
-        "s28"
-      ]
-    },
-    {
-      "party": "PvdD",
-      "position": "According to NOS, the PvdD's 2025 manifesto wants to end the mortgage interest deduction for homes above the NHG purchase limit. In the Senate the PvdD voted against the Wet versterking regie volkshuisvesting and the novelle. The party's own housing page could not be opened for this file.",
-      "salience": "medium",
-      "salience_basis": "Addressed in the 2025 manifesto according to NOS; no PvdD housing motions were found in the sources consulted.",
-      "quotes": [],
-      "source_ids": [
-        "s22",
-        "s28"
-      ]
-    },
-    {
-      "party": "SGP",
-      "position": "According to NOS, the SGP does not want to abolish the mortgage interest deduction but 'is not opposed to a revision'. In the Senate the SGP voted for the Wet versterking regie volkshuisvesting. No further SGP housing text was verified for this file.",
-      "salience": "medium",
-      "salience_basis": "Addressed in the 2025 manifesto according to NOS; no SGP housing motions were found in the sources consulted.",
-      "quotes": [],
-      "source_ids": [
-        "s22",
-        "s28"
-      ]
-    },
-    {
-      "party": "BBB",
-      "position": "BBB's 2025 manifesto says the mortgage interest deduction should not be limited further, according to NOS. BBB supplied the housing minister, Keijzer, in the previous cabinet; she introduced the Wet versterking regie volkshuisvesting and the bill to end priority for status holders, and proposed loosening the Wet betaalbare huur. In the Senate BBB voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "medium",
-      "salience_basis": "Addressed in the 2025 manifesto according to NOS; the party held the housing ministry in the previous cabinet.",
-      "quotes": [
-        {
-          "text_en": "And if you then look at who this will hit: many people who with difficulty were finally able to buy something.",
-          "text_nl": "En als je dan kijkt wie dit gaat raken: veel mensen die met moeite eindelijk in staat waren om iets te kopen",
-          "speaker": "Keijzer, then housing minister, BBB (as quoted by NOS)",
-          "date": "2025-09-09",
-          "source_id": "s22"
-        }
-      ],
-      "source_ids": [
-        "s22",
-        "s34",
-        "s30",
-        "s28"
-      ]
-    },
-    {
-      "party": "DENK",
-      "position": "According to NOS, DENK's 2025 manifesto wants to end the mortgage interest deduction 'for rich property owners', meaning homes above 500,000 euros. No further DENK housing text was verified for this file.",
-      "salience": "medium",
-      "salience_basis": "Addressed in the 2025 manifesto according to NOS; no DENK housing motions were found in the sources consulted.",
-      "quotes": [],
-      "source_ids": [
-        "s22"
-      ]
-    },
-    {
-      "party": "Volt",
-      "position": "According to NOS, Volt wants to phase out the mortgage interest deduction 'as soon as possible'. In the Senate Volt voted for the Wet versterking regie volkshuisvesting.",
-      "salience": "medium",
-      "salience_basis": "Addressed in the 2025 manifesto according to NOS.",
-      "quotes": [],
-      "source_ids": [
-        "s22",
-        "s28"
-      ]
+     "text_en": "There is a large shortage of homes: an estimated 400,000. To make that up, we must build 100,000 new homes every year.",
+     "text_nl": "Er is een groot tekort aan woningen: naar schatting 400.000. Om dat in te lopen, moeten we elk jaar 100.000 nieuwe woningen bouwen.",
+     "speaker": "ChristenUnie website, position 'Wonen'",
+     "date": "2026",
+     "source_id": "s47"
     }
-  ],
-  "impact": [
+   ],
+   "source_ids": [
+    "s47",
+    "s22",
+    "s28"
+   ]
+  },
+  {
+   "party": "SP",
+   "position": "SP wants rents to go down, more social rental homes, a separate ministry and a national building plan. It wants to guarantee the mortgage interest deduction for homes up to 600,000 euros and phase it out faster above that. SP MP Beckerman questioned the minister in April 2026 about investors selling rental homes. In the Senate SP voted against the Wet versterking regie volkshuisvesting.",
+   "salience": "high",
+   "salience_basis": "The party runs campaigns and demonstrations on rents ('0 is genoeg') according to its website and files parliamentary questions on housing (April 2026).",
+   "quotes": [
     {
-      "applies_to": [
-        "renter_social"
-      ],
-      "text": "The rent of a social rental home may rise by at most 4.1% from 1 July 2026 until 1 July 2027. The maximum for the following period had not been published by 17 November 2026; it is calculated as average inflation over three years plus 0.5 percentage point. The social-rent ceiling rises from 932.93 to 959.71 euros a month on 1 January 2027. The coalition agreement announces a yearly income test to determine whether the rent is still appropriate; this has not yet been turned into law in the sources consulted.",
-      "source_ids": [
-        "s10",
-        "s12",
-        "s19"
-      ]
+     "text_en": "Houses are there for people to live in and not for slum landlords or speculators to get rich from.",
+     "text_nl": "Huizen zijn er voor mensen om in te wonen en niet voor huisjesmelkers of speculanten om rijk mee te worden.",
+     "speaker": "SP website, 'De wooncrisis aanpakken'",
+     "date": "2026",
+     "source_id": "s48"
     },
     {
-      "applies_to": [
-        "renter_private"
-      ],
-      "text": "In 2026 the rent may rise by at most 6.1% for regulated mid-rent homes and 4.4% in the free sector; the agreed increase in the contract applies if it is lower. In 2027 new contracts count as regulated mid-rent between 959.71 and 1,263.32 euros a month, depending on the home's points. The cabinet expects several changes to the Wet betaalbare huur to take effect on 1 January 2027; JA21 and FVD propose repealing the law.",
-      "source_ids": [
-        "s10",
-        "s12",
-        "s39",
-        "s45",
-        "s46"
-      ]
-    },
-    {
-      "applies_to": [
-        "owner_mortgage"
-      ],
-      "text": "The coalition agreement leaves the mortgage interest deduction unchanged. Interest is deducted at the second-bracket income-tax rate: 37.56% in 2026 and, according to the Consumentenbond, a provisional maximum of 38.16% for 2027. A House majority asked on 12 May 2026 to reverse that increase; the VVD and the finance minister said nothing will change. NOS reported that from 2031 the first group of owners with mortgages of 30 years or older lose the right to deduct, and that officials were examining options including extending it at a cost of almost 1 billion euros a year.",
-      "source_ids": [
-        "s19",
-        "s24",
-        "s18",
-        "s21"
-      ]
-    },
-    {
-      "applies_to": [
-        "owner_outright"
-      ],
-      "text": "Owners with little or no mortgage debt pay more tax each year because the deduction that offsets the 'eigenwoningforfait' (the notional rental value added to taxable income) is being phased out: according to the Consumentenbond 67.07% of it is still deductible in 2027 and the full amount is taxed from 2041.",
-      "source_ids": [
-        "s18"
-      ]
-    },
-    {
-      "applies_to": [
-        "home_seeker"
-      ],
-      "text": "Buyers aged 18 to 34 who will live in the home pay no transfer tax, once, on a home worth up to 555,000 euros in 2026; the Consumentenbond gives 615,000 euros as the limit for 2027. Other owner-occupier buyers pay 2%. A mortgage with NHG (national mortgage guarantee) is possible up to a purchase price of 470,000 euros in 2026 and 500,000 euros in 2027, for a one-off fee of 0.4% of the loan.",
-      "source_ids": [
-        "s16",
-        "s18",
-        "s14"
-      ]
-    },
-    {
-      "applies_to": [
-        "home_seeker",
-        "income_low"
-      ],
-      "text": "Under the law in force since 1 July 2026, every municipality must adopt an urgency scheme for nationally designated groups of urgent home seekers by 1 January 2028. Municipalities may still give status holders priority in social housing; the cabinet has announced a bill to end this once enough alternative housing exists.",
-      "source_ids": [
-        "s27",
-        "s32"
-      ]
-    },
-    {
-      "applies_to": [
-        "home_seeker",
-        "income_middle"
-      ],
-      "text": "The cabinet's 2027 budget adds 100 million euros to the Nationaal Fonds Betaalbare Koop for first-time buyers and 500 million euros in subsidies for mid-rent homes. NOS reported that over 8% of first mortgages in the first half of 2026 were partly financed with a 'starterslening' (a municipal starter loan), up from 6.4% in 2025.",
-      "source_ids": [
-        "s25",
-        "s52"
-      ]
-    },
-    {
-      "applies_to": [
-        "investor",
-        "second_home"
-      ],
-      "text": "Buying a home you will not live in (to let, as a second home, or for a child) is taxed at 8% transfer tax in 2026. The 2027 Tax Plan lowers this to 7% on 1 January 2027; the House approved it on 13 November 2026 and the Senate still has to vote. Investor organisation IVBN said it wants 6%.",
-      "source_ids": [
-        "s17",
-        "s26"
-      ]
-    },
-    {
-      "applies_to": [
-        "investor"
-      ],
-      "text": "Many rental homes have a legal maximum rent based on a points system under the Wet betaalbare huur. About 70 municipalities have used the 'opkoopbescherming', which can bar buying homes in designated areas to let them; the minister announced on 15 October 2026 that it will be limited to areas where liveability is under pressure and to homes up to the municipal average WOZ value, with a draft bill due for consultation at the end of 2026.",
-      "source_ids": [
-        "s34",
-        "s40"
-      ]
-    },
-    {
-      "applies_to": [
-        "everyone"
-      ],
-      "text": "For housebuilding plans, appeal procedures have been shortened since 1 July 2026: the administrative court rules within 6 months and permit cases go to one court instead of two. This applies to residents objecting to a building plan as well as to those waiting for the homes.",
-      "source_ids": [
-        "s27"
-      ]
+     "text_en": "This housing crisis is not a natural phenomenon, but the result of political choices.",
+     "text_nl": "Deze wooncrisis is geen natuurverschijnsel, maar het gevolg van politieke keuzes.",
+     "speaker": "Sandra Beckerman (SP website)",
+     "date": "2026",
+     "source_id": "s48"
     }
-  ],
-  "search_terms_nl": [
-    "woningnood",
-    "woningtekort",
-    "woningbouw",
-    "volkshuisvesting",
-    "hypotheekrenteaftrek",
-    "wet betaalbare huur",
-    "middenhuur",
-    "huurverhoging",
-    "sociale huur",
-    "statushouders voorrang",
-    "wet versterking regie volkshuisvesting",
-    "overdrachtsbelasting",
-    "woningcorporaties",
-    "opkoopbescherming",
-    "straatje erbij"
-  ],
-  "sources": [
+   ],
+   "source_ids": [
+    "s48",
+    "s22",
+    "s35",
+    "s28"
+   ]
+  },
+  {
+   "party": "PvdD",
+   "position": "According to NOS, the PvdD's 2025 manifesto wants to end the mortgage interest deduction for homes above the NHG purchase limit. In the Senate the PvdD voted against the Wet versterking regie volkshuisvesting and the novelle. The party's own housing page could not be opened for this file.",
+   "salience": "medium",
+   "salience_basis": "Addressed in the 2025 manifesto according to NOS; no PvdD housing motions were found in the sources consulted.",
+   "quotes": [],
+   "source_ids": [
+    "s22",
+    "s28"
+   ]
+  },
+  {
+   "party": "SGP",
+   "position": "According to NOS, the SGP does not want to abolish the mortgage interest deduction but 'is not opposed to a revision'. In the Senate the SGP voted for the Wet versterking regie volkshuisvesting. No further SGP housing text was verified for this file.",
+   "salience": "medium",
+   "salience_basis": "Addressed in the 2025 manifesto according to NOS; no SGP housing motions were found in the sources consulted.",
+   "quotes": [],
+   "source_ids": [
+    "s22",
+    "s28"
+   ]
+  },
+  {
+   "party": "BBB",
+   "position": "BBB's 2025 manifesto says the mortgage interest deduction should not be limited further, according to NOS. BBB supplied the housing minister, Keijzer, in the previous cabinet; she introduced the Wet versterking regie volkshuisvesting and the bill to end priority for status holders, and proposed loosening the Wet betaalbare huur. In the Senate BBB voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "medium",
+   "salience_basis": "Addressed in the 2025 manifesto according to NOS; the party held the housing ministry in the previous cabinet.",
+   "quotes": [
     {
-      "id": "s1",
-      "title": "Prijzen koopwoningen 2,9 procent hoger in oktober, minder woningen verkocht",
-      "publisher": "CBS",
-      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/48/prijzen-koopwoningen-2-9-procent-hoger-in-oktober-minder-woningen-verkocht",
-      "date": "2026-11-23"
-    },
-    {
-      "id": "s2",
-      "title": "Sterkste toename prijzen bestaande koopwoningen in Oost- en Noord-Nederland",
-      "publisher": "CBS",
-      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/46/sterkste-toename-prijzen-bestaande-koopwoningen-in-oost-en-noord-nederland",
-      "date": "2026-11-11"
-    },
-    {
-      "id": "s3",
-      "title": "Woningkopers krijgen meer keuze en ruimte om te onderhandelen (NVM-kwartaalcijfers Q3 2026)",
-      "publisher": "De Hypotheker",
-      "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/woningkopers-krijgen-meer-keuze-en-ruimte-om-te-onderhandelen/",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "s4",
-      "title": "Kamerbrief bij rapporten Primos-prognose 2026, Landelijke Monitor Voortgang Woningbouw en Toelichting op de herijkingsopgave tot en met 2036",
-      "publisher": "Ministerie van Volkshuisvesting en Ruimtelijke Ordening (copy hosted by Omgevingsweb)",
-      "url": "https://omgevingsweb.nl/wp-content/uploads/2026/07/Kamerbrief-bij-rapporten-Primos-prognose-2026-Landelijke-Monitor-Voortgang-Woningbouw-en-Toelichting-op-de-herijkingsopgave-tot-en-met-2036.pdf",
-      "date": "2026-07-01"
-    },
-    {
-      "id": "s5",
-      "title": "Rapport Primos-prognose 2026",
-      "publisher": "ABF Research (copy hosted by Omgevingsweb)",
-      "url": "https://omgevingsweb.nl/wp-content/uploads/2026/07/Rapport-Primos-prognose-2026.pdf",
-      "date": "2026-07-01"
-    },
-    {
-      "id": "s6",
-      "title": "Prognose: 100.000 woningen binnen bereik in 2027",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/01/prognose-100-000-woningen-binnen-bereik-in-2027",
-      "date": "2026-07-01"
-    },
-    {
-      "id": "s7",
-      "title": "Derde jaar op rij minder nieuwe woningen in Nederland",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2600256",
-      "date": "2026-01-30"
-    },
-    {
-      "id": "s8",
-      "title": "Meer vergunde nieuwbouwwoningen in eerste kwartaal",
-      "publisher": "CBS",
-      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/22/meer-vergunde-nieuwbouwwoningen-in-eerste-kwartaal",
-      "date": null
-    },
-    {
-      "id": "s9",
-      "title": "Woninghuur stijgt gemiddeld met 4,4 procent",
-      "publisher": "CBS",
-      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/36/woninghuur-stijgt-gemiddeld-met-4-4-procent",
-      "date": "2026-09-04"
-    },
-    {
-      "id": "s10",
-      "title": "Maximale huurverhoging 2026 in sociale sector 4,1%, middenhuur 6,1% en vrije sector 4,4%",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/onderwerpen/woning-huren/nieuws/2025/12/15/maximale-huurverhoging-2026-in-sociale-sector-41-middenhuur-61-en-vrije-sector-44",
-      "date": "2025-12-15"
-    },
-    {
-      "id": "s11",
-      "title": "Huurverhoging maximaal 4,1% voor sociale huur, 6,1% middenhuur, 4,4% vrije sector",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2594701",
-      "date": "2025-12-15"
-    },
-    {
-      "id": "s12",
-      "title": "Huurbeleid 2027 (veelgestelde vragen)",
-      "publisher": "Aedes",
-      "url": "https://aedes.nl/huurbeleid-en-betaalbaarheid/huurbeleid-2027",
-      "date": "2026-11-17"
-    },
-    {
-      "id": "s13",
-      "title": "Belangrijkste huurontwikkelingen 2e kwartaal 2026",
-      "publisher": "NVM & VGM NL",
-      "url": "https://www.nvm.nl/media/2hsi0enf/20260730-analyse-nvm-vgmnl-huurontwikkelingen-q2-2026-def.pdf",
-      "date": "2026-07-30"
-    },
-    {
-      "id": "s14",
-      "title": "Wat is het maximale bedrag aan hypotheek voor Nationale Hypotheek Garantie (NHG)?",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/huis-kopen/vraag-en-antwoord/huis-kopen/maximaal-bedrag-hypotheek-ngh",
-      "date": null
-    },
-    {
-      "id": "s15",
-      "title": "NHG-grens stijgt in 2027 naar € 500.000",
-      "publisher": "De Hypotheker",
-      "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/nhg-grens-stijgt-in-2027-naar-500000/",
-      "date": "2026-10-13"
-    },
-    {
-      "id": "s16",
-      "title": "Wanneer krijg ik vrijstelling van overdrachtsbelasting?",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/huis-kopen/vraag-en-antwoord/huis-kopen/vrijstelling-overdrachtsbelasting",
-      "date": null
-    },
-    {
-      "id": "s17",
-      "title": "Plan kabinet voor verlagen overdrachtsbelasting voor woning die koper niet zelf bewoont",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/themas/belastingen-uitkeringen-en-toeslagen/belastingplan/plan-kabinet-voor-verlagen-overdrachtsbelasting-voor-woning-die-koper-niet-zelf-bewoont",
-      "date": null
-    },
-    {
-      "id": "s18",
-      "title": "Dit verandert er voor je hypotheek in 2027",
-      "publisher": "Consumentenbond",
-      "url": "https://www.consumentenbond.nl/hypotheek/dit-verandert-er-voor-je-hypotheek-in-2027",
-      "date": "2026-11-02"
-    },
-    {
-      "id": "s19",
-      "title": "Aan de slag. Bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 D66, VVD en CDA",
-      "publisher": "D66, VVD, CDA (published by Eerste Kamer)",
-      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
-      "date": "2026-01-30"
-    },
-    {
-      "id": "s20",
-      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2600274",
-      "date": "2026-01-30"
-    },
-    {
-      "id": "s21",
-      "title": "Hypotheekrenteaftrek splijt coalitie opnieuw, D66 en CDA willen af van verhoging",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2614090",
-      "date": "2026-05-12"
-    },
-    {
-      "id": "s22",
-      "title": "Voors en tegens in campagne over afschaffen hypotheekrenteaftrek",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2581826",
-      "date": "2025-09-09"
-    },
-    {
-      "id": "s23",
-      "title": "Yesilgöz: VVD stapt niet in kabinet dat hypotheekrenteaftrek aanpast",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2581518",
-      "date": "2025-09-07"
-    },
-    {
-      "id": "s24",
-      "title": "Coalitieakkoord: hypotheekrenteaftrek wordt juist verruimd",
-      "publisher": "De Hypotheker",
-      "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/coalitieakkoord-hypotheekrenteaftrek-wordt-juist-verruimd/",
-      "date": "2026-02-23"
-    },
-    {
-      "id": "s25",
-      "title": "Woningbouwmiljarden voor meer, sneller en beter bouwen",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/woningbouwmiljarden-voor-meer-sneller-en-beter-bouwen",
-      "date": "2026-09-15"
-    },
-    {
-      "id": "s26",
-      "title": "Kabinet steekt tot 2035 zeven miljard extra in woningbouw",
-      "publisher": "Binnenlands Bestuur",
-      "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/kabinet-steekt-tot-2035-zeven-miljard-extra-in-woningbouw",
-      "date": "2026-09-15"
-    },
-    {
-      "id": "s27",
-      "title": "Wet versterking regie volkshuisvesting van kracht vanaf 1 juli",
-      "publisher": "Rijksoverheid",
-      "url": "https://rijksoverheid.nl/actueel/nieuws/2026/06/23/wet-versterking-regie-volkshuisvesting-van-kracht-vanaf-1-juli",
-      "date": "2026-06-23"
-    },
-    {
-      "id": "s28",
-      "title": "Senaat steunt versterken regie op volkshuisvesting",
-      "publisher": "Eerste Kamer",
-      "url": "https://www.eerstekamer.nl/nieuws/20260624/senaat_steunt_versterken_regie_op",
-      "date": "2026-06-24"
-    },
-    {
-      "id": "s29",
-      "title": "Tegen wens gemeentes in stemt Kamer voor woningwet die voorrang statushouders verbiedt",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2573598",
-      "date": "2025-07-04"
-    },
-    {
-      "id": "s30",
-      "title": "Raad van State kraakt plan om voorrang statushouders te schrappen, Keijzer zet door",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2583555",
-      "date": "2025-09-22"
-    },
-    {
-      "id": "s31",
-      "title": "Kabinet wil nieuwe wet tegen automatische voorrang statushouder bij huurwoning",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2607083",
-      "date": "2026-03-20"
-    },
-    {
-      "id": "s32",
-      "title": "Nieuw wetsvoorstel en alternatieve huisvesting statushouders",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/20/nieuw-wetsvoorstel-en-alternatieve-huisvesting-statushouders",
-      "date": "2026-03-20"
-    },
-    {
-      "id": "s33",
-      "title": "Hoeveel sociale huurwoningen gaan er nu echt naar statushouders?",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2587767",
-      "date": "2025-10-24"
-    },
-    {
-      "id": "s34",
-      "title": "Aantal huurwoningen neemt af: verkoop huurwoningen nog steeds 'opvallend hoog'",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2580182",
-      "date": "2025-08-28"
-    },
-    {
-      "id": "s35",
-      "title": "Antwoord op vragen van het lid Beckerman over het bericht 'Vertrek van beleggers uit woningbedrijf Vesteda leidt mogelijk tot verkoopgolf van huurwoningen' (Aanhangsel 2025-2026, nr. 1764)",
-      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
-      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1764.pdf",
-      "date": "2026-04-24"
-    },
-    {
-      "id": "s36",
-      "title": "Starters kopen in de vier grote steden twee derde van de huizen",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2565686",
-      "date": "2025-05-01"
-    },
-    {
-      "id": "s37",
-      "title": "Starters kopen inmiddels bijna helft woningen",
-      "publisher": "Binnenlands Bestuur",
-      "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/starters-kopen-inmiddels-bijna-helft-woningen",
-      "date": "2025-10-10"
-    },
-    {
-      "id": "s38",
-      "title": "Rekenkamer: overheidsmiljarden geven woningbouw nauwelijks impuls",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2584609",
-      "date": "2025-09-30"
-    },
-    {
-      "id": "s39",
-      "title": "Kabinet gaat woningcorporaties meer ruimte geven voor bouw middenhuurwoningen",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/08/kabinet-gaat-woningcorporaties-meer-ruimte-geven-voor-bouw-middenhuurwoningen",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "s40",
-      "title": "Opkoopbescherming wordt gericht op leefbaarheid in wijken",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/15/opkoopbescherming-wordt-gericht-op-leefbaarheid-in-wijken",
-      "date": "2026-10-15"
-    },
-    {
-      "id": "s41",
-      "title": "Nota Ruimte: ruimtelijke keuzes voor de toekomst van Nederland",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/nota-ruimte-ruimtelijke-keuzes-voor-de-toekomst-van-nederland",
-      "date": "2026-11-16"
-    },
-    {
-      "id": "s42",
-      "title": "Standpunt: Wonen",
-      "publisher": "D66",
-      "url": "https://d66.nl/standpunten/wonen/",
-      "date": null
-    },
-    {
-      "id": "s43",
-      "title": "Pijler: Wonen en vervoer",
-      "publisher": "VVD",
-      "url": "https://www.vvd.nl/pijlers/wonen-en-vervoer/",
-      "date": null
-    },
-    {
-      "id": "s44",
-      "title": "PVV verkiezingsprogramma 2025",
-      "publisher": "PVV",
-      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
-      "date": "2025"
-    },
-    {
-      "id": "s45",
-      "title": "Standpunt: Wonen en bouwen",
-      "publisher": "JA21",
-      "url": "https://ja21.nl/standenpunten/standpunt/wonen-en-bouwen",
-      "date": null
-    },
-    {
-      "id": "s46",
-      "title": "Standpunt: Wonen",
-      "publisher": "Forum voor Democratie",
-      "url": "https://fvd.nl/standpunten/wonen",
-      "date": null
-    },
-    {
-      "id": "s47",
-      "title": "Standpunt: Wonen",
-      "publisher": "ChristenUnie",
-      "url": "https://www.christenunie.nl/standpunt/wonen",
-      "date": null
-    },
-    {
-      "id": "s48",
-      "title": "De wooncrisis aanpakken",
-      "publisher": "SP",
-      "url": "https://www.sp.nl/standpunten/wonen/de-wooncrisis-aanpakken",
-      "date": null
-    },
-    {
-      "id": "s49",
-      "title": "Tweede Kamer stemt in met novelle bij wet Versterking regie volkshuisvesting",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/24/tweede-kamer-stemt-in-met-novelle-bij-wet-versterking-regie-volkshuisvesting",
-      "date": "2026-03-24"
-    },
-    {
-      "id": "s50",
-      "title": "Prinsjesdag 2026: welvaart opnieuw verdienen",
-      "publisher": "Rijksoverheid",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
-      "date": "2026-09-15"
-    },
-    {
-      "id": "s51",
-      "title": "D66 en CDA presenteren 'uitgestoken hand' aan andere partijen",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2592927",
-      "date": "2025-12-02"
-    },
-    {
-      "id": "s52",
-      "title": "Steeds meer startersleningen afgesloten",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2627548",
-      "date": null
-    },
-    {
-      "id": "s53",
-      "title": "Woningtekort redelijk stabiel gebleven, tekort van een kleine 400.000 woningen",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2574412",
-      "date": "2025-07-10"
-    },
-    {
-      "id": "s54",
-      "title": "Ook CDA wil hypotheekrenteaftrek afbouwen en bepleit 'vrijheidsbijdrage' voor defensie",
-      "publisher": "NOS",
-      "url": "https://nos.nl/l/2579844",
-      "date": "2025-08-25"
+     "text_en": "And if you then look at who this will hit: many people who with difficulty were finally able to buy something.",
+     "text_nl": "En als je dan kijkt wie dit gaat raken: veel mensen die met moeite eindelijk in staat waren om iets te kopen",
+     "speaker": "Keijzer, then housing minister, BBB (as quoted by NOS)",
+     "date": "2025-09-09",
+     "source_id": "s22"
     }
-  ]
+   ],
+   "source_ids": [
+    "s22",
+    "s34",
+    "s30",
+    "s28"
+   ]
+  },
+  {
+   "party": "DENK",
+   "position": "According to NOS, DENK's 2025 manifesto wants to end the mortgage interest deduction 'for rich property owners', meaning homes above 500,000 euros. No further DENK housing text was verified for this file.",
+   "salience": "medium",
+   "salience_basis": "Addressed in the 2025 manifesto according to NOS; no DENK housing motions were found in the sources consulted.",
+   "quotes": [],
+   "source_ids": [
+    "s22"
+   ]
+  },
+  {
+   "party": "Volt",
+   "position": "According to NOS, Volt wants to phase out the mortgage interest deduction 'as soon as possible'. In the Senate Volt voted for the Wet versterking regie volkshuisvesting.",
+   "salience": "medium",
+   "salience_basis": "Addressed in the 2025 manifesto according to NOS.",
+   "quotes": [],
+   "source_ids": [
+    "s22",
+    "s28"
+   ]
+  }
+ ],
+ "impact": [
+  {
+   "applies_to": [
+    "renter_social"
+   ],
+   "text": "The rent of a social rental home may rise by at most 4.1% from 1 July 2026 until 1 July 2027. The maximum for the following period had not been published by 17 November 2026; it is calculated as average inflation over three years plus 0.5 percentage point. The social-rent ceiling rises from 932.93 to 959.71 euros a month on 1 January 2027. The coalition agreement announces a yearly income test to determine whether the rent is still appropriate; this has not yet been turned into law in the sources consulted.",
+   "source_ids": [
+    "s10",
+    "s12",
+    "s19"
+   ]
+  },
+  {
+   "applies_to": [
+    "renter_private"
+   ],
+   "text": "In 2026 the rent may rise by at most 6.1% for regulated mid-rent homes and 4.4% in the free sector; the agreed increase in the contract applies if it is lower. In 2027 new contracts count as regulated mid-rent between 959.71 and 1,263.32 euros a month, depending on the home's points. The cabinet expects several changes to the Wet betaalbare huur to take effect on 1 January 2027; JA21 and FVD propose repealing the law.",
+   "source_ids": [
+    "s10",
+    "s12",
+    "s39",
+    "s45",
+    "s46"
+   ]
+  },
+  {
+   "applies_to": [
+    "owner_mortgage"
+   ],
+   "text": "The coalition agreement leaves the mortgage interest deduction unchanged. Interest is deducted at the second-bracket income-tax rate: 37.56% in 2026 and, according to the Consumentenbond, a provisional maximum of 38.16% for 2027. A House majority asked on 12 May 2026 to reverse that increase; the VVD and the finance minister said nothing will change. NOS reported that from 2031 the first group of owners with mortgages of 30 years or older lose the right to deduct, and that officials were examining options including extending it at a cost of almost 1 billion euros a year.",
+   "source_ids": [
+    "s19",
+    "s24",
+    "s18",
+    "s21"
+   ]
+  },
+  {
+   "applies_to": [
+    "owner_outright"
+   ],
+   "text": "Owners with little or no mortgage debt pay more tax each year because the deduction that offsets the 'eigenwoningforfait' (the notional rental value added to taxable income) is being phased out: according to the Consumentenbond 67.07% of it is still deductible in 2027 and the full amount is taxed from 2041.",
+   "source_ids": [
+    "s18"
+   ]
+  },
+  {
+   "applies_to": [
+    "home_seeker"
+   ],
+   "text": "Buyers aged 18 to 34 who will live in the home pay no transfer tax, once, on a home worth up to 555,000 euros in 2026; the Consumentenbond gives 615,000 euros as the limit for 2027. Other owner-occupier buyers pay 2%. A mortgage with NHG (national mortgage guarantee) is possible up to a purchase price of 470,000 euros in 2026 and 500,000 euros in 2027, for a one-off fee of 0.4% of the loan.",
+   "source_ids": [
+    "s16",
+    "s18",
+    "s14"
+   ]
+  },
+  {
+   "applies_to": [
+    "home_seeker",
+    "income_low"
+   ],
+   "text": "Under the law in force since 1 July 2026, every municipality must adopt an urgency scheme for nationally designated groups of urgent home seekers by 1 January 2028. Municipalities may still give status holders priority in social housing; the cabinet has announced a bill to end this once enough alternative housing exists.",
+   "source_ids": [
+    "s27",
+    "s32"
+   ]
+  },
+  {
+   "applies_to": [
+    "home_seeker",
+    "income_middle"
+   ],
+   "text": "The cabinet's 2027 budget adds 100 million euros to the Nationaal Fonds Betaalbare Koop for first-time buyers and 500 million euros in subsidies for mid-rent homes. NOS reported that over 8% of first mortgages in the first half of 2026 were partly financed with a 'starterslening' (a municipal starter loan), up from 6.4% in 2025.",
+   "source_ids": [
+    "s25",
+    "s52"
+   ]
+  },
+  {
+   "applies_to": [
+    "investor",
+    "second_home"
+   ],
+   "text": "Buying a home you will not live in (to let, as a second home, or for a child) is taxed at 8% transfer tax in 2026. The 2027 Tax Plan lowers this to 7% on 1 January 2027; the House approved it on 13 November 2026 and the Senate still has to vote. Investor organisation IVBN said it wants 6%.",
+   "source_ids": [
+    "s17",
+    "s26"
+   ]
+  },
+  {
+   "applies_to": [
+    "investor"
+   ],
+   "text": "Many rental homes have a legal maximum rent based on a points system under the Wet betaalbare huur. About 70 municipalities have used the 'opkoopbescherming', which can bar buying homes in designated areas to let them; the minister announced on 15 October 2026 that it will be limited to areas where liveability is under pressure and to homes up to the municipal average WOZ value, with a draft bill due for consultation at the end of 2026.",
+   "source_ids": [
+    "s34",
+    "s40"
+   ]
+  },
+  {
+   "applies_to": [
+    "everyone"
+   ],
+   "text": "For housebuilding plans, appeal procedures have been shortened since 1 July 2026: the administrative court rules within 6 months and permit cases go to one court instead of two. This applies to residents objecting to a building plan as well as to those waiting for the homes.",
+   "source_ids": [
+    "s27"
+   ]
+  }
+ ],
+ "search_terms_nl": [
+  "woningnood",
+  "woningtekort",
+  "woningbouw",
+  "volkshuisvesting",
+  "hypotheekrenteaftrek",
+  "wet betaalbare huur",
+  "middenhuur",
+  "huurverhoging",
+  "sociale huur",
+  "statushouders voorrang",
+  "wet versterking regie volkshuisvesting",
+  "overdrachtsbelasting",
+  "woningcorporaties",
+  "opkoopbescherming",
+  "straatje erbij"
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "title": "Prijzen koopwoningen 2,9 procent hoger in oktober, minder woningen verkocht",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/48/prijzen-koopwoningen-2-9-procent-hoger-in-oktober-minder-woningen-verkocht",
+   "date": "2026-11-23"
+  },
+  {
+   "id": "s2",
+   "title": "Sterkste toename prijzen bestaande koopwoningen in Oost- en Noord-Nederland",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/46/sterkste-toename-prijzen-bestaande-koopwoningen-in-oost-en-noord-nederland",
+   "date": "2026-11-11"
+  },
+  {
+   "id": "s3",
+   "title": "Woningkopers krijgen meer keuze en ruimte om te onderhandelen (NVM-kwartaalcijfers Q3 2026)",
+   "publisher": "De Hypotheker",
+   "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/woningkopers-krijgen-meer-keuze-en-ruimte-om-te-onderhandelen/",
+   "date": "2026-10-12"
+  },
+  {
+   "id": "s4",
+   "title": "Kamerbrief bij rapporten Primos-prognose 2026, Landelijke Monitor Voortgang Woningbouw en Toelichting op de herijkingsopgave tot en met 2036",
+   "publisher": "Ministerie van Volkshuisvesting en Ruimtelijke Ordening (copy hosted by Omgevingsweb)",
+   "url": "https://omgevingsweb.nl/wp-content/uploads/2026/07/Kamerbrief-bij-rapporten-Primos-prognose-2026-Landelijke-Monitor-Voortgang-Woningbouw-en-Toelichting-op-de-herijkingsopgave-tot-en-met-2036.pdf",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "s5",
+   "title": "Rapport Primos-prognose 2026",
+   "publisher": "ABF Research (copy hosted by Omgevingsweb)",
+   "url": "https://omgevingsweb.nl/wp-content/uploads/2026/07/Rapport-Primos-prognose-2026.pdf",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "s6",
+   "title": "Prognose: 100.000 woningen binnen bereik in 2027",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/01/prognose-100-000-woningen-binnen-bereik-in-2027",
+   "date": "2026-07-01"
+  },
+  {
+   "id": "s7",
+   "title": "Derde jaar op rij minder nieuwe woningen in Nederland",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2600256",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s8",
+   "title": "Meer vergunde nieuwbouwwoningen in eerste kwartaal",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/22/meer-vergunde-nieuwbouwwoningen-in-eerste-kwartaal",
+   "date": null
+  },
+  {
+   "id": "s9",
+   "title": "Woninghuur stijgt gemiddeld met 4,4 procent",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/36/woninghuur-stijgt-gemiddeld-met-4-4-procent",
+   "date": "2026-09-04"
+  },
+  {
+   "id": "s10",
+   "title": "Maximale huurverhoging 2026 in sociale sector 4,1%, middenhuur 6,1% en vrije sector 4,4%",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/onderwerpen/woning-huren/nieuws/2025/12/15/maximale-huurverhoging-2026-in-sociale-sector-41-middenhuur-61-en-vrije-sector-44",
+   "date": "2025-12-15"
+  },
+  {
+   "id": "s11",
+   "title": "Huurverhoging maximaal 4,1% voor sociale huur, 6,1% middenhuur, 4,4% vrije sector",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2594701",
+   "date": "2025-12-15"
+  },
+  {
+   "id": "s12",
+   "title": "Huurbeleid 2027 (veelgestelde vragen)",
+   "publisher": "Aedes",
+   "url": "https://aedes.nl/huurbeleid-en-betaalbaarheid/huurbeleid-2027",
+   "date": "2026-11-17"
+  },
+  {
+   "id": "s13",
+   "title": "Belangrijkste huurontwikkelingen 2e kwartaal 2026",
+   "publisher": "NVM & VGM NL",
+   "url": "https://www.nvm.nl/media/2hsi0enf/20260730-analyse-nvm-vgmnl-huurontwikkelingen-q2-2026-def.pdf",
+   "date": "2026-07-30"
+  },
+  {
+   "id": "s14",
+   "title": "Wat is het maximale bedrag aan hypotheek voor Nationale Hypotheek Garantie (NHG)?",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/huis-kopen/vraag-en-antwoord/huis-kopen/maximaal-bedrag-hypotheek-ngh",
+   "date": null
+  },
+  {
+   "id": "s15",
+   "title": "NHG-grens stijgt in 2027 naar € 500.000",
+   "publisher": "De Hypotheker",
+   "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/nhg-grens-stijgt-in-2027-naar-500000/",
+   "date": "2026-10-13"
+  },
+  {
+   "id": "s16",
+   "title": "Wanneer krijg ik vrijstelling van overdrachtsbelasting?",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/huis-kopen/vraag-en-antwoord/huis-kopen/vrijstelling-overdrachtsbelasting",
+   "date": null
+  },
+  {
+   "id": "s17",
+   "title": "Plan kabinet voor verlagen overdrachtsbelasting voor woning die koper niet zelf bewoont",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/themas/belastingen-uitkeringen-en-toeslagen/belastingplan/plan-kabinet-voor-verlagen-overdrachtsbelasting-voor-woning-die-koper-niet-zelf-bewoont",
+   "date": null
+  },
+  {
+   "id": "s18",
+   "title": "Dit verandert er voor je hypotheek in 2027",
+   "publisher": "Consumentenbond",
+   "url": "https://www.consumentenbond.nl/hypotheek/dit-verandert-er-voor-je-hypotheek-in-2027",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "s19",
+   "title": "Aan de slag. Bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 D66, VVD en CDA",
+   "publisher": "D66, VVD, CDA (published by Eerste Kamer)",
+   "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s20",
+   "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2600274",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s21",
+   "title": "Hypotheekrenteaftrek splijt coalitie opnieuw, D66 en CDA willen af van verhoging",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2614090",
+   "date": "2026-05-12"
+  },
+  {
+   "id": "s22",
+   "title": "Voors en tegens in campagne over afschaffen hypotheekrenteaftrek",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2581826",
+   "date": "2025-09-09"
+  },
+  {
+   "id": "s23",
+   "title": "Yesilgöz: VVD stapt niet in kabinet dat hypotheekrenteaftrek aanpast",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2581518",
+   "date": "2025-09-07"
+  },
+  {
+   "id": "s24",
+   "title": "Coalitieakkoord: hypotheekrenteaftrek wordt juist verruimd",
+   "publisher": "De Hypotheker",
+   "url": "https://www.hypotheker.nl/actueel/nieuwsberichten/2026/coalitieakkoord-hypotheekrenteaftrek-wordt-juist-verruimd/",
+   "date": "2026-02-23"
+  },
+  {
+   "id": "s25",
+   "title": "Woningbouwmiljarden voor meer, sneller en beter bouwen",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/woningbouwmiljarden-voor-meer-sneller-en-beter-bouwen",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "s26",
+   "title": "Kabinet steekt tot 2035 zeven miljard extra in woningbouw",
+   "publisher": "Binnenlands Bestuur",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/kabinet-steekt-tot-2035-zeven-miljard-extra-in-woningbouw",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "s27",
+   "title": "Wet versterking regie volkshuisvesting van kracht vanaf 1 juli",
+   "publisher": "Rijksoverheid",
+   "url": "https://rijksoverheid.nl/actueel/nieuws/2026/06/23/wet-versterking-regie-volkshuisvesting-van-kracht-vanaf-1-juli",
+   "date": "2026-06-23"
+  },
+  {
+   "id": "s28",
+   "title": "Senaat steunt versterken regie op volkshuisvesting",
+   "publisher": "Eerste Kamer",
+   "url": "https://www.eerstekamer.nl/nieuws/20260624/senaat_steunt_versterken_regie_op",
+   "date": "2026-06-24"
+  },
+  {
+   "id": "s29",
+   "title": "Tegen wens gemeentes in stemt Kamer voor woningwet die voorrang statushouders verbiedt",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2573598",
+   "date": "2025-07-04"
+  },
+  {
+   "id": "s30",
+   "title": "Raad van State kraakt plan om voorrang statushouders te schrappen, Keijzer zet door",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2583555",
+   "date": "2025-09-22"
+  },
+  {
+   "id": "s31",
+   "title": "Kabinet wil nieuwe wet tegen automatische voorrang statushouder bij huurwoning",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2607083",
+   "date": "2026-03-20"
+  },
+  {
+   "id": "s32",
+   "title": "Nieuw wetsvoorstel en alternatieve huisvesting statushouders",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/20/nieuw-wetsvoorstel-en-alternatieve-huisvesting-statushouders",
+   "date": "2026-03-20"
+  },
+  {
+   "id": "s33",
+   "title": "Hoeveel sociale huurwoningen gaan er nu echt naar statushouders?",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2587767",
+   "date": "2025-10-24"
+  },
+  {
+   "id": "s34",
+   "title": "Aantal huurwoningen neemt af: verkoop huurwoningen nog steeds 'opvallend hoog'",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2580182",
+   "date": "2025-08-28"
+  },
+  {
+   "id": "s35",
+   "title": "Antwoord op vragen van het lid Beckerman over het bericht 'Vertrek van beleggers uit woningbedrijf Vesteda leidt mogelijk tot verkoopgolf van huurwoningen' (Aanhangsel 2025-2026, nr. 1764)",
+   "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+   "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1764.pdf",
+   "date": "2026-04-24"
+  },
+  {
+   "id": "s36",
+   "title": "Starters kopen in de vier grote steden twee derde van de huizen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2565686",
+   "date": "2025-05-01"
+  },
+  {
+   "id": "s37",
+   "title": "Starters kopen inmiddels bijna helft woningen",
+   "publisher": "Binnenlands Bestuur",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/starters-kopen-inmiddels-bijna-helft-woningen",
+   "date": "2025-10-10"
+  },
+  {
+   "id": "s38",
+   "title": "Rekenkamer: overheidsmiljarden geven woningbouw nauwelijks impuls",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2584609",
+   "date": "2025-09-30"
+  },
+  {
+   "id": "s39",
+   "title": "Kabinet gaat woningcorporaties meer ruimte geven voor bouw middenhuurwoningen",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/08/kabinet-gaat-woningcorporaties-meer-ruimte-geven-voor-bouw-middenhuurwoningen",
+   "date": "2026-07-08"
+  },
+  {
+   "id": "s40",
+   "title": "Opkoopbescherming wordt gericht op leefbaarheid in wijken",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/15/opkoopbescherming-wordt-gericht-op-leefbaarheid-in-wijken",
+   "date": "2026-10-15"
+  },
+  {
+   "id": "s41",
+   "title": "Nota Ruimte: ruimtelijke keuzes voor de toekomst van Nederland",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/16/nota-ruimte-ruimtelijke-keuzes-voor-de-toekomst-van-nederland",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "s42",
+   "title": "Standpunt: Wonen",
+   "publisher": "D66",
+   "url": "https://d66.nl/standpunten/wonen/",
+   "date": null
+  },
+  {
+   "id": "s43",
+   "title": "Pijler: Wonen en vervoer",
+   "publisher": "VVD",
+   "url": "https://www.vvd.nl/pijlers/wonen-en-vervoer/",
+   "date": null
+  },
+  {
+   "id": "s44",
+   "title": "PVV verkiezingsprogramma 2025",
+   "publisher": "PVV",
+   "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "s45",
+   "title": "Standpunt: Wonen en bouwen",
+   "publisher": "JA21",
+   "url": "https://ja21.nl/standenpunten/standpunt/wonen-en-bouwen",
+   "date": null
+  },
+  {
+   "id": "s46",
+   "title": "Standpunt: Wonen",
+   "publisher": "Forum voor Democratie",
+   "url": "https://fvd.nl/standpunten/wonen",
+   "date": null
+  },
+  {
+   "id": "s47",
+   "title": "Standpunt: Wonen",
+   "publisher": "ChristenUnie",
+   "url": "https://www.christenunie.nl/standpunt/wonen",
+   "date": null
+  },
+  {
+   "id": "s48",
+   "title": "De wooncrisis aanpakken",
+   "publisher": "SP",
+   "url": "https://www.sp.nl/standpunten/wonen/de-wooncrisis-aanpakken",
+   "date": null
+  },
+  {
+   "id": "s49",
+   "title": "Tweede Kamer stemt in met novelle bij wet Versterking regie volkshuisvesting",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/24/tweede-kamer-stemt-in-met-novelle-bij-wet-versterking-regie-volkshuisvesting",
+   "date": "2026-03-24"
+  },
+  {
+   "id": "s50",
+   "title": "Prinsjesdag 2026: welvaart opnieuw verdienen",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-welvaart-opnieuw-verdienen",
+   "date": "2026-09-15"
+  },
+  {
+   "id": "s51",
+   "title": "D66 en CDA presenteren 'uitgestoken hand' aan andere partijen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2592927",
+   "date": "2025-12-02"
+  },
+  {
+   "id": "s52",
+   "title": "Steeds meer startersleningen afgesloten",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2627548",
+   "date": null
+  },
+  {
+   "id": "s53",
+   "title": "Woningtekort redelijk stabiel gebleven, tekort van een kleine 400.000 woningen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2574412",
+   "date": "2025-07-10"
+  },
+  {
+   "id": "s54",
+   "title": "Ook CDA wil hypotheekrenteaftrek afbouwen en bepleit 'vrijheidsbijdrage' voor defensie",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2579844",
+   "date": "2025-08-25"
+  }
+ ]
 }

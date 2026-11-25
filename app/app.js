@@ -92,7 +92,7 @@ const allVotes = async () => {
 const seatBar = (items, total, linkFn) => `<div class="seatbar">${items.map((p) =>
   `<a href="${linkFn ? linkFn(p) : '#/parties'}" style="width:${(100 * p.seats) / total}%;background:${color(p.abbr)}" title="${esc(p.abbr)}: ${p.seats} seats">${p.seats >= total / 19 ? esc(p.abbr) : ''}</a>`).join('')}</div>`;
 const SAL = { core: 4, high: 3, medium: 2, low: 1 };
-const salience = (s) => `<span class="salience" title="Importance to this party: ${esc(s)}">${[1, 2, 3, 4].map((i) => `<i class="${i <= (SAL[s] || 0) ? 'on' : ''}"></i>`).join('')}</span> <span class="small muted">${esc(s || '')}</span>`;
+const salience = (s) => `<span class="salience" title="Importance to this party: ${esc(s)}">${[1, 2, 3, 4].map((i) => `<i class="${i <= (SAL[s] || 0) ? 'on' : ''}"></i>`).join('')}</span> <span class="small muted">${esc(s || 'no position found')}</span>`;
 const initials = (n) => n.replace(/\b(van|de|der|den|el|ten|ter|prof\.|dr\.|mr\.|drs\.|ir\.|ing\.)\s*/gi, '').split(/\s+/).map((w) => w[0]).filter((c) => /\p{L}/u.test(c || '')).slice(0, 2).join('').toUpperCase();
 const avatar = (name, party, photo) => photo ? `<img class="avatar" loading="lazy" src="${esc(photo)}" alt="">` : `<span class="avatar" style="background:${color(party)}">${esc(initials(name))}</span>`;
 const personCard = (href, name, party, sub, photo) => `<a class="card person" href="${href}">${avatar(name, party, photo)}<span><span class="nm">${esc(name)}</span><br><span class="sub">${partyTag(party, false)}${sub ? ' · ' + esc(sub) : ''}</span></span></a>`;
