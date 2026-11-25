@@ -1,0 +1,209 @@
+{
+  "abbr": "VVD",
+  "slug": "vvd",
+  "name_nl": "Volkspartij voor Vrijheid en Democratie",
+  "name_en": "People's Party for Freedom and Democracy",
+  "founded": "1948",
+  "updated": "2026-11-25",
+  "seats_house": 22,
+  "seats_senate": 9,
+  "seats_house_2025_election": 22,
+  "seats_house_2023_election": 24,
+  "in_coalition": true,
+  "party_leader": "Dilan Yeşilgöz-Zegerius",
+  "house_group_leader": "Ruben Brekelmans",
+  "senate_group_leader": "Tanja Klip-Martin",
+  "website": "https://www.vvd.nl",
+  "described_as": [
+    {
+      "text": "In its 2025 manifesto the VVD names its liberal values as \"Vrijheid, verantwoordelijkheid, verdraagzaamheid, gelijkwaardigheid en sociale rechtvaardigheid\" (\"freedom, responsibility, tolerance, equality and social justice\") and calls them non-negotiable.",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "The reference site Parlement.com describes the VVD as a right-wing liberal party that takes more progressive positions on ethical issues, and whose statement of principles treats individual freedom as very important while holding that government must guarantee citizens' safety.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "The Documentation Centre for Dutch Political Parties (DNPP, University of Groningen) describes it as a liberal party and a traditional party of government.",
+      "source_ids": ["s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1948",
+      "event": "Founded on 24 January 1948 as a merger of the Partij van de Vrijheid and the Comité-Oud; Pieter Oud became the first party chair and group leader. The party took part in the Drees I and II cabinets (1948-1952).",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "1971",
+      "event": "Hans Wiegel became party leader; under him the party broadened its electorate in the 1970s.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "1994",
+      "event": "Won 31 seats under Frits Bolkestein and formed the 'purple' coalition with PvdA and D66 (Kok I cabinet); the party stayed in government until 2007.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2010",
+      "event": "Became the largest House group for the first time with 31 seats. Mark Rutte became the first liberal prime minister since 1918, leading a minority cabinet with CDA that was supported from outside by the PVV. The VVD has been a governing party continuously since 14 October 2010.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2012",
+      "event": "Won a record 41 seats and formed the Rutte II cabinet with the PvdA. Rutte III (2017, 33 seats) and Rutte IV (2021, 34 seats) followed.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023",
+      "event": "After the fall of the Rutte IV cabinet over asylum, Dilan Yeşilgöz-Zegerius succeeded Rutte as political leader on 14 August 2023. The party won 24 seats (down 10) and in 2024 became a junior partner in the Schoof cabinet, in which the PVV was the largest party.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "Won 22 seats (14.7% of the vote) in the House election, 2 fewer than in 2023.",
+      "source_ids": ["s2", "s4"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Sterker uit de storm (\"Stronger out of the storm\") - Keuzes voor een nieuwe tijd met vrijheid, veiligheid en groei",
+    "url": "https://dnpprepo.ub.rug.nl/88735/1/VVD%20Verkiezingsprogramma%20TK%202025.pdf",
+    "key_points": [
+      {
+        "topic": "Five 'missions'",
+        "text": "The manifesto is organised around five missions: 'radical economic growth'; making work pay more and 'a home for everyone who works'; 'the biggest investment ever in our security'; 'putting things in order for a free and safe Netherlands'; and 'a stronger Netherlands through a small government'.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Build thirty new large-scale residential districts under central-government direction, make it easier for municipalities to build at the edges of towns and villages, and build more affordable rental homes.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Home ownership",
+        "text": "Keep the hypotheekrenteaftrek (mortgage interest tax relief) in place and cap the annual rise in municipal property tax (onroerendezaakbelasting).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes on savings and wealth",
+        "text": "No increases in tax on savings (box 3, the tax on savings and investments) or on business ownership (box 2), and no higher inheritance and gift tax. Introduce as soon as possible the law under which box 3 tax is paid only on actual returns.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Work and benefits",
+        "text": "Tighten the Participation Act and allowances policy: people on bijstand (social assistance) who do not speak sufficient Dutch and make no effort to learn it have their benefit cut substantially. People leaving social assistance for full-time work can, where needed, claim a top-up to their previous income level for up to six months.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Asylum",
+        "text": "Change the system so that refugees can only come to the Netherlands via resettlement, with an annual number based on capacity that 'can also be zero'. Pending that change: abolish the permanent asylum permit, shorten temporary permits to three years, introduce a two-status system and make illegal residence a criminal offence. The party also wants a migration law obliging the cabinet to act when inflows of asylum and/or labour migrants are too high.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence",
+        "text": "Invest 3.5% (of GDP) in defence and lay down the NATO norm of 3.5% in law as a target figure, alongside 'undiminished' military and financial support for Ukraine.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Development aid",
+        "text": "Spend less on development cooperation and more on defence, while continuing to fund emergency aid, the UN and reception of refugees in their region of origin.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Energy",
+        "text": "Speed up construction of four large nuclear power plants, set up a state participation for that purpose, extend the life of the Borssele plant and aim for a small nuclear reactor before 2035.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nitrogen",
+        "text": "Reduce nitrogen emissions through generic measures steering on emissions, with all sectors contributing proportionally, and replace the current legal targets based on critical deposition values (KDW).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Size of government",
+        "text": "'Fundamentally shrink' government: curb the number of civil servants and reduce regulatory pressure. The manifesto states that the number of civil servants grew by almost 70,000 in five years.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Crime",
+        "text": "Minimum sentences for repeat offenders, and a ban on community-service sentences for violence against emergency workers and for hate crimes.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2025-11-14",
+      "event": "During the cabinet formation, informateur Hans Wijers (D66) withdrew one day after his appointment, after a report leaked about private remarks concerning VVD leader Dilan Yeşilgöz.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-01-09",
+      "event": "D66, VVD and CDA decided to form a minority cabinet with 66 of 150 House seats. According to Parlement.com, the VVD had ruled out cooperation with GroenLinks-PvdA, which made a majority centre cabinet unworkable.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "The three parties presented the coalition agreement 'Aan de slag' ('Getting to work').",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "The Jetten cabinet was sworn in. The VVD supplies 6 ministers and 3 state secretaries. Party leader Dilan Yeşilgöz became Minister of Defence and deputy prime minister; Ruben Brekelmans succeeded her as leader of the House group on the same day.",
+      "source_ids": ["s4", "s6", "s7"]
+    },
+    {
+      "date": "2026-06-13",
+      "event": "At the VVD party congress, Yeşilgöz said that trade unions and the left are hindering the economy, NOS reported.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-11-11",
+      "event": "D66 and CDA reached a deal with opposition parties PRO and Volt, without the VVD, on an amendment to the 2027 Tax Plan shifting about 1 billion euros in taxation from labour to wealth. Yeşilgöz said a 'fundamental reset' would be needed if D66 and CDA supported it.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "The House adopted the amendment, which among other things splits box 3 (the tax on savings and investments) into two rates. The VVD voted against the cabinet's Tax Plan, which passed by 76 votes to 74. The VVD said the amendment breached the coalition agreement. Group leader Ruben Brekelmans said: \"I'm not going to make a decision two minutes after the votes.\"",
+      "source_ids": ["s6", "s9"]
+    },
+    {
+      "date": "2026-11-13",
+      "event": "After crisis talks, Yeşilgöz said: \"Het minderheidskabinet, zoals het er nu is, is een mislukt experiment\" (\"The minority cabinet, as it is now, is a failed experiment\") and \"Op de huidige manier kunnen wij niet doorgaan\" (\"We cannot continue in the current way\"). She asked for a substantive correction for entrepreneurs and a political one, saying coalition partners D66 and CDA look too often to the left for support. The VVD stayed in the cabinet while talks continued.",
+      "source_ids": ["s10", "s11"]
+    },
+    {
+      "date": "2026-11-17",
+      "event": "After further talks the Government Information Service reported 'restoration of trust' (16 November) and Prime Minister Jetten wrote to the House that the coalition continues in the same composition. Sybrand van Haersma Buma, vice-president of the Council of State, was asked to report within a month on agreements about financial frameworks and procedural rules.",
+      "source_ids": ["s6"]
+    }
+  ],
+  "key_people": [
+    {"name": "Dilan Yeşilgöz-Zegerius", "role": "Political leader since 14 August 2023; Minister of Defence and deputy prime minister since 23 February 2026"},
+    {"name": "Ruben Brekelmans", "role": "Leader of the House group since 23 February 2026"},
+    {"name": "Tanja Klip-Martin", "role": "Leader of the Senate group since 1 January 2025"},
+    {"name": "Ton van Nimwegen", "role": "Party chair"},
+    {"name": "Eelco Heinen", "role": "Minister of Finance"},
+    {"name": "David van Weel", "role": "Minister of Justice and Security"},
+    {"name": "Sophie Hermans", "role": "Minister of Health, Welfare and Sport"},
+    {"name": "Vincent Karremans", "role": "Minister of Infrastructure and Water Management"},
+    {"name": "Thierry Aartsen", "role": "Minister for Work and Participation"},
+    {"name": "Malik Azmani", "role": "Leader of the VVD delegation in the European Parliament"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Sterker uit de storm. Verkiezingsprogramma VVD 2025", "publisher": "VVD, via DNPP repository (University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88735/1/VVD%20Verkiezingsprogramma%20TK%202025.pdf", "date": "2025"},
+    {"id": "s2", "title": "Volkspartij voor Vrijheid en Democratie (VVD)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/vvd-volkspartij-voor-vrijheid-en-democratie", "date": null},
+    {"id": "s3", "title": "VVD", "publisher": "DNPP, University of Groningen", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/vvd", "date": "2026-03-06"},
+    {"id": "s4", "title": "Tweede Kamerfractie VVD", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-vvd", "date": null},
+    {"id": "s5", "title": "Kabinetsformatie 2025-2026", "publisher": "Parlement.com", "url": "https://parlement.com/kabinetsformatie-2025-2026", "date": null},
+    {"id": "s6", "title": "Kabinet-Jetten (2026-heden)", "publisher": "Parlement.com", "url": "https://www.parlement.com/kabinet-jetten-2026-heden", "date": null},
+    {"id": "s7", "title": "Kabinet-Jetten beëdigd", "publisher": "Rijksoverheid", "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/23/kabinet-jetten-beedigd", "date": "2026-02-23"},
+    {"id": "s8", "title": "Leden PvdA en GL stemmen in met fusie; Klaver hoopt de grootste te worden", "publisher": "NOS", "url": "https://nos.nl/l/2618402", "date": "2026-06-13"},
+    {"id": "s9", "title": "Coalition in crisis as tax plan passes without VVD support", "publisher": "DutchNews", "url": "https://www.dutchnews.nl/2026/11/coalition-in-crisis-as-tax-plan-passes-without-vvd-support/", "date": "2026-11-12"},
+    {"id": "s10", "title": "Yeşilgöz noemt minderheidskabinet 'mislukt experiment'", "publisher": "Hart van Nederland (ANP)", "url": "https://www.hartvannederland.nl/politiek/beleid/artikelen/yesilgoz-minderheidskabinet-mislukt-experiment", "date": "2026-11-13"},
+    {"id": "s11", "title": "\"Dit kabinet is mislukt experiment\": regering valt (nog) niet in Nederland, maar VVD blijft kritisch", "publisher": "VRT NWS", "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/nederland-regering-crisis-rob-jetten-d66-cda-vvd/", "date": "2026-11-13"},
+    {"id": "s12", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s13", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s14", "title": "VVD-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/volkspartij_voor_vrijheid_en", "date": null}
+  ]
+}

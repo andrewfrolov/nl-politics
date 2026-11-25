@@ -1,0 +1,215 @@
+{
+  "abbr": "D66",
+  "slug": "d66",
+  "name_nl": "Democraten 66",
+  "name_en": "Democrats 66",
+  "founded": "1966",
+  "updated": "2026-11-25",
+  "seats_house": 26,
+  "seats_senate": 7,
+  "seats_house_2025_election": 26,
+  "seats_house_2023_election": 9,
+  "in_coalition": true,
+  "party_leader": "Rob Jetten",
+  "house_group_leader": "Jan Paternotte",
+  "senate_group_leader": "Paul van Meenen",
+  "website": "https://d66.nl",
+  "described_as": [
+    {
+      "text": "In its 2025 election manifesto the party describes itself with the words \"Wij zijn sociaal-liberalen\" (\"We are social liberals\") and says it was founded \"to strengthen the democratic rule of law and to break the status quo\".",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "The reference site Parlement.com (Montesquieu Instituut) describes D66 as a reform-minded social-liberal party with a strong focus on democratic reform, such as an elected mayor and a binding referendum.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "The Documentation Centre for Dutch Political Parties (DNPP, University of Groningen) writes that the party's main early goal was reform of the political system, including a directly elected prime minister and a district-based electoral system, and that these reforms were not achieved.",
+      "source_ids": ["s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1966",
+      "event": "Founded on 14 October 1966 by a group of 44 people; Hans van Mierlo, a former journalist, became its first leader. The party was written D'66 until 1985.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "1967",
+      "event": "Won 7 seats in its first House of Representatives election.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "1994",
+      "event": "Won 24 seats and entered the first 'purple' cabinet (with PvdA and VVD), the first cabinet without Christian Democrats in decades; the purple coalition governed until 2002.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2006",
+      "event": "Withdrew its support from the Balkenende II cabinet (CDA, VVD, D66), which it had joined in 2003; the party's seat total halved in the November 2006 election.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2017",
+      "event": "Joined the Rutte III cabinet after gaining 7 seats (19 in total) under Alexander Pechtold. D66 remained a governing party from October 2017 until 2 July 2024.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2021",
+      "event": "Won 24 seats under Sigrid Kaag and joined the Rutte IV cabinet.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2023",
+      "event": "Fell from 24 to 9 seats in the House election under new leader Rob Jetten and went into opposition.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "Won 26 seats (17.33% of the vote) in the House election, becoming the largest party for the first time.",
+      "source_ids": ["s2", "s3"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Het kan wél (\"It can be done\") - Verkiezingsprogramma 2025-2030",
+    "url": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf",
+    "key_points": [
+      {
+        "topic": "Five 'breakthroughs'",
+        "text": "The manifesto is built around five headline pledges: ten new cities, tailored education for everyone, affordable green energy produced domestically, a 'new, smart economy' and 'the healthiest generation ever'.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Build ten new cities, mainly next to existing cities or towns and at large public-transport hubs, including facilities such as GPs, schools and parks. The foreword names new land between Amsterdam and Flevoland as the first of the ten.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Home ownership and tax",
+        "text": "Reduce the difference in tax treatment between renters and home owners by phasing out the hypotheekrenteaftrek (mortgage interest tax relief), lowering VAT on new-build homes and tightening the eigenwoningforfait (the notional rental value taxed on owner-occupied homes) for the most expensive homes. People who recently took out a mortgage are to be spared, and the proceeds go entirely to lower income tax.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Wealth and inheritance tax",
+        "text": "Make inheritance and gift tax 'more modern and more progressive' and tax large fortunes more, including through a miljonairsbelasting (millionaires' tax).",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Childcare and benefits",
+        "text": "Make childcare almost free in the short term and completely free in the future, with access to five days of childcare a week for every child. Overhaul the toeslagen (income-dependent allowances) system and replace it with an individual basic amount; merge the child budget and child benefit.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Education",
+        "text": "Raise the basisbeurs (basic student grant) by 166 euros a month; vocational (mbo) students get the same supplementary grant as students in higher education.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Climate and energy",
+        "text": "55% lower greenhouse-gas emissions in 2030, 90% lower in 2040 and climate neutrality in 2050, laid down in the Climate Act, while 'continuing to strive' for climate neutrality in 2040. Offshore wind is to be the basis of clean energy; the party says it excludes no technology and remains open to nuclear energy 'provided it is efficient'.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nitrogen and agriculture",
+        "text": "Stay committed to halving nitrogen emissions in 2030 and to meeting the EU Water Framework Directive water-quality targets in 2027.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Keep the eigen risico (the compulsory health-insurance excess) at 385 euros rather than halving it across the board, cap the amount paid per treatment at 150 euros, and give people with high care costs, such as the chronically ill, a much lower excess.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Asylum",
+        "text": "Support the introduction of the EU Migration Pact in June 2026, keep the Spreidingswet (the law distributing asylum reception across municipalities), speed up procedures, and make it possible for refugees to file asylum applications outside Europe and travel safely to Europe if their application is promising.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Labour migration",
+        "text": "Less low-paid labour migration and more targeted labour migration for sectors that need workers, with strict conditions for employers, who can lose their permit if they do not provide decent housing and working conditions.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence and Europe",
+        "text": "Meet the NATO agreement to spend at least 3.5% of GDP on defence and at least 1.5% on critical infrastructure and resilience; in the long term the party aims for a European armed force.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2025-12-10",
+      "event": "D66 MP Joost Sneller submitted an initiative bill that would require parties contesting House or European elections to admit members with a say over the manifesto and candidate list; the proposal was sent to the Council of State for advice. NOS reported that it would currently affect the PVV, whose only member is Geert Wilders.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-01-09",
+      "event": "After a formation in which D66 and CDA first agreed a joint document on five topics, D66, VVD and CDA decided to form a minority cabinet relying on 66 of 150 House seats. According to Parlement.com, the VVD had ruled out cooperation with GroenLinks-PvdA and D66 did not want JA21 in the coalition.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA presented their coalition agreement, titled 'Aan de slag' ('Getting to work').",
+      "source_ids": ["s6", "s7"]
+    },
+    {
+      "date": "2026-02-10",
+      "event": "Jan Paternotte became leader of the D66 House group, succeeding Rob Jetten, who had been appointed formateur (the person charged with forming the cabinet) by the House on 3 February.",
+      "source_ids": ["s4", "s6"]
+    },
+    {
+      "date": "2026-02-17",
+      "event": "Nathalie van Berkel (D66) withdrew as intended State Secretary of Finance; Eelco Eerenberg (D66) was named in her place two days later.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "The Jetten cabinet was sworn in, with Rob Jetten as the first D66 prime minister. D66 supplies 7 of the 18 ministers and 3 of the 10 state secretaries. Parlement.com calls it the first real minority cabinet since 1945.",
+      "source_ids": ["s8", "s9"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "D66 and CDA, without coalition partner VVD, backed an amendment by PRO and Volt to the 2027 Tax Plan that shifts about 1 billion euros in taxation from labour to wealth; the cabinet had advised against the amendment. The Tax Plan passed the House by 76 votes to 74, with the VVD voting against.",
+      "source_ids": ["s8", "s10"]
+    },
+    {
+      "date": "2026-11-13",
+      "event": "After crisis talks between the three coalition parties, Prime Minister Jetten said: \"Er zijn de afgelopen periode goede dingen gebeurd, maar er zijn ook dingen fout gegaan\" (\"Good things have happened recently, but things have also gone wrong\"). VVD leader Dilan Yeşilgöz called the minority cabinet a 'failed experiment'.",
+      "source_ids": ["s11"]
+    },
+    {
+      "date": "2026-11-17",
+      "event": "Jetten informed the House by letter that the coalition continues in the same composition. Sybrand van Haersma Buma, vice-president of the Council of State, was asked to report within a month on structural agreements about financial frameworks and procedural rules.",
+      "source_ids": ["s8"]
+    }
+  ],
+  "key_people": [
+    {"name": "Rob Jetten", "role": "Party leader; Prime Minister since 23 February 2026"},
+    {"name": "Jan Paternotte", "role": "Leader of the House group since 10 February 2026"},
+    {"name": "Paul van Meenen", "role": "Leader of the Senate group since 13 June 2023"},
+    {"name": "Alexandra van Huffelen", "role": "Party chair"},
+    {"name": "Hans Vijlbrief", "role": "Minister of Social Affairs and Employment"},
+    {"name": "Sjoerd Sjoerdsma", "role": "Minister for Foreign Trade and Development Cooperation"},
+    {"name": "Rianne Letschert", "role": "Minister of Education, Culture and Science; informateur during the 2025-2026 formation"},
+    {"name": "Elanor Boekholt-O'Sullivan", "role": "Minister of Housing and Spatial Planning"},
+    {"name": "Stientje van Veldhoven", "role": "Minister of Climate and Green Growth"},
+    {"name": "Jaimi van Essen", "role": "Minister of Agriculture, Fisheries, Food Security and Nature"},
+    {"name": "Joost Sneller", "role": "MP; initiator of the bill requiring parties to admit members"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Het kan wél. Verkiezingsprogramma 2025-2030 (D66)", "publisher": "D66, via DNPP repository (University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf", "date": "2025"},
+    {"id": "s2", "title": "Democraten 66 (D66)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/d66-democraten-66", "date": null},
+    {"id": "s3", "title": "D66", "publisher": "DNPP, University of Groningen", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/d66", "date": "2026-10-22"},
+    {"id": "s4", "title": "Tweede Kamerfractie Democraten 66 (D66)", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-democraten-66", "date": null},
+    {"id": "s5", "title": "Ledenplicht voor PVV en toekomstige politieke partijen in de maak", "publisher": "NOS", "url": "https://nos.nl/l/2594018", "date": "2025-12-10"},
+    {"id": "s6", "title": "Kabinetsformatie 2025-2026", "publisher": "Parlement.com", "url": "https://parlement.com/kabinetsformatie-2025-2026", "date": null},
+    {"id": "s7", "title": "D66, VVD en CDA presenteren plannen en moeten gaan zoeken naar meerderheden", "publisher": "NOS", "url": "https://nos.nl/artikel/2600235-d66-vvd-en-cda-presenteren-plannen-en-moeten-gaan-zoeken-naar-meerderheden", "date": "2026-01-30"},
+    {"id": "s8", "title": "Kabinet-Jetten (2026-heden)", "publisher": "Parlement.com", "url": "https://www.parlement.com/kabinet-jetten-2026-heden", "date": null},
+    {"id": "s9", "title": "Kabinet-Jetten beëdigd", "publisher": "Rijksoverheid", "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/23/kabinet-jetten-beedigd", "date": "2026-02-23"},
+    {"id": "s10", "title": "Coalition in crisis as tax plan passes without VVD support", "publisher": "DutchNews", "url": "https://www.dutchnews.nl/2026/11/coalition-in-crisis-as-tax-plan-passes-without-vvd-support/", "date": "2026-11-12"},
+    {"id": "s11", "title": "\"Dit kabinet is mislukt experiment\": regering valt (nog) niet in Nederland, maar VVD blijft kritisch", "publisher": "VRT NWS", "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/nederland-regering-crisis-rob-jetten-d66-cda-vvd/", "date": "2026-11-13"},
+    {"id": "s12", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s13", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s14", "title": "D66-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/democraten_1966", "date": null}
+  ]
+}
