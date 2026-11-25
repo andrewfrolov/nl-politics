@@ -33,10 +33,11 @@
     {
       "label": "Housing shortage",
       "value": "384,000 homes = 4.6% of the housing stock (2026 estimate)",
-      "note": "ABF Research (Primos forecast) for the government. 4.8% in 2025, 4.9% in 2024. Target: 2%, for which 213,000 extra homes would be needed immediately.",
+      "note": "ABF Research (Primos forecast) for the government. 4.8% (396,000 homes) in 2025, 4.9% in 2024. Target: 2%, for which 213,000 extra homes would be needed immediately.",
       "source_ids": [
         "s5",
-        "s4"
+        "s4",
+        "s53"
       ]
     },
     {
@@ -412,7 +413,7 @@
   "contested_claims": [
     {
       "claim": "A large share of social rental homes goes to status holders: 37% (Wilders), '25, 30 percent' (then minister Keijzer); versus about 7% (Jetten) or '7 to 10 percent' (Klaver).",
-      "claimed_by": "Geert Wilders (PVV), Mona Keijzer (then BBB minister), Rob Jetten (D66), Jesse Klaver (GroenLinks-PvdA), during the October 2025 campaign",
+      "claimed_by": "Wilders (PVV), Keijzer (then BBB minister), Jetten (D66), Klaver (GroenLinks-PvdA), during the October 2025 campaign",
       "what_data_show": "NOS reported that CBS found almost 7% of all housing-association homes that became available in 2022 (11,000 of 162,500) were allocated to households with status holders, and 4 to 6% in the four years before. Aedes estimates about 10% for 2023 and 2024. The 37% figure comes from a calculation by Jan van de Beek comparing allocations to status holders with allocations to first-time tenants only; experts quoted by NOS call that comparison skewed. Counting only status holders who are themselves first-time tenants against all first-time allocations, CBS arrives at 17%.",
       "source_ids": [
         "s33"
@@ -420,7 +421,7 @@
     },
     {
       "claim": "Reducing the mortgage interest deduction has not led to more homes or lower prices.",
-      "claimed_by": "Mona Keijzer, then housing minister (BBB), September 2025",
+      "claimed_by": "Keijzer, then housing minister (BBB), September 2025",
       "what_data_show": "NOS reported that economists say the reduction does have a dampening effect on house prices, but that because so many factors play a role they cannot say how large it is. The deduction rate has been reduced since 2014, and faster since 2020. CPB and PBL described the effect of the coalition agreement as a limited widening of the deduction that partly offsets an expected slight dampening of prices.",
       "source_ids": [
         "s22",
@@ -458,7 +459,7 @@
   "party_positions": [
     {
       "party": "D66",
-      "position": "D66 campaigned on building ten new cities and on phasing out the mortgage interest deduction over at least 15 years. In the coalition agreement it accepted that the tax treatment of the home stays unchanged; on 12 May 2026 it nevertheless voted for a motion to reverse the automatic increase in the deduction rate.",
+      "position": "D66 campaigned on building ten new cities and on phasing out the mortgage interest deduction over at least 15 years. In December 2025 D66 and CDA jointly proposed a gradual phase-out once compensation through income tax is possible. In the coalition agreement D66 accepted that the tax treatment of the home stays unchanged; on 12 May 2026 it nevertheless voted for a motion to reverse the automatic increase in the deduction rate.",
       "salience": "high",
       "salience_basis": "'Ten new cities' is the opening pledge on the party's housing page; the coalition agreement it co-signed calls the housing shortage 'our top priority'; voted against its coalition partner VVD on the deduction motion in May 2026.",
       "quotes": [
@@ -472,7 +473,7 @@
         {
           "text_en": "Everyone must be able to use the tax benefit for at least half of its term.",
           "text_nl": "Iedereen moet het belastingvoordeel nog voor minstens de helft van zijn looptijd kunnen gebruiken",
-          "speaker": "Rob Jetten",
+          "speaker": "Jetten, D66 leader (as quoted by NOS)",
           "date": "2025-09-09",
           "source_id": "s22"
         }
@@ -480,13 +481,14 @@
       "source_ids": [
         "s42",
         "s22",
+        "s51",
         "s21",
         "s19"
       ]
     },
     {
       "party": "VVD",
-      "position": "VVD wants 30 large new residential districts, fewer rules and shorter objection procedures, more affordable owner-occupied homes and a 'radical' loosening of rules on the rental market to attract investors. It wants to keep the mortgage interest deduction: its then leader said in September 2025 the party would not join a cabinet that changes it, and the coalition agreement keeps it unchanged.",
+      "position": "VVD wants 30 large new residential districts, fewer rules and shorter objection procedures, more affordable owner-occupied homes and a 'radical' loosening of rules on the rental market to attract investors. It wants to keep the mortgage interest deduction: its leader Yesilgöz said in September 2025 the party would not join a cabinet that changes it, and the coalition agreement keeps it unchanged.",
       "salience": "high",
       "salience_basis": "Housing is one of the 'pillars' on the party website; the party made keeping the mortgage interest deduction a campaign condition in September 2025 and defended it against a House majority in May 2026.",
       "quotes": [
@@ -498,9 +500,9 @@
           "source_id": "s43"
         },
         {
-          "text_en": "We made clear agreements about it during the formation, that we make no changes to the system. Those agreements stand and are crystal clear.",
-          "text_nl": "\"We hebben er duidelijke afspraken over gemaakt tijdens de formatie, dat we geen aanpassingen doen in de systematiek\", zegt fractieleider Brekelmans. \"Die afspraken staan en zijn glashelder.\"",
-          "speaker": "Ruben Brekelmans (as quoted by NOS)",
+          "text_en": "We made clear agreements about it during the formation, that we make no changes to the system",
+          "text_nl": "We hebben er duidelijke afspraken over gemaakt tijdens de formatie, dat we geen aanpassingen doen in de systematiek",
+          "speaker": "Brekelmans, VVD House group leader (as quoted by NOS)",
           "date": "2026-05-12",
           "source_id": "s21"
         }
@@ -520,14 +522,14 @@
         {
           "text_en": "The home owner has earned an awful lot of money from the fact that we have scarcity on the housing market.",
           "text_nl": "De woningbezitter heeft ontzettend veel geld verdiend aan het feit dat wij schaarste hebben op de woningmarkt",
-          "speaker": "Habtamu de Hoop (as quoted by NOS)",
+          "speaker": "De Hoop, GroenLinks-PvdA MP (as quoted by NOS)",
           "date": "2025-09-09",
           "source_id": "s22"
         },
         {
           "text_en": "It yields a few hundred million euros and we can use that to make people's lives affordable.",
           "text_nl": "Het levert een paar honderd miljoen euro op en dat kunnen we gebruiken om het leven van mensen betaalbaar te maken.",
-          "speaker": "Jesse Klaver",
+          "speaker": "Klaver, GroenLinks-PvdA leader (as quoted by NOS)",
           "date": "2026-05-12",
           "source_id": "s21"
         }
@@ -572,8 +574,8 @@
       "salience_basis": "NOS reported in August 2025 that the CDA manifesto 'goes all in on housing'; the party co-signed a coalition agreement that names the housing shortage the top priority.",
       "quotes": [
         {
-          "text_en": "I notice a great deal of support. The tipping point at which there were only opponents is long past.",
-          "text_nl": "\"Ik merk heel veel draagvlak\", zegt hij over gesprekken met zijn achterban. \"Het kantelpunt dat er alleen maar tegenstanders waren is allang voorbij.\"",
+          "text_en": "The tipping point at which there were only opponents is long past.",
+          "text_nl": "Het kantelpunt dat er alleen maar tegenstanders waren is allang voorbij.",
           "speaker": "Henri Bontenbal (as quoted by NOS)",
           "date": "2025-09-09",
           "source_id": "s22"
@@ -608,13 +610,11 @@
     },
     {
       "party": "Groep Markuszower",
-      "position": "No housing programme or statement of this group, which split from the PVV in January 2026, was found in the sources consulted. Its members were elected in October 2025 on the PVV manifesto summarised under PVV.",
+      "position": "No housing programme, position page or housing statement of this House group was found in the sources consulted for this file.",
       "salience": "low",
       "salience_basis": "No own manifesto, position page or housing motion found in the sources consulted for this file.",
       "quotes": [],
-      "source_ids": [
-        "s44"
-      ]
+      "source_ids": []
     },
     {
       "party": "FVD",
@@ -708,14 +708,14 @@
     },
     {
       "party": "BBB",
-      "position": "BBB's 2025 manifesto says the mortgage interest deduction should not be limited further, according to NOS. BBB supplied the housing minister, Mona Keijzer, in the previous cabinet; she introduced the Wet versterking regie volkshuisvesting and the bill to end priority for status holders, and proposed loosening the Wet betaalbare huur. (Keijzer now sits in the House as an independent member, 'Lid Keijzer'.) In the Senate BBB voted for the Wet versterking regie volkshuisvesting.",
+      "position": "BBB's 2025 manifesto says the mortgage interest deduction should not be limited further, according to NOS. BBB supplied the housing minister, Keijzer, in the previous cabinet; she introduced the Wet versterking regie volkshuisvesting and the bill to end priority for status holders, and proposed loosening the Wet betaalbare huur. In the Senate BBB voted for the Wet versterking regie volkshuisvesting.",
       "salience": "medium",
       "salience_basis": "Addressed in the 2025 manifesto according to NOS; the party held the housing ministry in the previous cabinet.",
       "quotes": [
         {
           "text_en": "And if you then look at who this will hit: many people who with difficulty were finally able to buy something.",
           "text_nl": "En als je dan kijkt wie dit gaat raken: veel mensen die met moeite eindelijk in staat waren om iets te kopen",
-          "speaker": "Mona Keijzer, then housing minister for BBB (as quoted by NOS)",
+          "speaker": "Keijzer, then housing minister, BBB (as quoted by NOS)",
           "date": "2025-09-09",
           "source_id": "s22"
         }
