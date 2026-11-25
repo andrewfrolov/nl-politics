@@ -1,0 +1,1267 @@
+{
+  "id": "power-grid",
+  "title": "Grid congestion: the full electricity network",
+  "tagline": "Waiting lists for power connections, rising grid tariffs and the measures taken to free up capacity",
+  "updated": "2026-11-25",
+  "summary": "Grid congestion (netcongestie) means that the electricity network has no spare transport capacity at peak moments, so new or heavier connections cannot be granted until the grid is expanded or space is freed up. On 30 June 2026 the regional grid operators had 15,498 requests from large users waiting for offtake capacity and 8,558 waiting to feed in power, and since 1 July 2026 households and other small users can also be placed on the waiting list. The minority coalition of D66, VVD and CDA calls tackling congestion its highest priority and presented a package of 'crisis legislation' measures on 11 September 2026. Grid tariffs are forecast by the regulator ACM to rise by about 20% in 2027, and the net-metering scheme for solar panels ends on 1 January 2027.",
+  "key_facts": [
+    {
+      "label": "Waiting list for offtake (regional grids)",
+      "value": "15,498 transport requests, together 9,986 MW (30 June 2026)",
+      "note": "Large-user connections (businesses and institutions) at the regional grid operators; 15,154 requests and 9,305 MW at end 2025. Small users, who join the list from 1 July 2026, are not yet in this figure.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Waiting list for feed-in (regional grids)",
+      "value": "8,558 transport requests, together 5,693 MW (30 June 2026)",
+      "note": "Slightly fewer requests than at end 2025, but requested capacity rose from 5,027 MW.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Waiting list at national operator TenneT",
+      "value": "205 requests for offtake and 156 for feed-in (30 June 2026)",
+      "note": "Mainly industry and large batteries; the list shrank after TenneT cleaned it up in 2025.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Estimated cost of congestion to society",
+      "value": "€10 to €40 billion per year (estimate cited by ACM, September 2026)",
+      "note": "ACM attributes the cost to businesses that cannot locate or expand and housing projects that cannot proceed.",
+      "source_ids": [
+        "s5",
+        "s23"
+      ]
+    },
+    {
+      "label": "Investment needed in the electricity grid",
+      "value": "about €235 billion over the next 15 years (ACM, September 2026)",
+      "note": "Grid operators say they invested more than €8 billion in 2024 and expect €15.1 billion per year by 2040.",
+      "source_ids": [
+        "s5",
+        "s24"
+      ]
+    },
+    {
+      "label": "Household grid tariff forecast for 2027",
+      "value": "about +20%: roughly €89 more per year for electricity transport and €52 more for gas transport (ACM forecast, 14 September 2026)",
+      "note": "Transport tariffs are about 30% of an average household energy bill. The figures are a forecast based on operators' proposals.",
+      "source_ids": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "label": "Connection time for small users needing a change without digging",
+      "value": "on average 8 weeks outside and 48 weeks inside congestion areas (2026 figures in the October 2026 progress report)",
+      "note": "Read from the chart in the report; with digging work the averages shown are 31 and 45 weeks.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Time needed to build a high-voltage station",
+      "value": "about 10 years on average, of which about three quarters is permitting and spatial integration (October 2026 report)",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "End of net metering for solar panels",
+      "value": "1 January 2027; minimum feed-in payment of 50% of the bare supply tariff until 2030",
+      "source_ids": [
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "label": "Time-of-use grid tariffs for small connections",
+      "value": "planned from 1 January 2029 (ACM draft decision, 8 October 2026); from 1 January 2028 for large connections on regional grids",
+      "note": "ACM estimates about 60% of households would pay less than under the current flat tariff.",
+      "source_ids": [
+        "s7"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Businesses and institutions wait for capacity",
+      "text": "Almost the whole country has a waiting list for new or heavier connections. On 30 June 2026 the regional operators had 15,498 offtake requests from large users on the list; in the first half of 2026, 2,656 new requests arrived, 1,699 were granted and 613 left the list for other reasons. The government says that plans to start, expand or decarbonise a business often have to be changed or shelved. The employers' organisation VNO-NCW calls congestion one of the biggest obstacles in the investment climate.",
+      "source_ids": [
+        "s1",
+        "s12",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Households now also face the waiting list",
+      "text": "Until 1 July 2026 small users (homes, small businesses, charging points) were connected with priority. Since that date large and small users are on one waiting list and no unused capacity is reserved for households; only three priority categories defined by the regulator ACM move ahead. In the Flevopolder-Gelderland-Utrecht (FGU) region the government announced in April 2026 that the grid had reached its limit; around the city of Utrecht new or heavier connections were still not possible on 2 November 2026. A heavier connection can be needed for a heat pump or a charger, although the government says this is often possible on an existing connection.",
+      "source_ids": [
+        "s2",
+        "s3",
+        "s4",
+        "s21"
+      ]
+    },
+    {
+      "heading": "Risk of overload on cold days",
+      "text": "Grid operators expect that the grid around Utrecht and in southern Flevoland may be overloaded on the coldest days of the winter of 2026-2027. They are temporarily deploying generators running on renewable diesel (HVO) and mobile batteries. The government states that in an extreme case congestion can lead to operators switching off areas to prevent a larger outage, that the chance is small, and that non-critical large users are switched off before homes.",
+      "source_ids": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "heading": "Rising costs for all grid users",
+      "text": "All grid operators' costs are recovered through transport tariffs paid by households and businesses. ACM forecasts a rise of about 20% in 2027 for users on regional grids and for large companies connected directly to TenneT's high-voltage grid. An analyst quoted by Solar & Storage Magazine calculated that annual grid costs for a 10 MW battery connection rise from €491,000 in 2020 to a proposed €1,721,000 in 2027.",
+      "source_ids": [
+        "s5",
+        "s6",
+        "s26"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Fast growth of electricity use and of solar and wind",
+      "text": "The joint progress report of government, grid operators and regulator states that peak use has risen through heat pumps, electric cars, business decarbonisation and new homes, while more power is generated from wind and sun, and that grid expansion is going too slowly to absorb this. The grid is full only part of the time: the peak on winter weekdays falls between 16:00 and 21:00.",
+      "source_ids": [
+        "s1",
+        "s4",
+        "s22"
+      ]
+    },
+    {
+      "heading": "Long permitting procedures and scarce space",
+      "text": "Building a new high-voltage station takes about ten years on average, about three quarters of which is permitting and spatial integration. In the first half of 2026 operators laid 1,041 km of medium-voltage cable, less than half of the 2,424 km laid in all of 2025 and less than expected; the report names limited physical space, complex spatial procedures and a growing research burden.",
+      "source_ids": [
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "heading": "Staff and materials",
+      "text": "The progress report names the availability of personnel and materials, and dependencies between projects, as factors that determine the pace of high-voltage construction. Grid operators say that in the coming years one in three streets will be opened up, 50,000 transformer kiosks added and 100,000 km of cable laid.",
+      "source_ids": [
+        "s1",
+        "s24"
+      ]
+    },
+    {
+      "heading": "Reserve margins and demand forecasts",
+      "text": "Part of the grid's capacity is kept unused as a reserve for failures and extreme situations; NOS reported a supply reliability of 99.99988%. In February 2026 government and operators agreed to look critically at this reserve space, and in April 2026 they agreed to sharpen the assumptions about future demand used in capacity calculations for the FGU region.",
+      "source_ids": [
+        "s13",
+        "s12",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Investment oversight",
+      "text": "A motion by ChristenUnie and CDA adopted on 2 June 2026 states that ACM has observed lagging investment by grid operators since 2020 and asks that ACM test investment plans more explicitly for under-investment. ACM adopted a new tariff method in early 2026 that reimburses operators' costs faster, together with stricter supervision of their investment plans.",
+      "source_ids": [
+        "s28",
+        "s29",
+        "s5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-12-03",
+      "event": "CDA and D66 present a joint agenda for the cabinet formation that gives grid congestion the highest priority and announces a Crisis Act on grid congestion.",
+      "source_ids": [
+        "s53"
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "event": "The Wennink report, commissioned by the outgoing Schoof cabinet, warns that the full grid and high electricity costs threaten economic growth and expects grid tariffs to rise by about 5% a year.",
+      "source_ids": [
+        "s54"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "Coalition agreement 'Aan de slag' of D66, VVD and CDA reported: congestion is the 'highest priority', with a Crisis Act and a capacity market.",
+      "source_ids": [
+        "s10",
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "event": "The Dutch state agrees to sell 25.1% of TenneT Germany to the German state via KfW for about €3.3 billion.",
+      "source_ids": [
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "event": "Government, grid operators, ACM and business commit to 8 actions (the 'Aansluitoffensief') to connect a substantial part of the waiting list within 2 years through flexible use of the grid.",
+      "source_ids": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "event": "Spring progress letter: more than 15,000 large-user requests were waiting at regional operators on 31 December 2025, about 1,000 more than six months earlier.",
+      "source_ids": [
+        "s32",
+        "s31"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "Government announces that a full connection stop in the Flevopolder-Gelderland-Utrecht region has largely been avoided, but that a temporary pause is needed in part of the province of Utrecht.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "event": "The House adopts motions on congestion, including one by D66 and VVD asking the cabinet to present the Crisis Act this summer.",
+      "source_ids": [
+        "s29"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "event": "The priority framework applies to all applicants: small users are no longer connected with priority and housing construction is added to the 'basic needs' priority category.",
+      "source_ids": [
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "event": "The cabinet sends its crisis-legislation measures on grid congestion to the House.",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "event": "ACM publishes draft decisions on time-of-use grid tariffs: from 2028 for large connections on regional grids and from 2029 for small connections.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "event": "First half-yearly update for the FGU region: 224 organisations on the waiting list helped since June; no new or heavier connections yet around the city of Utrecht.",
+      "source_ids": [
+        "s2"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Coalition agreement: highest priority and a Crisis Act",
+      "text": "The coalition agreement of D66, VVD and CDA states that tackling congestion has the highest priority, that the most urgent projects are handled first, and that existing capacity must be used better through incentives in grid tariffs, flexible contracts and energy hubs. It announces a Crisis Act on grid congestion to speed up permitting and intervene when construction stalls, a capacity market for security of supply at peak moments, continued work on at least 4 new nuclear power plants, and expansion of charging infrastructure. The three parties form a minority cabinet and need support from other parties in the House.",
+      "source_ids": [
+        "s9",
+        "s10",
+        "s55"
+      ]
+    },
+    {
+      "heading": "Crisis-legislation measures (letter of 11 September 2026)",
+      "text": "Instead of one new act, the cabinet is changing laws and regulations in steps. Measures include: making the province the default competent authority for new 110/150 kV projects (in consultation, expected in force July 2027); exempting new and expanded stations from the technical building permit and expanded stations from the spatial permit (expected shortly after summer 2027); and sending appeals against electricity projects from 21 kV directly to the Council of State from 1 October 2026. The cabinet does not consider automatic permit approval after a missed deadline (lex silencio positivo) effective for energy projects.",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "heading": "Priority framework and flexible use",
+      "text": "Under ACM's priority framework three groups move up the waiting list: congestion relievers (such as storage), security and acute care (police, fire service, defence, acute healthcare), and basic needs (such as public transport, education and, since 1 July 2026, housing construction). Priority does not mean an immediate connection. Under the National Grid Congestion Action Programme (Landelijk Actieprogramma Netcongestie, LAN) operators offer flexible contracts: on 30 June 2026 there were 375 capacity-steering contracts for offtake (1,548.8 MW) and 394 for feed-in (2,885.7 MW).",
+      "source_ids": [
+        "s20",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Budget 2027 and financing of TenneT",
+      "text": "According to Solar & Storage Magazine the 2027 Budget Memorandum (Miljoenennota) gives the provinces together €10 million per year from 2027 to 2030 for tackling congestion. The sale of part of TenneT Germany was completed in 2026: KfW holds 25.1%, private investors (APG, GIC, Norges Bank Investment Management) are expected to hold up to 46%, and TenneT Holding keeps 28.9%. The Minister of Finance wrote on 3 July 2026 that a loan facility of €11 billion and the remaining €4.3 billion reservation for capital injections into TenneT Germany lapse in the 2027 Budget Memorandum; the outstanding state loan to TenneT was listed at €21.7 billion for 2026-2028.",
+      "source_ids": [
+        "s27",
+        "s14",
+        "s15",
+        "s16"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Present the Crisis Act on grid congestion",
+      "description": "Motion asking the government to present the further content of the Crisis Act by summer 2026. The cabinet's letter of 11 September 2026 states that it implements this motion.",
+      "proposed_by": [
+        "D66",
+        "VVD"
+      ],
+      "status": "motion adopted 2026-06-02; PvdD and FVD voted against",
+      "source_ids": [
+        "s28",
+        "s29",
+        "s11"
+      ]
+    },
+    {
+      "title": "Permit-free expansion within existing transformer stations",
+      "description": "Motion asking the government to make grid expansion within the boundaries of existing transformer stations possible without a permit.",
+      "proposed_by": [
+        "CDA",
+        "VVD",
+        "D66",
+        "ChristenUnie"
+      ],
+      "status": "motion adopted 2026-06-02; the groups recorded as GroenLinks-PvdA (PRO) and PvdD voted against",
+      "source_ids": [
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "title": "Continuously update electricity demand forecasts",
+      "description": "Motion asking the government, with ACM, TenneT, regional operators and PBL, to keep demand forecasts up to date and show when operators can serve growing demand, including effects on tariffs and waiting times, with a plan by Q4 2026.",
+      "proposed_by": [
+        "JA21",
+        "ChristenUnie",
+        "VVD"
+      ],
+      "status": "motion adopted unanimously 2026-06-02",
+      "source_ids": [
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "title": "Early application for grid capacity for housing projects",
+      "description": "Amended motion asking for a system of early applications for grid capacity for housing projects and national standards for grid-aware new construction. The state secretary said a separate reservation system would duplicate the priority framework.",
+      "proposed_by": [
+        "BBB"
+      ],
+      "status": "amended motion adopted 2026-06-02; D66, VVD, CDA and FVD voted against",
+      "source_ids": [
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "title": "Invest only in sources that do not depend on wind or sun",
+      "description": "Motion stating that the grid is stalling because of a shortage of controllable power and asking to invest only in energy sources that do not depend on wind or sun, such as nuclear.",
+      "proposed_by": [
+        "Groep Markuszower"
+      ],
+      "status": "motion rejected 2026-06-02; JA21, BBB, Lid Keijzer, Groep Markuszower, PVV and FVD voted in favour",
+      "source_ids": [
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "title": "No differentiated grid tariffs",
+      "description": "Motion asking the government to ensure that no differentiated grid tariffs are introduced under which households that cannot or do not want to shift their electricity use to off-peak moments pay a higher tariff.",
+      "proposed_by": [
+        "PVV"
+      ],
+      "status": "motion filed 2026-06-03; outcome of the vote not verified for this file",
+      "source_ids": [
+        "s47"
+      ]
+    },
+    {
+      "title": "Stimulate self-consumption of solar power and consider zero VAT on home batteries",
+      "description": "Motion asking the government to stimulate own use of self-generated solar power and to consider whether a scheme as applied in Germany (zero VAT on home batteries) is useful and needed.",
+      "proposed_by": [
+        "ChristenUnie"
+      ],
+      "status": "motion filed 2026-06-03; outcome of the vote not verified for this file",
+      "source_ids": [
+        "s49"
+      ]
+    },
+    {
+      "title": "Time-of-use grid tariffs for small connections",
+      "description": "ACM draft decision: on average one third of the transport tariff stays fixed and the rest depends on volume and time of use, with low, normal and high time blocks that differ between summer and winter. Grid operators estimate this lowers the household peak by 10%, allowing about 700,000 extra homes to be connected without direct grid expansion.",
+      "proposed_by": [],
+      "status": "draft decision by regulator ACM published 2026-10-08; final decision expected by end 2026; planned start 2029-01-01",
+      "source_ids": [
+        "s7",
+        "s1"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "The grid is less full than the grid operators' congestion studies indicate.",
+      "claimed_by": "Research bureau SiRM, in a study commissioned by seven business and energy organisations including VNO-NCW/MKB-Nederland and Energie-Nederland (reported 23 November 2026)",
+      "what_data_show": "SiRM recalculated 278 published congestion reports with later and slower demand growth and concluded that 900 to 1,100 MW of extra offtake capacity would become available on regional grids and 2.9 to 4.0 GW on TenneT's grid. The report notes that operators may already have released part of this space since the reports were published. The House unanimously asked on 2 June 2026 for forecasts to be updated continuously; the motion cites final electricity use of about 105 TWh in 2024 (CBS) against forecasts of 136 TWh in 2030 and about 190 TWh by 2035. No response from the grid operators to the SiRM study was found for this file.",
+      "source_ids": [
+        "s25",
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "claim": "Congestion is solved by stopping the energy transition: no new wind turbines or solar parks.",
+      "claimed_by": "PVV (2025 manifesto)",
+      "what_data_show": "The official progress report attributes congestion both to rising peak offtake (heat pumps, electric cars, business electrification, new homes) and to more generation from wind and sun. On 30 June 2026 the regional waiting list for offtake (9,986 MW) was larger than that for feed-in (5,693 MW). A motion to invest only in sources not dependent on wind or sun was rejected on 2 June 2026.",
+      "source_ids": [
+        "s40",
+        "s1",
+        "s29"
+      ]
+    },
+    {
+      "claim": "Time-of-use grid tariffs leave most households better off.",
+      "claimed_by": "ACM",
+      "what_data_show": "ACM states about 60% of households gain; Solar & Storage Magazine reports ACM's range as 53 to 64% paying less and 36 to 47% paying more. ACM's examples: a small apartment pays €100 to €200 less per year in 2029, a detached house with heat pump and electric car that adapts its use as much as possible pays €300 to €450 more. A PVV motion describes such tariffs as punishing households that cannot shift their use.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s47"
+      ]
+    },
+    {
+      "claim": "Congestion costs society €10 to €40 billion a year.",
+      "claimed_by": "ACM, citing an external estimate",
+      "what_data_show": "ACM presents the figure as an estimate ('naar schatting') with a wide range. The sources consulted for this file do not give the underlying calculation.",
+      "source_ids": [
+        "s5",
+        "s23"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Coalition party. Calls the queue on the grid a national crisis and co-filed the adopted motion for the Crisis Act. Its manifesto pledges to reinforce the grid, invest in storage to reduce congestion, and keep modern gas plants open as long as needed for security of supply. Voted against the BBB motion on early capacity applications for housing.",
+      "salience": "high",
+      "salience_basis": "Coalition agreement names congestion 'highest priority'; MP Klos filed motions in the debates of December 2025 and May 2026; several manifesto passages on the grid.",
+      "quotes": [
+        {
+          "text_en": "The queue on the power grid is a national crisis. It denies people a home, thwarts the growth of entrepreneurs and makes us dependent.",
+          "text_nl": "De file op het stroomnet is een nationale crisis. Het ontzegt mensen een woning, dwarsboomt de groei van ondernemers en maakt ons afhankelijk.",
+          "speaker": "Klos (D66), House debate",
+          "date": "2026-05-27",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s29",
+        "s42",
+        "s9",
+        "s38"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Coalition party. Its manifesto calls grid expansion a matter of national interest and wants to limit research burdens, legally protect electricity infrastructure and designate the Flevoland-Gelderland-Utrecht region as an innovation area. MP Müller said the Crisis Act has the very highest priority for the VVD and filed a motion asking that the House can speak out on time-of-use tariffs before ACM's final decision.",
+      "salience": "high",
+      "salience_basis": "Listed among the first actions under the manifesto's economic growth mission; coalition agreement priority; motions by De Groot (December 2025) and Müller (May-June 2026).",
+      "quotes": [
+        {
+          "text_en": "The expansion of our electricity grid is of national interest: we continue the acceleration approach already under way with the greatest priority.",
+          "text_nl": "De uitbreiding van ons elektriciteitsnet is van nationaal belang: We zetten de ingeslagen versnellingsaanpak met de grootste prioriteit door.",
+          "speaker": "VVD manifesto 2025",
+          "date": "2025",
+          "source_id": "s41"
+        }
+      ],
+      "source_ids": [
+        "s41",
+        "s28",
+        "s51",
+        "s30"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "The parliamentary records cited list this group as GroenLinks-PvdA. MP Van Oosterhout filed motions to make energy saving an integral part of the congestion approach (adopted 2 June 2026), to study pilot installations with battery emergency power, and to evaluate the priority framework. The group voted for the Crisis Act motion and against permit-free expansion within existing transformer stations.",
+      "salience": "medium",
+      "salience_basis": "Three motions filed in each of the debates of December 2025 and May 2026; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [
+        {
+          "text_en": "considering that grid congestion undermines the Netherlands' earning capacity",
+          "text_nl": "overwegende dat netcongestie het verdienvermogen van Nederland ondermijnt",
+          "speaker": "Motion by Van Oosterhout (GroenLinks-PvdA), 29 023 nr. 654",
+          "date": "2026-05-27",
+          "source_id": "s29"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Wants to stop the energy transition and solve congestion by adding no wind turbines or solar parks, keeping coal and gas plants open and building nuclear plants. MP Kops filed motions to withdraw the offshore wind action plan, keep coal plants open, and prevent differentiated grid tariffs. The PVV voted for the Crisis Act motion on 2 June 2026.",
+      "salience": "medium",
+      "salience_basis": "'Netcongestie oplossen!' is one bullet in the manifesto's energy list; motions filed by Kops in December 2025 and June 2026.",
+      "quotes": [
+        {
+          "text_en": "We once had the best electricity grid in the world. Now it is on the verge of collapse.",
+          "text_nl": "Ooit hadden we het beste elektriciteitsnet ter wereld. Nu staat het op instorten.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s40"
+        },
+        {
+          "text_en": "We stop the energy transition and are going to solve grid congestion: no wind turbines, no solar parks or other weather-dependent wobbly power.",
+          "text_nl": "We stoppen met de energietransitie en gaan netcongestie oplossen: geen windturbines, geen zonneparken of andere weersafhankelijke wiebelstroom.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s40"
+        }
+      ],
+      "source_ids": [
+        "s40",
+        "s30",
+        "s47",
+        "s29"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Coalition party. Presented with D66 the December 2025 agenda that made congestion the highest priority. MP Jumelet filed the adopted motion for permit-free expansion within existing transformer stations and co-filed the adopted motion asking ACM to test investment plans for under-investment. Voted against the BBB motion on early capacity applications for housing.",
+      "salience": "high",
+      "salience_basis": "Coalition agreement priority; motions by Jumelet in December 2025 and May 2026; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [
+        {
+          "text_en": "From insight to overview to action; that is what is needed to solve grid congestion.",
+          "text_nl": "Van inzicht naar overzicht naar actie; dat is nodig om netcongestie op te lossen.",
+          "speaker": "Jumelet (CDA), House debate, December 2025",
+          "date": "2025",
+          "source_id": "s30"
+        }
+      ],
+      "source_ids": [
+        "s30",
+        "s28",
+        "s29",
+        "s53"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Wants to solve congestion with a focus on nuclear power and by not writing off fossil fuels. MP Van den Berg filed motions for gas-hybrid heat pumps in new homes, a capacity mechanism, a fast-track route for transformer and high-voltage stations (adopted) and continuous updating of demand forecasts (adopted unanimously). Co-filed a motion on energy tax for household storage.",
+      "salience": "high",
+      "salience_basis": "Five motions filed across the December 2025 and May 2026 debates; several manifesto passages link congestion to industry and energy policy.",
+      "quotes": [
+        {
+          "text_en": "We solve grid congestion and prevent businesses from standing still because connection to the power grid is impossible.",
+          "text_nl": "We lossen netcongestie op en voorkomen dat bedrijven stilstaan omdat aansluiting op het stroomnet onmogelijk is.",
+          "speaker": "JA21 manifesto 2025",
+          "date": "2025",
+          "source_id": "s43"
+        }
+      ],
+      "source_ids": [
+        "s43",
+        "s28",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "MP Moinat filed a motion stating that the grid is stalling due to a shortage of controllable power and asking to invest only in energy sources not dependent on wind or sun; it was rejected on 2 June 2026. The group voted for the Crisis Act motion.",
+      "salience": "medium",
+      "salience_basis": "One contribution and one motion in the May 2026 debate; no manifesto (the group split from the PVV in January 2026).",
+      "quotes": [
+        {
+          "text_en": "Our electricity grid is getting more and more squeezed. At this moment 14,000 businesses are waiting for a power connection in the Netherlands.",
+          "text_nl": "Ons elektriciteitsnet komt steeds verder in de knel. Op dit moment wachten 14.000 bedrijven op een stroomaansluiting in Nederland.",
+          "speaker": "Moinat (Groep Markuszower), House debate",
+          "date": "2026-05-27",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s29"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Wants to stop the energy transition entirely, withdraw the Climate Act, nationalise the energy sector to prevent blackouts and build ten nuclear plants. Voted against the Crisis Act motion and against the motion asking ACM to test investment plans on 2 June 2026.",
+      "salience": "low",
+      "salience_basis": "One sentence on the grid on the party's climate and energy page; no FVD speaker or motion in the two congestion debates reviewed.",
+      "quotes": [
+        {
+          "text_en": "At the same time the power grid has become ever more vulnerable, with a real risk of blackouts.",
+          "text_nl": "Tegelijkertijd is het stroomnet steeds kwetsbaarder geworden, met een reëel risico op blackouts.",
+          "speaker": "FVD website, 'Klimaat en energie'",
+          "date": "2026",
+          "source_id": "s46"
+        }
+      ],
+      "source_ids": [
+        "s46",
+        "s29"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The manifesto has a section 'Reduce grid congestion' and proposes a capital injection of €10 billion for grid operators, lower grid tariffs for projects that relieve the grid, and rules for home batteries including a mandatory option for the operator to switch them on and off. MP Grinwis filed adopted motions to evaluate the FGU crisis and to have ACM test investment plans.",
+      "salience": "high",
+      "salience_basis": "Own manifesto section (2.2); Grinwis filed motions in both debates reviewed and in June 2026.",
+      "quotes": [
+        {
+          "text_en": "The full power grid is a major obstacle to housing construction, public facilities and further decarbonisation.",
+          "text_nl": "Het volle stroomnet vormt een groot obstakel voor woningbouw, maatschappelijke voorzieningen en verdere verduurzaming.",
+          "speaker": "ChristenUnie manifesto 2025",
+          "date": "2025",
+          "source_id": "s44"
+        }
+      ],
+      "source_ids": [
+        "s44",
+        "s39",
+        "s28",
+        "s29",
+        "s49"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Voted for the Crisis Act motion and the other adopted congestion motions on 2 June 2026. MP Jimmy Dijk filed a motion on 3 June 2026 to lower VAT on energy to the low rate. According to Solar & Storage Magazine the SP manifesto calls for 'sun on every roof'.",
+      "salience": "low",
+      "salience_basis": "No SP speaker or motion in the two congestion debates reviewed; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s29",
+        "s50",
+        "s39"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Voted against the Crisis Act motion, against the fast-track route for transformer and high-voltage stations and against permit-free expansion within existing stations on 2 June 2026; voted for the motions on energy saving and early capacity applications for housing. Rejects nuclear power according to Solar & Storage Magazine.",
+      "salience": "low",
+      "salience_basis": "No PvdD speaker or motion in the two congestion debates reviewed; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s29",
+        "s39"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The manifesto says tackling congestion, smarter use of capacity and fast grid reinforcement deserve the highest priority, and calls for faster procedures and a nitrogen exemption for transformers and cables. MP Flach filed the adopted motion on legal obstacles to temporary flexibility solutions and a motion on VAT on rising grid tariffs.",
+      "salience": "high",
+      "salience_basis": "'Highest priority' in the manifesto; Flach filed motions in both debates reviewed and in June 2026.",
+      "quotes": [
+        {
+          "text_en": "Tackling grid congestion, smarter use of available grid capacity and fast reinforcement of the electricity grid therefore deserve the highest priority.",
+          "text_nl": "Aanpak van netcongestie, slimmer gebruik van beschikbare netcapaciteit en snelle verzwaring van het elektriciteitsnet verdienen daarom de hoogste prioriteit.",
+          "speaker": "SGP manifesto 2025",
+          "date": "2025",
+          "source_id": "s45"
+        },
+        {
+          "text_en": "Our decarbonisation ambitions must fit what the energy system can handle, otherwise we are driving into a wall.",
+          "text_nl": "Onze verduurzamingsambities moeten passen bij wat het energiesysteem aankan, anders rijden we op een muur af.",
+          "speaker": "Flach (SGP), House debate",
+          "date": "2026-05-27",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "s45",
+        "s28",
+        "s29",
+        "s52"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "MP Vermeer filed the adopted motion on early capacity applications for housing projects and a motion for a structural financing scheme for grid-aware new construction, and asked the cabinet to make better use of gas-fired combined heat and power. In October 2026 he pressed for a solution to double energy tax on home batteries and electric cars before 1 January 2027.",
+      "salience": "medium",
+      "salience_basis": "Motions and questions by Vermeer in the debates of December 2025 and May 2026 and in the 2027 Tax Plan debate; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [
+        {
+          "text_en": "Combined heat and power units, installations that generate both electricity and heat from natural gas, are one of the fastest available ways to relieve grid congestion.",
+          "text_nl": "Warmtekrachtkoppelingen, installaties die zowel elektriciteit als warmte opwekken uit aardgas, vormen een van de snelst beschikbare manieren om de netcongestie te verlichten.",
+          "speaker": "Henk Vermeer (BBB), House debate",
+          "date": "2026-05-27",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s29",
+        "s37"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Voted for the Crisis Act motion and the other adopted congestion motions on 2 June 2026. MP El Abassi filed motions in June 2026 on energy poverty and lowering energy tax, not on the grid itself.",
+      "salience": "low",
+      "salience_basis": "No DENK speaker or motion in the two congestion debates reviewed; the 2025 manifesto could not be retrieved for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s29"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "ev_driver"
+      ],
+      "text": "Home charging: under the voluntary scheme Netbewust Thuisladen, 20 providers (energy suppliers, charger providers, lease companies) shift charging away from 16:00-21:00 on working days from November to February; grid operators pay the provider up to €5 per participant per month and the driver can always switch the function off. There are about 900,000 home charging points.",
+      "source_ids": [
+        "s33",
+        "s35"
+      ]
+    },
+    {
+      "applies_to": [
+        "ev_driver"
+      ],
+      "text": "Public charging: more than 5,200 public chargers have charged 'grid-aware' since last winter, and from mid-November 2026 participating public chargers in Flevopolder, Gelderland and Utrecht can slow down or briefly pause when the local grid is busy, so a session can take longer; in most cases the driver can opt out. Connections for new public chargers have no priority since 1 July 2026 and new applications go to the bottom of the waiting list; the progress report expects the roll-out to stagnate after a few years.",
+      "source_ids": [
+        "s34",
+        "s35",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "ev_driver",
+        "owner_mortgage",
+        "owner_outright"
+      ],
+      "text": "Planned from 1 January 2029 (ACM draft decision): two thirds of the household transport tariff will depend on volume and time of use. ACM's example of a detached house with a heat pump and an electric car that adapts its use as much as possible pays €300 to €450 more per year; ACM names charging the car during the cheapest hours as a way to lower the bill. A PVV motion of 3 June 2026 asks to prevent such tariffs.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s47"
+      ]
+    },
+    {
+      "applies_to": [
+        "ev_driver",
+        "solar_owner"
+      ],
+      "text": "Double energy tax on power stored and fed back: the State Secretary for Finance wrote in November 2026 that a method to prevent it for home batteries from 1 January 2027 without a change in the law looks promising and that TNO is assessing risks. For cars that charge bidirectionally (vehicle-to-grid) the way to prevent double tax was still being studied in the reporting of October-November 2026.",
+      "source_ids": [
+        "s36",
+        "s37"
+      ]
+    },
+    {
+      "applies_to": [
+        "solar_owner"
+      ],
+      "text": "From 1 January 2027 fed-in solar power can no longer be offset against consumption. Suppliers must pay at least 50% of the bare supply tariff until 2030 and may charge feed-in costs, which from 1 January 2027 must be shown on the bill in euros per kWh fed in. ACM reports large differences in feed-in costs between suppliers and expects them to fall after 1 January 2027. A motion by MP Heutink (Groep Markuszower) of 3 June 2026 asks not to end the scheme; its outcome was not verified for this file.",
+      "source_ids": [
+        "s17",
+        "s18",
+        "s19",
+        "s48"
+      ]
+    },
+    {
+      "applies_to": [
+        "solar_owner"
+      ],
+      "text": "Power that is generated and used directly remains free of tax and supplier costs. Registered home-battery capacity reached about 1.1 GW in 2026 according to ACM, against 0.3 GW at end October 2025. In a poll of 522 solar-panel owners reported on 25 November 2026, 4 in 10 said they did not know what the end of net metering means for their bill.",
+      "source_ids": [
+        "s17",
+        "s18",
+        "s56"
+      ]
+    },
+    {
+      "applies_to": [
+        "business_grid_user",
+        "employer",
+        "self_employed"
+      ],
+      "text": "A business that needs a new or heavier connection in a congestion area goes on the waiting list unless it falls into a priority category (congestion relievers, security and acute care, basic needs). Businesses with a small connection and no priority also go on the waiting list in congestion areas. Operators more often offer a (partly) flexible contract with capacity outside peak hours; on the high-voltage grid a transport right for at least 85% of the time exists.",
+      "source_ids": [
+        "s20",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "business_grid_user"
+      ],
+      "text": "ACM forecasts about 20% higher transport tariffs in 2027 for businesses on regional grids and for large companies on TenneT's high-voltage grid; TenneT's proposal shows tariffs on the extra-high-voltage grid falling by 6% on average. Time-of-use tariffs are planned for large connections on regional grids from 1 January 2028.",
+      "source_ids": [
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "applies_to": [
+        "owner_mortgage",
+        "owner_outright",
+        "renter_private",
+        "renter_social"
+      ],
+      "text": "ACM forecasts that an average household pays about €89 more for electricity transport and €52 more for gas transport in 2027. In the Utrecht region requests for a new connection since 1 July 2026 go on a waiting list; the government says that a heat pump, induction hob or charger can often be installed on an existing connection and that requests filed before that date proceed.",
+      "source_ids": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "applies_to": [
+        "owner_mortgage",
+        "owner_outright"
+      ],
+      "text": "Households in the Flevopolder-Gelderland-Utrecht region can be approached by their energy supplier or the provider of a heat pump, charger or home battery with a payment for using heavy appliances less during peak hours (16:00-21:00).",
+      "source_ids": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "applies_to": [
+        "home_seeker"
+      ],
+      "text": "Housing construction is in the 'basic needs' priority category since 1 July 2026. The government stated on 2 November 2026 that planned housing projects that start building within 3 years can proceed in all regions, including Utrecht, where about 35,000 planned homes will be connected. Priority does not guarantee an immediate connection, and the House adopted a motion on 2 June 2026 asking for a system of early applications for grid capacity for housing projects.",
+      "source_ids": [
+        "s2",
+        "s4",
+        "s20",
+        "s29"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "The government advises households in general to be prepared for a (prolonged) power cut. It states that the chance of homes being switched off because of congestion is not large for now, that this may occur in the future, and that residents would be informed beforehand.",
+      "source_ids": [
+        "s4"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "netcongestie",
+    "elektriciteitsnet",
+    "stroomnet",
+    "crisiswet netcongestie",
+    "nettarieven",
+    "prioriteringskader",
+    "maatschappelijk prioriteren",
+    "wachtlijst transportcapaciteit",
+    "netbeheerders",
+    "tennet",
+    "salderingsregeling",
+    "thuisbatterij",
+    "netbewust laden",
+    "congestiemanagement",
+    "tijdsafhankelijke nettarieven"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Actualisatie van de voortgang, najaar 2026 - Landelijk Actieprogramma Netcongestie (figures from Netbeheer Nederland's Stand van de Uitvoering, October 2026)",
+      "publisher": "Rijksoverheid / Netbeheer Nederland (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/overig/20261005/actualisatie_van_de_voortgang_lan/document",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "s2",
+      "title": "Update stroomnet Flevopolder-Gelderland-Utrecht: in aantal regio's nieuwe aansluitingen mogelijk, in Utrecht nog niet",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/02/update-stroomnet-flevopolder-gelderland-utrecht-in-aantal-regios-nieuwe-aansluitingen-mogelijk-in-utrecht-nog",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "s3",
+      "title": "Aansluitstop stroomnet Flevopolder-Gelderland-Utrecht grotendeels voorkomen door stevige maatregelen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/21/aansluitstop-stroomnet-flevopolder-gelderland-utrecht-grotendeels-voorkomen-door-stevige-maatregelen",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s4",
+      "title": "Kan ik nog een nieuwe stroomaansluiting of verzwaring krijgen in de regio Utrecht?",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/energie-thuis/kan-ik-nog-een-nieuwe-aansluiting-of-verzwaring-krijgen-in-de-regio-utrecht",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "ACM: Huishoudens betalen in 2027 gemiddeld per jaar €89 meer voor transport elektriciteit en €52 meer voor gastransport",
+      "publisher": "ACM",
+      "url": "https://www.acm.nl/nl/publicaties/acm-huishoudens-betalen-2027-gemiddeld-jaar-eur89-meer-voor-transport-elektriciteit-en-eur52-meer-voor-gastransport",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "s6",
+      "title": "Hogere tarieven netbeheerders: consumenten betalen 20 procent meer, klanten extrahoogspanningsnet juist 6 procent minder",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45009/hogere-tarieven-netbeheerders-consumenten-betalen-20-procent-meer-klanten-extrahoogspanningsnet-juist-6-procent-minder",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "s7",
+      "title": "ACM publiceert voorstel voor tijdsafhankelijke nettarieven voor huishoudens die ruimte op het elektriciteitsnet moeten vergroten",
+      "publisher": "ACM",
+      "url": "https://www.acm.nl/nl/publicaties/acm-publiceert-voorstel-voor-tijdafhankelijke-nettarieven-voor-huishoudens-die-ruimte-op-het-elektriciteitsnet-moeten-vergroten",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "s8",
+      "title": "Gebruik stroomnet op zomermiddagen bijna gratis, winteravond wordt duurste moment voor nieuw nettarief",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45033/gebruik-stroomnet-op-zomermiddagen-bijna-gratis-winteravond-wordt-duurste-moment-voor-nieuw-nettarief",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "s9",
+      "title": "Coalitieakkoord 'Aan de slag' - Op koers voor het klimaat en groene groei",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord/grote-keuzes-voor-nederland/op-koers-voor-het-klimaat-en-groene-groei",
+      "date": null
+    },
+    {
+      "id": "s10",
+      "title": "Nieuwe regering gaat Crisiswet Netcongestie en capaciteitsmarkt invoeren",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i42819/nieuwe-regering-gaat-crisiswet-netcongestie-en-capaciteitsmarkt-invoeren",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s11",
+      "title": "Kamerstuk 29 023, nr. 727: Brief van de staatssecretaris van Economische Zaken en Klimaat over crisiswetgevingsmaatregelen netcongestie",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-727.pdf",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "s12",
+      "title": "Gezamenlijk plan om de wachtrij voor het volle stroomnet komende jaren fors te versnellen",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/04/gezamenlijk-plan-om-de-wachtrij-voor-het-volle-stroomnet-komende-jaren-fors-te-versnellen",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "s13",
+      "title": "Wachtlijst voor elektriciteitsaansluiting bedrijven kan flink korter",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600877",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "s14",
+      "title": "Nederland verkoopt deel TenneT Duitsland aan de Duitse staat",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/03/nederland-verkoopt-deel-tennet-duitsland-aan-de-duitse-staat",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "s15",
+      "title": "TenneT rondt miljardendeal Duitse tak af",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44372/tennet-rondt-miljardendeal-duitse-tak-af",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "s16",
+      "title": "Brief van de minister van Financiën over afronding transactie TenneT Duitsland",
+      "publisher": "Ministerie van Financiën (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/bijlage/20260703/brief_van_de_minister_van/document3/f=/vmywkvmpdeit.pdf",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "s17",
+      "title": "Salderingsregeling stopt in 2027",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/salderingsregeling",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Energiemonitor ACM: einde salderingsregeling goed moment om energiecontract te controleren",
+      "publisher": "ACM",
+      "url": "https://www.acm.nl/nl/node/29815",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s19",
+      "title": "Eigenaren zonnepanelen weten eindelijk waar ze aan toe zijn: terugleverkosten moeten vanaf 2027 per kilowattuur op factuur",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44687/eigenaren-zonnepanelen-weten-eindelijk-waar-ze-aan-toe-zijn-terugleverkosten-moeten-vanaf-2027-per-kilowattuur-op-factuur",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "s20",
+      "title": "Voorrang op elektriciteitsnet",
+      "publisher": "RVO",
+      "url": "https://www.rvo.nl/onderwerpen/netcongestie/voorrang-op-elektriciteitsnet",
+      "date": null
+    },
+    {
+      "id": "s21",
+      "title": "Kabinet neemt maatregelen tegen vol elektriciteitsnet (netcongestie)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/duurzame-energie/kabinet-neemt-maatregelen-tegen-vol-elektriciteitsnet-netcongestie",
+      "date": null
+    },
+    {
+      "id": "s22",
+      "title": "Wachtlijst voor stroom: dit verandert er per 1 juli voor huishoudens",
+      "publisher": "BNNVARA Kassa",
+      "url": "https://www.bnnvara.nl/kassa/artikelen/wachtlijst-voor-stroom-dit-verandert-er-per-1-juli-voor-huishoudens",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "s23",
+      "title": "Paper ACM voor de Eerste Kamer over netcongestie",
+      "publisher": "ACM",
+      "url": "https://www.acm.nl/system/files/documents/paper-eerste-kamer-netcongestie.pdf",
+      "date": null
+    },
+    {
+      "id": "s24",
+      "title": "Position paper Netbeheer Nederland voor de Eerste Kamer",
+      "publisher": "Netbeheer Nederland (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/bijlage/20250919/position_paper_netbeheer_nederland/document3/f=/vmqxcmms7iaj.pdf",
+      "date": "2025-09-19"
+    },
+    {
+      "id": "s25",
+      "title": "Nieuw onderzoek toont dat stroomnet minder vol is dan gedacht, netbeheerders gebruikten te optimistische groeiscenario's",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45406/nieuw-onderzoek-toont-dat-stroomnet-minder-vol-is-dan-gedacht-netbeheerders-gebruikten-te-optimistische-groeiscenario-s",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "s26",
+      "title": "Waarschuwing voor instorting businesscase bestaande batterijparken, explosieve stijging transporttarieven zet projecten onder water",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45430/waarschuwing-voor-instorting-businesscase-bestaande-batterijparken-explosieve-stijging-transporttarieven-zet-projecten-onder-water",
+      "date": "2026-11-25"
+    },
+    {
+      "id": "s27",
+      "title": "Provincies krijgen jaarlijks 10 miljoen euro voor vol stroomnet",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i44913/provincies-krijgen-jaarlijks-10-miljoen-euro-voor-vol-stroomnet",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "s28",
+      "title": "Handelingen Tweede Kamer: tweeminutendebat Netcongestie en elektriciteitsnet (CD 22/04), 27 mei 2026",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D37591",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "s29",
+      "title": "Handelingen Tweede Kamer: stemmingen moties Netcongestie en elektriciteitsnet, 2 juni 2026",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D37706",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "s30",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 28, item 15: tweeminutendebat Netcongestie en energie-infrastructuur (CD 27/11)",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-28-15.html",
+      "date": null
+    },
+    {
+      "id": "s31",
+      "title": "Wachtrij stroomnet groeit naar 15.000 aanvragen, oplossing stikstofproblematiek in zicht",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i43390/wachtrij-stroomnet-groeit-naar-15-000-aanvragen-oplossing-stikstofproblematiek-in-zicht",
+      "date": "2026-04-03"
+    },
+    {
+      "id": "s32",
+      "title": "Brief regering: voortgang aanpak netcongestie (voorjaar 2026)",
+      "publisher": "Rijksoverheid (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/nonav/behandeling/20260402/brief_regering_voortgang_aanpak/document3/f=/vmwpn4ekmqzi.pdf",
+      "date": "2026-04-02"
+    },
+    {
+      "id": "s33",
+      "title": "Van ANWB tot Eneco: 20 partijen helpen stroomnet ontlasten door auto amper te laden tussen 16.00 en 21.00 uur",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45214/van-anwb-tot-eneco-20-partijen-helpen-stroomnet-ontlasten-door-auto-amper-te-laden-tussen-16-00-en-21-00-uur",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "s34",
+      "title": "Elektrische auto's laden straks langzamer als het lokale stroomnet dat nodig heeft",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45337/elektrische-auto-s-laden-straks-langzamer-als-het-lokale-stroomnet-dat-nodig-heeft",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s35",
+      "title": "Netbeheerders betalen marktpartijen tot 5 euro per maand voor slim thuisladen",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://www.solarmagazine.nl/nieuws-zonne-energie/i45194/netbeheerders-betalen-marktpartijen-tot-5-euro-per-maand-voor-slim-thuisladen",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "s36",
+      "title": "Doorbraak voor thuisbatterijen: kabinet meldt kansrijke oplossing voor dubbele energiebelasting",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45270/doorbraak-voor-thuisbatterijen-kabinet-meldt-kansrijke-oplossing-voor-dubbele-energiebelasting",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "s37",
+      "title": "BBB wil dubbele energiebelasting bij thuisbatterijen vóór 1 januari opgelost hebben via Belastingplan, staatssecretaris zegt nog niets toe",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45223/bbb-wil-dubbele-energiebelasting-bij-thuisbatterijen-voor-1-januari-opgelost-hebben-via-belastingplan-staatssecretaris-zegt-nog-niets-toe",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "s38",
+      "title": "Wat willen winnaars D66 en PVV met batterijen en zonnepanelen?",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i42045/wat-willen-winnaars-d66-en-pvv-met-batterijen-en-zonnepanelen",
+      "date": "2025-10-30"
+    },
+    {
+      "id": "s39",
+      "title": "Worden batterijen en zonnepanelen politieke speelbal bij Tweede Kamerverkiezingen?",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i41727/worden-batterijen-en-zonnepanelen-politieke-speelbal-bij-tweede-kamerverkiezingen",
+      "date": "2025-09-27"
+    },
+    {
+      "id": "s40",
+      "title": "PVV verkiezingsprogramma 2025",
+      "publisher": "PVV",
+      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "VVD verkiezingsprogramma Tweede Kamer 2025",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/wp-content/uploads/2025/09/Verkiezingsprogramma-TK-VVD-2025-DEF.pdf",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "D66 verkiezingsprogramma 2025-2030",
+      "publisher": "D66",
+      "url": "https://media.d66.nl/uploads/2026/04/D66-Verkiezingsprogramma-2025-2030-2-1.pdf",
+      "date": null
+    },
+    {
+      "id": "s43",
+      "title": "JA21 verkiezingsprogramma 2025",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf",
+      "date": null
+    },
+    {
+      "id": "s44",
+      "title": "ChristenUnie verkiezingsprogramma 2025",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf",
+      "date": null
+    },
+    {
+      "id": "s45",
+      "title": "SGP verkiezingsprogramma 2025",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/download?docID=0bf38fdb632c316533a714ca801a54df72a99572&name=Verkiezingsprogramma_SGP_2025%20eindversie.pdf",
+      "date": null
+    },
+    {
+      "id": "s46",
+      "title": "Standpunten: Klimaat en energie",
+      "publisher": "Forum voor Democratie",
+      "url": "https://fvd.nl/standpunten/klimaat-en-energie",
+      "date": null
+    },
+    {
+      "id": "s47",
+      "title": "Kamerstuk 29 023, nr. 691: Motie van het lid Kops over geen gedifferentieerde nettarieven invoeren",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-691.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s48",
+      "title": "Kamerstuk 29 023, nr. 700: Motie van het lid Heutink over de salderingsregeling niet beëindigen",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-700.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s49",
+      "title": "Kamerstuk 29 023, nr. 686: Motie van het lid Grinwis c.s. over het eigen verbruik van opgewekte zonnestroom stimuleren en bezien of een btw-nultarief voor thuisbatterijen nuttig en nodig is",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-686.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s50",
+      "title": "Kamerstuk 29 023, nr. 679: Motie van het lid Jimmy Dijk over de btw op energie verlagen naar het lage tarief",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-679.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s51",
+      "title": "Kamerstuk 29 023, nr. 696: Motie van het lid Müller c.s. over de Kamer zo spoedig mogelijk informeren over de volume- en tijdsafhankelijke tarieven",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-696.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s52",
+      "title": "Kamerstuk 29 023, nr. 695: Motie van het lid Flach over lastenverzwaringen door stijgende btw-kosten als gevolg van stijgende nettarieven voorkomen",
+      "publisher": "Tweede Kamer / Officiële Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29023-695.html",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "s53",
+      "title": "CDA en D66 willen energietransitie vlottrekken: Crisiswet Netcongestie en SDE++ na 2030 verlengen",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i42349/cda-en-d66-willen-energietransitie-vlottrekken-crisiswet-netcongestie-en-sde-na-2030-verlengen",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "s54",
+      "title": "Rapport Wennink: netcongestie en hoge stroomkosten bedreigen economische groei Nederland",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i42472/rapport-wennink-netcongestie-en-hoge-stroomkosten-bedreigen-economische-groei-nederland",
+      "date": "2025-12-16"
+    },
+    {
+      "id": "s55",
+      "title": "Coalitieakkoord: nieuw kabinet wil klimaatdoelen halen, normering warmtepomp keert terug",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i42820/coalitieakkoord-nieuw-kabinet-wil-klimaatdoelen-halen-normering-warmtepomp-keert-terug",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s56",
+      "title": "40 procent zonnepaneelbezitters heeft geen idee wat einde salderingsregeling betekent voor energierekening",
+      "publisher": "Solar & Storage Magazine",
+      "url": "https://solarmagazine.nl/nieuws-zonne-energie/i45428/40-procent-zonnepaneelbezitters-heeft-geen-idee-wat-einde-salderingsregeling-betekent-voor-energierekening",
+      "date": "2026-11-25"
+    }
+  ]
+}

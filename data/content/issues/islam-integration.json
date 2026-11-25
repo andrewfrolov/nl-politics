@@ -1,0 +1,1158 @@
+{
+  "id": "islam-integration",
+  "title": "Islam, integration and the 'islamisation' debate",
+  "tagline": "What parties say about Islam in the Netherlands, and what official figures and current law show",
+  "updated": "2026-11-25",
+  "summary": "About 6% of residents aged 15 and over call themselves Muslim, a share CBS (Statistics Netherlands) has measured at 5-6% for more than a decade. PVV, Groep Markuszower, JA21, SGP and others speak of 'islamisering' (islamisation) and propose bans or restrictions; DENK and others say the real problem is discrimination against Muslims. The D66-VVD-CDA coalition agreement of January 2026 keeps the partial face-covering ban, aims to counter foreign funding of mosques and announces legislation on weekend schools. In March 2026 the House rejected motions to close Islamic schools and to declare that Islam does not belong to the Netherlands, and the Senate rejected the foreign-funding transparency bill.",
+  "key_facts": [
+    {
+      "label": "Share of Muslims",
+      "value": "6% of the population aged 15+ (2025)",
+      "note": "CBS survey figure. In the same year 16% called themselves Roman Catholic, 12% Protestant and 7% another religion; 42% in total said they belong to a religion.",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Trend in share of Muslims",
+      "value": "+1 percentage point between 2013 and 2023 (to 6%)",
+      "note": "CBS. Over the same period the Roman Catholic share fell by 9 points and the Protestant share by 3 points. The CBS survey covers people aged 15 and over only.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "label": "Age and mosque attendance",
+      "value": "Average age of Muslims 38; 48% regularly attend a mosque (2025)",
+      "note": "CBS. In 2023 just over a quarter of Muslims aged 15+ were under 25 and 4% were 65 or older.",
+      "source_ids": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "label": "Estimated number of Muslims",
+      "value": "About 850,000 (CBS-based) to about 1 million (Pew Research), as reported in 2017",
+      "note": "NOS overview of March 2017. An Ipsos survey cited there found Dutch respondents on average estimated the share at 19%. No more recent official headcount was found for this file.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "label": "Fines under the partial face-covering ban",
+      "value": "0 fines and 0 official reports in five years (2019-2024)",
+      "note": "Cabinet letter of 17 October 2025 on the evaluation by the Verwey-Jonker Institute, which estimated that about 100 to 400 women in the Netherlands wear a niqab or burqa.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "label": "Jihadism investigations",
+      "value": "19 people subject of AIVD official reports in 2025; 11 arrested, 6 of them under 24",
+      "note": "AIVD annual report 2025. Young people (up to 24) make up a third of the people the AIVD investigates for jihadism.",
+      "source_ids": [
+        "s13",
+        "s22"
+      ]
+    },
+    {
+      "label": "Terrorist threat level",
+      "value": "Level 4 on a scale of 5 (June 2026)",
+      "note": "NCTV: the jihadist threat 'remains the most decisive' for the level; the Dutch jihadist movement consists of 'a few hundred people'.",
+      "source_ids": [
+        "s15",
+        "s14"
+      ]
+    },
+    {
+      "label": "Registered crime suspects by origin",
+      "value": "2023: 0.8% of total population aged 12+; Turkish origin 1.5%; Moroccan origin 2.8%",
+      "note": "CBS, provisional 2023 figures. In 2005 the figures were 1.9%, 4.5% and 7.4%. CBS records origin, not religion.",
+      "source_ids": [
+        "s24"
+      ]
+    },
+    {
+      "label": "Work and welfare by origin",
+      "value": "2023 net labour participation: 73.1% overall; 59.0% (born in Turkey), 58.3% (born in Morocco); 78.5% and 73.8% for those born in the Netherlands of Turkish and Moroccan origin",
+      "note": "CBS. Share receiving social assistance (bijstand) in 2023: 3.3% overall; 11.5% and 18.3% for those born in Turkey and Morocco; 3.0% and 4.7% for those born in the Netherlands of Turkish and Moroccan origin.",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "label": "Amplified calls to prayer",
+      "value": "10 municipalities report structural amplified calls to prayer from mosques (survey published March 2026)",
+      "note": "National baseline survey: 145 municipalities took part, 104 valid responses, 71 of them with some form of religious sound.",
+      "source_ids": [
+        "s11"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "What parties mean by 'islamisation'",
+      "text": "The PVV manifesto says the party was founded to protect the Netherlands against 'islamisering' and describes Islam as aimed 'not at integration but at submission'. In the March 2026 integration debate PVV MP Boon listed headscarves, prayer rooms, Ramadan adjustments and the growth of Islamic schools as examples. JA21 MP Nanninga described it as the influence of 'political Islam' and foreign-linked organisations; the SGP manifesto uses the heading 'Tegen islamisering' for amplified calls to prayer and iftar meals hosted by government bodies. DENK MP Ergin said in the same debate that the real problem is a lack of acceptance and a double standard applied to Islamic customs.",
+      "source_ids": [
+        "s26",
+        "s5",
+        "s28"
+      ]
+    },
+    {
+      "heading": "Security: jihadism and foreign influence",
+      "text": "The AIVD (General Intelligence and Security Service) reports that in 2025 the main terrorist threat again came from jihadism, almost entirely from ISIS and its supporters, and that the number of young pro-ISIS people under investigation rose further. A 2020 parliamentary inquiry (POCOB) concluded that organisations and governments of unfree countries try to gain influence in Dutch Muslim communities through visible and hidden funding, and that Turkey seeks to anchor its view of Islam through Diyanet mosques.",
+      "source_ids": [
+        "s13",
+        "s9"
+      ]
+    },
+    {
+      "heading": "Discrimination and trust",
+      "text": "In December 2025 the cabinet stated that discrimination against Muslims exists in the Netherlands and must be tackled. It cited research in which 16% of Dutch Muslims feel discriminated against because of their faith and 37-43% of women who wear a headscarf report discrimination at an internship or at work. At least ten municipalities had a private firm (NTA) covertly research mosques and Muslim communities; in February 2026 the Dutch Data Protection Authority (AP) fined ten municipalities a total of 250,000 euros for unlawfully processing sensitive data about Muslim residents.",
+      "source_ids": [
+        "s12",
+        "s16",
+        "s18"
+      ]
+    },
+    {
+      "heading": "Integration indicators",
+      "text": "CBS figures for 2023 show lower labour participation and higher social-assistance use among people born in Turkey or Morocco than in the population as a whole, and figures close to or above the national average in labour participation for their children born in the Netherlands. The share of registered crime suspects among people of Moroccan and Turkish origin is above the national average and has fallen since 2005. CBS does not record religion in these statistics.",
+      "source_ids": [
+        "s24",
+        "s25"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Migration background of Dutch Muslims",
+      "text": "According to a 2016 NOS overview based on SCP (Netherlands Institute for Social Research) data, most Muslims in the Netherlands have a Moroccan or Turkish background; smaller groups come from Afghanistan, Iraq, Iran and Somalia. CBS notes that Muslims are relatively young compared with Catholics and Protestants, whose numbers are falling.",
+      "source_ids": [
+        "s36",
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Funding from abroad",
+      "text": "The POCOB inquiry of 2020 examined donations from countries including Kuwait and Turkey to Dutch mosques and found that some foundations gave little insight into their finances. It listed possible measures in five categories, including more transparency, bans on foreign funding flows and supervision of informal mosque education, and left the choice to the political parties.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "heading": "Online radicalisation",
+      "text": "The AIVD and the NCTV (National Coordinator for Counterterrorism and Security) report that jihadist material is widely available on social media and that those most relevant to the threat radicalise largely online. The NCTV states that the older physical jihadist networks in the Netherlands currently pose only a limited threat.",
+      "source_ids": [
+        "s13",
+        "s14"
+      ]
+    },
+    {
+      "heading": "Constitutional freedoms set the legal limits",
+      "text": "Freedom of religion (Article 6 of the Constitution) and freedom of education (Article 23) protect mosques and Islamic schools. Minister Aartsen (Work and Participation) told the House in March 2026 that he will not distinguish between religions and that freedom of belief lies within the limits of the democratic legal order. The Council of State said of an earlier PVV bill to ban Islamic expressions that it conflicted with essential principles of the democratic rule of law; the PVV withdrew that bill in January 2024.",
+      "source_ids": [
+        "s5",
+        "s20",
+        "s1"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "The Partial Ban on Face-Covering Clothing Act (Wgbk) takes effect, covering education, healthcare, public transport and government buildings.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2020-06-25",
+      "event": "The parliamentary inquiry committee on unwanted influence from unfree countries (POCOB) presents its report '(On)zichtbare invloed' on foreign funding of mosques.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2021",
+      "event": "NRC reveals that the private firm NTA covertly visited mosques and collected data on mosque-goers for about ten municipalities, on the advice of the NCTV.",
+      "source_ids": [
+        "s18",
+        "s16"
+      ]
+    },
+    {
+      "date": "2024-01-08",
+      "event": "PVV leader Wilders withdraws three private member's bills, including one banning Islamic expressions such as mosques and the Quran.",
+      "source_ids": [
+        "s20"
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "event": "A House majority declines to debate the National Study on Discrimination against Muslims, presented on 21 March 2025; DENK is supported only by GL-PvdA, D66, Volt, SP and PvdD.",
+      "source_ids": [
+        "s19",
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "event": "The House of Representatives adopts the transparency bill on civil-society organisations (Wtmo), which would require disclosure of donations from outside the EU/EEA.",
+      "source_ids": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "event": "The outgoing Schoof cabinet writes that it aims to work towards a general ban on face-covering clothing in public space.",
+      "source_ids": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "event": "The cabinet states in a letter to the House that discrimination against Muslims exists in the Netherlands and must be tackled.",
+      "source_ids": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement: the partial face-covering ban stays and is to be enforced more actively; foreign funding of mosques is to be countered.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "event": "The Data Protection Authority fines ten municipalities a total of 250,000 euros over secret research into Muslim communities.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "event": "The House rejects PVV motions to declare that Islam does not belong to the Netherlands and to close all Islamic schools, and adopts motions to ban the Muslim Brotherhood and to include political Islam in the integration agenda.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "event": "The Senate rejects the transparency bill (Wtmo); only SGP, VVD, PVV and JA21 vote in favour.",
+      "source_ids": [
+        "s7"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Coalition agreement (January 2026)",
+      "text": "The D66-VVD-CDA agreement says some religious institutions are misused by unfree countries, wants them to be transparent about funding and says foreign funding of mosques, among others, will be countered 'as much as possible'. It announces legislation to allow targeted supervision of weekend and evening schools under conditions, a national list of hate-preaching imams pending an EU blacklist, a reporting point for foreign interference, and continued interreligious dialogue. The partial face-covering ban stays and is to be enforced more actively by issuing fines faster. The agreement calls freedom of education under Article 23 a foundation of the Constitution and says it may not be misused to undermine the democratic rule of law.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "heading": "Face-covering clothing",
+      "text": "Since 2019 face-covering clothing has been banned in education, healthcare, public transport and government buildings. The 2024 evaluation found hardly any reported incidents and no fines in five years, and a strongly negative effect on the small group of women who wear a niqab or burqa. The Schoof cabinet announced in October 2025 that it would work out an extension with the ambition of a general ban; the January 2026 coalition agreement speaks only of keeping and more actively enforcing the partial ban.",
+      "source_ids": [
+        "s10",
+        "s1",
+        "s11"
+      ]
+    },
+    {
+      "heading": "Foreign funding and informal education: no law in force",
+      "text": "The transparency bill (Wtmo) was rejected by the Senate on 24 March 2026 after mayors and the Public Prosecution Service said they could not properly implement it and senators found the term 'undermining' insufficiently substantiated. The bill on supervision of informal education went through consultation in 2024; in March 2026 it had not been submitted to the House, and the coalition agreement says legislation is being developed. Its status after March 2026 could not be verified for this file.",
+      "source_ids": [
+        "s7",
+        "s23",
+        "s5",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Discrimination policy and other running files",
+      "text": "The coalition agreement gives the National Coordinator against Discrimination and Racism (NCDR) a statutory basis and promises more specialised discrimination detectives. The December 2025 cabinet letter sets out measures against discrimination of Muslims and half-yearly talks with the Muslim community. On amplified calls to prayer, the minister said in March 2026 that a final report was expected in June 2026, after which the cabinet would consider next steps; the outcome could not be verified for this file. On the Muslim Brotherhood, the minister said the AIVD monitors it and described its size in the Netherlands as very limited.",
+      "source_ids": [
+        "s1",
+        "s12",
+        "s5",
+        "s11"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Ban Islamic education / close all Islamic schools",
+      "description": "The PVV manifesto says Islamic education deserves no protection under Articles 6 and 23 of the Constitution and must be banned; a motion asked the government to close all Islamic schools.",
+      "proposed_by": [
+        "PVV"
+      ],
+      "status": "Motion Boon/Wilders (32824, nr. 489) rejected 2026-03-17; only PVV and Groep Markuszower voted in favour",
+      "source_ids": [
+        "s26",
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "title": "Headscarf bans",
+      "description": "PVV: a legal ban on Islamic head covering for underage girls in primary and secondary education, and a ban on headscarves in government buildings. JA21: no headscarves or other religious expressions for police, boa's (municipal enforcement officers) and other public officials.",
+      "proposed_by": [
+        "PVV",
+        "JA21"
+      ],
+      "status": "Motion on girls at school (32824, nr. 490) rejected 2026-03-17 (for: JA21, BBB, Lid Keijzer, Groep Markuszower, PVV); other items in manifestos",
+      "source_ids": [
+        "s6",
+        "s26",
+        "s27",
+        "s5"
+      ]
+    },
+    {
+      "title": "General ban on face-covering clothing",
+      "description": "Extend the partial ban to all public space, following France and Belgium or Denmark. The VVD also wants to criminalise forcing others to wear face-covering clothing. DENK wants the existing ban repealed.",
+      "proposed_by": [
+        "PVV",
+        "VVD"
+      ],
+      "status": "In PVV and VVD manifestos; Schoof cabinet announced the ambition on 2025-10-17; the coalition agreement of 2026-01-30 keeps the partial ban",
+      "source_ids": [
+        "s26",
+        "s30",
+        "s10",
+        "s1",
+        "s31"
+      ]
+    },
+    {
+      "title": "Restrict or protect the amplified call to prayer",
+      "description": "PVV: ban the Islamic call to prayer. SGP: amplified Islamic calls to prayer do not belong in public space. DENK: protect the right to the Islamic call to prayer more explicitly and refrain from extra rules.",
+      "proposed_by": [
+        "PVV",
+        "SGP",
+        "DENK"
+      ],
+      "status": "DENK motion to refrain from extra rules (32824, nr. 503) rejected 2026-03-17; government review of rules was due to finish in June 2026",
+      "source_ids": [
+        "s26",
+        "s28",
+        "s31",
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "title": "Transparency or ban on foreign funding of mosques",
+      "description": "Require disclosure of foreign donations and allow intervention. VVD: religious organisations may not depend for more than 50% on foreign governments. JA21: ban foreign funding of mosques. ChristenUnie: restrict money flows from unfree countries.",
+      "proposed_by": [
+        "VVD",
+        "JA21",
+        "ChristenUnie",
+        "D66",
+        "CDA"
+      ],
+      "status": "Government bill (Wtmo) adopted by the House 2025-04-01, rejected by the Senate 2026-03-24; remains an aim in the coalition agreement of D66, VVD and CDA",
+      "source_ids": [
+        "s7",
+        "s30",
+        "s27",
+        "s34",
+        "s1"
+      ]
+    },
+    {
+      "title": "Supervision of weekend and Quran schools",
+      "description": "Allow the Education Inspectorate to act on signals that informal education incites hatred, violence or discrimination. DENK wants the bill withdrawn; the SGP opposes general supervision of informal education such as in churches.",
+      "proposed_by": [
+        "VVD",
+        "JA21",
+        "D66",
+        "CDA"
+      ],
+      "status": "Draft bill in consultation since 2024-11-12; not submitted to the House as of March 2026; coalition agreement announces legislation",
+      "source_ids": [
+        "s23",
+        "s30",
+        "s27",
+        "s1",
+        "s31",
+        "s28",
+        "s5"
+      ]
+    },
+    {
+      "title": "Ban the Muslim Brotherhood and affiliated organisations",
+      "description": "Motion asking the government to ban the Muslim Brotherhood and organisations linked to it.",
+      "proposed_by": [
+        "PVV"
+      ],
+      "status": "Motion Boon/Wilders (32824, nr. 491) adopted 2026-03-17 (for: 50PLUS, VVD, SGP, ChristenUnie, JA21, BBB, Lid Keijzer, Groep Markuszower, PVV, FVD); CDA said a ban is not possible because it is not a legal entity",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "title": "Ban on burning the Quran; coordinator against Muslim hatred",
+      "description": "Make destroying, burning or tearing up the Bible, Torah, Quran, Vedas or other holy scriptures a criminal offence; appoint a National Coordinator against Muslim Hatred; fund security for mosques.",
+      "proposed_by": [
+        "DENK"
+      ],
+      "status": "In DENK manifesto 2025",
+      "source_ids": [
+        "s31"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "Islam will be the largest religion in the Netherlands within about 25 years, and there will be 3 to 4 million Muslim inhabitants around 2050 if migration policy is unchanged; among people under 25 Islam is already the largest religion.",
+      "claimed_by": "PVV MP Boon in the House on 9 March 2026, citing demographer Jan Latten and researcher Jan van de Beek",
+      "what_data_show": "CBS measures current affiliation by survey among people aged 15 and over: 6% Muslim in 2025, against 16% Roman Catholic and 12% Protestant, and a rise of 1 percentage point between 2013 and 2023. CBS reports that Muslims are on average younger (38) than Catholics (59) and Protestants (54), that just over a quarter of Muslims aged 15+ are under 25 and only a small part of Catholics and Protestants are. The CBS releases consulted for this file contain no projection of religious affiliation and no ranking of religions among under-25s. The projections cited by Boon were not verified for this file.",
+      "source_ids": [
+        "s5",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "claim": "70% of Muslims in the Netherlands consider religious rules (sharia) more important than Dutch law.",
+      "claimed_by": "PVV manifesto 2025; PVV MP Boon (attributing it to research by sociologist Ruud Koopmans) and JA21 MP Nanninga in the House on 9 March 2026",
+      "what_data_show": "The official sources consulted for this file (CBS, cabinet letters) contain no such figure, and the underlying study was not opened, so its sample, year and wording could not be checked. In the debate CDA MP Van den Brink responded that there are many interpretations of Islam; Minister Aartsen said he would not distinguish between religions and that the limit lies at the democratic legal order.",
+      "source_ids": [
+        "s26",
+        "s5"
+      ]
+    },
+    {
+      "claim": "People with a migration background are over-represented in crime (JA21, PVV) versus: crime has nothing to do with religion, origin or skin colour, but with personal circumstances and socio-economic position (DENK).",
+      "claimed_by": "JA21 MP Nanninga and DENK MP Ergin in the House on 9 March 2026",
+      "what_data_show": "CBS: in 2023 (provisional) 0.8% of the population aged 12+ was registered as a suspect of a crime; for people of Turkish origin 1.5%, Moroccan origin 2.8%, Surinamese origin 2.1%. In 2005 these were 1.9%, 4.5%, 7.4% and 5.3%. These are uncorrected shares of registered suspects by origin; CBS does not register suspects' religion. Figures corrected for age or income were not retrieved for this file.",
+      "source_ids": [
+        "s5",
+        "s24"
+      ]
+    },
+    {
+      "claim": "The National Study on Discrimination against Muslims is a worthless study, and much so-called discrimination of Muslims is in reality resistance to islamisation (PVV) versus: the study proves there is a problem that should be acted on (DENK).",
+      "claimed_by": "PVV MP Boon and DENK MP Ergin, 2025-2026",
+      "what_data_show": "The study was qualitative: a literature review plus 44 interviews and focus groups. In March 2025 SGP, BBB, CDA and NSC also criticised its method. The cabinet wrote in December 2025 that it 'recognises that discrimination against Muslims exists in the Netherlands', pointing to other studies (CBS Safety Monitor 2024, EU Fundamental Rights Agency 2024, SCP 2024, Radboud University 2024), and added that experienced discrimination is not the same as discrimination established under criminal law and that criticism of religion is not by definition discriminatory.",
+      "source_ids": [
+        "s5",
+        "s19",
+        "s12"
+      ]
+    },
+    {
+      "claim": "Islamic education is growing explosively: nine of the fourteen new primary schools opening in 2026 are Islamic and there are almost one hundred Islamic schools; around the Cornelius Haga Lyceum in Amsterdam an 'Islamic no-go area' arises during breaks.",
+      "claimed_by": "PVV manifesto 2025 and PVV MP Boon in the House on 9 March 2026",
+      "what_data_show": "The VVD manifesto also states that a considerable number of Islamic schools have been added under the 2021 law on new schools, and the coalition agreement says that law causes unforeseen problems and will be revised. Official school counts (Education Executive Agency DUO) and official reporting on the situation around the Cornelius Haga Lyceum were not retrieved for this file, so the numbers and the 'no-go area' description could not be checked against official sources.",
+      "source_ids": [
+        "s26",
+        "s5",
+        "s30",
+        "s1"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "D66 is the largest coalition party. The coalition agreement it signed keeps the partial face-covering ban, aims to counter foreign funding of mosques and announces legislation for targeted supervision of weekend schools, while stating that racism and discrimination have no place. On 17 March 2026 D66 voted against the PVV motions on Islam and for the DENK motions against extra rules on amplified calls to prayer and for structural consultation with Muslim communities. In the Senate D66 voted against the foreign-funding transparency bill on 24 March 2026.",
+      "salience": "medium",
+      "salience_basis": "The 2025 manifesto chapters consulted name 'moslimhaat' as one of several forms of discrimination and promise extra security for mosques and synagogues; D66 MP Bamenga filed motions on integration and labour participation, none specifically on Islam, in the March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "I will not go along with this kind of framing of people with a Muslim background. Discrimination must be tackled, wherever it comes from.",
+          "text_nl": "Ik ga niet mee in dit soort frames van mensen met een moslimachtergrond. Discriminatie moet, ongeacht waar die vandaan komt, worden aangepakt.",
+          "speaker": "Bamenga (D66 MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        },
+        {
+          "text_en": "We take extra security measures where needed, such as at mosques and synagogues.",
+          "text_nl": "We nemen extra beveiligingsmaatregelen waar dat nodig is, zoals bij moskeeën en synagogen.",
+          "speaker": "D66 manifesto 2025",
+          "date": "2025",
+          "source_id": "s33"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s32",
+        "s33"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "The VVD manifesto wants mosques and weekend schools to be transparent about funding, a cap of 50% on funding of religious organisations by foreign governments, quick handling of the informal-education supervision bill, a total ban on face-covering clothing and a municipal council veto on new schools. On 17 March 2026 the VVD voted against declaring that Islam does not belong to the Netherlands and against closing Islamic schools, and for the motions to ban the Muslim Brotherhood and to include political Islam and foreign mosque funding in the integration agenda. VVD senators voted for the transparency bill that the Senate rejected.",
+      "salience": "high",
+      "salience_basis": "Seven separate pledges in the 2025 manifesto's integration section (foreign funding, weekend schools, burqa ban, foreign clergy, sharia declaration for newcomers, subsidies, new schools); the integration portfolio in the cabinet is held by Minister Aartsen; VVD MP Michon-Derkzen filed three motions in the March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "Religious and civil-society institutions such as mosques and weekend schools must be transparent about their funding, and it must be stopped if it turns out that it is being used to undermine our rule of law.",
+          "text_nl": "Religieuze en maatschappelijke instellingen zoals moskeeën en weekendscholen moeten transparant zijn over hun financiering en deze moet worden stopgezet als blijkt dat daarmee onze rechtsstaat wordt ondermijnd.",
+          "speaker": "VVD manifesto 2025",
+          "date": "2025",
+          "source_id": "s30"
+        },
+        {
+          "text_en": "It is not about origin. It is certainly not about religion, because we have freedom of that in this country too. But it is about behaviour.",
+          "text_nl": "Het gaat niet om de afkomst. Het gaat al zeker niet om religie, want daar hebben we ook vrijheid van in dit land. Maar het gaat wel over gedrag.",
+          "speaker": "Michon-Derkzen (VVD MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        }
+      ],
+      "source_ids": [
+        "s30",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "PRO (the merged GroenLinks-PvdA; listed under that name in the March 2026 voting record) voted on 17 March 2026 against all PVV motions on Islam and against the JA21 motion on political Islam, and for the DENK motions against extra rules on amplified calls to prayer and for structural consultation with Muslim communities. Its senators voted against the foreign-funding transparency bill on 24 March 2026. In March 2025 GL-PvdA supported DENK's request for a debate on the national study of discrimination against Muslims. Its MP Lahlah's motions in the March 2026 debate concerned civic integration funding, work routes and women status holders.",
+      "salience": "medium",
+      "salience_basis": "Based on votes and motions only: the party's 2025 manifesto could not be opened for this file (website returned an error), and its spokesperson's contribution to the 9 March 2026 integration debate did not address Islam.",
+      "quotes": [],
+      "source_ids": [
+        "s5",
+        "s6",
+        "s7",
+        "s19"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "The PVV manifesto states the party was founded to protect the Netherlands against 'islamisation'. It calls for a ban on Islamic education, a general burqa ban, a ban on the Islamic call to prayer, a ban on headscarves in government buildings and no immigration from Islamic countries; according to NOS, the 2023 calls to ban the Quran and mosques are not in the 2025 programme. In March 2026 PVV MPs Boon and Wilders tabled motions to declare that Islam does not belong to the Netherlands, to close all Islamic schools, to ban headscarves for underage girls at school and to ban the Muslim Brotherhood; only the last was adopted.",
+      "salience": "core",
+      "salience_basis": "The manifesto says the party 'was founded' for this purpose; the PVV filed four Islam-specific motions in the single integration debate of 9 March 2026 and used the word 'islamisering' repeatedly in that debate.",
+      "quotes": [
+        {
+          "text_en": "The PVV was founded to protect the Netherlands against islamisation. Islam is without exception the greatest existential threat to our freedom.",
+          "text_nl": "De PVV is opgericht om Nederland te beschermen tegen de islamisering. De islam is zonder uitzondering de grootste existentiële bedreiging voor onze vrijheid.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s26"
+        },
+        {
+          "text_en": "Our generation can still stop the islamisation.",
+          "text_nl": "Onze generatie kan de islamisering nog stoppen.",
+          "speaker": "Boon (PVV MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        },
+        {
+          "text_en": "They do not want integration, but islamisation.",
+          "text_nl": "Ze willen geen integratie, maar islamisering.",
+          "speaker": "Boon (PVV MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        }
+      ],
+      "source_ids": [
+        "s26",
+        "s5",
+        "s6",
+        "s21",
+        "s20"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "The CDA is a coalition party and signatory of the coalition agreement, which aims to counter foreign funding of mosques, keeps the partial face-covering ban and affirms freedom of education under Article 23. On 17 March 2026 the CDA voted against all PVV motions on Islam, including the Muslim Brotherhood ban, and for the JA21 motion to include political Islam, foreign mosque funding and salafist influence in the integration agenda. CDA senators voted against the transparency bill on 24 March 2026. In March 2025 the CDA opposed a debate on the national study of discrimination against Muslims, citing the small number of respondents.",
+      "salience": "medium",
+      "salience_basis": "Based on the coalition agreement, votes and debate contributions; the CDA's own 2025 manifesto could not be opened for this file (website returned an error). The CDA filed no Islam-specific motion in the March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "Could it be that, as in every faith, there are a great many different interpretations of Islam and that there are therefore also very many people who simply do want to take part in this society?",
+          "text_nl": "Zou het zo kunnen zijn dat, zoals in elk geloof, er een heleboel verschillende interpretaties van de islam zijn en dat er dus ook heel veel mensen zijn die wel gewoon willen meedoen in deze samenleving?",
+          "speaker": "Tijs van den Brink (CDA MP), question to PVV MP Boon",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        },
+        {
+          "text_en": "The AIVD indicates that the Muslim Brotherhood does not exist in the Netherlands as a formal organisation and is therefore not a legal entity either. That is why a ban is not possible.",
+          "text_nl": "De AIVD geeft aan dat de Moslimbroederschap in Nederland niet voorkomt als formele organisatie en dus ook geen juridische entiteit is. Daarom is een verbod niet mogelijk.",
+          "speaker": "Tijs van den Brink (CDA MP), explanation of vote",
+          "date": "2026-03-17",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s19"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "JA21's manifesto has a section headed 'Islam en Westerse waarden', calls the growth of Islamic schools undesirable, wants a ban on foreign funding of mosques, strict supervision of informal Islamic education, a blacklist of preachers and no headscarves or other religious expressions for police, municipal enforcement officers (boa's) and other public officials. On 17 March 2026 JA21 voted against the PVV motions to declare that Islam does not belong to the Netherlands and to close Islamic schools, and for the headscarf ban for underage girls at school and the Muslim Brotherhood ban. Its own motion to include political Islam, foreign mosque funding and salafist influence in the integration agenda was adopted. JA21 senators voted for the transparency bill.",
+      "salience": "high",
+      "salience_basis": "Dedicated manifesto section and several manifesto bullet points; JA21 MP Nanninga filed a motion on political Islam (adopted 17 March 2026) and an earlier Eerdmans/Flach motion asked the cabinet to address the role of Islam in integration problems.",
+      "quotes": [
+        {
+          "text_en": "JA21 is very worried about the islamisation of the Netherlands and will always fight it vigilantly but peacefully. However, having the House declare what people in the Netherlands may and may not believe is, first, empty talk and, second, undesirable.",
+          "text_nl": "JA21 maakt zich grote zorgen over de islamisering van Nederland en zal hier altijd waakzaam maar vreedzaam tegen strijden. Echter, de Kamer laten uitspreken wat mensen in Nederland wel en niet mogen geloven, is ten eerste loze praat en ten tweede onwenselijk.",
+          "speaker": "Nanninga (JA21 MP), explanation of vote",
+          "date": "2026-03-17",
+          "source_id": "s6"
+        },
+        {
+          "text_en": "The big problem, however, is the usurpation by political Islam in our country, which also actively keeps people from integrating decently here.",
+          "text_nl": "Het grote probleem is echter de usurpatie door de politieke islam in ons land, wat mensen er ook actief van weerhoudt om hier fatsoenlijk te integreren.",
+          "speaker": "Nanninga (JA21 MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s5",
+        "s6",
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "Groep Markuszower, which split from the PVV in January 2026, voted on 17 March 2026 for all PVV motions on Islam: declaring that Islam does not belong to the Netherlands, closing all Islamic schools, a headscarf ban for underage girls at school and a ban on the Muslim Brotherhood. It was the only group besides the PVV to vote for closing all Islamic schools. Its MP Lammers criticised the PVV for not saying how the closure should be arranged.",
+      "salience": "high",
+      "salience_basis": "Voted for every Islam-related PVV motion on 17 March 2026 and gave a separate explanation of vote; the group has no election manifesto of its own (formed after the October 2025 election) and filed no motions in that debate.",
+      "quotes": [
+        {
+          "text_en": "Our group supports the motion, number 489, by Boon and Wilders on closing Islamic schools. But what goes against the grain for us is that the PVV once again makes no proposal whatsoever on how they want to arrange this.",
+          "text_nl": "Onze fractie steunt de motie op stuk nr. 489 van Boon en Wilders, over het sluiten van islamitische scholen. Maar wat ons tegen de borst stuit, is dat de PVV opnieuw geen enkel voorstel doet over hoe zij dit dan willen regelen.",
+          "speaker": "Lammers (Groep Markuszower MP), explanation of vote",
+          "date": "2026-03-17",
+          "source_id": "s6"
+        }
+      ],
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "The FVD 2025 manifesto focuses on stopping immigration and encouraging remigration and does not contain the word 'islam'. On 17 March 2026 FVD voted for the PVV motions to declare that Islam does not belong to the Netherlands and to ban the Muslim Brotherhood, and against closing all Islamic schools and against the headscarf ban for underage girls at school. FVD senators voted against the foreign-funding transparency bill on 24 March 2026.",
+      "salience": "low",
+      "salience_basis": "A text search of the 2025 manifesto finds no occurrence of 'islam', 'moskee' or 'moslim'; FVD did not take part in the 9 March 2026 integration debate (not among the seven members present).",
+      "quotes": [],
+      "source_ids": [
+        "s29",
+        "s6",
+        "s7",
+        "s5"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The ChristenUnie manifesto, referring to the POCOB inquiry, wants to restrict money flows from unfree countries to mosques and informal Islamic education and to strive for banning organisations that exert such influence. On 17 March 2026 the party voted against the PVV motions to declare that Islam does not belong to the Netherlands, to close Islamic schools and to ban headscarves for girls, and for the Muslim Brotherhood ban and the JA21 motion on political Islam. ChristenUnie senators voted against the transparency bill on 24 March 2026.",
+      "salience": "medium",
+      "salience_basis": "One manifesto passage headed 'Einde aan beïnvloeding uit onvrije (islamitische) landen'; the words 'islamitische' and 'moskee' occur three times in total in the manifesto; no ChristenUnie member took part in the 9 March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "To counter this we restrict money flows from unfree countries.",
+          "text_nl": "Om dit tegen te gaan leggen we geldstromen uit onvrije landen aan banden.",
+          "speaker": "ChristenUnie manifesto 2025",
+          "date": "2025",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s34",
+        "s6",
+        "s7",
+        "s5"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "The SP manifesto does not mention Islam, mosques or Muslims; it addresses segregation in schools and neighbourhoods and discrimination in general terms. On 17 March 2026 the SP voted against all PVV motions on Islam and against the JA21 motion on political Islam, for DENK's motion on structural consultation with Muslim communities, and against DENK's motion to refrain from extra rules on amplified calls to prayer. SP senators voted against the transparency bill. In March 2025 the SP supported DENK's request for a debate on the national study of discrimination against Muslims.",
+      "salience": "low",
+      "salience_basis": "A text search of the 2025 manifesto finds no occurrence of 'islam', 'moskee' or 'moslim'; the SP did not take part in the 9 March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "Dutch schools are among the most segregated schools in the world.",
+          "text_nl": "Nederlandse scholen behoren tot de meest gesegregeerde scholen in de wereld.",
+          "speaker": "SP manifesto 2025",
+          "date": "2025",
+          "source_id": "s35"
+        }
+      ],
+      "source_ids": [
+        "s35",
+        "s6",
+        "s7",
+        "s19",
+        "s5"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "On 17 March 2026 the PvdD voted against all PVV motions on Islam and against the JA21 motion on political Islam, and for all four DENK motions, including those against extra rules on amplified calls to prayer and for structural consultation with Muslim communities. PvdD senators voted against the transparency bill on 24 March 2026. In March 2025 the PvdD supported DENK's request for a debate on the national study of discrimination against Muslims.",
+      "salience": "low",
+      "salience_basis": "Based on votes only: the party filed no motions and did not take part in the 9 March 2026 integration debate; its 2025 manifesto could not be opened for this file (website returned an error).",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s7",
+        "s19",
+        "s5"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The SGP manifesto has a passage headed 'Tegen islamisering' ('Against islamisation') that criticises the growth of amplified calls to prayer and of iftar meals at government bodies, and says Islamic calls to prayer with sound amplification do not belong in public space. It opposes general supervision of informal education such as in churches. On 17 March 2026 the SGP voted for declaring that Islam does not belong to the Netherlands and for the Muslim Brotherhood ban, and against closing all Islamic schools and the school headscarf ban. SGP senators voted for the transparency bill.",
+      "salience": "medium",
+      "salience_basis": "A headed passage in the 2025 manifesto and index entries for 'islam' and 'islamitische scholen'; SGP co-signed the Eerdmans/Flach motion on the role of Islam in integration problems; the SGP did not take part in the 9 March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "The research does not deserve the name 'National study'.",
+          "text_nl": "Het verdient de naam 'Nationaal onderzoek' niet.",
+          "speaker": "Flach (SGP MP), on the national study of discrimination against Muslims, as quoted by NOS",
+          "date": "2025-03-25",
+          "source_id": "s19"
+        }
+      ],
+      "source_ids": [
+        "s28",
+        "s6",
+        "s7",
+        "s11",
+        "s19"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "On 17 March 2026 BBB voted for the PVV motions to declare that Islam does not belong to the Netherlands, to ban headscarves for underage girls at school and to ban the Muslim Brotherhood, and against closing all Islamic schools. It voted for the JA21 motion on political Islam. BBB senators voted against the foreign-funding transparency bill on 24 March 2026. In March 2025 BBB opposed a debate on the national study of discrimination against Muslims; NOS reported the party found the study 'rattles on all sides'.",
+      "salience": "medium",
+      "salience_basis": "Based on votes only: BBB supported three of the four Islam-specific PVV motions but filed none itself and did not take part in the 9 March 2026 integration debate; its 2025 manifesto could not be opened for this file (website returned an error).",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s7",
+        "s19",
+        "s5"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "DENK's manifesto has a section 'Bestrijding moslimhaat' (combating hatred of Muslims): a National Coordinator against Muslim hatred, government funding for security of mosques, a legal ban on burning the Quran and other holy books, explicit protection of the Islamic call to prayer, and repeal of the niqab ban and of the bills on informal education and civil-society transparency, which it calls 'Islamophobic bullying laws'. In March 2026 DENK MP Ergin tabled motions to abolish the term 'integration', to recognise the 'integration paradox', to refrain from extra rules on amplified calls to prayer and for structural consultation with Muslim communities; all four were rejected.",
+      "salience": "core",
+      "salience_basis": "Dedicated manifesto section with eight measures; DENK requested the national study of discrimination against Muslims in 2022 and filed four motions in the 9 March 2026 integration debate.",
+      "quotes": [
+        {
+          "text_en": "So the problem is not integration; the problem is acceptance.",
+          "text_nl": "Het probleem is dus niet de integratie, maar het probleem is de acceptatie.",
+          "speaker": "Ergin (DENK MP)",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        },
+        {
+          "text_en": "Hatred of Muslims is a big problem in our society.",
+          "text_nl": "Moslimhaat is een groot probleem in onze samenleving.",
+          "speaker": "DENK manifesto 2025",
+          "date": "2025",
+          "source_id": "s31"
+        },
+        {
+          "text_en": "That double standard we run up against is the real problem of this country.",
+          "text_nl": "Die dubbele standaard waar we tegenaan lopen, is het echte probleem van dit land.",
+          "speaker": "Ergin (DENK MP), on reactions to Ramadan lighting and iftars",
+          "date": "2026-03-09",
+          "source_id": "s5"
+        }
+      ],
+      "source_ids": [
+        "s31",
+        "s5",
+        "s6",
+        "s19"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "On 17 March 2026 50PLUS voted against the PVV motions to declare that Islam does not belong to the Netherlands, to close Islamic schools and to ban headscarves for girls at school, and for the Muslim Brotherhood ban and the JA21 motion on political Islam. 50PLUS senators voted against the transparency bill on 24 March 2026.",
+      "salience": "low",
+      "salience_basis": "Based on votes only; 50PLUS filed no motions and did not take part in the 9 March 2026 integration debate.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s7",
+        "s5"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Face-covering clothing (such as a niqab, burqa or balaclava) is banned in schools, healthcare institutions, public transport and government buildings. No fine was issued in the first five years; the coalition agreement says fines will be issued faster.",
+      "source_ids": [
+        "s10",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent",
+        "student"
+      ],
+      "text": "Islamic schools remain lawful and publicly funded under Article 23 of the Constitution; the motion to close them was rejected on 17 March 2026. The coalition agreement announces a revision of the Act on more room for new schools, which governs how new schools are founded.",
+      "source_ids": [
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent"
+      ],
+      "text": "Weekend, evening and Quran schools are currently not supervised by the Education Inspectorate. The coalition plans legislation allowing targeted supervision under conditions (proposal, not yet law as of March 2026).",
+      "source_ids": [
+        "s23",
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "applies_to": [
+        "employee",
+        "student"
+      ],
+      "text": "Research cited by the cabinet found that 37-43% of women who wear a headscarf have experienced discrimination at an internship or at work. Discrimination on grounds of religion is prohibited; the coalition agreement promises a national anti-discrimination service with physical desks and more discrimination detectives.",
+      "source_ids": [
+        "s12",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "The NCTV kept the terrorist threat level at 4 out of 5 in June 2026, meaning the NCTV sees a real chance of an attack; the NCTV names the jihadist threat as the main component.",
+      "source_ids": [
+        "s15"
+      ]
+    },
+    {
+      "applies_to": [
+        "dutch_citizen",
+        "non_eu_resident",
+        "eu_citizen"
+      ],
+      "text": "People who experience pressure or intimidation from a foreign government are to get a government reporting point for foreign interference; in March 2026 the minister said it was planned to be operational before the summer of 2026 (current status not verified).",
+      "source_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Residents whose data were processed in the covert municipal research into Muslim communities: the Data Protection Authority ruled in February 2026 that ten municipalities (Delft, Ede, Eindhoven, Haarlemmermeer, Hilversum, Huizen, Gooise Meren, Tilburg, Veenendaal and Zoetermeer) had no legal basis to hold that information. A court held Veenendaal liable for damage to the Taubah foundation in July 2025.",
+      "source_ids": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident"
+      ],
+      "text": "Proposal (VVD manifesto): newcomers would have to declare explicitly in the participation statement that they respect the Dutch rule of law, and work permits for foreign clergy would no longer be granted automatically. The coalition agreement announces a national list of hate-preaching imams who would be refused entry.",
+      "source_ids": [
+        "s30",
+        "s1"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "islamisering",
+    "de-islamisering",
+    "islam",
+    "moskee",
+    "moskeeën",
+    "islamitische scholen",
+    "hoofddoek",
+    "gezichtsbedekkende kleding",
+    "boerkaverbod",
+    "gebedsoproep",
+    "moslimdiscriminatie",
+    "buitenlandse financiering",
+    "informeel onderwijs",
+    "weekendscholen",
+    "moslimbroederschap"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Aan de slag. Bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 (D66, VVD en CDA)",
+      "publisher": "D66, VVD and CDA (published by Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s2",
+      "title": "Alleen in Limburg rekent de meerderheid zich nog tot een geloof",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/11/alleen-in-limburg-rekent-de-meerderheid-zich-nog-tot-een-geloof",
+      "date": "2026-03-13"
+    },
+    {
+      "id": "s3",
+      "title": "Vooral oudere mensen zeggen deel uit te maken van geloofsgemeenschap",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2024/20/vooral-oudere-mensen-zeggen-deel-uit-te-maken-van-geloofsgemeenschap",
+      "date": "2024-05-16"
+    },
+    {
+      "id": "s4",
+      "title": "Het aantal moslims stijgt, maar met hoeveel?",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2163084",
+      "date": "2017-03-14"
+    },
+    {
+      "id": "s5",
+      "title": "Verslag van een wetgevingsoverleg, gehouden op 9 maart 2026, over Integratie en maatschappelijke samenhang (Kamerstuk 36800-XV, nr. 111)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XV-111.html",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "s6",
+      "title": "Stemmingen moties Begroting Sociale Zaken en Werkgelegenheid 2026, onderdeel Integratie en maatschappelijke samenhang (Handelingen TK 2025-2026, nr. 52, item 8)",
+      "publisher": "Tweede Kamer (document hosted by Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260317/stemming_moties_begroting_sociale/document3/f=/vmxv3ihydjzq.pdf",
+      "date": "2026-03-17"
+    },
+    {
+      "id": "s7",
+      "title": "Senaat verwerpt voorstel om ondermijning door maatschappelijke organisaties tegen te gaan",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/nieuws/20260324/senaat_verwerpt_voorstel_om",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "s8",
+      "title": "35.646 Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties (dossier)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/35646_wet_transparantie_en",
+      "date": null
+    },
+    {
+      "id": "s9",
+      "title": "Parlementaire ondervraging ongewenste beïnvloeding uit onvrije landen: verslag '(On)zichtbare invloed' (Kamerstuk 35228, nr. 4)",
+      "publisher": "Tweede Kamer (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35228-4.html",
+      "date": "2020-06-25"
+    },
+    {
+      "id": "s10",
+      "title": "Kabinetsreactie op de Evaluatie Wet gedeeltelijk verbod gezichtsbedekkende kleding (Kamerstuk 34349, nr. 32)",
+      "publisher": "Ministers of BZK and SZW (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-34349-32.html",
+      "date": "2025-10-17"
+    },
+    {
+      "id": "s11",
+      "title": "Voortgang Actieagenda Integratie en Open en Vrije Samenleving Q1 2026 (Kamerstuk 32824, nr. 479)",
+      "publisher": "Minister van Werk en Participatie (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32824-479.html",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "s12",
+      "title": "Kabinetsreactie op het rapport 'Nationaal onderzoek moslimdiscriminatie' en versterking aanpak moslimdiscriminatie (Kamerstuk 30950, nr. 505)",
+      "publisher": "Staatssecretaris SZW and Minister BZK (Officiële bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30950-505.html",
+      "date": "2025-12-12"
+    },
+    {
+      "id": "s13",
+      "title": "AIVD Jaarverslag 2025",
+      "publisher": "AIVD",
+      "url": "https://www.aivd.nl/site/binaries/site-content/collections/documents/2026/04/23/jaarverslag-2025/aivd-jaarverslag-2025.pdf",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "s14",
+      "title": "Dreigingsbeeld Terrorisme Nederland: Jihadisme en radicale islam",
+      "publisher": "NCTV",
+      "url": "https://www.nctv.nl/onderwerpen/d/dtn/jihadisme-en-radicale-islam",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "s15",
+      "title": "Dreigingsbeeld Terrorisme Nederland (overview page, DTN June 2026)",
+      "publisher": "NCTV",
+      "url": "https://www.nctv.nl/onderwerpen/d/dtn",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "s16",
+      "title": "Boete voor tien gemeenten die onderzoek deden naar moslimgemeenschappen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2601002",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "s17",
+      "title": "Gemeente Veenendaal in de fout bij onderzoek naar moslimgemeenschap",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2576950-gemeente-veenendaal-in-de-fout-bij-onderzoek-naar-moslimgemeenschap",
+      "date": "2025-07-30"
+    },
+    {
+      "id": "s18",
+      "title": "Ombudsman hekelt geheim onderzoek naar moskeeën: Almere schond grondrechten",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2554468-ombudsman-hekelt-geheim-onderzoek-naar-moskeeen-almere-schond-grondrechten",
+      "date": "2025-02-04"
+    },
+    {
+      "id": "s19",
+      "title": "Kamer wil geen debat over onderzoek moslimdiscriminatie: 'rammelt aan alle kanten'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2561105-kamer-wil-geen-debat-over-onderzoek-moslimdiscriminatie-rammelt-aan-alle-kanten",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "s20",
+      "title": "PVV trekt drie anti-islamwetsvoorstellen in",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2504149",
+      "date": "2024-01-08"
+    },
+    {
+      "id": "s21",
+      "title": "PVV-programma: totale asielstop, geen verbod meer op koran of moskee",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2579598",
+      "date": "2025-08-23"
+    },
+    {
+      "id": "s22",
+      "title": "Rusland, China, terroristen: AIVD zag 'in 80 jaar niet meer dreiging dan nu'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2611683",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "s23",
+      "title": "Toezicht op uitwassen informeel onderwijs: wetsvoorstel in consultatie",
+      "publisher": "Rijksoverheid (Ministerie van OCW)",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2024/11/12/toezicht-op-uitwassen-informeel-onderwijs-wetsvoorstel-in-consultatie",
+      "date": "2024-11-12"
+    },
+    {
+      "id": "s24",
+      "title": "Integratie en samenleven 2024: Criminaliteit",
+      "publisher": "CBS",
+      "url": "https://longreads.cbs.nl/integratie-en-samenleven-2024/criminaliteit/",
+      "date": null
+    },
+    {
+      "id": "s25",
+      "title": "Integratie en samenleven 2024: Sociaaleconomische positie",
+      "publisher": "CBS",
+      "url": "https://longreads.cbs.nl/integratie-en-samenleven-2024/sociaaleconomische-positie/",
+      "date": null
+    },
+    {
+      "id": "s26",
+      "title": "Dit is uw land. PVV verkiezingsprogramma 2025",
+      "publisher": "PVV",
+      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s27",
+      "title": "JA21 Verkiezingsprogramma 2025",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s28",
+      "title": "SGP Verkiezingsprogramma 2025-2029",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/download?docID=0bf38fdb632c316533a714ca801a54df72a99572&name=Verkiezingsprogramma_SGP_2025%20eindversie.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s29",
+      "title": "FVD verkiezingsprogramma 2025: Nederland weer vrij, trots & bruisend",
+      "publisher": "FVD",
+      "url": "https://res.cloudinary.com/fvdcdm/image/upload/v1759824498/FVD_verkiezingsprogramma-2025_A4_FORMAAT_digitaal-DEF-V5_t8qcsr.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s30",
+      "title": "VVD Verkiezingsprogramma Tweede Kamer 2025",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/wp-content/uploads/2025/09/Verkiezingsprogramma-TK-VVD-2025-DEF.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s31",
+      "title": "Verkiezingsprogramma DENK Tweede Kamerverkiezingen 2025",
+      "publisher": "DENK",
+      "url": "https://denk.nl/download/379641/?tmstv=1780060825",
+      "date": "2025"
+    },
+    {
+      "id": "s32",
+      "title": "D66 verkiezingsprogramma 2025: Gelijke kansen, geen uitzonderingen",
+      "publisher": "D66",
+      "url": "https://d66.nl/verkiezingsprogramma/democratie-en-veiligheid/gelijke-kansen-geen-uitzonderingen/",
+      "date": "2025"
+    },
+    {
+      "id": "s33",
+      "title": "D66 verkiezingsprogramma 2025: Veilig leven, vrij leven",
+      "publisher": "D66",
+      "url": "https://d66.nl/verkiezingsprogramma/democratie-en-veiligheid/veilig-leven-vrij-leven/",
+      "date": "2025"
+    },
+    {
+      "id": "s34",
+      "title": "ChristenUnie Verkiezingsprogramma 2025",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s35",
+      "title": "SP verkiezingsprogramma Tweede Kamerverkiezingen 2025",
+      "publisher": "SP",
+      "url": "https://cdn.sp.nl/2025/09/SP-verkiezingsprogramma-TK2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s36",
+      "title": "Aantal moslims in Nederland blijft al jaren constant",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2149734-aantal-moslims-in-nederland-blijft-al-jaren-constant",
+      "date": "2016-12-22"
+    }
+  ]
+}
