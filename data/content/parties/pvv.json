@@ -1,0 +1,187 @@
+{
+  "abbr": "PVV",
+  "slug": "pvv",
+  "name_nl": "Partij voor de Vrijheid",
+  "name_en": "Party for Freedom",
+  "founded": "2006",
+  "updated": "2026-11-25",
+  "seats_house": 19,
+  "seats_senate": 4,
+  "seats_house_2025_election": 26,
+  "seats_house_2023_election": 37,
+  "in_coalition": false,
+  "party_leader": "Geert Wilders",
+  "house_group_leader": "Geert Wilders",
+  "senate_group_leader": "Alexander van Hattem",
+  "website": "https://www.pvv.nl",
+  "described_as": [
+    {
+      "text": "In its 2025 manifesto the party writes: \"Wij willen een sterk, sociaal-rechts Nederland om trots op te zijn\" (\"We want a strong, social-right Netherlands to be proud of\"), which it sums up as tough on asylum, immigration and law and order but 'social' on purchasing power, healthcare and public housing. The manifesto also states: \"De PVV is opgericht om Nederland te beschermen tegen de islamisering\" (\"The PVV was founded to protect the Netherlands against Islamisation\").",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "The reference site Parlement.com describes the PVV as a populist party combining far-right and left-wing positions, with opposition to Islam and to the EU as key points.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "The Documentation Centre for Dutch Political Parties (DNPP, University of Groningen) describes it as a radical-right party opposed to Islam and (asylum) migration and, to a lesser extent, the European Union, and writes that its plans and statements increasingly conflict with the democratic rule of law and liberal principles in the constitution and international treaties.",
+      "source_ids": ["s3"]
+    },
+    {
+      "text": "The party has no members: Geert Wilders is the only member of the association Partij voor de Vrijheid, and it is not possible to join. It has no local branches or youth organisation.",
+      "source_ids": ["s2", "s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2004",
+      "event": "Geert Wilders broke with the VVD House group in September 2004 and continued as a one-man group, Groep Wilders.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2006",
+      "event": "The PVV was registered with the Electoral Council on 22 February 2006. In the November 2006 election it won 9 seats (5.9%).",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2010",
+      "event": "Won 24 seats and supported the minority Rutte I cabinet (VVD and CDA) from outside until it withdrew support in spring 2012.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2012-2021",
+      "event": "In opposition, with between 15 and 20 House seats (20 in 2017, 17 in 2021).",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2023",
+      "event": "Became the largest party with 37 seats (23.6%) in the House election of 22 November 2023.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2024-07-02",
+      "event": "Entered government for the first time, in the Schoof cabinet with VVD, NSC and BBB, without supplying the prime minister.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2025-06-03",
+      "event": "Left the coalition after 337 days, arguing the other parties were not tough enough on asylum; the Schoof cabinet fell.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "Won 26 seats in the early House election, 11 fewer than in 2023, and went into opposition.",
+      "source_ids": ["s2", "s4"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Dit is uw land! (\"This is your country!\") - TK Verkiezingsprogramma 2025",
+    "url": "https://dnpprepo.ub.rug.nl/88766/1/PVV%20Verkiezingsprogramma%20TK%202025.pdf",
+    "key_points": [
+      {
+        "topic": "Asylum",
+        "text": "A 'total asylum stop': refuse all asylum seekers at the border by invoking article 72 of the EU Treaty (TFEU), deploy the army for border control, stop family reunification, close asylum centres, and pass an emergency law halting the processing of asylum applications. The party wants to withdraw from the UN Refugee Convention and the European Convention on Human Rights and to force an EU opt-out on asylum and immigration by using vetoes.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Islam",
+        "text": "A general burqa ban, a ban on the Islamic call to prayer, a ban on Islamic headscarves in all government buildings including parliament, and no government information in Arabic or other non-Western languages.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nationality and deportation",
+        "text": "Ban dual nationality by scrapping the grounds for exceptions; deport foreign nationals, including recognised refugees, after conviction for one crime; return adult male Ukrainian displaced persons to Ukraine.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "Lower social rents by 10% next year, compensating housing corporations by scrapping their profit tax; never again give statushouders (asylum seekers granted a residence permit) priority for social housing; build more outside existing cities and scrap or simplify building requirements, with no mandatory heat pump.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Cost of living",
+        "text": "Scrap VAT on groceries entirely, cut VAT on energy from 21% to 9%, and no fuel excise duty increase in 2026.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare and pensions",
+        "text": "Abolish the eigen risico (the compulsory health-insurance excess) entirely, return dental care to the basic insurance package, and lower the state pension (AOW) age to 65.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Climate and energy",
+        "text": "Withdraw from the Paris Climate Agreement, repeal the Climate Act and scrap the Climate Fund; rename the climate ministry the Ministry of Affordable Energy; keep coal and gas plants open, build more nuclear plants, and allow no new wind turbines or solar parks.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nitrogen and farming",
+        "text": "The manifesto says the nitrogen rules, not nitrogen, are the problem; it wants the critical deposition values removed from the law and the calculation threshold for nitrogen raised.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "European Union",
+        "text": "A 'sovereign Netherlands' and no 'European superstate': no further transfer of powers or money to Brussels, no EU enlargement, no eurobonds, European taxes or digital euro, and lower Dutch payments to the EU.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Foreign policy and defence",
+        "text": "End development aid completely; move the Dutch embassy in Israel to Jerusalem and continue arms deliveries to Israel; NATO 'remains the cornerstone' of defence policy; support for growing defence spending step by step, but no foreign military missions. The manifesto says the party supports Ukraine but that other countries should now do more.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Democracy and media",
+        "text": "Introduce a binding corrective referendum and elected mayors, abolish the Senate, cut the pay of ministers and MPs by 25%, and end all funding of the public broadcaster NPO.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Law and order",
+        "text": "Designate Extinction Rebellion, Antifa and pro-Hamas groups as terrorist organisations and ban them; ban demonstrations that block infrastructure; expand prison capacity; 500 extra officers for the immigration police.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2025-12-10",
+      "event": "D66 MP Joost Sneller submitted a bill, supported by at least GroenLinks-PvdA and CDA, requiring parties that contest House or European elections to admit members with a say over the manifesto and candidate list; it was sent to the Council of State for advice. NOS reported it would currently affect the PVV. Wilders responded: \"Het is een totalitaire reflex als de overheid gaat bepalen hoe een partij eruit gaat zien\" (\"It is a totalitarian reflex when the government starts determining what a party looks like\").",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Seven of the 26 PVV MPs left the House group after a group meeting and formed Groep Markuszower: Gidi Markuszower, René Claassen, Hidde Heutink, Tamara ten Hove, Annelotte Lammers, Nicole Moinat and Shanna Schilder. The PVV group fell to 19 seats, making GroenLinks-PvdA (20) the largest opposition group. In an open letter the seven blamed Wilders for the election campaign and result, asked for more cooperation with other parties, a broader profile than asylum and Islam, and internal democracy. Wilders said: \"Het is een zwarte dag voor de PVV\" (\"It is a black day for the PVV\") and \"En ik ben niet voor een ledenpartij\" (\"And I am not in favour of a membership party\"); he said a majority of the group did not share the seven's position.",
+      "source_ids": ["s6", "s7", "s4"]
+    },
+    {
+      "date": "2026-04",
+      "event": "Groep Markuszower founded its own party, De Nederlandse Alliantie (DNA), which anyone can join and which aims to contest the next provincial elections; former VVD minister Rita Verdonk acts as coach and adviser, NOS reported on 20 April 2026.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "During the vote on the 2027 Tax Plan, a motion of no confidence tabled by the PVV was defeated by 116 votes to 34.",
+      "source_ids": ["s9"]
+    }
+  ],
+  "key_people": [
+    {"name": "Geert Wilders", "role": "Founder, party leader, party chair and leader of the House group; the association's only member"},
+    {"name": "Alexander van Hattem", "role": "Leader of the Senate group since 16 January 2024"},
+    {"name": "Martin Bosma", "role": "MP"},
+    {"name": "Marjolein Faber-van de Klashorst", "role": "MP"},
+    {"name": "Vicky Maeijer", "role": "MP"},
+    {"name": "Gidi Markuszower", "role": "Former PVV MP; left on 20 January 2026 and leads Groep Markuszower"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Dit is uw land! TK Verkiezingsprogramma 2025 (PVV)", "publisher": "PVV, via DNPP repository (University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88766/1/PVV%20Verkiezingsprogramma%20TK%202025.pdf", "date": "2025"},
+    {"id": "s2", "title": "Partij voor de Vrijheid (PVV)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/pvv-partij-voor-de-vrijheid", "date": null},
+    {"id": "s3", "title": "PVV", "publisher": "DNPP, University of Groningen", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/pvv", "date": "2026-02-16"},
+    {"id": "s4", "title": "Tweede Kamerfractie Partij voor de Vrijheid (PVV)", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-partij-voor-de-vrijheid", "date": null},
+    {"id": "s5", "title": "Ledenplicht voor PVV en toekomstige politieke partijen in de maak", "publisher": "NOS", "url": "https://nos.nl/l/2594018", "date": "2025-12-10"},
+    {"id": "s6", "title": "Opstand tegen Wilders: zeven PVV'ers beginnen eigen fractie", "publisher": "NOS", "url": "https://nos.nl/l/2598974", "date": "2026-01-20"},
+    {"id": "s7", "title": "Afsplitsing groep-Markuszower (2026)", "publisher": "Parlement.com", "url": "https://parlement.com/afsplitsing-groep-markuszower-2026", "date": null},
+    {"id": "s8", "title": "Rita Verdonk coach van nieuwe partij Markuszower 'De Nederlandse Alliantie'", "publisher": "NOS", "url": "https://nos.nl/l/2611342", "date": "2026-04-20"},
+    {"id": "s9", "title": "Coalition in crisis as tax plan passes without VVD support", "publisher": "DutchNews", "url": "https://www.dutchnews.nl/2026/11/coalition-in-crisis-as-tax-plan-passes-without-vvd-support/", "date": "2026-11-12"},
+    {"id": "s10", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s11", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null},
+    {"id": "s12", "title": "PVV-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/partij_voor_de_vrijheid", "date": null}
+  ]
+}

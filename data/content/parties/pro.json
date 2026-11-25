@@ -1,0 +1,214 @@
+{
+  "abbr": "PRO",
+  "slug": "pro",
+  "name_nl": "Progressief Nederland",
+  "name_en": "Progressive Netherlands",
+  "founded": "2026",
+  "updated": "2026-11-25",
+  "seats_house": 20,
+  "seats_senate": 14,
+  "seats_house_2025_election": 20,
+  "seats_house_2023_election": 25,
+  "in_coalition": false,
+  "party_leader": "Jesse Klaver",
+  "house_group_leader": "Jesse Klaver",
+  "senate_group_leader": "Paul Rosenmöller",
+  "website": "https://progressiefnederland.nl",
+  "described_as": [
+    {
+      "text": "At the presentation of its name on 26 March 2026 the party summarised itself as \"pro eerlijk, pro groen, pro sociaal\" (\"pro fair, pro green, pro social\"). Party leader Jesse Klaver called it a \"brede volkspartij\" (\"broad people's party\"), NOS reported.",
+      "source_ids": ["s4"]
+    },
+    {
+      "text": "The reference site Parlement.com describes PRO as a progressive, social-democratic and green party whose statement of principles puts solidarity at the centre of politics, alongside equality, a healthy planet and freedom.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "The Documentation Centre for Dutch Political Parties (DNPP, University of Groningen) writes that PRO presents itself as a social-democratic and green party.",
+      "source_ids": ["s3"]
+    },
+    {
+      "text": "The 2025 election manifesto of GroenLinks-PvdA, the joint list from which PRO was formed, states its core message as \"Het is tijd voor solidariteit\" (\"It is time for solidarity\").",
+      "source_ids": ["s1"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1946",
+      "event": "The Partij van de Arbeid (PvdA, Labour Party), one of the two predecessor parties, was founded. It supplied four prime ministers: Schermerhorn, Drees, Den Uyl and Kok.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "1990",
+      "event": "GroenLinks, the other predecessor, was formed from four smaller left-wing parties, among them the communist CPN and the pacifist PSP. According to NOS it was always in opposition nationally.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2021",
+      "event": "Talks on cooperation between GroenLinks and PvdA began after election results NOS describes as disappointing.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2023",
+      "event": "The two parties formed a joint Senate group on 13 June 2023 and ran on a joint list in the House election of 22 November 2023 under Frans Timmermans, winning 25 seats, 8 more than their separate 2021 results combined.",
+      "source_ids": ["s2", "s3", "s6"]
+    },
+    {
+      "date": "2025-06",
+      "event": "In a members' referendum, 88% of PvdA members and 89% of GroenLinks members voted in favour of forming a new party.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "The joint list GroenLinks-PvdA won 20 seats in the House election, 5 fewer than in 2023. Frans Timmermans left as leader after the election; Jesse Klaver, the former GroenLinks leader, became the new political leader (reported 3 November 2025).",
+      "source_ids": ["s2", "s4", "s7"]
+    },
+    {
+      "date": "2026-06-13",
+      "event": "Progressief Nederland (PRO) was founded at a congress in the Brabanthallen in 's-Hertogenbosch, with effect from 1 July 2026, as the merger of GroenLinks and PvdA.",
+      "source_ids": ["s2", "s5"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Een nieuwe start voor Nederland (\"A new start for the Netherlands\") - GroenLinks-PvdA Verkiezingsprogramma 2025 (the manifesto of the joint list that later merged into PRO)",
+    "url": "https://dnpprepo.ub.rug.nl/88754/7/GL-PvdA%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+    "key_points": [
+      {
+        "topic": "Housing construction",
+        "text": "An ambition of more than 100,000 additional homes a year, of which 40,000 rental homes with a rent of up to 900 euros, built largely by reformed housing corporations. Municipalities with a low share of social housing are to be obliged to build a higher share.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Rents",
+        "text": "A statutory upper limit on permitted rent increases, with the stated aim that wages rise faster than rents. Rent regulation is to apply to all rental homes, and tenants of poorly insulated homes keep a rent discount.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Home ownership",
+        "text": "Phase out the hypotheekrenteaftrek (mortgage interest tax relief) step by step, using the proceeds for housing construction and lower taxes on income.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Wages and benefits",
+        "text": "Raise the minimum wage to 18 euros an hour, keep benefits linked to the minimum wage, and pay the adult minimum wage from age 18.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes on wealth",
+        "text": "Introduce a miljonairsbelasting (millionaires' tax) 'for the very richest', make income taxes more progressive so that low and middle incomes pay less and top incomes more, and close routes used to avoid inheritance tax.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Climate",
+        "text": "Make the Netherlands climate neutral in 2040, with a target of 65% CO2 reduction in 2030 and all electricity sources climate neutral in 2035.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nuclear energy",
+        "text": "No public money for nuclear power plants. The 14 billion euros reserved for nuclear plants would be used to help households, businesses and farmers with sustainability measures.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Agriculture",
+        "text": "Move to land-based, nature-inclusive farming in which livestock numbers match locally available feed and manure capacity; the manifesto states that this 'inevitably leads to a reduction of the livestock herd and an end to factory farming'.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Abolish the eigen risico (the compulsory health-insurance excess) step by step and scrap the voluntary excess entirely.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Childcare",
+        "text": "Make childcare free for all children, as a public basic provision without profit motive.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Asylum and migration",
+        "text": "Base asylum policy on the EU Asylum and Migration Pact, implement the Spreidingswet (the law distributing asylum reception across municipalities) with small-scale reception, allow asylum seekers to work sooner, and return people who have no right to asylum to their country of origin.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence and foreign policy",
+        "text": "Commit to raising the defence budget to 3.5% of GDP, citing Russian aggression and the need to be less dependent on the United States. The Netherlands would immediately recognise a sovereign Palestinian state.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026-01-20",
+      "event": "After seven MPs left the PVV group, GroenLinks-PvdA, with 20 seats, became the largest opposition group in the House.",
+      "source_ids": ["s8"]
+    },
+    {
+      "date": "2026-01-09",
+      "event": "D66, VVD and CDA opted for a minority cabinet without GroenLinks-PvdA. According to Parlement.com, the VVD had ruled out cooperation with GroenLinks-PvdA, which made a majority centre cabinet unworkable.",
+      "source_ids": ["s9"]
+    },
+    {
+      "date": "2026-03-26",
+      "event": "GroenLinks-PvdA announced its new name, Progressief Nederland (PRO), at a meeting in Halfweg, and presented a 'Progressief Pleidooi' setting out the merger's principles. NOS reported that the party wants less market forces in healthcare, public transport and social housing, and that some PvdA members, including a small group of prominent ones, opposed the merger out of concern for the party's social-democratic profile.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2026-06-09",
+      "event": "The GroenLinks-PvdA group in the House was renamed PRO (Parlement.com gives 9 June in its news listing and 10 June on its group page). Wimar Bolhuis was sworn in as a PRO member of the House on 10 June.",
+      "source_ids": ["s2", "s7"]
+    },
+    {
+      "date": "2026-06-13",
+      "event": "At the founding congress, 96% of GroenLinks members and 97% of PvdA members voted for the merger; about 6,000 people attended. With about 100,000 members PRO became the party with the most members in the Netherlands, NOS reported. In his first speech as PRO leader, Jesse Klaver said the party could become the largest at the next general election and that the Jetten cabinet must choose between PRO and parties such as JA21 and SGP as partners. Former PvdA chair Hans Spekman, who had opposed the merger, said he would join.",
+      "source_ids": ["s5"]
+    },
+    {
+      "date": "2026-09-04",
+      "event": "The party board confirmed Mariëtte Hamer, a former PvdA House group leader, as candidate lead candidate for the Senate election of May 2027. She is to succeed Paul Rosenmöller, who had announced he will leave politics in May 2027.",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-09-09",
+      "event": "The Senate group, called GroenLinks-PvdA since 13 June 2023, took the name PRO.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-09-25",
+      "event": "Members voted for PRO to join the Party of European Socialists (PES). The party's eight MEPs remained one PRO delegation but announced they were temporarily ending their party membership for administrative reasons: the four former PvdA MEPs joined PES individually and the four former GroenLinks MEPs the European Green Party.",
+      "source_ids": ["s2", "s10"]
+    },
+    {
+      "date": "2026-10-01",
+      "event": "Kitty Jong, a former vice-chair of trade union federation FNV, became the first chair of PRO, succeeding merger-period chairs Esther-Mirjam Sent (PvdA) and Katinka Eikelenboom (GroenLinks).",
+      "source_ids": ["s2", "s10"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "The House adopted an amendment by PRO and Volt to the 2027 Tax Plan, backed by coalition parties D66 and CDA but not VVD. According to DutchNews it is a scaled-down version of their 'millionaires' tax' raising about 1 billion euros: it splits box 3 (the tax on savings and investments) into rates of 35.5% on returns up to 60,000 euros a year and 38.5% above that, and uses nearly 900 million euros to reduce a planned rise in the lowest income tax rate. Klaver said: \"a centre-left majority in parliament is taking responsibility for governing the country.\"",
+      "source_ids": ["s11", "s12"]
+    }
+  ],
+  "key_people": [
+    {"name": "Jesse Klaver", "role": "Party leader and leader of the House group"},
+    {"name": "Paul Rosenmöller", "role": "Leader of the Senate group; has announced his departure from politics in May 2027"},
+    {"name": "Mariëtte Hamer", "role": "Candidate lead candidate for the May 2027 Senate election"},
+    {"name": "Kitty Jong", "role": "Party chair since 1 October 2026"},
+    {"name": "Frans Timmermans", "role": "Lead candidate of GroenLinks-PvdA in the 2023 and 2025 House elections; left after the 2025 election"},
+    {"name": "Mei Li Vos", "role": "PRO senator and President of the Senate"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "GroenLinks-PvdA Verkiezingsprogramma 2025 (Een nieuwe start voor Nederland)", "publisher": "GroenLinks-PvdA, via DNPP repository (University of Groningen)", "url": "https://dnpprepo.ub.rug.nl/88754/7/GL-PvdA%20Verkiezingsprogramma%20TK%202025-2029.pdf", "date": "2025"},
+    {"id": "s2", "title": "Progressief Nederland (PRO)", "publisher": "Parlement.com", "url": "https://www.parlement.com/partij/progressief-nederland-pro", "date": null},
+    {"id": "s3", "title": "PRO", "publisher": "DNPP, University of Groningen", "url": "https://www.rug.nl/research/dnpp/politieke-partijen/pro/?lang=nl", "date": "2026-10-02"},
+    {"id": "s4", "title": "Nieuwe naam GroenLinks-PvdA bekend: Progressief Nederland, kortweg Pro", "publisher": "NOS", "url": "https://nos.nl/l/2607948", "date": "2026-03-26"},
+    {"id": "s5", "title": "Leden PvdA en GL stemmen in met fusie; Klaver hoopt de grootste te worden", "publisher": "NOS", "url": "https://nos.nl/l/2618402", "date": "2026-06-13"},
+    {"id": "s6", "title": "PRO-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/progressief_nederland_pro", "date": null},
+    {"id": "s7", "title": "Tweede Kamerfractie GroenLinks-PvdA / PRO", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-groenlinks-pvda", "date": null},
+    {"id": "s8", "title": "Opstand tegen Wilders: zeven PVV'ers beginnen eigen fractie", "publisher": "NOS", "url": "https://nos.nl/l/2598974", "date": "2026-01-20"},
+    {"id": "s9", "title": "Kabinetsformatie 2025-2026", "publisher": "Parlement.com", "url": "https://parlement.com/kabinetsformatie-2025-2026", "date": null},
+    {"id": "s10", "title": "PvdA-prominent Hamer lijsttrekker Pro bij Eerste Kamerverkiezingen volgend jaar", "publisher": "NOS", "url": "https://nos.nl/l/2629611", "date": "2026-09-04"},
+    {"id": "s11", "title": "Coalition in crisis as tax plan passes without VVD support", "publisher": "DutchNews", "url": "https://www.dutchnews.nl/2026/11/coalition-in-crisis-as-tax-plan-passes-without-vvd-support/", "date": "2026-11-12"},
+    {"id": "s12", "title": "Kabinet-Jetten (2026-heden)", "publisher": "Parlement.com", "url": "https://www.parlement.com/kabinet-jetten-2026-heden", "date": null},
+    {"id": "s13", "title": "Fracties", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties", "date": null},
+    {"id": "s14", "title": "Fracties", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fracties", "date": null}
+  ]
+}
