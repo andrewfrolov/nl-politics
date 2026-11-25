@@ -1,0 +1,1212 @@
+{
+  "id": "box-3",
+  "title": "Box 3: tax on savings and investments",
+  "tagline": "How savings and investments are taxed now, and the contested switch to taxing actual returns from 2029",
+  "updated": "2026-11-25",
+  "summary": "Box 3 is the part of Dutch income tax that covers savings, investments and second homes. Since Supreme Court rulings in 2021 and 2024 the tax is still calculated on assumed (deemed) returns, but taxpayers may prove a lower actual return. The House of Representatives adopted the Actual Return Box 3 Act on 12 February 2026 and, on 12 November 2026, an amending bill (novelle) that taxes most assets only when gains are realised and moves the start to 1 January 2029. As of 24 November 2026 the Senate had not voted on either bill; the cabinet has asked it to do so before 31 December 2026.",
+  "key_facts": [
+    {
+      "label": "Box 3 tax rate 2026",
+      "value": "36% of the calculated return (2026)",
+      "note": "Applied to a deemed return, or to the actual return if the taxpayer shows it was lower.",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "label": "Tax-free allowance 2026",
+      "value": "EUR 59,357 of net assets per person (2026)",
+      "note": "Called heffingsvrij vermogen. Debts count only above a threshold of EUR 3,800 per person.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Deemed returns 2026",
+      "value": "Bank balances 1.28% (provisional), investments and other assets 6.00% (final), debts 2.70% (provisional)",
+      "note": "The provisional percentages are fixed in early 2027.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "People in box 3",
+      "value": "About 2.5 million (NOS, Sept 2026); 820,000 of about 2.5 million held only savings and debts (2023 tax returns)",
+      "note": "The Ministry's model for the new system assumes an average of 2.2 million taxpayers a year.",
+      "source_ids": [
+        "s24",
+        "s9"
+      ]
+    },
+    {
+      "label": "Planned start of actual-return tax",
+      "value": "1 January 2029 (cabinet proposal of 3 November 2026)",
+      "note": "Earlier targets were 2027 and then 2028. A full capital gains tax for all assets is intended for 2030 through a separate bill to be submitted in 2027.",
+      "source_ids": [
+        "s4",
+        "s9",
+        "s31"
+      ]
+    },
+    {
+      "label": "Proposed rates from 2029",
+      "value": "First EUR 1,800 of return tax-free; 35.5% up to EUR 60,000; 38.5% above",
+      "note": "The two rates were added to the 2027 Tax Plan by a PRO/Volt amendment adopted by the House on 12 November 2026; Senate vote pending.",
+      "source_ids": [
+        "s3",
+        "s30"
+      ]
+    },
+    {
+      "label": "Cost of one more year of the current system",
+      "value": "About EUR 2.8 billion revenue loss if 2029 is also missed (government estimate, Nov 2026)",
+      "note": "In December 2024 the Ministry put the loss from delaying 2027 to 2028 at about EUR 2.5 billion.",
+      "source_ids": [
+        "s9",
+        "s31"
+      ]
+    },
+    {
+      "label": "Revenue loss of the November 2026 package",
+      "value": "About EUR 21.8 billion cumulative through 2040, plus EUR 2.7 billion from temporary box 2 rate cuts (EUR 24.5 billion)",
+      "note": "Figures confirmed by the government in its written reply to the House, 9 November 2026.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Refunds under the rebuttal scheme",
+      "value": "EUR 1.38 billion in reductions as of 9 September 2026, against an original estimate of EUR 6.46 billion for 2017-2024",
+      "note": "882,297 forms received, 554,231 processed, 403,065 reductions. The State Secretary says the figures are not yet representative.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "label": "Parliamentary status",
+      "value": "Both bills passed the House (12 Feb and 12 Nov 2026); no Senate vote as of 24 November 2026",
+      "note": "Tax advisers' organisation SRA and NOS report a Senate vote is expected in mid-December 2026.",
+      "source_ids": [
+        "s5",
+        "s8",
+        "s17",
+        "s30"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Tax on returns people did not earn",
+      "text": "Box 3 taxes an assumed return on savings and investments rather than what a person actually earned. The Supreme Court (Hoge Raad) ruled in December 2021 that this discriminated against people whose real return was lower than the fixed percentage; according to the Senate's summary of the bill, the court found the system in breach of the ban on discrimination and the right to property under the European Convention on Human Rights. In 2024 the court ruled that the replacement method with new deemed percentages was also discriminatory.",
+      "source_ids": [
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "heading": "A temporary system that costs revenue",
+      "text": "Since the rulings, the Tax Administration (Belastingdienst) uses deemed returns but must accept proof of a lower actual return. People with higher actual returns still pay on the deemed return. NOS reports that the treasury receives at least EUR 2.4 billion a year less than planned as a result; in another article it puts the figure at about EUR 3 billion a year compared with the earlier system. The government estimates that one extra year of this system in 2029 would cost about EUR 2.8 billion.",
+      "source_ids": [
+        "s22",
+        "s23",
+        "s24",
+        "s9"
+      ]
+    },
+    {
+      "heading": "Disagreement over when to tax gains",
+      "text": "A capital growth tax (vermogensaanwasbelasting) taxes the yearly change in value, including gains that exist only on paper. A capital gains tax (vermogenswinstbelasting) taxes the gain only when the asset is sold. The bill the House adopted in February 2026 used the growth method for most assets; investors in shares and crypto objected to paying tax on unrealised gains, and start-ups objected because employees are often paid in shares. The cabinet says a capital gains tax leads to a large revenue loss in the first years.",
+      "source_ids": [
+        "s3",
+        "s21",
+        "s9"
+      ]
+    },
+    {
+      "heading": "Feasibility for the tax office and banks",
+      "text": "The Tax Administration's implementation test judged the amended system unworkable for 2028 and more feasible for 2029, with remaining risks. Financial institutions said they could not deliver the required data for 2028 in time. The Council of State (Raad van State), the government's legal adviser, said introduction in 2028 was not justified on the information available.",
+      "source_ids": [
+        "s15",
+        "s16",
+        "s26"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Deemed returns diverged from real returns",
+      "text": "The government's own table shows large differences between the deemed return and average actual returns. For example, the deemed return on investments was 5.38% in 2018 while average share returns were -10.02%, and 5.53% in 2022 against -7.97%. According to the government, investors may have paid too much in 2018, 2020 and 2022 and owners of second homes in 2023 and 2024; for people with only savings the deemed rate approximates the real return reasonably well.",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "heading": "Court rulings forced repair and a new system",
+      "text": "After the December 2021 ruling (known as the Kerstarrest, the Christmas ruling) the cabinet introduced a new calculation method based on a person's actual mix of savings and investments, used for compensation and for everyone since 2021 under bridging legislation. The 2024 ruling required additional compensation and led to the Rebuttal Scheme Box 3 Act (Wet tegenbewijsregeling box 3).",
+      "source_ids": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "heading": "Repeated postponement",
+      "text": "A tax on actual returns has been a stated government aim since at least 2016. The planned start moved from 2027 to 2028 in December 2024, when the cabinet cited the compensation operation and the renewal of the Tax Administration's IT systems, and from 2028 to 2029 in November 2026, when the cabinet cited doubts at the Tax Administration, the Council of State and financial institutions.",
+      "source_ids": [
+        "s4",
+        "s31"
+      ]
+    },
+    {
+      "heading": "Change of course after the House vote",
+      "text": "Two weeks after the House adopted the bill, a spokesperson for Finance Minister Eelco Heinen (VVD) said the bill had to be changed. NOS reported that VVD and CDA senators threatened to vote against, which would have left the bill without a Senate majority. The cabinet then prepared an amending bill extending the capital gains method.",
+      "source_ids": [
+        "s21",
+        "s22"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2021-12-24",
+      "event": "Supreme Court's Christmas ruling: box 3 based on fixed deemed returns is discriminatory. Compensation follows for 2017-2020 for people who had objected in time or whose assessment was not yet final on 24 December 2021.",
+      "source_ids": [
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "date": "2024-06",
+      "event": "Supreme Court rules that the compensation offered and the new deemed-return method are also insufficient; taxpayers must be able to prove a lower actual return.",
+      "source_ids": [
+        "s31",
+        "s2"
+      ]
+    },
+    {
+      "date": "2024-12-13",
+      "event": "Cabinet postpones the new system from 2027 to 2028 and puts the extra revenue loss for 2027 at about EUR 2.5 billion.",
+      "source_ids": [
+        "s31"
+      ]
+    },
+    {
+      "date": "2025-05-16",
+      "event": "Actual Return Box 3 Act (Wet werkelijk rendement box 3, bill 36 748) submitted to the House.",
+      "source_ids": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "event": "Senate adopts the Rebuttal Scheme Box 3 Act; the House had adopted it on 12 June 2025. Opposed in the Senate: PVV, JA21, BBB, 50PLUS and Fractie-Kemperman.",
+      "source_ids": [
+        "s32",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "event": "House adopts the Actual Return Box 3 Act. For: SP, PRO (recorded as GroenLinks-PvdA), D66, Volt, PvdD, CDA, VVD. Against: 50PLUS, DENK, SGP, ChristenUnie, JA21, BBB, Groep Markuszower, PVV, FVD.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "event": "A spokesperson for Finance Minister Heinen confirms the new cabinet wants to amend the bill after criticism of the tax on unrealised gains.",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "event": "Supreme Court rules that people who did not object for 2017-2020 and whose assessments were already final are not entitled to compensation for those years.",
+      "source_ids": [
+        "s12",
+        "s2"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "event": "Senate debates the bill and postpones its vote until announced amending legislation has been handled. On 7 July the Senate rejects an SGP motion stating no objection to withdrawing the bill.",
+      "source_ids": [
+        "s5",
+        "s7",
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "event": "Cabinet letter proposes taxing as much as possible on a capital gains basis and, as part of the funding, lowering box 3 tax-free thresholds. NOS reports that the plan affecting smaller savers was dropped after a day and a half.",
+      "source_ids": [
+        "s4",
+        "s24",
+        "s25"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "event": "Cabinet submits the amending bill (Novelle uitbreiding vermogenswinstbelasting box 3, bill 37 053), proposes a start on 1 January 2029 and withdraws the lower thresholds. The Council of State had advised withdrawing the original bill and moving in one step in 2030.",
+      "source_ids": [
+        "s4",
+        "s9",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "House adopts the amending bill. For: 50PLUS, D66, CDA, VVD, SGP, JA21, BBB, Lid Keijzer, Groep Markuszower. Against: PRO, SP, Volt, PvdD, DENK, ChristenUnie, PVV, FVD. The same day the House passes the 2027 Tax Plan with 76 votes, including a PRO/Volt amendment creating two box 3 rates; VVD votes against.",
+      "source_ids": [
+        "s8",
+        "s29",
+        "s30"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Rules for tax year 2026",
+      "text": "Net assets above EUR 59,357 per person are taxed. The Tax Administration calculates a deemed return using three percentages: 1.28% on bank balances (provisional), 6.00% on investments and other assets such as second homes, and 2.70% on debts (provisional). The resulting income is taxed at 36%. The owner-occupied home is not in box 3.",
+      "source_ids": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Rebuttal scheme (tegenbewijsregeling)",
+      "text": "A taxpayer who shows that the actual return on all box 3 assets together was lower than the deemed return is taxed on the actual return. The form is called Opgaaf werkelijk rendement (statement of actual return); it cannot be used for only part of the assets. The scheme covers 2021-2024 for all taxpayers and 2017-2020 for those who objected in time or whose assessment was not final on 24 December 2021, and from tax year 2025 it is built into the tax return. It stays in force until the new system starts.",
+      "source_ids": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "heading": "Cabinet line: capital gains tax in steps",
+      "text": "The cabinet of D66, VVD and CDA, a minority cabinet in office since 23 February 2026, states that the coalition agreement commits it to developing box 3 into a capital gains tax. Under the amending bill, from 1 January 2029 real estate and all financial instruments such as shares, bonds and options are taxed on sale; according to the government this is 90% of box 3 assets that change in value. Crypto held in a person's own wallet, insurance products and bank balances fall under the yearly growth method in a transition year, with a separate bill for a full capital gains tax in 2030 to be submitted in 2027. Interest, dividends and rent remain taxed each year, and costs become deductible.",
+      "source_ids": [
+        "s3",
+        "s9",
+        "s11",
+        "s15",
+        "s35"
+      ]
+    },
+    {
+      "heading": "Funding of the package",
+      "text": "The cabinet dropped its earlier proposals to lower the tax-free allowance in 2027, lower the tax-free return in 2028 and raise the deemed return on other assets. The funding now consists of lowering in steps, from 2027, the amount a major shareholder may borrow from their own company without tax (from EUR 500,000 to EUR 100,000 by 1 January 2031), temporary cuts in box 2 rates (box 2 is the tax on income from a substantial shareholding), and a 35% markdown on the estimated cost of the rebuttal scheme. The government states the package leaves a structural shortfall of EUR 86 million a year.",
+      "source_ids": [
+        "s9",
+        "s8"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Actual Return Box 3 Act (bill 36 748)",
+      "description": "Replaces deemed returns with tax on actual income from assets. In the version adopted by the House, a yearly capital growth tax is the main rule and a capital gains tax applies to real estate and shares in start-ups.",
+      "proposed_by": [
+        "Cabinet"
+      ],
+      "status": "Adopted by House 2026-02-12; Senate debated 2026-06-30 and postponed its vote; pending in Senate as of 2026-11-24",
+      "source_ids": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "title": "Amending bill extending the capital gains tax (bill 37 053)",
+      "description": "Extends the capital gains method to all financial instruments, moves the start to 1 January 2029 and contains the funding measures in box 2. The cabinet asked the Senate to handle it before the end of 2026; it stated that handling after 1 January 2027 would require a further amending bill because the funding measures take effect on that date.",
+      "proposed_by": [
+        "Cabinet"
+      ],
+      "status": "Adopted by House 2026-11-12; pending in Senate",
+      "source_ids": [
+        "s8",
+        "s14",
+        "s16",
+        "s18"
+      ]
+    },
+    {
+      "title": "Two box 3 rates from 2029",
+      "description": "Replaces the single 36% rate with 35.5% on the first EUR 60,000 of return above the EUR 1,800 tax-free amount and 38.5% above that. Part of a deal shifting about EUR 1 billion a year from tax on labour to tax on wealth, which PRO and Volt call a millionaires' tax.",
+      "proposed_by": [
+        "PRO",
+        "Volt",
+        "D66",
+        "CDA"
+      ],
+      "status": "Amendment to the 2027 Tax Plan adopted by House 2026-11-12; Tax Plan passed with 76 votes; Senate vote expected mid-December 2026. NOS reports the supporting parties hold 35 Senate seats where 38 are needed.",
+      "source_ids": [
+        "s28",
+        "s29",
+        "s30"
+      ]
+    },
+    {
+      "title": "Cost deduction for real estate under the rebuttal scheme",
+      "description": "Allows costs of real estate to be deducted when calculating actual return under the current scheme, from a date to be set by royal decree; the proposers state this cannot be implemented before 2028. Estimated revenue loss EUR 174 million if applied in 2028.",
+      "proposed_by": [
+        "ChristenUnie"
+      ],
+      "status": "Amendment 14 (Grinwis and others) adopted 2026-11-12; part of bill 37 053 pending in Senate",
+      "source_ids": [
+        "s8",
+        "s17"
+      ]
+    },
+    {
+      "title": "Full capital gains tax for all assets in 2030",
+      "description": "A separate bill to bring the remaining assets, including crypto, insurance products and bank balances, under the capital gains method.",
+      "proposed_by": [
+        "Cabinet"
+      ],
+      "status": "Announced; cabinet says it will submit the bill in 2027",
+      "source_ids": [
+        "s9",
+        "s4"
+      ]
+    },
+    {
+      "title": "Box 3 rate of 0%",
+      "description": "Sets the box 3 rate at zero once the new system starts, abolishing the tax. The Ministry of Finance estimated the revenue loss at about EUR 10 billion a year.",
+      "proposed_by": [
+        "FVD"
+      ],
+      "status": "Amendment 12 (Schenk) rejected 2026-11-12; supported only by Groep Markuszower and FVD",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Box 3 rate 3 percentage points lower",
+      "description": "Lowers the box 3 rate by 3 percentage points, funded by aligning the asset limit for the healthcare allowance with the lower limit for the rent allowance from 2028.",
+      "proposed_by": [
+        "JA21"
+      ],
+      "status": "Amendment 18 (Hoogeveen) rejected 2026-11-12; for: VVD, SGP, JA21, BBB, Lid Keijzer, Groep Markuszower, FVD",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "title": "Withdraw the bill and start again in 2030",
+      "description": "The Council of State advised withdrawing the Actual Return Box 3 Act, not submitting the amending bill, and introducing a capital gains tax for all assets in one step in 2030 through a new bill. A Senate motion by SGP senator Schalk stating no objection to withdrawal was put to a vote earlier.",
+      "proposed_by": [
+        "Council of State (advice)",
+        "SGP (Senate motion)"
+      ],
+      "status": "Advice not followed by cabinet; Senate motion rejected 2026-07-07 (for: SGP, FVD, PVV, JA21, BBB, 50PLUS and four independent senators)",
+      "source_ids": [
+        "s7",
+        "s15",
+        "s16"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "The amending bill is an unfunded blank cheque of about EUR 17 billion for wealthy people.",
+      "claimed_by": "PRO MP Stultiens; PVV also refers to a EUR 17.5 billion gap",
+      "what_data_show": "The government confirms a cumulative revenue loss of about EUR 21.8 billion through 2040, plus EUR 2.7 billion from box 2 rate cuts. NOS reports that the shortfall is largely covered until 2031 and that a gap of up to EUR 17.6 billion can arise afterwards. Minister Heinen says the proposal is covered within the cabinet period, which he considers the relevant period. The government states the structural effect is a shortfall of EUR 86 million a year.",
+      "source_ids": [
+        "s9",
+        "s19",
+        "s27"
+      ]
+    },
+    {
+      "claim": "Temporarily lowering box 2 rates is not a funding measure because it costs money.",
+      "claimed_by": "PRO and ChristenUnie (written questions); the cabinet presents the cut as part of the funding",
+      "what_data_show": "According to the government's reply, the cuts bring revenue forward: EUR 5.4 billion more through 2031 and EUR 8.1 billion less in 2032-2036, a cumulative loss of EUR 2.7 billion (EUR 1,934 million for the high rate and EUR 769 million for the low rate). The government adds that the lower borrowing cap for shareholders yields EUR 3.8 billion through 2040, so that the two measures together yield EUR 1.1 billion through 2040.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "claim": "The compensation operation costs the state far less than estimated.",
+      "claimed_by": "Reported by FD (per Taxlive); raised by VVD MP Van Eijk in written questions and by the Council of State",
+      "what_data_show": "As of 9 September 2026 reductions totalled EUR 1.38 billion, about 21% of the EUR 6.46 billion estimated for 2017-2024. State Secretary Eerenberg says the figures are not yet representative because many forms, especially for 2023 and 2024, have still to be received and processed. The cabinet nevertheless applied a 35% markdown to the estimated cost on the basis of provisional figures. No final figure exists; processing is expected to continue until at least 2030.",
+      "source_ids": [
+        "s13",
+        "s9",
+        "s12"
+      ]
+    },
+    {
+      "claim": "The new system can be introduced in 2028 or 2029.",
+      "claimed_by": "Cabinet (2029, or 2028 if found feasible); VVD pressed for the fastest route",
+      "what_data_show": "The Tax Administration's implementation test judged 2028 unworkable and 2029 more feasible with remaining risks. Financial institutions said they could not deliver data for 2028. The Council of State advised 2030. The explanatory memorandum, as quoted by JA21, describes the proposal as error-prone and of limited resistance to fraud, with no pre-filled tax return in the first years.",
+      "source_ids": [
+        "s15",
+        "s16",
+        "s10",
+        "s26"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Supports taxing actual returns and voted for both the February 2026 bill and the November amending bill. NOS reports D66 leans towards a yearly growth tax and opposed funding a capital gains tax at the expense of lower incomes; MP Oosterhuis called the minister's funding a fairly creative reading of the budget rules. D66 made the Tax Plan deal with CDA, PRO and Volt that adds a 38.5% top rate.",
+      "salience": "high",
+      "salience_basis": "Supplies the State Secretary responsible for the bill (Eerenberg); voted for both bills; co-author of the 11 November 2026 Tax Plan deal on wealth taxation. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "These members therefore support the move towards taxing actual returns and understand the wish to align more closely with the realisation principle.",
+          "text_nl": "Deze leden steunen daarom de beweging naar belastingheffing over werkelijk rendement en begrijpen de wens om daarbij sterker aan te sluiten bij het realisatiebeginsel.",
+          "speaker": "D66 group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s22",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Wants a capital gains tax, in which tax is paid only on realised returns, as fast as possible and opposes higher taxes on wealth. Voted for the February 2026 bill; VVD senators later threatened to vote against it, and VVD minister Heinen initiated the amending bill. Voted for the amending bill and for JA21's rejected amendment to cut the rate by 3 points, and against the 2027 Tax Plan after the two-rate amendment was adopted.",
+      "salience": "high",
+      "salience_basis": "Dedicated box 3 position page on the party website; its Finance Minister reopened the bill in February 2026; the party voted against the entire 2027 Tax Plan over the wealth tax amendment, which NOS describes as causing a coalition crisis.",
+      "quotes": [
+        {
+          "text_en": "Every euro of savings was worked hard for in the past. That is why the VVD does not want higher taxes on wealth.",
+          "text_nl": "Voor elke euro spaargeld is in het verleden hard gewerkt. Daarom wil de VVD geen hogere belastingen op vermogen.",
+          "speaker": "VVD website, position page on box 3 (undated, accessed November 2026)",
+          "date": "2026",
+          "source_id": "s33"
+        },
+        {
+          "text_en": "The members of the VVD group endorse the move towards a capital gains tax in box 3.",
+          "text_nl": "De leden van de VVD-fractie onderschrijven de beweging naar een vermogenswinstbelasting in box 3.",
+          "speaker": "VVD group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s22",
+        "s29",
+        "s33"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "Voted for the February 2026 bill and against the amending bill, which it considers unnecessary, rushed and unfunded. Wants wealthy people rather than workers to pay for any shortfall. Together with Volt it proposed the amendment creating a 38.5% box 3 top rate, adopted on 12 November 2026 with D66 and CDA support.",
+      "salience": "high",
+      "salience_basis": "MP Stultiens was co-rapporteur on the original bill; the party filed extensive written questions on the amending bill, requested the funding table through 2040 and initiated the adopted Tax Plan amendment on wealth taxation. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "These members also note that, as far as they are concerned, the amending bill is not needed: a thorough compromise proposal is already before the Senate in the form of the Actual Return Box 3 Act, which was adopted by a large majority of the House after extensive deliberation.",
+          "text_nl": "Ook merken deze leden op dat wat hen betreft de novelle niet nodig is: er ligt immers al een gedegen compromisvoorstel voor in de Eerste Kamer in de vorm van de Wet werkelijk rendement box 3, dat door een grote meerderheid van de Kamer is aangenomen na een uitvoerige behandeling.",
+          "speaker": "PRO group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "An unfunded blank cheque of 17 billion euros for the wealthy.",
+          "text_nl": "Een ongedekte, blanco cheque van 17 miljard euro voor vermogenden",
+          "speaker": "MP Stultiens (as quoted by NOS)",
+          "date": "2026-11-09",
+          "source_id": "s27"
+        },
+        {
+          "text_en": "This is a breakthrough",
+          "text_nl": "Dit is een doorbraak",
+          "speaker": "PRO leader Klaver, on the Tax Plan deal (as quoted by NOS)",
+          "date": "2026-11-11",
+          "source_id": "s28"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s19",
+        "s27",
+        "s28",
+        "s36"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Voted against both the February 2026 bill and the amending bill. NOS lists the PVV among parties favouring a full capital gains tax; MP Vlottes opposed taxing unrealised gains, criticised the speed of the process and called the funding phantom cover. The PVV asked in writing whether the cabinet should resign over the handling of the file.",
+      "salience": "medium",
+      "salience_basis": "Took part in both 2026 debates and filed written questions; voted against both bills; no PVV amendment on the amending bill appears in the House voting record. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "The members of the PVV group have watched the genesis of this amending bill with horror and have the following questions about it.",
+          "text_nl": "De leden van de PVV-fractie hebben met afschuw de totstandkoming van deze novelle aanschouwd en hebben daarover de volgende vragen.",
+          "speaker": "PVV group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s22",
+        "s27",
+        "s36"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "States it favours a full capital gains tax. Voted for the February 2026 bill; NOS reported that CDA senators later threatened to vote against it. Voted for the amending bill while questioning the funding and the process, and joined D66, PRO and Volt in the Tax Plan deal that raises tax on wealth. MP Inge van Dijk asked for a reform of the whole tax and benefits system rather than box 3 alone.",
+      "salience": "high",
+      "salience_basis": "Coalition party that voted for both bills and co-authored the 11 November 2026 Tax Plan deal; active in written questions and both debates. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "As is known, these members favour a full capital gains tax, because this system is consistent both within our tax system and in relation to other countries.",
+          "text_nl": "Zoals bekend zijn deze leden voorstander van een volledige vermogenswinstbelasting, omdat deze systematiek zowel binnen ons fiscale stelsel als in relatie tot het buitenland consistent is.",
+          "speaker": "CDA group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "We find this nerve-racking too",
+          "text_nl": "Wij vinden dit ook spannend",
+          "speaker": "Inge van Dijk (as quoted by NOS)",
+          "date": "2026-11-09",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s19",
+        "s22",
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Wants tax only on what a person has actually earned, levied when the gain is realised. Voted against the February 2026 bill and for the amending bill. Wants crypto and precious metals included as soon as possible. Its amendment to lower the box 3 rate by 3 percentage points was rejected. NOS reported in September 2026 that JA21 made a budget deal conditional on a quick capital gains tax.",
+      "salience": "high",
+      "salience_basis": "Filed its own amendment on the box 3 rate; made budget support conditional on the issue according to NOS; active in written questions and debates. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "These members therefore welcome an extension of the capital gains tax to most asset types.",
+          "text_nl": "Deze leden verwelkomen daarom een uitbreiding van de vermogenswinstbelasting naar de meeste vermogensbestanddelen.",
+          "speaker": "JA21 group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "As far as we are concerned, capital growth taxation is a thing of the past",
+          "text_nl": "Wat ons betreft is vermogensaanwas een gepasseerd station",
+          "speaker": "Michiel Hoogeveen (as quoted by NOS)",
+          "date": "2026-09-04",
+          "source_id": "s23"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s19",
+        "s23"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "Voted against the February 2026 bill and for the amending bill. It was one of two groups, with FVD, that voted for abolishing box 3 through a 0% rate, and it supported the rejected amendment to lower the rate by 3 percentage points.",
+      "salience": "low",
+      "salience_basis": "Position derived from voting record only; the group is not listed among the speakers in the 9 November 2026 committee debate or among the groups filing written questions on the amending bill.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s9",
+        "s36"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Opposes taxing savings and investments as such and wants box 3 abolished. Voted against both the February 2026 bill and the amending bill. Its amendment to set the rate at 0% was rejected; it also proposed keeping the shareholder borrowing cap at EUR 500,000, which was rejected.",
+      "salience": "medium",
+      "salience_basis": "Abolition of box 3 is one bullet point in the tax section of the party's online programme; the party filed two amendments on the amending bill in November 2026.",
+      "quotes": [
+        {
+          "text_en": "Box 3 tax-free: We abolish the savers' tax, so that sound saving is encouraged again. This also ends the discussion about deemed returns.",
+          "text_nl": "Box-3 belastingvrij: We heffen de spaarderstaks op, zodat deugdelijk sparen weer wordt aangemoedigd. Tevens beëindigen we hiermee de discussie over fictief rendement.",
+          "speaker": "FVD website, positions on tax (undated, accessed November 2026)",
+          "date": "2026",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s19",
+        "s34"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "Voted against both the February 2026 bill and the amending bill. Asked the cabinet to follow the Council of State and move in one step in 2030, and said the minister missed a chance for better funding through gift tax. Its amendment allowing a cost deduction for real estate under the rebuttal scheme was adopted. Supported the 2027 Tax Plan including the two box 3 rates.",
+      "salience": "high",
+      "salience_basis": "MP Grinwis is first signatory of one adopted and one rejected amendment and two adopted motions on the amending bill, and of earlier motions on the rebuttal scheme. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "The members of the ChristenUnie group have taken note of the amending bill extending the capital gains tax in box 3 with growing concern.",
+          "text_nl": "De leden van de ChristenUnie-fractie hebben met toenemende bezorgdheid kennisgenomen van de Novelle uitbreiding vermogenswinstbelasting box 3.",
+          "speaker": "ChristenUnie group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s12",
+        "s19",
+        "s35"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Voted for the February 2026 bill and against the amending bill. In the Senate the SP voted against the motion stating no objection to withdrawing the original bill. The SP is not among the groups that filed written questions on the amending bill.",
+      "salience": "low",
+      "salience_basis": "Position derived from voting record; no SP amendment or motion on the amending bill appears in the House voting record. Party manifesto not checked for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s7",
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Voted for the February 2026 bill and against the amending bill. Supported the 2027 Tax Plan, including the two box 3 rates; NOS reports the party was persuaded shortly before the vote in exchange for commitments on other subjects.",
+      "salience": "low",
+      "salience_basis": "Position derived from voting record; not listed among speakers or written contributors on the amending bill. Party manifesto not checked for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s29",
+        "s35"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "Voted against the February 2026 bill and for the amending bill, which it calls a step in the right direction, and wants all assets under a capital gains tax as soon as possible. Its senator Schalk tabled the rejected Senate motion on withdrawing the original bill. Its amendment to defer tax on leased farmland passed on by inheritance or gift was rejected; its motion asking for a further inventory of improvements was adopted. NOS reported that SGP and JA21 called lowering the tax-free thresholds unacceptable.",
+      "salience": "high",
+      "salience_basis": "Filed two amendments and one adopted motion on the amending bill and a Senate motion on the original bill; negotiated with the Finance Minister on the budget and box 3 according to NOS. Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "The members of the SGP group are positive about the content of the amending bill, namely to bring financial instruments such as shares under the capital gains tax as well.",
+          "text_nl": "De leden van de SGP-fractie zijn positief over de inhoud van de novelle, namelijk om ook financiële instrumenten, zoals aandelen onder de vermogenswinstbelasting te laten vallen.",
+          "speaker": "SGP group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        }
+      ],
+      "source_ids": [
+        "s6",
+        "s7",
+        "s8",
+        "s10",
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "Voted against the February 2026 bill and for the amending bill, which it says brings taxation closer to gains actually realised. MP Vermeer objected that the amending bill departs from the usual budget rules. In the Senate, BBB senator Kroon criticised the handling of a bill the cabinet itself intended to change and tabled a motion on a capital gains-based law.",
+      "salience": "medium",
+      "salience_basis": "Took part in written questions and both debates; a BBB senator tabled a Senate motion (held). Party manifesto not checked for this file.",
+      "quotes": [
+        {
+          "text_en": "These members appreciate that the amending bill takes an important step towards a system in which taxation is more closely aligned with capital gains actually realised.",
+          "text_nl": "Deze leden waarderen dat met de novelle een belangrijke stap wordt gezet naar een stelsel waarin belastingheffing meer aansluit bij daadwerkelijk gerealiseerde vermogenswinsten.",
+          "speaker": "BBB group, committee report (verslag) on bill 37 053",
+          "date": "2026-11-05",
+          "source_id": "s10"
+        },
+        {
+          "text_en": "The fact that we are dealing here with a bill of which we have known for months that it will be significantly changed at the initiative of its own sponsor is an outrage",
+          "text_nl": "Het feit dat we hier een wet aan het behandelen zijn waarvan we al maanden weten dat die significant gewijzigd gaat worden op initiatief van de indiener zelf, is een gotspe",
+          "speaker": "Bart Kroon, senator (as quoted by NOS)",
+          "date": "2026-07-01",
+          "source_id": "s22"
+        }
+      ],
+      "source_ids": [
+        "s5",
+        "s6",
+        "s8",
+        "s10",
+        "s19",
+        "s22"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Voted against both the February 2026 bill and the amending bill, and for the adopted cost deduction amendment. Supported the 2027 Tax Plan including the two box 3 rates. MP Ergin called it unacceptable that the minister worked with Groep Markuszower to win support.",
+      "salience": "low",
+      "salience_basis": "Position derived from voting record and one plenary intervention; not among the groups filing written questions on the amending bill. Party manifesto not checked for this file.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s9",
+        "s19",
+        "s29"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "Voted against the February 2026 bill and for the amending bill. MP Van Brenk said signals from implementing bodies must be heeded and the amending bill should take effect later if they have too little time; the group asked how capital flight is monitored. Supported the 2027 Tax Plan according to the reported vote.",
+      "salience": "medium",
+      "salience_basis": "Filed written questions, spoke in both debates and co-signed two adopted motions with ChristenUnie on bank data delivery and holding periods.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s10",
+        "s19",
+        "s35"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Voted for the February 2026 bill and against the amending bill. MP Dassen described the amending bill as a gift to people in box 2 at the expense of future generations. Co-proposer with PRO of the adopted Tax Plan amendment creating two box 3 rates.",
+      "salience": "medium",
+      "salience_basis": "Co-proposer of the adopted wealth tax amendment to the 2027 Tax Plan; one plenary contribution on the amending bill.",
+      "quotes": [],
+      "source_ids": [
+        "s6",
+        "s8",
+        "s19",
+        "s28"
+      ]
+    },
+    {
+      "party": "Lid Keijzer",
+      "position": "Voted for the amending bill and for the rejected amendment to lower the box 3 rate by 3 percentage points. Said in the plenary debate that the current box 3 tax drives entrepreneurs out of the country and argued for a tax that those who pay it experience as fair.",
+      "salience": "low",
+      "salience_basis": "One plenary contribution and voting record on the amending bill.",
+      "quotes": [],
+      "source_ids": [
+        "s8",
+        "s19"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "investor"
+      ],
+      "text": "For tax year 2026 you pay 36% on a deemed return over net assets above EUR 59,357 per person: 1.28% on bank balances (provisional) and 6.00% on investments and other assets. The percentages for bank balances and debts are fixed in early 2027 and used for the final assessment.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor",
+        "second_home"
+      ],
+      "text": "If your actual return on all box 3 assets together was lower than the deemed return, the rebuttal scheme lets you be taxed on the actual return, for 2021-2024 through the Opgaaf werkelijk rendement form and from 2025 in the tax return. For tax year 2024, objections and requests can be submitted until 31 December 2029. The government says people with only savings will probably not get money back.",
+      "source_ids": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor"
+      ],
+      "text": "Proposal (cabinet, adopted by the House, pending in the Senate): from 1 January 2029 gains on shares, bonds, options and funds would be taxed only on sale, while interest and dividends stay taxed each year. The tax-free allowance on assets would be replaced by a tax-free return of EUR 1,800 per person a year.",
+      "source_ids": [
+        "s3",
+        "s9",
+        "s20"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor",
+        "income_high"
+      ],
+      "text": "Proposal (PRO/Volt amendment to the 2027 Tax Plan, adopted by the House, pending in the Senate): from 2029 box 3 return above EUR 1,800 is taxed at 35.5% up to EUR 60,000 and at 38.5% above that, instead of a single 36% rate.",
+      "source_ids": [
+        "s3",
+        "s30"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor"
+      ],
+      "text": "Proposal (cabinet): crypto held in your own wallet and insurance products would be taxed on yearly value growth in a transition year from 1 January 2029 to 1 January 2030, with losses offset against later increases, before moving to tax on sale in 2030 under a separate bill.",
+      "source_ids": [
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "applies_to": [
+        "second_home"
+      ],
+      "text": "Under current rules costs of a second or rented-out home are not deductible in the rebuttal scheme. An amendment adopted by the House on 12 November 2026 would allow a cost deduction for real estate from a date set by royal decree, not expected before 2028; it still needs Senate approval. In the proposed new system the gain on a second home is taxed on sale and maintenance costs are deductible.",
+      "source_ids": [
+        "s8",
+        "s17",
+        "s3"
+      ]
+    },
+    {
+      "applies_to": [
+        "renter_private"
+      ],
+      "text": "The MPs who proposed the real estate cost deduction state that the longer the current scheme without cost deduction lasts, the greater the risk that private landlords sell rented homes. This is the proposers' stated reason; the sources consulted give no figure for such sales.",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "applies_to": [
+        "owner_mortgage",
+        "owner_outright"
+      ],
+      "text": "Your own home is not taxed in box 3, now or in the proposed system; it stays in box 1. Equity in the home is not taxed, but interest earned once it is placed in a bank account is.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed",
+        "employer"
+      ],
+      "text": "Proposal (cabinet, part of bill 37 053, pending in the Senate): if you own a substantial share in your own company, the amount you can borrow from it before the excess is taxed in box 2 would fall in yearly steps from 2027, from EUR 500,000 to EUR 100,000 by 1 January 2031, alongside temporary cuts in box 2 rates.",
+      "source_ids": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "If your savings and investments are below EUR 59,357 per person in 2026 you pay no box 3 tax. The cabinet withdrew on 3 November 2026 its earlier proposals to lower this allowance in 2027 and to lower the tax-free return in the new system.",
+      "source_ids": [
+        "s1",
+        "s9"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor",
+        "retired"
+      ],
+      "text": "If you paid box 3 tax over 2017-2020 and did not object in time, and your assessment was already final before 24 December 2021, the Supreme Court ruled on 25 June 2026 that you are not entitled to compensation for those years.",
+      "source_ids": [
+        "s2",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "investor",
+        "second_home"
+      ],
+      "text": "About 3.1 million tax returns with assets other than only bank balances were awaiting final assessment as of June 2026, because the Tax Administration has held back final assessments since 2023 so that actual returns can be taken into account. Handling of objections and forms is expected to run until at least 2030.",
+      "source_ids": [
+        "s12"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "box 3",
+    "werkelijk rendement",
+    "wet werkelijk rendement box 3",
+    "vermogenswinstbelasting",
+    "vermogensaanwasbelasting",
+    "novelle box 3",
+    "tegenbewijsregeling",
+    "opgaaf werkelijk rendement",
+    "heffingsvrij vermogen",
+    "forfaitair rendement",
+    "rechtsherstel box 3",
+    "vermogensrendementsheffing",
+    "kerstarrest",
+    "excessief lenen",
+    "miljonairsbelasting"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Hoe is het box 3-inkomen op mijn voorlopige aanslag 2026 berekend?",
+      "publisher": "Belastingdienst",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/berekening-box-3-inkomen-2026",
+      "date": null
+    },
+    {
+      "id": "s2",
+      "title": "Box 3",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/werk/inkomstenbelasting/box-3",
+      "date": null
+    },
+    {
+      "id": "s3",
+      "title": "Plannen werkelijk rendement box 3",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/werk/inkomstenbelasting/plannen-werkelijk-rendement-box-3",
+      "date": null
+    },
+    {
+      "id": "s4",
+      "title": "Tijdlijn werkelijk rendement box 3",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/werk/inkomstenbelasting/plannen-werkelijk-rendement-box-3/tijdlijn-werkelijk-rendement-box-3",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "36.748 Wet werkelijk rendement box 3 (dossier, all documents)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/wetsvoorstel/36748_wet_werkelijk_rendement_box?df1=all",
+      "date": null
+    },
+    {
+      "id": "s6",
+      "title": "36.748 Wet werkelijk rendement box 3 (summary and House vote)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/9370000/1/j9vvkfvj6b325az/vmnm2y9y4oyv?df2=ka",
+      "date": null
+    },
+    {
+      "id": "s7",
+      "title": "Stemming motie Wet werkelijk rendement box 3 (Handelingen EK 2025-2026, nr. 39, item 17)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/handelingen/ek/20260707/stemming_motie_wet_werkelijk",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "s8",
+      "title": "Overzicht van stemmingen in de Tweede Kamer: 37.053 Novelle uitbreiding vermogenswinstbelasting box 3",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/behandeling/20261112/stemmingsoverzicht_tweede_kamer_5",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s9",
+      "title": "Kamerstuk 37 053, nr. 8: Nota naar aanleiding van het verslag (Novelle uitbreiding vermogenswinstbelasting box 3)",
+      "publisher": "Tweede Kamer / Officiele Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1278971.pdf",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "s10",
+      "title": "Kamerstuk 37 053, nr. 6: Verslag van de vaste commissie voor Financien (Novelle uitbreiding vermogenswinstbelasting box 3)",
+      "publisher": "Tweede Kamer / Officiele Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1278915.pdf",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "s11",
+      "title": "Kamerstuk 36 748, H: Nota naar aanleiding van het tweede verslag (Wet werkelijk rendement box 3)",
+      "publisher": "Eerste Kamer / Officiele Bekendmakingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36748-H.html",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "s12",
+      "title": "Kamerstuk 32 140, nr. 314: Brief van de staatssecretaris van Financien over de voortgang van de hersteloperatie box 3",
+      "publisher": "Eerste Kamer (Kamerbrief)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260630/brief_regering_voortgang_herstel_2/document3/f=/vmz82ypjf7zs.pdf",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "s13",
+      "title": "Conclusies over lagere kosten hersteloperatie box 3 volgens staatssecretaris te vroeg",
+      "publisher": "Taxlive (V-N Vandaag)",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/conclusies-over-lagere-kosten-hersteloperatie-box-3-volgens-staatssecretaris-te-vroeg/",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "s14",
+      "title": "Behandeling novelle box 3 na 1 januari 2027 leidt tot nieuwe novelle",
+      "publisher": "Taxlive (V-N Vandaag)",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/behandeling-novelle-box-3-na-1-januari-2027-leidt-tot-nieuwe-novelle/",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "s15",
+      "title": "Nieuw box 3-stelsel beoogd per 2029: novelle ingediend bij Tweede Kamer",
+      "publisher": "Loyens & Loeff",
+      "url": "https://www.loyensloeff.com/nl/insights/news--events/news/nieuw-box-3-stelsel-beoogd-per-2029-novelle-ingediend-bij-tweede-kamer/",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "s16",
+      "title": "Novelle Box 3 (TK 2026/27, 37053)",
+      "publisher": "Nederlands Juristenblad",
+      "url": "https://www.njb.nl/wetgeving/wetsvoorstellen/novelle-box-3/",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "s17",
+      "title": "Kostenaftrek en andere aanpassingen in box 3",
+      "publisher": "SRA",
+      "url": "https://www.sra.nl/nieuws/004501/2026/11/kostenaftrek-en-andere-aanpassingen-in-box-3",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s18",
+      "title": "Novelle uitbreiding vermogenswinstbelasting box 3 aangenomen door Tweede Kamer",
+      "publisher": "Taxence",
+      "url": "https://www.taxence.nl/?p=168997",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "s19",
+      "title": "Novelle uitbreiding vermogenswinstbelasting box 3 (Debatten in het kort)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/kamer_in_het_kort/novelle-uitbreiding-vermogenswinstbelasting-box-3",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "s20",
+      "title": "Veel boosheid over nieuwe box 3-belasting, waar gaat de heisa over?",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2603137",
+      "date": "2026-02-19"
+    },
+    {
+      "id": "s21",
+      "title": "Heinen wil wetsvoorstel box 3 aanpassen, Tweede Kamer was al akkoord",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2603947",
+      "date": "2026-02-25"
+    },
+    {
+      "id": "s22",
+      "title": "Eerste Kamer stelt stemming over box 3 voorlopig uit, nieuw voorstel beloofd",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2621107",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "s23",
+      "title": "Box 3 splijt coalitie: VVD wil snelle invoering winstbelasting op vermogen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2629672-box-3-splijt-coalitie-vvd-wil-snelle-invoering-winstbelasting-op-vermogen",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "s24",
+      "title": "Vijf vragen over box 3: hoe kon het zo'n probleem worden en wat is nu de oplossing?",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2633087-vijf-vragen-over-box-3-hoe-kon-het-zo-n-probleem-worden-en-wat-is-nu-de-oplossing",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "s25",
+      "title": "Jetten over onduidelijkheid box 3: 'Snap als mensen het niet meer kunnen bijbenen'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2633430-jetten-over-onduidelijkheid-box-3-snap-als-mensen-het-niet-meer-kunnen-bijbenen",
+      "date": "2026-10-02"
+    },
+    {
+      "id": "s26",
+      "title": "Raad van State vernietigend over haast met box 3, overleg begroting verder onder druk",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2637717-raad-van-state-vernietigend-over-haast-met-box-3-overleg-begroting-verder-onder-druk",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "s27",
+      "title": "Veel kritiek op nieuw voorstel box 3, maar meerderheid lonkt",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2638774-veel-kritiek-op-nieuw-voorstel-box-3-maar-meerderheid-lonkt",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "s28",
+      "title": "D66 en CDA sluiten deal met Pro en Volt rond belastingplan, nog geen reactie VVD",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639001-d66-en-cda-sluiten-deal-met-pro-en-volt-rond-belastingplan-nog-geen-reactie-vvd",
+      "date": "2026-11-11"
+    },
+    {
+      "id": "s29",
+      "title": "Belastingplan aangenomen, en nu is de vraag wat de VVD gaat doen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639225-belastingplan-aangenomen-en-nu-is-de-vraag-wat-de-vvd-gaat-doen",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s30",
+      "title": "Belasting op vermogen splijt kabinet: dit veranderde er nog meer aan het belastingplan",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639750-belasting-op-vermogen-splijt-kabinet-dit-veranderde-er-nog-meer-aan-het-belastingplan",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "s31",
+      "title": "Nieuwe box 3-stelsel op basis van werkelijk rendement uitgesteld",
+      "publisher": "Rijksoverheid (Ministerie van Financien)",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2024/12/13/nieuwe-box-3-stelsel-op-basis-van-werkelijk-rendement-uitgesteld",
+      "date": "2024-12-13"
+    },
+    {
+      "id": "s32",
+      "title": "Stemming Wet tegenbewijsregeling box 3 (plenair verslag 8 juli 2025)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/verslagdeel/20250708/wet_tegenbewijsregeling_box_3",
+      "date": "2025-07-08"
+    },
+    {
+      "id": "s33",
+      "title": "Standpunt: Box 3",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/standpunten/box-3/",
+      "date": null
+    },
+    {
+      "id": "s34",
+      "title": "Standpunten: Belasting, mkb en AOW",
+      "publisher": "Forum voor Democratie",
+      "url": "https://fvd.nl/standpunten/belasting-mkb-aow",
+      "date": null
+    },
+    {
+      "id": "s35",
+      "title": "Kabinet-Jetten",
+      "publisher": "Wikipedia (nl)",
+      "url": "https://nl.wikipedia.org/wiki/Kabinet-Jetten",
+      "date": null
+    },
+    {
+      "id": "s36",
+      "title": "Conceptverslag wetgevingsoverleg Novelle uitbreiding vermogenswinstbelasting box 3, 9 november 2026 (ongecorrigeerd stenogram)",
+      "publisher": "Tweede Kamer (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/behandeling/20261109/conceptverslag_van_een/document3/f=/vn2iduttbbvz.pdf",
+      "date": "2026-11-09"
+    }
+  ]
+}

@@ -1,0 +1,1693 @@
+{
+  "updated": "2026-11-25",
+  "cabinet": {
+    "name": "Kabinet-Jetten",
+    "type": "Minority coalition cabinet of D66, VVD and CDA",
+    "parties": [
+      "D66",
+      "VVD",
+      "CDA"
+    ],
+    "sworn_in": "2026-02-23",
+    "seats_house": 66,
+    "seats_senate": 22,
+    "coalition_agreement": {
+      "title_nl": "Aan de slag. Bouwen aan een beter Nederland",
+      "title_en": "Getting to work. Building a better Netherlands",
+      "date": "2026-01-30",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord"
+    },
+    "summary": "The Jetten cabinet is a minority cabinet: D66 (26), VVD (22) and CDA (18) hold 66 of 150 seats in the House of Representatives and 22 of 75 seats in the Senate, so it needs support from one or more opposition groups for every proposal in both chambers. Parlement.com describes it as the first true minority cabinet since 1945. The coalition agreement states that the cabinet will invite both coalition and opposition MPs to contribute early. On 12 November 2026 the tax plan for 2027 passed the House by 76 votes to 74 after D66 and CDA agreed an amendment with PRO and Volt, while coalition party VVD voted against. After crisis talks, Prime Minister Jetten informed the House on 17 November 2026 that the coalition continues in the same composition; NOS reported that future support is to be sought from 'a bloc of parties', with no choice made yet.",
+    "source_ids": [
+      "s2",
+      "s4",
+      "s14",
+      "s15",
+      "s8",
+      "s20",
+      "s21",
+      "s22"
+    ]
+  },
+  "coalition_agreement_points": [
+    {
+      "topic": "Housing: building",
+      "text": "The agreement calls solving the housing shortage its top priority and refers to a desired production of 100,000 homes per year. In new regional housing deals the aim is that two-thirds of homes are affordable, of which 30% social rent and 25% affordable owner-occupied. NOS reports 1 billion euros per year from 2029 for building affordable homes.",
+      "source_ids": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "topic": "Housing: procedures and rules",
+      "text": "Objection procedures are cut back: one stage of appeal, fixed deadlines for rulings, higher thresholds for objection and appeal. An annual Simplification Act is to make adding storeys and splitting homes easier, permit-free where possible. Permanent residence in holiday homes is to be allowed.",
+      "source_ids": [
+        "s7",
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "topic": "Housing: rent and home ownership",
+      "text": "Social housing tenants get an annual income test to determine whether the rent is still appropriate, and new social tenants a wealth test. The tax treatment of the owner-occupied home (including mortgage interest deduction) stays unchanged. The transfer tax on homes not lived in by the buyer goes from 8% to 7% from 2027.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Taxes: 'freedom contribution' and business taxes",
+      "text": "A 'freedom contribution' (vrijheidsbijdrage) for security is raised through taxes: via income tax 1.5 billion euros in 2027 and 3.4 billion per year from 2028, and via a higher employer disability-fund premium 1.5 billion in 2027 and 1.7 billion per year from 2028. Corporate income tax is not raised; the expat scheme, the business succession scheme and the innovation box are kept.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Box 3 (tax on savings and investments)",
+      "text": "The new box 3 system based on actual returns is to be developed further into a capital gains system. An EU investment account is introduced and a 'win-win loan' is studied. From 2028 the asset limits for healthcare benefit are set equal to the tax-free allowance in box 3.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Asylum: international",
+      "text": "The Netherlands is to take a leading role with other European countries in modernising international refugee law, with the stated aim that asylum applications are eventually submitted and processed outside Europe. The agreement supports the EU return regulation and closed reception at the external border for applications with little chance of success under the EU migration pact.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "Asylum: national measures",
+      "text": "The Asylum Emergency Measures Act and the Two-Status System Act are implemented in full if adopted by the Senate. If applications rise sharply and unexpectedly, extra measures follow, possibly a temporary emergency stop on family reunification for people with subsidiary protection. The asylum procedure is simplified; emergency reception in hotels and cruise ships is replaced by regular places. The dispersal act (spreidingswet) stays in force for now.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "Labour migration",
+      "text": "The advice of the Roemer committee and of the Social and Economic Council is implemented against rogue temp agencies; employers get more responsibility for housing; bans on agency work can be imposed in sectors with persistent abuses. A three-year pilot brings skilled workers to defined sectors under conditions including a salary requirement and a housing requirement. Asylum seekers with a good chance of a permit may work after three months.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Energy and grid congestion",
+      "text": "Tackling grid congestion is given 'highest priority'; a Grid Congestion Crisis Act is to speed up permit procedures. Offshore wind is supported through contracts for difference for 40 GW; the SDE++ subsidy gets 6 new rounds (through 2032, 8 billion euros per year according to SRA); work continues on building at least four new nuclear power plants, which can be conventional or small modular reactors.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Climate",
+      "text": "The agreement backs electrification of industry, CO2 storage under the North Sea, green gas and green hydrogen, and heat networks. According to Parlement.com's summary the 2030 climate target is kept, the Groningen gas field stays closed and there is no gas extraction in the Wadden Sea.",
+      "source_ids": [
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "topic": "Nitrogen",
+      "text": "Nitrogen targets for 2035 are laid down in law per sector, relative to 2019: 42%-46% (ammonia) for agriculture, 50% (ammonia) for industry and 50% (nitrogen oxides) for mobility, with a 2030 target range of 23-25% for agriculture. The critical deposition value is to be replaced 'as soon as possible' by a legally tenable alternative. If the 2035 target is missed, animal or phosphate rights of farms are cut 'as an ultimate remedy'.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "Agriculture and nature",
+      "text": "20 billion euros is set aside for agriculture, nature and nitrogen, including voluntary closure of livestock farms. Voluntary buy-out schemes continue, focused on farms near overburdened Natura 2000 areas. A land-based farming standard is introduced by 2032 at the latest; animal and phosphate rights are extended to calves and goats.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Healthcare",
+      "text": "The compulsory deductible (eigen risico) is indexed and raised by 60 euros in 2027; NOS reports a rise from 385 to 460 euros. A maximum of 150 euros per treatment applies (from 2028, in specialist medical care, according to SRA). The tax deduction for specific care costs ends in 2028 (618 million euros per year according to NOS); home help becomes income-dependent; a sugar tax and free school fruit are announced.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Defence",
+      "text": "Defence spending is scaled up to the NATO norm of 3.5% of GDP, which is to be anchored in law. The armed forces are to grow to at least 122,000 people; a compulsory survey for young people is introduced as a first step, with reintroduction of selective compulsory attendance considered if results fall short. NOS reports 19 billion euros extra for defence.",
+      "source_ids": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "topic": "Ukraine, EU and foreign policy",
+      "text": "Multi-year military and financial support for Ukraine continues and the Netherlands argues for using frozen Russian assets. The agreement invests in development cooperation as 'a step towards the international OECD norm'. Parlement.com's summary lists abolishing unanimity in EU foreign policy and a simpler Article 7 procedure among the EU positions.",
+      "source_ids": [
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "topic": "Unemployment benefit (WW)",
+      "text": "The WW benefit becomes higher at the start and is shortened to one year. According to SRA: maximum duration one year from 2028; from 2030 a benefit of 80% in the first two months and stricter entitlement rules; the maximum daily wage is lowered by 20% from 2029.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Sick pay and disability",
+      "text": "The cabinet 'works on proposals' to make continued payment of wages during illness more workable for employers, especially small and medium-sized businesses; the agreement gives no figures. The IVA benefit (for full and permanent disability) is abolished for new cases (from 2030 according to SRA). Compensation of employers for the transition payment after two years of illness is abolished.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "State pension (AOW) and pensions",
+      "text": "From 1 January 2033 the state pension age is linked directly to the rise in life expectancy (one-to-one according to SRA; nearly 3 billion euros per year according to NOS). Tax support for supplementary pensions of the highest incomes is reduced over six years; SRA reports the maximum pensionable salary is frozen at 137,800 euros from 2027 through 2032.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Work, self-employed and childcare",
+      "text": "A legal presumption of employment is introduced and a Self-Employed Persons Act (Zelfstandigenwet) replaces part of an earlier bill. Nearly free childcare for working parents continues unchanged, with abolition of the childcare benefit through direct financing. A statutory internship allowance is announced.",
+      "source_ids": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Education and innovation",
+      "text": "NOS reports 1 billion euros extra for education next year, rising to 1.5 billion, the scrapping of earlier education cuts and a higher grant for students living away from home. The cabinet works towards the norm of 3% of GDP for research and development spending and expands the WBSO tax credit for AI and technology.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Economy and regulation",
+      "text": "A National Investment Institution is set up for loans and venture capital the market does not provide. Each year at least 500 rules are to be scrapped or simplified. NOS reports a target of 1.5% economic growth.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "topic": "Public finances",
+      "text": "The budget annex states that the deficit at the end of the cabinet period comes out at 2.1% of GDP (ex ante, Miljoenennota 2026 baseline). Structural windfalls may, under conditions, be used one-third for tax relief, one-third for investment and one-third for debt repayment. The Netherlands keeps to the EU Stability and Growth Pact; a proposal to extend the budget horizon to 8 years is worked out.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "topic": "Democracy and governance",
+      "text": "The agreement announces reform of the electoral system for the Senate, a right for the Senate to send bills back, a study of an electoral threshold and of a new electoral system for the House in which preference votes weigh more, and a comprehensive act on political parties. Parlement.com's summary also lists constitutional review by courts and a lobby register.",
+      "source_ids": [
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "topic": "Way of governing",
+      "text": "The chapter on cooperation states that the cabinet needs broader support in both chambers than the three parties provide, will invite coalition and opposition MPs to contribute early, and wants to restore consultation with civil society organisations ('the polder') and with municipalities and provinces.",
+      "source_ids": [
+        "s8"
+      ]
+    }
+  ],
+  "members": [
+    {
+      "name": "Rob Jetten",
+      "role_en": "Prime Minister, Minister of General Affairs",
+      "role_nl": "Minister-president, minister van Algemene Zaken",
+      "kind": "prime_minister",
+      "ministry": "General Affairs",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "Chairs the council of ministers and its sub-councils, is a member of the European Council, and is responsible for matters concerning the Royal House.",
+      "previous": "Member of the House and D66 group leader (2 July 2024 - 23 February 2026); Minister for Climate and Energy in the Rutte IV cabinet (2022-2024).",
+      "source_ids": [
+        "m-rob-jetten",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Dilan Yeşilgöz-Zegerius",
+      "role_en": "Minister of Defence, First Deputy Prime Minister",
+      "role_nl": "Minister van Defensie, 1e viceminister-president",
+      "kind": "deputy_pm",
+      "ministry": "Defence",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "National and international defence policy, composition and deployment of the armed forces, support for Ukraine, NATO and EU cooperation, veterans, the Royal Marechaussee, the coastguard and the military intelligence service MIVD.",
+      "previous": "Member of the House and VVD group leader (2 July 2024 - 23 February 2026); Minister of Justice and Security in the Rutte IV cabinet (2022-2024).",
+      "source_ids": [
+        "m-dilan-yesilgoz-zegerius",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Bart van den Brink",
+      "role_en": "Minister of Asylum and Migration, Second Deputy Prime Minister",
+      "role_nl": "Minister van Asiel en Migratie, 2e viceminister-president",
+      "kind": "deputy_pm",
+      "ministry": "Justice and Security",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Asylum and immigration matters, the agencies IND, COA and DT&V, border control, international migration policy, the EU migration pact, nationality law, regular migration admission policy and reception of Ukrainians.",
+      "previous": "Member of the House for CDA (12 November 2025 - 23 February 2026); before that director of communication and policy of the CDA House group (March 2024 - November 2025).",
+      "source_ids": [
+        "m-bart-van-den-brink",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Tom Berendsen",
+      "role_en": "Minister of Foreign Affairs",
+      "role_nl": "Minister van Buitenlandse Zaken",
+      "kind": "minister",
+      "ministry": "Foreign Affairs",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Foreign policy, Europe (including the EU common foreign and security policy) and international cultural policy.",
+      "previous": "Member of the European Parliament (2 July 2019 - 23 February 2026), leader of the CDA delegation from February 2024.",
+      "source_ids": [
+        "m-tom-berendsen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Sjoerd Sjoerdsma",
+      "role_en": "Minister of Foreign Trade and Development Cooperation",
+      "role_nl": "Minister van Buitenlandse Handel en Ontwikkelingssamenwerking",
+      "kind": "minister",
+      "ministry": "Foreign Affairs",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "International trade and development cooperation.",
+      "previous": "CEO of Einstein Telescope NL (February 2025 - 22 February 2026); member of the House for D66 (2012-2023); former diplomat.",
+      "source_ids": [
+        "m-sjoerd-sjoerdsma",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "David van Weel",
+      "role_en": "Minister of Justice and Security",
+      "role_nl": "Minister van Justitie en Veiligheid",
+      "kind": "minister",
+      "ministry": "Justice and Security",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Police, the Public Prosecution Service, counter-terrorism and the NCTV, cyber security, crisis management, drugs policy, organised crime, human trafficking and the fire service.",
+      "previous": "Minister of Foreign Affairs (from 5 September 2025) and of Asylum and Migration (from June 2025) in the Schoof cabinet; Minister of Justice and Security in that cabinet from 2 July 2024 to 5 September 2025.",
+      "source_ids": [
+        "m-david-van-weel",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Pieter Heerma",
+      "role_en": "Minister of the Interior and Kingdom Relations",
+      "role_nl": "Minister van Binnenlandse Zaken en Koninkrijksrelaties",
+      "kind": "minister",
+      "ministry": "Interior and Kingdom Relations",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Relations with and finances of municipalities and provinces, constitutional affairs, elections, legislation on political parties, the intelligence service AIVD and public-sector employment conditions.",
+      "previous": "Chair of the Huurcommissie (rent tribunal, June 2024 - 22 February 2026) and of the Adviescollege Veiligheid Groningen (from August 2025); member of the House for CDA (2012-2023), including as group leader.",
+      "source_ids": [
+        "m-pieter-heerma",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Elanor Boekholt-O'Sullivan",
+      "role_en": "Minister of Housing and Spatial Planning",
+      "role_nl": "Minister van Volkshuisvesting en Ruimtelijke Ordening",
+      "kind": "minister",
+      "ministry": "Interior and Kingdom Relations",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "Housing construction and large building locations, housing affordability, rent policy and housing benefit, spatial planning, the Environment and Planning Act (Omgevingswet), the Kadaster and making buildings more sustainable.",
+      "previous": "Deputy director-general for policy at the Ministry of Defence (2022 - 23 February 2026); earlier deputy commander of the Royal Netherlands Air Force.",
+      "source_ids": [
+        "m-elanor-boekholt-osullivan",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Rianne Letschert",
+      "role_en": "Minister of Education, Culture and Science",
+      "role_nl": "Minister van Onderwijs, Cultuur en Wetenschap",
+      "kind": "minister",
+      "ministry": "Education, Culture and Science",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "Vocational (mbo) and higher education, teacher training, student finance and DUO, science policy, culture, heritage, archives and media.",
+      "previous": "President of the executive board and professor at Maastricht University (November 2021 - 23 February 2026); informateur in the 2025-2026 cabinet formation.",
+      "source_ids": [
+        "m-rianne-letschert",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Eelco Heinen",
+      "role_en": "Minister of Finance",
+      "role_nl": "Minister van Financiën",
+      "kind": "minister",
+      "ministry": "Finance",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "The national budget, the treasury and financial markets (relations with DNB and AFM), state shareholdings including the National Investment Institution, and European and international monetary policy.",
+      "previous": "Minister of Finance in the Schoof cabinet (2 July 2024 - 23 February 2026); member of the House for VVD (2021-2024).",
+      "source_ids": [
+        "m-eelco-heinen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Vincent Karremans",
+      "role_en": "Minister of Infrastructure and Water Management",
+      "role_nl": "Minister van Infrastructuur en Waterstaat",
+      "kind": "minister",
+      "ministry": "Infrastructure and Water Management",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Road infrastructure, water, shipping, aviation and the agency Rijkswaterstaat.",
+      "previous": "Minister of Economic Affairs in the Schoof cabinet (19 June 2025 - 23 February 2026); before that State Secretary for Youth, Prevention and Sport (2024-2025).",
+      "source_ids": [
+        "m-vincent-karremans",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Heleen Herbert",
+      "role_en": "Minister of Economic Affairs and Climate",
+      "role_nl": "Minister van Economische Zaken en Klimaat",
+      "kind": "minister",
+      "ministry": "Economic Affairs and Climate",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Business climate and competitiveness, macro-economic policy, innovation and industrial policy, consumer and competition policy, reducing regulatory burden, small and medium-sized enterprises, economic security and the National Investment Institution.",
+      "previous": "Director of strategy / chief commercial officer at construction company Heijmans NV (2024 - 23 February 2026); earlier management positions at Dutch Railways (NS).",
+      "source_ids": [
+        "m-heleen-herbert",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Stientje van Veldhoven-van der Meer",
+      "role_en": "Minister of Climate and Green Growth",
+      "role_nl": "Minister van Klimaat en Groene Groei",
+      "kind": "minister",
+      "ministry": "Economic Affairs and Climate",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "Coordination of climate policy, energy policy, making industry more sustainable, offshore wind, the circular economy and raw materials, the Climate Fund, mining and heat networks.",
+      "previous": "Vice-president of the World Resources Institute and CEO of WRI Europe (1 September 2021 - 23 February 2026); minister and state secretary in the Rutte III cabinet (2017-2021).",
+      "source_ids": [
+        "m-stientje-van-veldhoven",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Jaimi van Essen",
+      "role_en": "Minister of Agriculture, Fisheries, Food Security and Nature",
+      "role_nl": "Minister van Landbouw, Visserij, Voedselzekerheid en Natuur",
+      "kind": "minister",
+      "ministry": "Agriculture, Fisheries, Food Security and Nature",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "The integrated approach to nitrogen (including area-based policy and zoning), nature and biodiversity, and the agricultural transition.",
+      "previous": "Alderman and deputy mayor of Deventer (January 2024 - 23 February 2026); before that alderman of Losser (2019-2024).",
+      "source_ids": [
+        "m-jaimi-van-essen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Hans Vijlbrief",
+      "role_en": "Minister of Social Affairs and Employment",
+      "role_nl": "Minister van Sociale Zaken en Werkgelegenheid",
+      "kind": "minister",
+      "ministry": "Social Affairs and Employment",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "General socio-economic and income policy, purchasing power, poverty and debt, employee and national insurance schemes, labour market policy (including dismissal law and labour migration), the pension system and the benefits agency UWV.",
+      "previous": "Member of the House for D66 (December 2023 - 23 February 2026); State Secretary for Mining in the Rutte IV cabinet (2022-2024) and State Secretary for Finance in Rutte III (2020-2022).",
+      "source_ids": [
+        "m-hans-vijlbrief",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Thierry Aartsen",
+      "role_en": "Minister of Work and Participation",
+      "role_nl": "Minister van Werk en Participatie",
+      "kind": "minister",
+      "ministry": "Social Affairs and Employment",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "The Self-Employed Persons Act and policy on the self-employed, re-integration and sheltered work, participation, integration and civic integration, childcare (including reform of the childcare benefit), child schemes, working conditions and continued payment of wages during illness.",
+      "previous": "State Secretary for Public Transport and the Environment in the Schoof cabinet (19 June 2025 - 23 February 2026); member of the House for VVD (2018-2025).",
+      "source_ids": [
+        "m-thierry-aartsen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Sophie Hermans",
+      "role_en": "Minister of Health, Welfare and Sport",
+      "role_nl": "Minister van Volksgezondheid, Welzijn en Sport",
+      "kind": "minister",
+      "ministry": "Health, Welfare and Sport",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Curative care (GP, hospital, dental and emergency care), the Health Insurance Act (insured package, the compulsory deductible and healthcare benefit), medicines, infectious disease policy, prevention and mental health care.",
+      "previous": "Minister of Climate and Green Growth and deputy prime minister in the Schoof cabinet (2 July 2024 - 23 February 2026); member of the House for VVD (2017-2024).",
+      "source_ids": [
+        "m-sophie-hermans",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Mirjam Sterk",
+      "role_en": "Minister of Long-term Care, Youth and Sport",
+      "role_nl": "Minister van Langdurige Zorg, Jeugd en Sport",
+      "kind": "minister",
+      "ministry": "Health, Welfare and Sport",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Long-term care (care for the elderly and people with disabilities), district nursing, personal care budgets, youth care, social support (Wmo) and informal carers, shelters, the care labour market and sport.",
+      "previous": "Member of the provincial executive of Utrecht (February 2022 - 22 February 2026).",
+      "source_ids": [
+        "m-mirjam-sterk",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Claudia van Bruggen",
+      "role_en": "State Secretary for Justice and Security (English title on government.nl: Minister for Legal Protection and Prisons)",
+      "role_nl": "Staatssecretaris van Justitie en Veiligheid",
+      "kind": "state_secretary",
+      "ministry": "Justice and Security",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "The judiciary and the Council for the Judiciary, legal professions, legal aid, sanctions policy, juvenile justice, family law, private law, gambling and the legal framework for personal data protection.",
+      "previous": "Board member of forensic care institution Mesdag in Groningen (January 2024 - 23 February 2026) and of De Nederlandse ggz (from December 2025).",
+      "source_ids": [
+        "m-claudia-van-bruggen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Eric van der Burg",
+      "role_en": "State Secretary for Kingdom Relations and Effective Government (English title on government.nl: Minister for Kingdom Relations and Effective Government)",
+      "role_nl": "Staatssecretaris Koninkrijksrelaties en Slagvaardige Overheid",
+      "kind": "state_secretary",
+      "ministry": "Interior and Kingdom Relations",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Kingdom relations, reform of the central government organisation, reducing regulatory burden (the target of 500 fewer rules), government IT and information security, open government, and identity documents and the population register.",
+      "previous": "Member of the House for VVD (6 December 2023 - 23 February 2026); State Secretary of Justice and Security in the Rutte IV cabinet (2022-2024).",
+      "source_ids": [
+        "m-eric-van-der-burg",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Judith Tielen",
+      "role_en": "State Secretary for Education and Equality (English title on government.nl: Minister for Primary and Secondary Education and Equality)",
+      "role_nl": "Staatssecretaris Onderwijs en Emancipatie",
+      "kind": "state_secretary",
+      "ministry": "Education, Culture and Science",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Pre-school, primary, secondary and special education, adult education, libraries, policy on teachers, school buildings and emancipation.",
+      "previous": "State Secretary for Youth, Prevention and Sport in the Schoof cabinet (19 June 2025 - 23 February 2026); member of the House for VVD (2017-2025).",
+      "source_ids": [
+        "m-judith-tielen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Eelco Eerenberg",
+      "role_en": "State Secretary for Finance (English title on government.nl: Minister for Tax Affairs, Tax Administration and Customs)",
+      "role_nl": "Staatssecretaris van Financiën",
+      "kind": "state_secretary",
+      "ministry": "Finance",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "Tax affairs and the Tax Administration (Belastingdienst), financial relations between central and local government, general implementation and reform of benefits (toeslagen), and Customs.",
+      "previous": "Alderman of Utrecht (December 2019 - 23 February 2026); before that alderman of Enschede (2014-2019).",
+      "source_ids": [
+        "m-eelco-eerenberg",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Sandra Palmen-Schlangen",
+      "role_en": "State Secretary for Benefits Redress (English title on government.nl: Minister for Benefits Redress)",
+      "role_nl": "Staatssecretaris Herstel Toeslagen",
+      "kind": "state_secretary",
+      "ministry": "Finance",
+      "party": "none (non-party)",
+      "since": "2026-02-23",
+      "portfolio": "The redress operation for victims of the childcare benefits affair, and follow-up of the recommendations of the parliamentary inquiry into fraud policy and public services (PEFD).",
+      "previous": "State Secretary for Redress and Benefits in the Schoof cabinet (13 December 2024 - 22 August 2025 and again 5 September 2025 - 23 February 2026); member of the House for NSC in 2023.",
+      "source_ids": [
+        "m-sandra-palmen-schlangen",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Derk Boswijk",
+      "role_en": "State Secretary for Defence (English title on government.nl: Minister for Arms Procurement and Personnel)",
+      "role_nl": "Staatssecretaris van Defensie",
+      "kind": "state_secretary",
+      "ministry": "Defence",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Personnel and equipment readiness of the armed forces, defence industry policy and innovation, defence real estate and spatial development, and IT and digitalisation.",
+      "previous": "Member of the House for CDA (March 2021 - 23 February 2026); reserve officer in the army.",
+      "source_ids": [
+        "m-derk-boswijk",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Annet Bertram",
+      "role_en": "State Secretary for Infrastructure and Water Management (English title on government.nl: Minister for Infrastructure and Water Management)",
+      "role_nl": "Staatssecretaris van Infrastructuur en Waterstaat",
+      "kind": "state_secretary",
+      "ministry": "Infrastructure and Water Management",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Environment (noise, hazardous substances, air quality, traffic emissions; not climate), soil, public transport and rail, cycling policy, sustainable transport and the weather institute KNMI.",
+      "previous": "Secretary-general for Asylum and Migration (April 2025 - 23 February 2026) and director-general for Migration at the Ministry of Justice and Security (from January 2023).",
+      "source_ids": [
+        "m-annet-bertram",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Willemijn Aerdts",
+      "role_en": "State Secretary for Digital Economy and Sovereignty (English title on government.nl: Minister for the Digital Economy and Sovereignty)",
+      "role_nl": "Staatssecretaris Digitale Economie en Soevereiniteit",
+      "kind": "state_secretary",
+      "ministry": "Economic Affairs and Climate",
+      "party": "D66",
+      "since": "2026-02-23",
+      "portfolio": "The digital economy and infrastructure, coordination of digitalisation and digital sovereignty, telecom, artificial intelligence and algorithms, open data and the digital wallet.",
+      "previous": "Member of the Senate for D66 (13 June 2023 - 23 February 2026) and lecturer/researcher at Leiden University's Institute of Security and Global Affairs.",
+      "source_ids": [
+        "m-willemijn-aerdts",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Jo-Annes de Bat",
+      "role_en": "State Secretary for Climate and Green Growth (English title on government.nl: Minister for Energy Infrastructure and Nuclear Affairs)",
+      "role_nl": "Staatssecretaris van Klimaat en Groene Groei",
+      "kind": "state_secretary",
+      "ministry": "Economic Affairs and Climate",
+      "party": "CDA",
+      "since": "2026-02-23",
+      "portfolio": "Tackling grid congestion and building energy infrastructure, nuclear energy, permits for large energy projects, and dismantling the Groningen gas field.",
+      "previous": "Member of the provincial executive of Zeeland (July 2015 - 23 February 2026).",
+      "source_ids": [
+        "m-jo-annes-de-bat",
+        "s2",
+        "s26"
+      ]
+    },
+    {
+      "name": "Silvio Erkens",
+      "role_en": "State Secretary for Agriculture, Fisheries, Food Security and Nature (English title on government.nl: Minister for Food Security, Fisheries and Horticulture)",
+      "role_nl": "Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur",
+      "kind": "state_secretary",
+      "ministry": "Agriculture, Fisheries, Food Security and Nature",
+      "party": "VVD",
+      "since": "2026-02-23",
+      "portfolio": "Fisheries, animal welfare and animal health, food security and food quality, plant health, horticulture, and the food safety authority NVWA.",
+      "previous": "Member of the House for VVD (31 March 2021 - 23 February 2026); earlier consultant at Boston Consulting Group.",
+      "source_ids": [
+        "m-silvio-erkens",
+        "s2",
+        "s26"
+      ]
+    }
+  ],
+  "ministries": [
+    {
+      "name_en": "Ministry of General Affairs",
+      "name_nl": "Ministerie van Algemene Zaken",
+      "abbr": "AZ",
+      "responsibilities": "The Prime Minister's ministry: supports the Prime Minister as chair of the council of ministers and handles matters concerning the Royal House. No amount is given here because the Miljoenennota table shows the chapter 'General Affairs and the King' as 0 when rounded to whole billions.",
+      "budget_2027_eur_bn": null,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Interior and Kingdom Relations",
+      "name_nl": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "abbr": "BZK",
+      "responsibilities": "Relations with municipalities and provinces, constitutional affairs, elections, the intelligence service AIVD, Kingdom relations and government IT. Since 23 February 2026 it also houses the Minister of Housing and Spatial Planning. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The separate chapters Housing and Spatial Planning (10) and the Municipalities and Provinces Funds (54) are not included in the figure.",
+      "budget_2027_eur_bn": 4,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Foreign Affairs",
+      "name_nl": "Ministerie van Buitenlandse Zaken",
+      "abbr": "BZ",
+      "responsibilities": "Foreign policy and European affairs; also houses the Minister of Foreign Trade and Development Cooperation. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The separate chapter Foreign Trade and Development Cooperation (4) is not included.",
+      "budget_2027_eur_bn": 16,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Defence",
+      "name_nl": "Ministerie van Defensie",
+      "abbr": "DEF",
+      "responsibilities": "Defence policy, the armed forces, the Royal Marechaussee and the military intelligence service MIVD. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The figure includes the Defence Materiel Budget Fund.",
+      "budget_2027_eur_bn": 29,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Economic Affairs and Climate",
+      "name_nl": "Ministerie van Economische Zaken en Klimaat",
+      "abbr": "EZK",
+      "responsibilities": "Business climate, innovation, industry, competition, digital economy; since 23 February 2026 (when Economic Affairs was renamed) it also houses the Minister of Climate and Green Growth, responsible for climate and energy policy. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The figure includes the National Growth Fund; the separate chapter Climate and Green Growth including the Climate and Energy Fund (6) is not included.",
+      "budget_2027_eur_bn": 3,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Finance",
+      "name_nl": "Ministerie van Financiën",
+      "abbr": "FIN",
+      "responsibilities": "The national budget, taxes, the Tax Administration, Customs, benefits (toeslagen), financial markets and state shareholdings. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The figure excludes the National Debt chapter.",
+      "budget_2027_eur_bn": 12,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Infrastructure and Water Management",
+      "name_nl": "Ministerie van Infrastructuur en Waterstaat",
+      "abbr": "IenW",
+      "responsibilities": "Roads, rail and public transport, aviation, shipping, water management and the environment. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The figure includes the Mobility Fund and the Delta Fund.",
+      "budget_2027_eur_bn": 15,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Justice and Security",
+      "name_nl": "Ministerie van Justitie en Veiligheid",
+      "abbr": "JenV",
+      "responsibilities": "Police, public prosecution, the judiciary, prisons, counter-terrorism and crisis management. Since 23 February 2026 it also houses the Minister of Asylum and Migration. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026). The separate chapter Asylum and Migration (8) is not included.",
+      "budget_2027_eur_bn": 18,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Agriculture, Fisheries, Food Security and Nature",
+      "name_nl": "Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur",
+      "abbr": "LVVN",
+      "responsibilities": "Agriculture, nitrogen policy, nature and biodiversity, fisheries, food security and animal welfare. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026).",
+      "budget_2027_eur_bn": 4,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Education, Culture and Science",
+      "name_nl": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+      "abbr": "OCW",
+      "responsibilities": "Education from primary school to university, student finance, science, culture, heritage, media and emancipation. Budget figure: net expenditure 2027 for this budget chapter, rounded to whole billions, from table 6 of the Miljoenennota 2027 (15 September 2026).",
+      "budget_2027_eur_bn": 57,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Social Affairs and Employment",
+      "name_nl": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "abbr": "SZW",
+      "responsibilities": "Labour market policy, social security (unemployment, disability, state pension AOW), pensions, income policy, childcare and integration; also houses the Minister of Work and Participation. Budget figure: the Miljoenennota 2027 table 6 line 'Social Security' (net expenditure 2027, rounded to whole billions).",
+      "budget_2027_eur_bn": 128,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "name_en": "Ministry of Health, Welfare and Sport",
+      "name_nl": "Ministerie van Volksgezondheid, Welzijn en Sport",
+      "abbr": "VWS",
+      "responsibilities": "Health care and health insurance, long-term care, youth care, prevention and sport; also houses the Minister of Long-term Care, Youth and Sport. Budget figure: the Miljoenennota 2027 table 6 line 'Care' (Zorg; net expenditure 2027, rounded to whole billions).",
+      "budget_2027_eur_bn": 121,
+      "source_ids": [
+        "s25",
+        "s24",
+        "s3",
+        "s1"
+      ]
+    }
+  ],
+  "formation_timeline": [
+    {
+      "date": "2025-06-03",
+      "event": "The Schoof cabinet (PVV, VVD, NSC, BBB) falls: the PVV leaves the coalition after the other parties refuse additional asylum measures beyond the coalition agreement; Prime Minister Schoof offers the cabinet's resignation and it continues as a caretaker (demissionary) cabinet.",
+      "source_ids": [
+        "s16",
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "event": "The House debates the resignation of the Schoof cabinet.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-06-19",
+      "event": "Replacements for the departed PVV ministers and state secretaries are in place.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "event": "Foreign minister Caspar Veldkamp (NSC) resigns because he felt he could not take enough measures against Israel over the situation in Gaza; the other NSC ministers and state secretaries leave the same day.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "event": "New VVD and BBB ministers and state secretaries are sworn in to fill the NSC posts.",
+      "source_ids": [
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "Early election for the House of Representatives. D66 and PVV each win 26 seats; D66 becomes the largest party by 29,668 votes. Turnout is 78.3%.",
+      "source_ids": [
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "event": "The party leaders designate Wouter Koolmees (D66) as scout (verkenner).",
+      "source_ids": [
+        "s13",
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "event": "The Electoral Council (Kiesraad) hands over the official result.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "event": "The newly elected House is sworn in.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "event": "After a debate on the scout's report the House appoints Hans Wijers (D66) and Sybrand Buma (CDA) as informateurs.",
+      "source_ids": [
+        "s13",
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "event": "Hans Wijers withdraws as informateur one day after his appointment; Buma continues alone.",
+      "source_ids": [
+        "s13",
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "event": "Thom van Campen (VVD) is elected Speaker of the House in the third round, with 79 of 148 valid votes.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-12-08",
+      "event": "Informateur Buma hands over his final report.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-12-10",
+      "event": "The House debates Buma's report and appoints Rianne Letschert (D66) as informateur.",
+      "source_ids": [
+        "s13",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "event": "Letschert, D66, VVD and CDA opt for a minority cabinet without other parties.",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Seven of the 26 PVV members of the House leave the group after criticising leader Geert Wilders' course and form Groep Markuszower; the PVV keeps 19 seats.",
+      "source_ids": [
+        "s17"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present the coalition agreement 'Aan de slag. Bouwen aan een beter Nederland'; informateur Letschert delivers her final report.",
+      "source_ids": [
+        "s13",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-02-03",
+      "event": "The House debates the agreement and appoints Rob Jetten (D66) as formateur.",
+      "source_ids": [
+        "s13",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "event": "Nathalie van Berkel (D66) withdraws as intended State Secretary for Finance; on 19 February Eelco Eerenberg is named in her place.",
+      "source_ids": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "The Jetten cabinet (D66, VVD, CDA; 18 ministers and 10 state secretaries) is sworn in by the King at Huis ten Bosch Palace, 117 days after the election.",
+      "source_ids": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "Mona Keijzer leaves the BBB group and continues as an independent member (Lid Keijzer), after the group chose Henk Vermeer to succeed Caroline van der Plas as leader.",
+      "source_ids": [
+        "s19"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "event": "Prime Minister Jetten delivers the government statement (regeringsverklaring) in the House; the debate runs on 25 and 26 February.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "event": "Municipal elections in 340 of 342 municipalities. Turnout is 53.75%. Local parties together receive 33.41% of the votes; the joint GL/PvdA lists 11.77%, VVD 11.62%, CDA 11.13%, D66 9.30%.",
+      "source_ids": [
+        "s29"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "The Senate adopts the act introducing a two-status asylum system, which distinguishes refugees from people with subsidiary protection and tightens family reunification.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "event": "The Senate approves the act implementing the EU Asylum and Migration Pact.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026",
+      "event": "Energy crisis (no exact date given in the source): because of disruptions related to the Middle East and Iran the cabinet moves to phase 1 of the national oil crisis plan and releases nearly one billion euros in support measures.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "event": "The cabinet presents a package to address the nitrogen problem, with 20 billion euros for the transition of farming and nature restoration.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "event": "The House presidium allows the GroenLinks-PvdA group to be called Progressief Nederland (PRO), ahead of a founding congress scheduled for 13 June; Groep Markuszower may not use the name of its new party, De Nederlandse Alliantie, in the House.",
+      "source_ids": [
+        "s18"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "event": "Sybrand van Haersma Buma becomes vice-president of the Council of State.",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Prinsjesdag (Budget Day): the King's Speech is delivered and finance minister Heinen presents the Miljoenennota 2027, which projects expenditure of 516.8 billion euros, revenue of 481.2 billion and a deficit of 2.9% of GDP in 2027.",
+      "source_ids": [
+        "s30",
+        "s24",
+        "s23"
+      ]
+    },
+    {
+      "date": "2026-10",
+      "event": "The cabinet reallocates infrastructure funds, giving priority to maintenance (18 billion euros), which delays some construction projects.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "event": "Minister Van Essen submits a bill replacing targets based on the critical deposition value with statutory emission targets.",
+      "source_ids": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "The House adopts an amendment by PRO and Volt, agreed with D66 and CDA, shifting about 1 billion euros in taxes from labour to capital, and passes the Belastingplan 2027 (tax plan) by 76 votes to 74; coalition party VVD votes against.",
+      "source_ids": [
+        "s4",
+        "s20"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "event": "Crisis meeting of the coalition; VVD leader and deputy prime minister Yeşilgöz calls the minority cabinet a 'failed experiment' ('mislukt experiment'). Talks continue on 15 and 16 November.",
+      "source_ids": [
+        "s4",
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "event": "Jetten informs the House that the coalition continues in the same composition and that Council of State vice-president Buma is asked to advise on structural agreements between cabinet and House on a financial framework for budget decisions.",
+      "source_ids": [
+        "s4",
+        "s22",
+        "s21"
+      ]
+    }
+  ],
+  "election_2025": {
+    "date": "2025-10-29",
+    "turnout_pct": 78.3,
+    "results": [
+      {
+        "party": "D66",
+        "seats": 26,
+        "votes_pct": 16.94,
+        "change_vs_2023": 17
+      },
+      {
+        "party": "PVV",
+        "seats": 26,
+        "votes_pct": 16.66,
+        "change_vs_2023": -11
+      },
+      {
+        "party": "VVD",
+        "seats": 22,
+        "votes_pct": 14.24,
+        "change_vs_2023": -2
+      },
+      {
+        "party": "GroenLinks-PvdA",
+        "seats": 20,
+        "votes_pct": 12.79,
+        "change_vs_2023": -5
+      },
+      {
+        "party": "CDA",
+        "seats": 18,
+        "votes_pct": 11.79,
+        "change_vs_2023": 13
+      },
+      {
+        "party": "JA21",
+        "seats": 9,
+        "votes_pct": 5.95,
+        "change_vs_2023": 8
+      },
+      {
+        "party": "FVD",
+        "seats": 7,
+        "votes_pct": 4.54,
+        "change_vs_2023": 4
+      },
+      {
+        "party": "BBB",
+        "seats": 4,
+        "votes_pct": 2.65,
+        "change_vs_2023": -3
+      },
+      {
+        "party": "DENK",
+        "seats": 3,
+        "votes_pct": 2.37,
+        "change_vs_2023": 0
+      },
+      {
+        "party": "SGP",
+        "seats": 3,
+        "votes_pct": 2.25,
+        "change_vs_2023": 0
+      },
+      {
+        "party": "PvdD",
+        "seats": 3,
+        "votes_pct": 2.08,
+        "change_vs_2023": 0
+      },
+      {
+        "party": "ChristenUnie",
+        "seats": 3,
+        "votes_pct": 1.9,
+        "change_vs_2023": 0
+      },
+      {
+        "party": "SP",
+        "seats": 3,
+        "votes_pct": 1.89,
+        "change_vs_2023": -2
+      },
+      {
+        "party": "50PLUS",
+        "seats": 2,
+        "votes_pct": 1.43,
+        "change_vs_2023": 2
+      },
+      {
+        "party": "Volt",
+        "seats": 1,
+        "votes_pct": 1.1,
+        "change_vs_2023": -1
+      },
+      {
+        "party": "NSC",
+        "seats": 0,
+        "votes_pct": 0.37,
+        "change_vs_2023": -20
+      }
+    ],
+    "source_ids": [
+      "s12",
+      "s13"
+    ]
+  },
+  "upcoming": [
+    {
+      "date": "2026-12 (expected)",
+      "event": "Advice by Council of State vice-president Sybrand van Haersma Buma on a financial framework and procedural rules for cooperation between cabinet and House; Parlement.com reports he was asked on 17 November 2026 to advise within a month.",
+      "source_ids": [
+        "s4",
+        "s22"
+      ]
+    },
+    {
+      "date": "2027-03-17",
+      "event": "Elections for the Provincial Councils (Provinciale Staten) and the electoral colleges, and on the same day for the 21 water boards.",
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "date": "2027-04-20",
+      "event": "Candidate nomination day for the Senate election.",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2027-05-24",
+      "event": "Senate election: the members of the Provincial Councils and the electoral colleges elect all 75 senators.",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2027-06-08",
+      "event": "The sitting senators leave and the new Senate is installed.",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "date": "2027-09-21",
+      "event": "Prinsjesdag 2027 (Budget Day falls on the third Tuesday of September): King's Speech and presentation of the 2028 budget.",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "date": "2030-03",
+      "event": "Next regular municipal council elections.",
+      "source_ids": [
+        "s33"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Bewindspersonen (members of the government)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen",
+      "date": null
+    },
+    {
+      "id": "s2",
+      "title": "Kabinet-Jetten (sinds 2026)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/over-de-regering/kabinetten-sinds-1945/kabinet-jetten",
+      "date": null
+    },
+    {
+      "id": "s3",
+      "title": "Kabinet-Jetten beëdigd",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/23/kabinet-jetten-beedigd",
+      "date": "2026-02-23"
+    },
+    {
+      "id": "s4",
+      "title": "Kabinet-Jetten (2026-heden)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinet-jetten-2026-heden",
+      "date": null
+    },
+    {
+      "id": "s5",
+      "title": "Kabinetsformatie 2025-2026",
+      "publisher": "Parlement.com",
+      "url": "https://parlement.com/kabinetsformatie-2025-2026",
+      "date": null
+    },
+    {
+      "id": "s6",
+      "title": "Regeerakkoord 'Aan de slag. Bouwen aan een beter Nederland'",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s7",
+      "title": "Aan de slag. Bouwen aan een beter Nederland - coalitieakkoord 2026-2030 (full text, PDF, 67 pages)",
+      "publisher": "D66, VVD, CDA; published by Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s8",
+      "title": "Regeerakkoord: Samenwerking als gezamenlijke opdracht",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord/samenwerking-als-gezamenlijke-opdracht",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s9",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s10",
+      "title": "Aan de slag: een selectie van de plannen uit het coalitieakkoord",
+      "publisher": "SRA",
+      "url": "https://www.sra.nl/nieuws/004501/2026/02/aan-de-slag-een-selectie-van-de-plannen-uit-het-coalitieakkoord",
+      "date": "2026-02"
+    },
+    {
+      "id": "s11",
+      "title": "Regeerakkoord 2026",
+      "publisher": "Parlement.com",
+      "url": "https://parlement.com/regeerakkoord-2026",
+      "date": null
+    },
+    {
+      "id": "s12",
+      "title": "Tweede Kamerverkiezingen 2025",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/tweede-kamerverkiezingen-2025",
+      "date": null
+    },
+    {
+      "id": "s13",
+      "title": "Verkiezingen en formatie 2025",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/zo-werkt-de-kamer/verkiezingen-en-formatie-2025",
+      "date": null
+    },
+    {
+      "id": "s14",
+      "title": "Fracties (parliamentary groups in the House)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties",
+      "date": null
+    },
+    {
+      "id": "s15",
+      "title": "Fracties (groups in the Senate)",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/fracties",
+      "date": null
+    },
+    {
+      "id": "s16",
+      "title": "Kabinet-Schoof (2024-2026)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/kabinet-schoof-2024-2026",
+      "date": null
+    },
+    {
+      "id": "s17",
+      "title": "Opstand tegen Wilders: zeven PVV'ers beginnen eigen fractie",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2598974-opstand-tegen-wilders-zeven-pvv-ers-beginnen-eigen-fractie",
+      "date": "2026-01-20"
+    },
+    {
+      "id": "s18",
+      "title": "GL-PvdA nu als 'Pro' in Kamer, geen andere naam Groep Markuszower",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2617817-gl-pvda-nu-als-pro-in-kamer-geen-andere-naam-groep-markuszower",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "s19",
+      "title": "Mona Keijzer verlaat BBB en gaat als zelfstandig Kamerlid verder",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2603756-mona-keijzer-verlaat-bbb-en-gaat-als-zelfstandig-kamerlid-verder",
+      "date": "2026-02-23"
+    },
+    {
+      "id": "s20",
+      "title": "Belastingplan aangenomen en nu is de vraag wat de VVD gaat doen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639225-belastingplan-aangenomen-en-nu-is-de-vraag-wat-de-vvd-gaat-doen",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s21",
+      "title": "Kabinet is na afwenden crisis terug bij af, weeffout niet hersteld",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2639978-kabinet-is-na-afwenden-crisis-terug-bij-af-weeffout-niet-hersteld",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "s22",
+      "title": "Vicepresident Raad van State Buma gaat kabinet adviseren over samenwerking",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/nieuws/202611/vicepresident-raad-van-state-buma-gaat-kabinet-adviseren-over-samenwerking",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "s23",
+      "title": "Troonrede 2026 (volledige tekst)",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/troonrede-2026-volledige-tekst",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s24",
+      "title": "Miljoenennota 2027",
+      "publisher": "Ministerie van Financiën (rijksfinancien.nl)",
+      "url": "https://www.rijksfinancien.nl/miljoenennota/2027",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s25",
+      "title": "Ministeries",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/ministeries",
+      "date": null
+    },
+    {
+      "id": "s26",
+      "title": "Members of cabinet",
+      "publisher": "Government of the Netherlands (government.nl)",
+      "url": "https://www.government.nl/government/members-of-cabinet",
+      "date": null
+    },
+    {
+      "id": "s27",
+      "title": "Eerste Kamerverkiezingen 2027",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/eerste-kamerverkiezingen-2027",
+      "date": null
+    },
+    {
+      "id": "s28",
+      "title": "Waterschappen (water board elections)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/waterschappen",
+      "date": null
+    },
+    {
+      "id": "s29",
+      "title": "Nederlandse gemeenteraadsverkiezingen 2026 (figures cited from verkiezingsuitslagen.nl)",
+      "publisher": "Wikipedia (nl)",
+      "url": "https://nl.wikipedia.org/wiki/Nederlandse_gemeenteraadsverkiezingen_2026",
+      "date": null
+    },
+    {
+      "id": "s30",
+      "title": "Prinsjesdag",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s31",
+      "title": "Minderheidskabinet",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/minderheidskabinet",
+      "date": null
+    },
+    {
+      "id": "s32",
+      "title": "Raad van State",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/raad-van-state",
+      "date": null
+    },
+    {
+      "id": "s33",
+      "title": "Gemeenteraden (municipal council elections)",
+      "publisher": "Kiesraad",
+      "url": "https://www.kiesraad.nl/verkiezingen/gemeenteraden",
+      "date": null
+    },
+    {
+      "id": "s34",
+      "title": "Prinsjesdag",
+      "publisher": "Parlement.com",
+      "url": "https://www.parlement.com/prinsjesdag",
+      "date": null
+    },
+    {
+      "id": "m-rob-jetten",
+      "title": "Rob Jetten (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/rob-jetten",
+      "date": null
+    },
+    {
+      "id": "m-dilan-yesilgoz-zegerius",
+      "title": "Dilan Yeşilgöz-Zegerius (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/dilan-yesilgoz-zegerius",
+      "date": null
+    },
+    {
+      "id": "m-bart-van-den-brink",
+      "title": "Bart van den Brink (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/bart-van-den-brink",
+      "date": null
+    },
+    {
+      "id": "m-tom-berendsen",
+      "title": "Tom Berendsen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/tom-berendsen",
+      "date": null
+    },
+    {
+      "id": "m-sjoerd-sjoerdsma",
+      "title": "Sjoerd Sjoerdsma (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/sjoerd-sjoerdsma",
+      "date": null
+    },
+    {
+      "id": "m-david-van-weel",
+      "title": "David van Weel (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/david-van-weel",
+      "date": null
+    },
+    {
+      "id": "m-pieter-heerma",
+      "title": "Pieter Heerma (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/pieter-heerma",
+      "date": null
+    },
+    {
+      "id": "m-elanor-boekholt-osullivan",
+      "title": "Elanor Boekholt-O'Sullivan (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/elanor-boekholt-osullivan",
+      "date": null
+    },
+    {
+      "id": "m-rianne-letschert",
+      "title": "Rianne Letschert (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/rianne-letschert",
+      "date": null
+    },
+    {
+      "id": "m-eelco-heinen",
+      "title": "Eelco Heinen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/eelco-heinen",
+      "date": null
+    },
+    {
+      "id": "m-vincent-karremans",
+      "title": "Vincent Karremans (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/vincent-karremans",
+      "date": null
+    },
+    {
+      "id": "m-heleen-herbert",
+      "title": "Heleen Herbert (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/heleen-herbert",
+      "date": null
+    },
+    {
+      "id": "m-stientje-van-veldhoven",
+      "title": "Stientje van Veldhoven-van der Meer (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/stientje-van-veldhoven",
+      "date": null
+    },
+    {
+      "id": "m-jaimi-van-essen",
+      "title": "Jaimi van Essen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/jaimi-van-essen",
+      "date": null
+    },
+    {
+      "id": "m-hans-vijlbrief",
+      "title": "Hans Vijlbrief (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/hans-vijlbrief",
+      "date": null
+    },
+    {
+      "id": "m-thierry-aartsen",
+      "title": "Thierry Aartsen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/thierry-aartsen",
+      "date": null
+    },
+    {
+      "id": "m-sophie-hermans",
+      "title": "Sophie Hermans (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/sophie-hermans",
+      "date": null
+    },
+    {
+      "id": "m-mirjam-sterk",
+      "title": "Mirjam Sterk (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/mirjam-sterk",
+      "date": null
+    },
+    {
+      "id": "m-claudia-van-bruggen",
+      "title": "Claudia van Bruggen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/claudia-van-bruggen",
+      "date": null
+    },
+    {
+      "id": "m-eric-van-der-burg",
+      "title": "Eric van der Burg (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/eric-van-der-burg",
+      "date": null
+    },
+    {
+      "id": "m-judith-tielen",
+      "title": "Judith Tielen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/judith-tielen",
+      "date": null
+    },
+    {
+      "id": "m-eelco-eerenberg",
+      "title": "Eelco Eerenberg (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/eelco-eerenberg",
+      "date": null
+    },
+    {
+      "id": "m-sandra-palmen-schlangen",
+      "title": "Sandra Palmen-Schlangen (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/sandra-palmen-schlangen",
+      "date": null
+    },
+    {
+      "id": "m-derk-boswijk",
+      "title": "Derk Boswijk (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/derk-boswijk",
+      "date": null
+    },
+    {
+      "id": "m-annet-bertram",
+      "title": "Annet Bertram (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/annet-bertram",
+      "date": null
+    },
+    {
+      "id": "m-willemijn-aerdts",
+      "title": "Willemijn Aerdts (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/willemijn-aerdts",
+      "date": null
+    },
+    {
+      "id": "m-jo-annes-de-bat",
+      "title": "Jo-Annes de Bat (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/jo-annes-de-bat",
+      "date": null
+    },
+    {
+      "id": "m-silvio-erkens",
+      "title": "Silvio Erkens (official profile: tasks and career)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/silvio-erkens",
+      "date": null
+    }
+  ]
+}

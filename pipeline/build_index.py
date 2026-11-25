@@ -6,7 +6,7 @@
 Exits non-zero if a content file is broken (invalid JSON, dangling source reference).
 Standard library only.
 """
-import json, sys
+import json, re, sys
 from collections import defaultdict
 from pathlib import Path
 
@@ -85,6 +85,29 @@ def main():
                 index[name.split(".")[0].replace("-", "_")] = True
 
     (G / "content_index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+    # ---- (re)tag votes with issues, using each issue's Dutch search terms ----
+    terms = {}
+    for f in sorted((C / "issues").glob("*.json")):
+        d = load(f)
+        if d:
+            terms[d["id"]] = [re.compile(r"(?<![a-zà-ÿ])" + re.escape(t.lower())) for t in d.get("search_terms_nl", []) if len(t) > 3]
+    by_issue = {i: 0 for i in terms}
+    for f in sorted((G / "votes").glob("2*.json")):
+        rows = json.loads(f.read_text(encoding="utf-8"))
+        for v in rows:
+            text = (v.get("t", "") + " " + v.get("ctx", "")).lower()
+            tags = [i for i, rx in terms.items() if any(r.search(text) for r in rx)]
+            v.pop("is", None)
+            if tags:
+                v["is"] = tags
+                for i in tags:
+                    by_issue[i] += 1
+        f.write_text(json.dumps(rows, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    vi = json.loads((G / "votes" / "index.json").read_text(encoding="utf-8"))
+    vi["by_issue"] = by_issue
+    (G / "votes" / "index.json").write_text(json.dumps(vi, separators=(",", ":")), encoding="utf-8")
+    print(f"votes tagged per issue: {by_issue}", file=sys.stderr)
 
     # ---- voting statistics ----
     same = defaultdict(lambda: defaultdict(int))
