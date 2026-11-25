@@ -1,0 +1,1284 @@
+{
+ "id": "immigration",
+ "title": "Immigration: labour, study, family migration and naturalisation",
+ "tagline": "Who comes to the Netherlands, why, how fast the population grows, and what parties want to change",
+ "updated": "2026-11-25",
+ "summary": "About 307,000 people moved to the Netherlands in 2025 and about 212,000 left; migration has accounted for all population growth since 2022, because more people die than are born. Asylum is one part of this (about 11% of immigrants in 2025); most immigrants come for work, family or study, or are returning Dutch nationals. Net migration has fallen every year since the 2022 peak but remains above the 40,000-68,000 a year that follows from the 'moderate growth' advice of the State Commission on Demographic Developments 2050, which the minority cabinet of D66, VVD and CDA has adopted as its guideline. The cabinet is working on a licensing system for staffing agencies, a ban on agency work in the meat sector, changes to the rules for international students and knowledge migrants, and stricter naturalisation rules.",
+ "key_facts": [
+  {
+   "label": "Immigration and emigration, 2025",
+   "value": "306,500 immigrants and 211,900 emigrants (provisional CBS figures, February 2026)",
+   "note": "CBS put net migration at about 95,000, against 108,000 in 2024. Later publications give 94,690 (Staat van Migratie, as reported by NOS) and 93,536 (cabinet monitor, October 2026).",
+   "source_ids": [
+    "s1",
+    "s17",
+    "s5"
+   ]
+  },
+  {
+   "label": "Population",
+   "value": "18.13 million at the end of 2025; 18.19 million at the end of September 2026",
+   "note": "Growth was 87,200 in 2025 (2024: 101,700; 2022: 221,200). In January-September 2026 the population grew by just over 62,000, the lowest for that period since 2020, with about 226,000 immigrants and 160,000 emigrants.",
+   "source_ids": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "label": "Natural change",
+   "value": "7,500 more deaths than births in 2025",
+   "note": "Deaths have exceeded births every year since 2022, so population growth has come entirely from migration.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "label": "Origin of immigrants, 2025",
+   "value": "Almost half from outside the EU/EFTA, almost 37% from EU/EFTA countries, 14% Dutch nationals",
+   "note": "The Dutch group consists largely of people returning after an earlier emigration.",
+   "source_ids": [
+    "s3"
+   ]
+  },
+  {
+   "label": "Reasons for immigration",
+   "value": "Labour: over 61,000 (19%, 2024); family: 68,000 (just over 20%, 2024); study: 38,000 (12%, 2024); asylum: almost 35,000 (about 11%, 2025)",
+   "note": "Two thirds of labour migrants in 2024 came from an EU country. One in three family migrants accompanies or joins a labour migrant.",
+   "source_ids": [
+    "s3"
+   ]
+  },
+  {
+   "label": "Knowledge migrants from outside the EU",
+   "value": "14,000 in 2025, down from 26,000 in 2022",
+   "note": "CBS reports the largest fall among Indian nationals. The cabinet notes that knowledge migrants stay longer than before, so the number living in the Netherlands is still rising.",
+   "source_ids": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "label": "'Moderate growth' band",
+   "value": "Net migration of about 40,000-68,000 a year; population of 19-20 million in 2050",
+   "note": "The band follows from the 2024 report of the State Commission on Demographic Developments 2050 (Staatscommissie Demografische Ontwikkelingen 2050). Net migration has been above the band in recent years.",
+   "source_ids": [
+    "s6",
+    "s5"
+   ]
+  },
+  {
+   "label": "CBS population forecast (December 2025)",
+   "value": "20.6 million inhabitants in 2070; net migration falling from 88,000 in 2026 to 70,000 in 2030",
+   "note": "CBS gives a range of 17.5-23.9 million for 2070. The forecast for 1 January 2050 is 19.6 million, with net migration inside the band from 2032.",
+   "source_ids": [
+    "s4",
+    "s5"
+   ]
+  },
+  {
+   "label": "Share of net migration by motive, 2024",
+   "value": "Family 35%, asylum incl. family reunification 34%, labour 17%, temporary protection (Ukraine) 11%, study 4%",
+   "note": "Total net migration in 2024 was 107,768. Other/unknown motives were 10% and a residual item (mainly emigration of Dutch-born people and pre-1999 immigrants) was -12%.",
+   "source_ids": [
+    "s5"
+   ]
+  },
+  {
+   "label": "Knowledge migrant salary thresholds, 2026",
+   "value": "EUR 5,942 gross a month (age 30 or over); EUR 4,357 (under 30); EUR 3,122 (reduced criterion, e.g. recent graduates)",
+   "note": "Amounts exclude holiday allowance and apply to applications filed from 1 January 2026.",
+   "source_ids": [
+    "s14"
+   ]
+  }
+ ],
+ "problem": [
+  {
+   "heading": "Population growth comes entirely from migration",
+   "text": "Since 2022 more people have died than were born in the Netherlands, so all population growth comes from migration. According to the cabinet's summary of the State Commission's report, the Netherlands is becoming 'busier, greyer and more diverse', with consequences for spatial planning and housing, the economy and labour market, and public services such as healthcare, education and social security.",
+   "source_ids": [
+    "s1",
+    "s6"
+   ]
+  },
+  {
+   "heading": "Net migration is above the band the cabinet uses as a guideline",
+   "text": "The cabinet's first annual 'moderate growth monitor' (October 2026) states that net migration has been well above the 40,000-68,000 band in recent years, although it has fallen each year since the 2022 peak of 223,798 and dropped below 100,000 in 2025 for the first time since 2020. The cabinet writes that even small structural deviations add up to substantial differences in population size by 2050.",
+   "source_ids": [
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "heading": "Low-paid labour migration and abuses",
+   "text": "The cabinet states that a considerable share of labour migrants do low-paid work, concentrated in agriculture and horticulture, logistics and the meat sector, and increasingly also arrive from outside the EU through posting (detachering) routes. It writes that labour migrants are sometimes underpaid or housed with too many people in poorly maintained homes, and that some employers deliberately make labour migrants homeless.",
+   "source_ids": [
+    "s9",
+    "s6"
+   ]
+  },
+  {
+   "heading": "Incomplete figures",
+   "text": "Migration statistics count only people registered as residents in the population register (BRP). People registered as non-residents (RNI) or not registered at all are missing, in particular part of the labour migrants on short stays such as posted and seasonal workers. The cabinet says that as long as reliable figures and effective instruments are lacking, it cannot promise to steer on a band for each migration motive.",
+   "source_ids": [
+    "s5",
+    "s6"
+   ]
+  }
+ ],
+ "causes": [
+  {
+   "heading": "EU free movement and employer demand",
+   "text": "The cabinet describes labour migration as largely demand-driven: employers recruit migrants according to their own need for staff, and most labour migration comes from other EU countries, whose citizens need no work permit. It states that targeted instruments to steer this are lacking or can have wider consequences for the labour market and economy.",
+   "source_ids": [
+    "s6"
+   ]
+  },
+  {
+   "heading": "War and refugee flows",
+   "text": "Immigration rose almost continuously between 2006 and 2022. The peak in 2022 (403,100 immigrants) was caused partly by the arrival of Ukrainian refugees: net migration of Ukrainians was 82,700 in 2022 and 13,200 in 2025.",
+   "source_ids": [
+    "s1",
+    "s3"
+   ]
+  },
+  {
+   "heading": "Family migration follows other migration",
+   "text": "Family migrants were the largest component of net migration in 2024. Part of them join labour, study or asylum migrants; the largest sub-group (net 21,495 in 2024) joins people with another or no migration motive, such as Dutch nationals. The cabinet notes that the legal framework for family migration is largely anchored in international and European law.",
+   "source_ids": [
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "heading": "Growth of English-taught higher education",
+   "text": "Net study migration rose for years and has fallen since 2022. According to Nuffic figures cited in the cabinet monitor, the total number of international students fell slightly for the first time in academic year 2025-2026; the cabinet attributes this partly to self-regulation agreements among universities and universities of applied sciences.",
+   "source_ids": [
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "heading": "Ageing",
+   "text": "CBS expects the share of people of working age (20-64) to fall from just under 59% to 55% around 2040. The State Commission, as summarised by the cabinet, considers moderate growth desirable because earning capacity cannot be maintained with a shrinking population, and considers too strong growth undesirable because of pressure on public services, space and social cohesion.",
+   "source_ids": [
+    "s4",
+    "s6"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2020-10-30",
+   "event": "The Aanjaagteam Bescherming Arbeidsmigranten (referred to in parliament and the coalition agreement as the Roemer committee) publishes its second report, 'Geen tweederangsburgers' (No second-class citizens), with recommendations against abuses involving labour migrants.",
+   "source_ids": [
+    "s11"
+   ]
+  },
+  {
+   "date": "2022",
+   "event": "Immigration peaks at 403,100 and net migration at 223,798, partly because of Ukrainian refugees.",
+   "source_ids": [
+    "s1",
+    "s5"
+   ]
+  },
+  {
+   "date": "2024",
+   "event": "The State Commission on Demographic Developments 2050 advises steering towards moderate population growth, to 19-20 million inhabitants in 2050.",
+   "source_ids": [
+    "s6",
+    "s17"
+   ]
+  },
+  {
+   "date": "2025-09-26",
+   "event": "The then cabinet opens a consultation on a bill to lengthen the minimum residence period for naturalisation from 5 to 10 years.",
+   "source_ids": [
+    "s12"
+   ]
+  },
+  {
+   "date": "2025-11-13",
+   "event": "The newly elected House rejects an FVD motion to commit to net migration of at most 60,000 a year (13 votes in favour: FVD, ChristenUnie, SP).",
+   "source_ids": [
+    "m1"
+   ]
+  },
+  {
+   "date": "2026-01-30",
+   "event": "D66, VVD and CDA present their coalition agreement 'Aan de slag' for a minority cabinet. It includes carrying out the Roemer and SER recommendations on labour migration, a three-year pilot for skilled workers from outside the EU and naturalisation after 6 years with language level B1.",
+   "source_ids": [
+    "s7",
+    "s18"
+   ]
+  },
+  {
+   "date": "2026-02-02",
+   "event": "CBS reports that the population grew by 87,000 in 2025, the third consecutive year of slower growth.",
+   "source_ids": [
+    "s1"
+   ]
+  },
+  {
+   "date": "2026-06",
+   "event": "After a debate on labour migration, the House adopts motions asking for a guiding band for labour migration (CDA), full implementation of the Roemer recommendations (SP), and non-EU labour migration only as a last resort (SGP). A PVV motion for an employer levy per labour migrant is rejected; a PVV motion for work permits for EU workers had been rejected in March.",
+   "source_ids": [
+    "m6",
+    "m12",
+    "m7",
+    "m10",
+    "m5"
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "event": "The House adopts a PRO motion asking for a ban on agency work in the meat sector (104 votes in favour).",
+   "source_ids": [
+    "m13"
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "event": "The annual Staat van Migratie report shows net migration of 94,690 in 2025; the cabinet sends its Talent Strategy to parliament.",
+   "source_ids": [
+    "s17",
+    "s19"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "event": "The cabinet puts an amended Internationalisation in Balance bill out for consultation: the planned test for non-Dutch-taught programmes is dropped, and institutions get enrolment-cap (numerus fixus) instruments.",
+   "source_ids": [
+    "s15"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "event": "The ministers of Social Affairs (Vijlbrief) and Asylum and Migration (Van den Brink) send a letter on demography with the first 'moderate growth monitor'. CBS reports population growth of just over 62,000 in the first nine months of 2026.",
+   "source_ids": [
+    "s6",
+    "s5",
+    "s2"
+   ]
+  },
+  {
+   "date": "2026-11",
+   "event": "The House rejects a PVV motion for a 20-year naturalisation period (46 votes in favour) and adopts a VVD motion asking for a bill raising the language requirement for naturalisation to B1 before April 2027 (144 in favour).",
+   "source_ids": [
+    "m15",
+    "m16"
+   ]
+  }
+ ],
+ "current_policy": [
+  {
+   "heading": "Guideline: moderate growth",
+   "text": "The cabinet follows the State Commission's moderate-growth scenario (19-20 million inhabitants in 2050) and treats the corresponding band as 'an important guideline for policy'. It publishes an annual monitor. Its labour migration policy has three pillars: reducing demand for low-paid labour, targeted labour migration for sectors considered crucial for future prosperity, and tackling abuses. The October 2026 letter notes that measures need time to take effect.",
+   "source_ids": [
+    "s6",
+    "s9"
+   ]
+  },
+  {
+   "heading": "Labour migration: agencies, housing, registration",
+   "text": "From 1 January 2027 the Wtta (law on admission of labour-supply companies) requires staffing agencies and other companies that lend out workers to hold a licence; the Labour Inspectorate enforces from 1 January 2028, with fines for unlicensed agencies and for companies that hire from them. The cabinet aims to ban agency work in the meat sector from 1 March 2028, to raise fines under labour laws by 21.7% (expected 1 July 2027), and to end the possibility of deducting housing costs from the statutory minimum wage together with a planned law on rental contracts (target date 1 July 2028). From 1 April 2027 agencies must inform workers earning under 150% of the minimum wage about registering as residents and check that they did so. The coalition agreement makes employers responsible for housing if none is available in the region.",
+   "source_ids": [
+    "s10",
+    "s9",
+    "s8"
+   ]
+  },
+  {
+   "heading": "Knowledge migrants, skilled workers and the expat ruling",
+   "text": "Knowledge migrants (kennismigranten: non-EU employees admitted on the basis of a salary threshold with a recognised employer) must meet the 2026 thresholds listed above. The cabinet says it will keep the scheme as a general scheme, make it 'more robust' and inform parliament about tightening it in autumn 2026. A three-year pilot is planned to recruit skilled workers for pre-defined sectors under a salary requirement, a housing requirement and a maximum stay of three years; candidate EU member states are eligible in any case. The coalition agreement states that the expat ruling (a tax facility for employees recruited from abroad) will not be cut back.",
+   "source_ids": [
+    "s14",
+    "s6",
+    "s9",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "heading": "International students",
+   "text": "In July 2026 the education minister and the higher-education associations signed agreements: recruitment is focused on shortage sectors, places on non-Dutch-taught programmes are capped where necessary, institutions invest in Dutch lessons, and international students are warned not to come without a room. The amended Internationalisation in Balance bill drops the test for non-Dutch-taught programmes and keeps Dutch as the default language unless another language has added value; the coalition agreement adds a numerus fixus for non-EEA students and an emergency cap. The cabinet aims to send the bill to the Council of State before the end of 2026.",
+   "source_ids": [
+    "s16",
+    "s15",
+    "s8"
+   ]
+  },
+  {
+   "heading": "Naturalisation and family migration",
+   "text": "People can currently apply for naturalisation after 5 years of legal residence. The coalition agreement says the bar will be raised: because the permanent asylum permit disappears under the EU migration pact, naturalisation becomes possible on the basis of temporary permits, after 6 years, for those who have twice received a temporary permit and meet language level B1, with a hardship clause; newcomers are in principle expected to give up their other nationality. Nationality law will also be changed so that Dutch nationals abroad do not lose their nationality sooner than citizens of Germany, Belgium, France and the UK. On family migration, recognition of foreign children will only be possible at designated municipalities to counter sham recognitions; the cabinet states that national family-migration rules were recently tightened in the context of the EU migration pact.",
+   "source_ids": [
+    "s12",
+    "s7",
+    "s6"
+   ]
+  }
+ ],
+ "proposals": [
+  {
+   "title": "Naturalisation after 10 years",
+   "description": "Bill of the previous cabinet to raise the minimum residence period for naturalisation from 5 to 10 years. The VVD, JA21 and SGP manifestos also call for 10 years.",
+   "proposed_by": [
+    "VVD",
+    "JA21",
+    "SGP"
+   ],
+   "status": "Consultation closed 2 December 2025; in February 2026 the then minister aimed for submission to the House in the third quarter of 2026. The January 2026 coalition agreement describes naturalisation after 6 years instead. Submission of the 10-year bill could not be confirmed for this file.",
+   "source_ids": [
+    "s12",
+    "s13",
+    "s7",
+    "p2",
+    "p5",
+    "p8"
+   ]
+  },
+  {
+   "title": "Naturalisation after 6 years with language level B1",
+   "description": "Naturalisation on the basis of two temporary residence permits, after 6 years, with a B1 language requirement (now A2, according to a JA21 motion text) and a hardship clause.",
+   "proposed_by": [
+    "D66",
+    "VVD",
+    "CDA"
+   ],
+   "status": "In coalition agreement; motion asking for the B1 bill before April 2027 adopted in November 2026 (144 in favour; DENK and PvdD against). A JA21 motion for B2 was rejected (47 in favour).",
+   "source_ids": [
+    "s7",
+    "m16",
+    "m17"
+   ]
+  },
+  {
+   "title": "Longer waiting periods or a naturalisation stop",
+   "description": "PVV motion: at least 20 years of legal residence before naturalisation (its 2025 manifesto says 15 years). FVD: no new Dutch passports for ten years, except for spouses and children of Dutch parents.",
+   "proposed_by": [
+    "PVV",
+    "FVD"
+   ],
+   "status": "PVV motion rejected in November 2026 (46 in favour: PVV, JA21, FVD, Groep Markuszower, BBB, Lid Keijzer); FVD proposal on party website.",
+   "source_ids": [
+    "m15",
+    "p3",
+    "p6"
+   ]
+  },
+  {
+   "title": "Work permits for EU workers",
+   "description": "Introduce work permits (tewerkstellingsvergunningen) for workers from other EU countries (PVV), or for workers from Central and Eastern Europe (SP with ChristenUnie).",
+   "proposed_by": [
+    "PVV",
+    "SP",
+    "ChristenUnie"
+   ],
+   "status": "Rejected: SP/ChristenUnie motion (56 in favour, voted late 2025) and PVV motion of March 2026 (53 in favour). The government advised against both.",
+   "source_ids": [
+    "m4",
+    "m5"
+   ]
+  },
+  {
+   "title": "Employer levy per labour migrant",
+   "description": "Employers pay an annual contribution for every labour migrant they employ.",
+   "proposed_by": [
+    "PVV"
+   ],
+   "status": "Motion rejected in June 2026 (32 in favour: PVV, Groep Markuszower, SGP, SP).",
+   "source_ids": [
+    "m10"
+   ]
+  },
+  {
+   "title": "Ban on agency work in the meat sector",
+   "description": "Prohibit the supply of agency workers for slaughtering, processing, cooling and packing meat.",
+   "proposed_by": [
+    "PRO"
+   ],
+   "status": "Motion adopted 2 July 2026 (104 in favour; VVD, FVD, Groep Markuszower, BBB, DENK, SGP and Lid Keijzer against). Consultation on the cabinet's proposal is finished; the cabinet aims for entry into force on 1 March 2028.",
+   "source_ids": [
+    "m13",
+    "s9"
+   ]
+  },
+  {
+   "title": "Guiding band for labour migration",
+   "description": "Work out how a guiding band for labour migration can increase control, keeping room for migration that demonstrably contributes to productivity and innovation and reducing dependence on low-paid migration.",
+   "proposed_by": [
+    "CDA"
+   ],
+   "status": "Motion adopted in June 2026 (114 in favour). In October 2026 the cabinet wrote that steering on a band per motive cannot yet be promised without reliable figures and instruments.",
+   "source_ids": [
+    "m6",
+    "s6"
+   ]
+  },
+  {
+   "title": "Net migration cap of 60,000",
+   "description": "Decide to realise net migration of at most 60,000 people a year.",
+   "proposed_by": [
+    "FVD"
+   ],
+   "status": "Motion rejected 13 November 2025 (13 in favour: FVD, ChristenUnie, SP).",
+   "source_ids": [
+    "m1"
+   ]
+  }
+ ],
+ "contested_claims": [
+  {
+   "claim": "The fall in the number of knowledge migrants is a direct result of cabinet policy.",
+   "claimed_by": "Minister of Asylum and Migration Van den Brink, as reported by NOS on 10 July 2026",
+   "what_data_show": "CBS records 14,000 non-EU knowledge migrants in 2025 against 26,000 in 2022. The cabinet's own monitor of October 2026 states that it cannot be concluded from the fall in net migration that it is the effect of policy.",
+   "source_ids": [
+    "s17",
+    "s3",
+    "s5"
+   ]
+  },
+  {
+   "claim": "Based on the election manifestos there is a majority in the House for net migration of at most 60,000 a year.",
+   "claimed_by": "FVD (motion De Vos, 13 November 2025)",
+   "what_data_show": "The motion itself received 13 of 150 votes. In June 2026 a majority did adopt motions asking for a guiding band for labour migration and for high priority for the State Commission's report, whose band is 40,000-68,000.",
+   "source_ids": [
+    "m1",
+    "m6",
+    "m8",
+    "s6"
+   ]
+  },
+  {
+   "claim": "There are by now about a million labour migrants in the Netherlands.",
+   "claimed_by": "JA21 manifesto 2025",
+   "what_data_show": "The official sources used for this file give no total. CBS counts flows of registered residents (over 61,000 labour immigrants in 2024). The cabinet writes that part of the labour migrants - posted workers, seasonal workers and people not correctly registered - is missing from the figures and that figures per motive are 'insufficiently known'.",
+   "source_ids": [
+    "p5",
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "claim": "Granting Dutch passports on a large scale leads to irreversible demographic change and extra pressure on society.",
+   "claimed_by": "PVV MP Vondeling, written questions of 17 December 2025",
+   "what_data_show": "The then minister answered that naturalisation 'has hardly any demographic impact' because it creates no new inflow and concerns people who already live in the Netherlands long-term. According to CBS figures cited in the answer, 77,200 Syrian nationals were naturalised in 2020-2024.",
+   "source_ids": [
+    "s13"
+   ]
+  },
+  {
+   "claim": "Labour migration pushes other home seekers out of the housing market.",
+   "claimed_by": "Among others the PVV (motion Boon, June 2026: 'great pressure on the housing market'); the Advisory Council on Migration (2024), as cited by the cabinet",
+   "what_data_show": "The cabinet writes there are indications of local displacement and that the Advisory Council on Migration concluded labour migration has a negative effect on housing availability in general, but that the extent to which displacement actually occurs 'has not yet been sufficiently quantified'.",
+   "source_ids": [
+    "s6",
+    "m10"
+   ]
+  }
+ ],
+ "party_positions": [
+  {
+   "party": "D66",
+   "position": "D66 wants less low-paid labour migration and more targeted migration of skilled and knowledge workers, with strict conditions for employers and the Roemer recommendations as a basis. As a coalition party it supports the coalition agreement. In 2026 it voted for the guiding band for labour migration and the meat-sector agency ban, against work permits for EU workers and against the SGP motion to consider non-EU labour migration only as a last resort; it voted against 20-year naturalisation and for the B1 language bill.",
+   "salience": "high",
+   "salience_basis": "Separate manifesto section '5.5 Arbeidsmigratie die werkt' with five measures; D66 MPs submitted or co-submitted several labour-migration motions in 2025-2026; holds the Social Affairs ministry that leads labour migration policy.",
+   "quotes": [
+    {
+     "text_en": "The government takes control: less vulnerable, low-paid labour migration, more targeted labour migration for the sectors where we really need people.",
+     "text_nl": "De overheid krijgt de regie: minder kwetsbare, laagbetaalde arbeidsmigratie, meer gerichte arbeidsmigratie voor de sectoren waar we mensen écht nodig hebben.",
+     "speaker": "D66 manifesto 2025",
+     "date": "2025",
+     "source_id": "p1"
+    }
+   ],
+   "source_ids": [
+    "p1",
+    "m6",
+    "m13",
+    "m5",
+    "m7",
+    "m15",
+    "m16",
+    "m2"
+   ]
+  },
+  {
+   "party": "VVD",
+   "position": "The VVD wants moderate population growth in line with the State Commission, more selective labour migration, a 'top talent' scheme replacing the knowledge migrant scheme while keeping the 27% expat ruling, fewer international students outside shortage fields, and naturalisation after ten years with higher language, income or education requirements. In 2026 it voted for the labour-migration band, against the meat-sector agency ban, against work permits for EU workers and against 20-year naturalisation; its MP Michon-Derkzen submitted the adopted B1 motion.",
+   "salience": "high",
+   "salience_basis": "Manifesto has a separate migration section with several headed pledges on labour migration and naturalisation; VVD MPs submitted motions on the salary criterion and the naturalisation language requirement.",
+   "quotes": [
+    {
+     "text_en": "This also means that some labour migrants are no longer welcome.",
+     "text_nl": "Dit betekent ook dat sommige arbeidsmigranten niet meer welkom zijn.",
+     "speaker": "VVD manifesto 2025",
+     "date": "2025",
+     "source_id": "p2"
+    },
+    {
+     "text_en": "That is why we want to tighten the requirements for naturalisation considerably.",
+     "text_nl": "Daarom willen wij de eisen voor naturalisatie fors aanscherpen.",
+     "speaker": "VVD manifesto 2025",
+     "date": "2025",
+     "source_id": "p2"
+    }
+   ],
+   "source_ids": [
+    "p2",
+    "m6",
+    "m13",
+    "m5",
+    "m15",
+    "m16",
+    "m2"
+   ]
+  },
+  {
+   "party": "PRO",
+   "position": "PRO (the merged GroenLinks-PvdA) focuses in parliament on abuses in labour migration: its MP Patijn submitted the adopted motion for an agency-work ban in the meat sector. It voted for the labour-migration band, for full implementation of the Roemer recommendations and for the SGP motion on non-EU labour migration as a last resort; against work permits for EU workers, against 20-year naturalisation and for the B1 bill. As GroenLinks-PvdA it voted against the motion to reconsider raising the knowledge-migrant salary criterion. Its 2025 manifesto could not be retrieved for this file.",
+   "salience": "medium",
+   "salience_basis": "Submitted several labour-migration motions in 2025-2026 (meat-sector ban, role of municipalities, children of labour migrants); manifesto text not verified for this file.",
+   "quotes": [
+    {
+     "text_en": "noting that structural abuses involving labour migrants have been occurring in the meat sector for a considerable time",
+     "text_nl": "constaterende dat er zich al geruime tijd structureel misstanden met arbeidsmigranten in de vleessector voordoen",
+     "speaker": "Motion by Mariëtte Patijn (PRO)",
+     "date": "2026-07-02",
+     "source_id": "m13"
+    }
+   ],
+   "source_ids": [
+    "m13",
+    "m6",
+    "m12",
+    "m7",
+    "m5",
+    "m15",
+    "m16",
+    "m2"
+   ]
+  },
+  {
+   "party": "PVV",
+   "position": "The PVV manifesto calls for a stop to immigration from Islamic countries, a stop to family reunification, maximum restriction of study migration, an end to the expat ruling and naturalisation only after 15 years; it does not use the term labour migration. In parliament the PVV submitted motions for work permits for EU workers, an employer levy per labour migrant and 20-year naturalisation, all rejected. It voted against the CDA motion for a labour-migration band and against the FVD motion for a 60,000 cap, and for the meat-sector agency ban.",
+   "salience": "core",
+   "salience_basis": "Immigration is the opening chapter of the 2025 manifesto; the party submitted repeated motions on EU work permits, naturalisation and denaturalisation in 2025-2026.",
+   "quotes": [
+    {
+     "text_en": "The PVV wants a maximum restriction of study migration to our country.",
+     "text_nl": "De PVV wil een maximale inperking van studiemigratie naar ons land.",
+     "speaker": "PVV manifesto 2025",
+     "date": "2025",
+     "source_id": "p3"
+    },
+    {
+     "text_en": "considering that a Dutch passport is given away too easily",
+     "text_nl": "overwegende dat een Nederlands paspoort te makkelijk wordt weggegeven",
+     "speaker": "Motion by Maikel Boon (PVV)",
+     "date": "2026-11-16",
+     "source_id": "m15"
+    }
+   ],
+   "source_ids": [
+    "p3",
+    "m5",
+    "m10",
+    "m15",
+    "m6",
+    "m1",
+    "m13"
+   ]
+  },
+  {
+   "party": "CDA",
+   "position": "The CDA wants 'more grip on migration', a strong reduction in demand for labour migrants doing low-paid work, further implementation of the Roemer report, and employers who are responsible for housing and Dutch lessons. Its MP Tijs van den Brink submitted the adopted motion for a guiding band for labour migration. The CDA voted for the meat-sector agency ban, against work permits for EU workers, against 20-year naturalisation and for the B1 bill.",
+   "salience": "high",
+   "salience_basis": "Dedicated theme page 'Grip op migratie' on the party website; submitted the band motion and other labour-migration motions in 2026; coalition party.",
+   "quotes": [
+    {
+     "text_en": "We want to strongly reduce the demand for labour migrants who do low-paid work.",
+     "text_nl": "We willen de vraag naar arbeidsmigranten die laagbetaald werk doen sterk verminderen.",
+     "speaker": "CDA website, theme page 'Grip op migratie' (accessed 25 November 2026)",
+     "date": "2026",
+     "source_id": "p4"
+    }
+   ],
+   "source_ids": [
+    "p4",
+    "m6",
+    "m13",
+    "m5",
+    "m15",
+    "m16"
+   ]
+  },
+  {
+   "party": "JA21",
+   "position": "JA21 wants a sharp reduction of asylum, labour, family and study migration, no low-skilled labour migration from outside the EU, fewer foreign students and naturalisation after at least ten years. It voted for work permits for EU workers, for the labour-migration band, for the meat-sector agency ban and for the PVV's 20-year naturalisation motion; its MP Nanninga submitted the rejected motion for language level B2. It voted against cutting the expat ruling.",
+   "salience": "core",
+   "salience_basis": "Immigration is one of the first chapters of the 2025 manifesto, with separate sections on labour and family migration; JA21 MPs submitted motions on naturalisation and homeless EU migrants in 2026.",
+   "quotes": [
+    {
+     "text_en": "Tighten the requirements for naturalisation: only after at least ten years of lawful residence.",
+     "text_nl": "De eisen voor naturalisatie aanscherpen: pas na minstens tien jaar rechtmatig verblijf.",
+     "speaker": "JA21 manifesto 2025",
+     "date": "2025",
+     "source_id": "p5"
+    },
+    {
+     "text_en": "No low-skilled labour migration from outside the EU.",
+     "text_nl": "Geen laaggeschoolde arbeidsmigratie van buiten de EU.",
+     "speaker": "JA21 manifesto 2025",
+     "date": "2025",
+     "source_id": "p5"
+    }
+   ],
+   "source_ids": [
+    "p5",
+    "m5",
+    "m6",
+    "m13",
+    "m15",
+    "m17",
+    "m14"
+   ]
+  },
+  {
+   "party": "Groep Markuszower",
+   "position": "The group, formed by MPs who left the PVV group in January 2026, has no election manifesto of its own. In 2026 it voted for work permits for EU workers, for an employer levy per labour migrant, for 20-year naturalisation and for language levels B1 and B2, and also for the CDA motion for a labour-migration band. It voted against the agency-work ban in the meat sector.",
+   "salience": "high",
+   "salience_basis": "No own manifesto; position derived from votes on migration motions in 2026. Its MPs Heutink and Lammers submitted a motion to stop family reunification of asylum seekers in February 2026 (rejected, 42 in favour). NOS described the group in January 2026 as PVV members who had split off.",
+   "quotes": [],
+   "source_ids": [
+    "m18",
+    "s18",
+    "m5",
+    "m10",
+    "m15",
+    "m16",
+    "m17",
+    "m6",
+    "m13"
+   ]
+  },
+  {
+   "party": "FVD",
+   "position": "FVD wants a ten-year stop on naturalisation, abolition of the permanent residence permit, and a strictly regulated 'GreenCard' model of temporary work permits without prospect of naturalisation. It submitted the rejected motions for a net migration cap of 60,000 and for phasing out or further cutting the expat ruling. It voted against the CDA band motion, against the Roemer motion and against the meat-sector agency ban, and for 20-year naturalisation.",
+   "salience": "core",
+   "salience_basis": "'Immigratie en remigratie' is a main policy page on the party website; FVD submitted the first migration motion of the new House (13 November 2025) and two motions on the expat ruling.",
+   "quotes": [
+    {
+     "text_en": "GreenCard system for labour migration: We introduce a strictly regulated GreenCard model for temporary work permits, so that only economically valuable migrants - who are culturally compatible - can contribute temporarily without prospect of naturalisation.",
+     "text_nl": "GreenCard-systeem voor arbeidsmigratie: We introduceren een streng gereguleerd GreenCard-model voor tijdelijke werkvergunningen, zodat alleen economisch waardevolle migranten - die cultureel compatibel zijn - tijdelijk kunnen bijdragen zonder uitzicht op naturalisatie.",
+     "speaker": "FVD website, policy page 'Immigratie en remigratie' (accessed 25 November 2026)",
+     "date": "2026",
+     "source_id": "p6"
+    }
+   ],
+   "source_ids": [
+    "p6",
+    "m1",
+    "m3",
+    "m14",
+    "m6",
+    "m12",
+    "m13",
+    "m15"
+   ]
+  },
+  {
+   "party": "ChristenUnie",
+   "position": "The ChristenUnie manifesto chooses moderate growth on the basis of the State Commission's advice and a reduction in the number of study migrants. It was one of three parties voting for the 60,000 cap, co-submitted the motion for work permits for workers from Central and Eastern Europe, and voted for the labour-migration band, the Roemer motion and the meat-sector agency ban. It voted against 20-year naturalisation and for the B1 bill.",
+   "salience": "high",
+   "salience_basis": "Manifesto paragraph 10.3 has separate headings for the State Commission, labour, study and family migration and naturalisation; MP Ceder submitted or co-submitted several labour-migration motions in 2025-2026.",
+   "quotes": [],
+   "source_ids": [
+    "p7",
+    "m1",
+    "m4",
+    "m6",
+    "m12",
+    "m13",
+    "m15",
+    "m16"
+   ]
+  },
+  {
+   "party": "SP",
+   "position": "The SP wants work permits for workers from Central and Eastern Europe and full implementation of the Roemer recommendations; its motion on Roemer was adopted in June 2026 (136 in favour), its work-permit motion and a motion to extend Dutch-language requirements to everyone who comes to work or study for more than three months were rejected. It voted for the 60,000 cap, the employer levy, the meat-sector agency ban and cutting the expat ruling, and against 20-year naturalisation. Its 2025 manifesto could not be retrieved for this file.",
+   "salience": "high",
+   "salience_basis": "SP group leader Jimmy Dijk submitted at least five labour-migration motions between November 2025 and June 2026; manifesto text not verified for this file.",
+   "quotes": [
+    {
+     "text_en": "requests the government to introduce a work permit for workers from Central and Eastern Europe under which social provisions can be arranged",
+     "text_nl": "verzoekt de regering een werkvergunning in te voeren voor werknemers uit Midden- en Oost-Europa waarbij sociale voorzieningen geregeld kunnen worden",
+     "speaker": "Motion by Jimmy Dijk (SP) and Ceder (ChristenUnie)",
+     "date": "2025-11-27",
+     "source_id": "m4"
+    }
+   ],
+   "source_ids": [
+    "m4",
+    "m12",
+    "m11",
+    "m1",
+    "m10",
+    "m13",
+    "m3",
+    "m15"
+   ]
+  },
+  {
+   "party": "PvdD",
+   "position": "The PvdD voted for the Roemer motion and the meat-sector agency ban, and for phasing out the expat ruling. It voted against the labour-migration band, against the SGP motions on the State Commission and non-EU labour migration, against 20-year naturalisation and against the B1 bill. It supported the 2025 motion for work permits for Central and Eastern European workers but voted against the PVV's EU work-permit motion in March 2026. Its manifesto could not be retrieved for this file.",
+   "salience": "low",
+   "salience_basis": "Sole submitter of none of the migration motions reviewed for this file (November 2025-November 2026); manifesto text not verified.",
+   "quotes": [],
+   "source_ids": [
+    "m12",
+    "m13",
+    "m3",
+    "m6",
+    "m7",
+    "m8",
+    "m15",
+    "m16",
+    "m4",
+    "m5"
+   ]
+  },
+  {
+   "party": "SGP",
+   "position": "The SGP manifesto says the number of labour migrants must come down and wants naturalisation after ten years with language level B1. Its MP Flach submitted the adopted motions to give high priority to the State Commission's report and to consider non-EU labour migration only as a last resort. The SGP voted for work permits for EU workers and the employer levy, against the meat-sector agency ban, against the SP's Roemer motion and against 20-year naturalisation.",
+   "salience": "high",
+   "salience_basis": "Manifesto section 'Gerichte arbeidsmigratie en einde aan uitbuiting'; submitted three adopted motions on demography and labour migration in June-July 2026.",
+   "quotes": [
+    {
+     "text_en": "The period for naturalisation is extended to ten years and the language requirement goes up to B1 level.",
+     "text_nl": "De termijn voor naturalisatie wordt verlengd naar tien jaar en de taaleis gaat omhoog naar B1-niveau.",
+     "speaker": "SGP manifesto 2025",
+     "date": "2025",
+     "source_id": "p8"
+    }
+   ],
+   "source_ids": [
+    "p8",
+    "m8",
+    "m7",
+    "m5",
+    "m10",
+    "m13",
+    "m12",
+    "m15"
+   ]
+  },
+  {
+   "party": "BBB",
+   "position": "BBB's motion asking the cabinet to weigh the economic and social dependence on labour migration in all sectors was adopted in June 2026 (90 in favour). BBB voted against the labour-migration band, against work permits for EU workers, against the meat-sector agency ban and against the Roemer motion, and for 20-year naturalisation and language levels B1 and B2. Its manifesto could not be retrieved for this file.",
+   "salience": "medium",
+   "salience_basis": "Submitted one labour-migration motion in 2026; manifesto text not verified for this file.",
+   "quotes": [
+    {
+     "text_en": "of the opinion that the Netherlands is a knowledge country but that low-paid labour migration is also essential for the Dutch economy in the short term",
+     "text_nl": "van mening dat Nederland een kennisland is maar dat laagbetaalde arbeidsmigratie ook op de korte termijn essentieel is voor de Nederlandse economie",
+     "speaker": "Motion by Wiersma (BBB)",
+     "date": "2026-06-18",
+     "source_id": "m9"
+    }
+   ],
+   "source_ids": [
+    "m9",
+    "m6",
+    "m5",
+    "m13",
+    "m12",
+    "m15",
+    "m16",
+    "m17"
+   ]
+  },
+  {
+   "party": "DENK",
+   "position": "DENK voted for the Roemer motion and for phasing out the expat ruling. It voted against the labour-migration band, against the SGP motions on the State Commission and non-EU labour migration, against work permits for EU workers, against the meat-sector agency ban, and against 20-year naturalisation and the B1 and B2 language motions. Its manifesto could not be retrieved for this file.",
+   "salience": "low",
+   "salience_basis": "Sole submitter of none of the migration motions reviewed for this file (November 2025-November 2026); migration is not among the themes listed on the party's manifesto web page; manifesto text not verified.",
+   "quotes": [],
+   "source_ids": [
+    "m12",
+    "m3",
+    "m6",
+    "m7",
+    "m8",
+    "m5",
+    "m13",
+    "m15",
+    "m16",
+    "m17"
+   ]
+  }
+ ],
+ "impact": [
+  {
+   "applies_to": [
+    "everyone"
+   ],
+   "text": "CBS expects the population to keep growing, to 20.6 million in 2070 (range 17.5-23.9 million), mainly through migration, with net migration falling from 88,000 in 2026 to 70,000 in 2030.",
+   "source_ids": [
+    "s4"
+   ]
+  },
+  {
+   "applies_to": [
+    "eu_citizen"
+   ],
+   "text": "EU citizens can work in the Netherlands without a work permit. Motions to introduce work permits for EU workers were rejected by the House in late 2025 and in March 2026; the government advised against them.",
+   "source_ids": [
+    "m4",
+    "m5",
+    "s6"
+   ]
+  },
+  {
+   "applies_to": [
+    "eu_citizen",
+    "employee",
+    "income_low"
+   ],
+   "text": "If you work through a staffing agency and earn less than 150% of the minimum wage: from 1 April 2027 the agency must inform you about registering as a resident with the municipality (BRP) and check that you did. The cabinet plans to abolish the possibility of deducting housing costs from the statutory minimum wage together with a new rental-contract law (target 1 July 2028).",
+   "source_ids": [
+    "s9"
+   ]
+  },
+  {
+   "applies_to": [
+    "employee"
+   ],
+   "text": "Agency workers in meat slaughtering, processing, cooling and packing: the cabinet aims for a ban on agency work in this chain from 1 March 2028. This is a cabinet proposal after consultation, not yet in force.",
+   "source_ids": [
+    "s9"
+   ]
+  },
+  {
+   "applies_to": [
+    "employer"
+   ],
+   "text": "From 1 January 2028 companies that hire workers from an agency without a Wtta licence can be fined, as can the agency. The law starts on 1 January 2027; agencies that want to use the transitional arrangement must report to the Netherlands Labour Supply Authority (NAU) before that date.",
+   "source_ids": [
+    "s10"
+   ]
+  },
+  {
+   "applies_to": [
+    "employer"
+   ],
+   "text": "Fine amounts under labour laws are expected to rise by 21.7% on 1 July 2027 and to be indexed annually from 1 January 2028. Under the coalition agreement, employers who want to use labour migrants are responsible for housing if it is not available in the region.",
+   "source_ids": [
+    "s9",
+    "s8"
+   ]
+  },
+  {
+   "applies_to": [
+    "non_eu_resident",
+    "employee",
+    "employer"
+   ],
+   "text": "For knowledge-migrant permit applications (first or renewal) filed in 2026 the salary must be at least EUR 5,942 gross a month from age 30, EUR 4,357 under 30, or EUR 3,122 under the reduced criterion. The cabinet has announced it will inform parliament in autumn 2026 about tightening the scheme; the content had not been found for this file.",
+   "source_ids": [
+    "s14",
+    "s9"
+   ]
+  },
+  {
+   "applies_to": [
+    "expat_ruling",
+    "income_high"
+   ],
+   "text": "The coalition agreement states the expat ruling will not be cut back. According to a motion text of October 2026 the flat rate becomes 27% from 2027. Motions to phase the ruling out or reduce it further were rejected in November 2025 (42 in favour) and October 2026 (46 in favour).",
+   "source_ids": [
+    "s8",
+    "m14",
+    "m3"
+   ]
+  },
+  {
+   "applies_to": [
+    "non_eu_resident",
+    "eu_citizen"
+   ],
+   "text": "Naturalisation is currently possible after 5 years of legal residence. Proposals: the coalition agreement describes 6 years with language level B1 and, as a starting point, giving up your other nationality; the previous cabinet consulted on 10 years; the House asked in November 2026 for the B1 bill before April 2027. None of these changes is law yet.",
+   "source_ids": [
+    "s12",
+    "s7",
+    "m16"
+   ]
+  },
+  {
+   "applies_to": [
+    "student",
+    "non_eu_resident",
+    "eu_citizen"
+   ],
+   "text": "International students: universities and universities of applied sciences cap places on non-Dutch-taught programmes where necessary and warn students not to come without a room. A bill pending amendment would allow a numerus fixus for non-EEA students and an emergency cap. The coalition agreement makes institutions more responsible for student housing.",
+   "source_ids": [
+    "s16",
+    "s15",
+    "s8"
+   ]
+  },
+  {
+   "applies_to": [
+    "dutch_citizen"
+   ],
+   "text": "Dutch nationals living abroad: the coalition agreement announces a change to nationality law so that they do not lose Dutch nationality sooner than citizens of Germany, Belgium, France and the UK lose theirs. This is an announced plan, not yet law.",
+   "source_ids": [
+    "s7"
+   ]
+  },
+  {
+   "applies_to": [
+    "home_seeker"
+   ],
+   "text": "The cabinet writes that there are indications that labour migration locally displaces other home seekers, including starters, where regular affordable homes are used to house labour migrants, but that the extent has not yet been sufficiently quantified.",
+   "source_ids": [
+    "s6"
+   ]
+  }
+ ],
+ "search_terms_nl": [
+  "arbeidsmigratie",
+  "arbeidsmigranten",
+  "kennismigrant",
+  "kennismigranten",
+  "naturalisatie",
+  "nederlanderschap",
+  "migratiesaldo",
+  "expatregeling",
+  "uitzendverbod",
+  "tewerkstellingsvergunning",
+  "internationale studenten",
+  "studiemigratie",
+  "gezinsmigratie",
+  "demografische ontwikkelingen",
+  "uitleners"
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "title": "Bevolking groeit voor derde jaar op rij minder snel",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/06/bevolking-groeit-voor-derde-jaar-op-rij-minder-snel",
+   "date": "2026-02-02"
+  },
+  {
+   "id": "s2",
+   "title": "Bevolking groeit voor vierde jaar op rij minder hard",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/44/bevolking-groeit-voor-vierde-jaar-op-rij-minder-hard",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "s3",
+   "title": "Minder immigratie in 2025, vooral minder asiel- en kennismigranten",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2026/27/minder-immigratie-in-2025-vooral-minder-asiel-en-kennismigranten",
+   "date": "2026-07"
+  },
+  {
+   "id": "s4",
+   "title": "Bevolkingsprognose: vanaf nu meer ouderen dan jongeren (Kernprognose 2025-2070)",
+   "publisher": "CBS",
+   "url": "https://www.cbs.nl/nl-nl/nieuws/2025/51/bevolkingsprognose-vanaf-nu-meer-ouderen-dan-jongeren",
+   "date": "2025-12"
+  },
+  {
+   "id": "s5",
+   "title": "Bijlage: Monitor gematigde groei (annex to the cabinet letter on demographic developments)",
+   "publisher": "Eerste Kamer / Ministries of SZW and Asiel en Migratie",
+   "url": "https://www.eerstekamer.nl/bijlage/20261103/bijlage_1_monitor_gematigde_groei/document3/f=/vn2bn3sv6ccx.pdf",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "s6",
+   "title": "Kamerstuk 37 069 nr. 1: Brief van de ministers van SZW en van Asiel en Migratie over demografische ontwikkelingen",
+   "publisher": "Officiële bekendmakingen (Tweede Kamer)",
+   "url": "https://zoek.officielebekendmakingen.nl/kst-1280810.pdf",
+   "date": "2026-10-30"
+  },
+  {
+   "id": "s7",
+   "title": "Coalitieakkoord 2026-2030 D66, VVD en CDA 'Aan de slag' - hoofdstuk Asiel, migratie en integratie",
+   "publisher": "Eerste Kamer (copy of coalition agreement)",
+   "url": "https://www.eerstekamer.nl/bijlage/20260227/aan_de_slag_bouwen_aan_een_beter_4/document3/f=/vmvehrtygdvi.pdf",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s8",
+   "title": "Coalitieakkoord D66, VVD, CDA: Aan de slag - Bouwen aan een beter Nederland (full text)",
+   "publisher": "Provincie Zuid-Holland (copy of coalition agreement)",
+   "url": "https://www.zuid-holland.nl/publish/besluitenattachments/analyse-coalitieakkoord-d66-vvd-cda/coalitieakkoord-d66-vvd-cda-aan-de-slag-bouwen-aan-een-beter-nederland.pdf",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s9",
+   "title": "Brief regering: Voortgang versterking positie arbeidsmigranten",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=2026D56287",
+   "date": "2026-11-06"
+  },
+  {
+   "id": "s10",
+   "title": "Nieuwe wet voor aanpak misstanden bij uitzendbureaus en andere uitleners (Wtta)",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-missstanden-bij-uitzendbureaus-en-andere-uitleners",
+   "date": null
+  },
+  {
+   "id": "s11",
+   "title": "Kamerbrief tweede advies Aanjaagteam bescherming arbeidsmigranten (with report 'Geen tweederangsburgers')",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/documenten/rapporten/2020/10/30/tweede-advies-aanjaagteam-bescherming-arbeidsmigranten",
+   "date": "2020-10-30"
+  },
+  {
+   "id": "s12",
+   "title": "Kabinet wil naturalisatietermijn verlengen van 5 naar 10 jaar",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/09/26/kabinet-wil-naturalisatietermijn-verlengen-van-5-naar-10-jaar",
+   "date": "2025-09-26"
+  },
+  {
+   "id": "s13",
+   "title": "Aanhangsel Handelingen 2025-2026 nr. 1163: antwoorden op vragen van het lid Vondeling (PVV) over naturalisaties",
+   "publisher": "Officiële bekendmakingen (Tweede Kamer)",
+   "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1163.pdf",
+   "date": "2026-02-20"
+  },
+  {
+   "id": "s14",
+   "title": "Nieuwsbrief Zakelijk 18 december 2025 (normbedragen kennismigrant per 1 januari 2026)",
+   "publisher": "IND",
+   "url": "https://ind.nl/nl/documenten/01-2026/nieuwsbrief-zakelijk-18-december-2025.pdf",
+   "date": "2025-12-18"
+  },
+  {
+   "id": "s15",
+   "title": "Kabinet: weloverwogen regie op internationaal talent",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/05/kabinet-weloverwogen-regie-op-internationaal-talent",
+   "date": "2026-10-05"
+  },
+  {
+   "id": "s16",
+   "title": "Minister OCW en onderwijskoepels verankeren afspraken over internationale studenten",
+   "publisher": "Rijksoverheid",
+   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/07/15/minister-ocw-en-onderwijskoepels-verankeren-afspraken-over-internationale-studenten",
+   "date": "2026-07-15"
+  },
+  {
+   "id": "s17",
+   "title": "Migratiesaldo gedaald tot onder de 100.000, het laagste punt sinds 2020",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2622499",
+   "date": "2026-07-10"
+  },
+  {
+   "id": "s18",
+   "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+   "publisher": "NOS",
+   "url": "https://nos.nl/l/2600274",
+   "date": "2026-01-30"
+  },
+  {
+   "id": "s19",
+   "title": "Kamerbrief Talentstrategie (10 juli 2026)",
+   "publisher": "Eerste Kamer",
+   "url": "https://www.eerstekamer.nl/overig/20260827/bijlage_kamerbrief_talentstrategie/document3/f=/vn0kcjqb9gof.pdf",
+   "date": "2026-07-10"
+  },
+  {
+   "id": "m1",
+   "title": "Motie De Vos over een migratiesaldo van ten hoogste 60.000 mensen per jaar (36 848 nr. 6)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2025Z19803&did=2025D46404",
+   "date": "2025-11-13"
+  },
+  {
+   "id": "m2",
+   "title": "Motie Martens-America en Neijenhuis over de verhoging van het looncriterium opnieuw bezien (29 861 nr. 174)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2025Z20037&did=2025D47129",
+   "date": "2025-11-19"
+  },
+  {
+   "id": "m3",
+   "title": "Motie Frederik Jansen over de expatregeling versneld afbouwen (36 812 nr. 90)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2025Z20505&did=2025D48291",
+   "date": "2025-11-25"
+  },
+  {
+   "id": "m4",
+   "title": "Motie Jimmy Dijk en Ceder over een werkvergunning voor werknemers uit Midden- en Oost-Europa (29 861 nr. 181)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2025Z20706&did=2025D48772",
+   "date": "2025-11-27"
+  },
+  {
+   "id": "m5",
+   "title": "Motie Edgar Mulder en Boon over tewerkstellingsvergunningen voor arbeidskrachten uit EU-landen (36 800-XV nr. 58)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z05573&did=2026D12780",
+   "date": "2026-03-19"
+  },
+  {
+   "id": "m6",
+   "title": "Motie Tijs van den Brink over een richtinggevende bandbreedte voor arbeidsmigratie (29 861 nr. 196)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13690&did=2026D30777",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m7",
+   "title": "Motie Flach over enkel in het uiterste geval arbeidsmigranten van buiten de EU (29 861 nr. 198)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13692&did=2026D30779",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m8",
+   "title": "Motie Flach over hoge prioriteit voor opvolging rapport Staatscommissie Demografische Ontwikkelingen (29 861 nr. 200)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13694&did=2026D30783",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m9",
+   "title": "Motie Wiersma over de afhankelijkheid van arbeidsmigratie in alle sectoren meewegen (29 861 nr. 201)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13695&did=2026D30785",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m10",
+   "title": "Motie Boon over een werkgeversheffing per arbeidsmigrant (29 861 nr. 203)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13698&did=2026D30789",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m11",
+   "title": "Motie Jimmy Dijk over de taaleis uitbreiden (29 861 nr. 208)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13705&did=2026D30812",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m12",
+   "title": "Motie Jimmy Dijk over volledige uitvoering van het advies van de commissie-Roemer (29 861 nr. 209)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z13706&did=2026D30813",
+   "date": "2026-06-18"
+  },
+  {
+   "id": "m13",
+   "title": "Gewijzigde motie Patijn over een uitzendverbod in de vleessector (29 861 nr. 213)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z15241&did=2026D34212",
+   "date": "2026-07-02"
+  },
+  {
+   "id": "m14",
+   "title": "Motie Al Biyati over forfait en looptijd van de expatregeling verder verlagen en verkorten (37 020-IX nr. 20)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z20765&did=2026D47869",
+   "date": "2026-10-01"
+  },
+  {
+   "id": "m15",
+   "title": "Motie Boon over de minimumtermijn voor naturalisatie verhogen naar twintig jaar (37 020-XV nr. 12)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z25209&did=2026D58278",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "m16",
+   "title": "Motie Michon-Derkzen over het wetsvoorstel taaleis naturalisatie B1 voor april 2027 (37 020-XV nr. 18)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z25216&did=2026D58289",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "m18",
+   "title": "Motie Heutink en Lammers over onmiddellijk stoppen met gezinshereniging (36 800-XX nr. 34)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z02552&did=2026D05690",
+   "date": "2026-02-05"
+  },
+  {
+   "id": "m17",
+   "title": "Motie Nanninga over B2 als reguliere taaleis voor naturalisatie (37 020-XV nr. 19)",
+   "publisher": "Tweede Kamer",
+   "url": "https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z25217&did=2026D58290",
+   "date": "2026-11-16"
+  },
+  {
+   "id": "p1",
+   "title": "D66 Verkiezingsprogramma 2025-2030",
+   "publisher": "D66",
+   "url": "https://media.d66.nl/uploads/2026/04/D66-Verkiezingsprogramma-2025-2030-2-1.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "p2",
+   "title": "VVD Verkiezingsprogramma Tweede Kamer 2025",
+   "publisher": "VVD",
+   "url": "https://www.vvd.nl/wp-content/uploads/2025/09/Verkiezingsprogramma-TK-VVD-2025-DEF.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "p3",
+   "title": "PVV Verkiezingsprogramma 2025 'Dit is uw land'",
+   "publisher": "PVV",
+   "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "p4",
+   "title": "Grip op migratie (theme page)",
+   "publisher": "CDA",
+   "url": "https://www.cda.nl/themas/grip-op-migratie/",
+   "date": null
+  },
+  {
+   "id": "p5",
+   "title": "JA21 Verkiezingsprogramma 2025",
+   "publisher": "JA21",
+   "url": "https://ja21.nl/fileadmin/user_upload/04_Documenten/Verkiezingsprogramma_TK_25_A4_v15.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "p6",
+   "title": "Standpunt: Immigratie en remigratie",
+   "publisher": "Forum voor Democratie",
+   "url": "https://fvd.nl/standpunten/immigratie-en-remigratie",
+   "date": null
+  },
+  {
+   "id": "p7",
+   "title": "ChristenUnie Verkiezingsprogramma 2025",
+   "publisher": "ChristenUnie",
+   "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf",
+   "date": "2025"
+  },
+  {
+   "id": "p8",
+   "title": "SGP Verkiezingsprogramma 2025",
+   "publisher": "SGP",
+   "url": "https://sgp.nl/download?docID=0bf38fdb632c316533a714ca801a54df72a99572&name=Verkiezingsprogramma_SGP_2025%20eindversie.pdf",
+   "date": "2025"
+  }
+ ]
+}

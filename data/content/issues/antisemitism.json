@@ -1,0 +1,1285 @@
+{
+  "id": "antisemitism",
+  "title": "Antisemitism: incidents, security and the policy response",
+  "tagline": "What the figures show about hatred of Jews in the Netherlands, and what government and parties propose.",
+  "updated": "2026-11-25",
+  "summary": "Registered antisemitic incidents rose sharply after the Hamas attack of 7 October 2023 and have stayed well above earlier levels: police recorded 549 incidents in 2022, 880 in 2023, 880 in 2024 and 867 in 2025. Violence against Israeli football supporters in Amsterdam in November 2024 and attacks on a synagogue in Rotterdam and a Jewish school in Amsterdam in March 2026 put the issue at the centre of politics. The D66-VVD-CDA cabinet led by Rob Jetten continues the Strategy to Combat Antisemitism 2024-2030, has raised the security fund for Jewish institutions to 2 million euros a year and says it will adopt the recommendations of a government taskforce. Parties disagree on who commits antisemitic acts, on limits to demonstrations and on where criticism of Israel ends and antisemitism begins.",
+  "key_facts": [
+    {
+      "label": "Police-registered antisemitic incidents",
+      "value": "867 in 2025 (880 in 2024, 880 in 2023, 549 in 2022)",
+      "note": "8% of all discrimination incidents registered by police in 2025. More than 400 were aimed at (presumed) Jewish persons or institutions; 240 were slurs such as 'k*-joden' directed at police and other public officials.",
+      "source_ids": [
+        "s1"
+      ]
+    },
+    {
+      "label": "Incidents counted by CIDI",
+      "value": "281 in 2025 (421 in 2024, 379 in 2023)",
+      "note": "CIDI (Centre for Information and Documentation on Israel) is a private organisation that has published an annual monitor for over forty years. Its count excludes online incidents and, by its own definition, criticism of Israel. In the twelve months before 7 October 2023 it registered 197 incidents.",
+      "source_ids": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "label": "Antisemitism in prosecution figures",
+      "value": "46 of 141 specific discrimination offences registered by the Public Prosecution Service (OM) in 2025 (26%); 80 in 2024 (37%); 122 in 2023",
+      "note": "The OM attributes the higher 2023-2024 numbers partly to a large number of football-related cases.",
+      "source_ids": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "label": "Size of the Jewish community",
+      "value": "Estimated 41,400 people (FRA estimate used in its 2023 survey); about 0.3% of the population according to the national coordinator (2025)",
+      "source_ids": [
+        "s9",
+        "s4"
+      ]
+    },
+    {
+      "label": "Experiences of Jewish residents (EU survey)",
+      "value": "97% encountered antisemitism in the previous year; 39% experienced antisemitic harassment; 77% at least occasionally avoid wearing Jewish symbols in public; 39% considered emigrating in the past five years",
+      "note": "FRA online survey, January-June 2023 (before 7 October 2023), 561 respondents in the Netherlands. 15% thought the government combats antisemitism effectively.",
+      "source_ids": [
+        "s9"
+      ]
+    },
+    {
+      "label": "Security fund for Jewish institutions",
+      "value": "1.3 million euros a year structurally since 2025; raised by 700,000 euros to 2 million euros a year in 2026",
+      "note": "In 2025 there were 45 applications, of which 25 were granted in full or in part; the total requested was about 198% of the budget. The municipality of Amsterdam separately made 25 million euros available for Jewish life in the city.",
+      "source_ids": [
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "label": "National strategy budget",
+      "value": "4.5 million euros extra per year from 2025",
+      "note": "Announced with the Strategy to Combat Antisemitism 2024-2030 on 22 November 2024.",
+      "source_ids": [
+        "s20"
+      ]
+    },
+    {
+      "label": "Sentence enhancement for discriminatory motive",
+      "value": "Charged 206 times between 1 July and 31 December 2025",
+      "note": "Article 44bis of the Criminal Code, in force since 1 July 2025, allows a sentence up to one third higher when an offence has a discriminatory (including antisemitic) motive. The figure covers all discrimination grounds.",
+      "source_ids": [
+        "s3",
+        "s24",
+        "s25"
+      ]
+    },
+    {
+      "label": "Amsterdam, November 2024",
+      "value": "62 arrests around the Ajax-Maccabi Tel Aviv match, of whom 49 lived in the Netherlands and 10 in Israel; more than 1,200 police officers deployed",
+      "note": "By April 2025 police had 122 suspects in view, including Israeli supporters.",
+      "source_ids": [
+        "s11",
+        "s10",
+        "s7"
+      ]
+    },
+    {
+      "label": "Station protests",
+      "value": "Sit-ins against Israeli government policy at more than 40 railway stations in two years, including 35 stations simultaneously",
+      "note": "Figures from the Taskforce report of 2 February 2026.",
+      "source_ids": [
+        "s22"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "Incident numbers have stayed high since late 2023",
+      "text": "Police registered 549 antisemitic incidents in 2022 and 880 in 2023; the number was again 880 in 2024 and 867 in 2025. In the 2025 police data, incidents occurred mainly in residential areas and on the street; 85 involved graffiti or vandalism, often aimed at a Jewish cemetery, monument, synagogue or cultural foundation, and more than 70 concerned statements about Israel, Palestine or Zionism (slogans at demonstrations, online posts, flyers, banners). Anti-discrimination services recorded 271 reports of antisemitism in 2025 (69 in 2022). National coordinator Eddo Verdoner said in April 2026 that he fears people are getting used to such figures.",
+      "source_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "heading": "Jewish life takes place behind security",
+      "text": "In its letter of 10 April 2026 the cabinet writes that Jewish people increasingly avoid being visible and regard additional security measures as necessary. Jewish schools, synagogues and events have for years arranged and largely paid for their own security, with police and Royal Marechaussee protection on top where there is a specific threat. In the FRA survey, 34% of Dutch Jewish respondents said they avoid Jewish events and 42% avoid certain places because they do not feel safe.",
+      "source_ids": [
+        "s23",
+        "s25",
+        "s9",
+        "s5"
+      ]
+    },
+    {
+      "heading": "Attacks on Jewish institutions in March 2026",
+      "text": "In the night of 12 to 13 March 2026 a fire was set at the entrance of a synagogue in Rotterdam; the following night an explosive went off against the outer wall of the Cheider Jewish school in Amsterdam. Nobody was injured. Suspects were arrested for both attacks and for a planned explosion at a synagogue in Heemstede; the Rotterdam suspects are charged with offences with terrorist intent. A group calling itself Harakat Ashab al-Yamin al-Islamiyyah claimed the attacks. Justice minister David van Weel told parliament that at least some of the perpetrators were recruited for money via Snapchat or Telegram ('crime as a service') and that Iran may be behind at least part of the attacks; the investigation is continuing.",
+      "source_ids": [
+        "s27",
+        "s29",
+        "s28",
+        "s34",
+        "s25"
+      ]
+    },
+    {
+      "heading": "Universities and stations",
+      "text": "A government taskforce chaired by Jaap Smit spoke to more than 120 people and reported on 2 February 2026 that Jewish students and staff feel unsafe or intimidated around protests at universities, and examined sit-ins at railway stations. Taskforce members told the Senate in June 2026 that Jewish students felt abandoned by university boards during demonstrations. The cabinet says sit-ins at stations are usually peaceful but bring general safety risks at busy stations.",
+      "source_ids": [
+        "s22",
+        "s33",
+        "s23"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "The war after 7 October 2023",
+      "text": "CIDI, the national coordinator and the cabinet all link the rise to the Hamas attack on Israel of 7 October 2023 and the war in Gaza that followed. CIDI also reported that a rising trend was already visible before that date: up to 7 October 2023 it had counted almost as many incidents as in the whole of 2022. The cabinet writes that international tensions are reflected in public debate and on social media.",
+      "source_ids": [
+        "s8",
+        "s4",
+        "s23"
+      ]
+    },
+    {
+      "heading": "Online spread",
+      "text": "Meld.Online Discriminatie, the online hate reporting point, received 136 reports of antisemitism in 2024 (114 in 2023), and 118 in 2025, 15% of its unique reports. CIDI reported that in 2024 almost any reference to Jewish identity online drew antisemitic reactions. The Inspectorate of Justice and Security found that calls to violence spread rapidly on social media before and during the Amsterdam violence of November 2024.",
+      "source_ids": [
+        "s4",
+        "s1",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "heading": "Football",
+      "text": "Antisemitic chants around football are a recurring category in the figures. The police report counts 42 antisemitic expressions in a football context in 2025. In the prosecution data, 12 of the 141 specific discrimination offences in 2025 involved supporters who shouted antisemitic slogans around Ajax matches; in 2023 there were 80 football-related offences.",
+      "source_ids": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Schools and knowledge of the Holocaust",
+      "text": "CIDI reported five times as many incidents at schools in 2023 as in 2022 and said teachers lacked knowledge and resolve to deal with them. The cabinet cites UNESCO research showing that a considerable share of European teachers observe antisemitic expressions in class. Schools are legally required to teach about the Holocaust but decide themselves how.",
+      "source_ids": [
+        "s8",
+        "s23",
+        "s26"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-10-07",
+      "event": "Hamas attacks Israel; the war in Gaza follows. Police-registered antisemitic incidents in the Netherlands for 2023 end at 880, against 549 in 2022.",
+      "source_ids": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "event": "CIDI reports 379 antisemitic incidents for 2023, almost 2.5 times the 2022 figure, with the strongest rise at schools.",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2024-11-06",
+      "event": "On the eve of Ajax-Maccabi Tel Aviv in Amsterdam, Maccabi supporters pull a Palestinian flag from a facade and part of the group vandalises taxis; threats against Maccabi supporters appear on social media and taxi drivers call on each other online to mobilise.",
+      "source_ids": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2024-11-07",
+      "event": "After the match, in the night of 7 to 8 November, small groups chase and assault Israeli supporters and people perceived as Jewish across central Amsterdam.",
+      "source_ids": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "date": "2024-11-22",
+      "event": "The Schoof cabinet presents the Strategy to Combat Antisemitism 2024-2030, with 4.5 million euros a year and a one-year taskforce.",
+      "source_ids": [
+        "s20",
+        "s21"
+      ]
+    },
+    {
+      "date": "2024-12-24",
+      "event": "The Amsterdam district court sentences the first five men for the November violence: prison terms of six months, ten weeks and one month (twice) and 100 hours of community service.",
+      "source_ids": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-06-16",
+      "event": "The Inspectorate of Justice and Security and the crisis-management institute COT publish their reports on the Amsterdam events.",
+      "source_ids": [
+        "s10",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "event": "Article 44bis of the Criminal Code enters into force: a discriminatory motive becomes a statutory ground for a higher sentence.",
+      "source_ids": [
+        "s3",
+        "s24"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "event": "The Taskforce on Combating Antisemitism publishes its final report 'Gevangen in Vrijheden' (Caught in Freedoms) with 11 proposals on campuses and railway stations.",
+      "source_ids": [
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "event": "Arson at a synagogue in Rotterdam (night of 12-13 March), followed on 14 March by an explosion at the Cheider Jewish school in Amsterdam. On 16 March prime minister Jetten and minister Van Weel meet representatives of the Jewish community.",
+      "source_ids": [
+        "s27",
+        "s28",
+        "s34"
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "event": "The cabinet sends parliament its response to the taskforce and an update of the Strategy; a mid-term evaluation is planned for 2027.",
+      "source_ids": [
+        "s23",
+        "s24"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "The House of Representatives debates the taskforce report. Minister Van Weel announces the security fund will rise to 2 million euros a year. Voting on the motions was scheduled for 12 May 2026.",
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "event": "At the national Kristallnacht commemoration in Amsterdam, prime minister Jetten says he knows there are people in the Jewish community who are considering leaving the Netherlands.",
+      "source_ids": [
+        "s31"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Strategy to Combat Antisemitism 2024-2030",
+      "text": "The strategy, presented in November 2024 and continued by the Jetten cabinet, has three pillars: protection and enforcement, education and prevention, and commemoration and celebration. The Ministry of Justice and Security coordinates. It is updated annually; the cabinet says it is too early to judge the effectiveness of the whole approach and plans a mid-term evaluation in 2027. Completed measures include a police expertise centre on discrimination with structural funding, use of fast-track prosecution where possible and the sentence-enhancement article. A National Plan for Jewish Life is being drawn up with the national coordinator (NCAB).",
+      "source_ids": [
+        "s23",
+        "s24",
+        "s20"
+      ]
+    },
+    {
+      "heading": "Coalition agreement D66-VVD-CDA (January 2026)",
+      "text": "The coalition agreement says the roles of the national coordinators on discrimination and racism and on combating antisemitism will be anchored in law, that a national anti-discrimination service with physical desks should bring discrimination and antisemitism better into view, that the number of discrimination detectives will be increased and the Jewish Police Network strengthened. Taking part in discriminatory football chants is to be enforced more strictly. The Public Assemblies Act (Wet openbare manifestaties) will be amended so that mayors get powers of administrative enforcement or relocation of demonstrations. The agreement also says terrorist organisations should be banned as quickly as possible in the Netherlands and the EU.",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "heading": "Response to the taskforce and security",
+      "text": "The cabinet says it takes the taskforce recommendations fully in hand. The education minister makes a one-off 350,000 euros available to Jewish (student) organisations and points institutions to existing social-safety budgets. NS and ProRail have drawn up a framework with an escalation ladder for demonstrations and sit-ins at stations; the local authorities decide. After the March 2026 attacks security at Jewish institutions was tightened, the police drew up a national framework for mayors, and the security fund was raised to 2 million euros a year.",
+      "source_ids": [
+        "s23",
+        "s25",
+        "s29"
+      ]
+    },
+    {
+      "heading": "Education and the definition question",
+      "text": "Secondary schools receive a structural extra 750,000 euros for Holocaust-related activities such as museum visits and guest lessons, under a National Plan to Strengthen Holocaust Education; an offer for primary and special education is being developed. On the definition of antisemitism, minister Van Weel said in November 2024 that the cabinet endorses the non-binding working definition of the International Holocaust Remembrance Alliance (IHRA). In the debate of 21 April 2026 he said the cabinet does not itself apply the IHRA definition, sees it as one of the definitions in circulation and has no need for a definition of its own.",
+      "source_ids": [
+        "s24",
+        "s23",
+        "s21",
+        "s25"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Tighten the law on demonstrations",
+      "description": "Amend the Public Assemblies Act so that mayors can enforce administratively or relocate demonstrations, and revise its penal provisions so that offences committed during demonstrations weigh more heavily. Minister Van Weel told parliament the right to demonstrate is not being curtailed; PvdD and DENK warned in the debate against restricting it in the name of fighting antisemitism.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In coalition agreement of January 2026; bill not yet verified as submitted",
+      "source_ids": [
+        "s32",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "title": "Criminalise glorification of terrorism",
+      "description": "A bill to make glorifying terrorism and publicly supporting terrorist organisations a criminal offence, so that authorities can act faster against evident cases such as waving an ISIS flag. PvdD wants the bill withdrawn, arguing its vague definitions seriously restrict freedom of expression.",
+      "proposed_by": [
+        "VVD",
+        "Lid Keijzer"
+      ],
+      "status": "Announced in the 2024 strategy; on 21 April 2026 the minister said the draft had come back from the Council of State and that a motion by Mona Keijzer asking the government to submit it had been adopted that day",
+      "source_ids": [
+        "s20",
+        "s25",
+        "s44"
+      ]
+    },
+    {
+      "title": "Ban organisations such as Samidoun",
+      "description": "Introduce an administrative ban on 'undermining organisations' and amend article 2:20 of the Civil Code so that organisations such as Samidoun, the PFLP and other anti-rule-of-law and antisemitic organisations can be dissolved and banned more quickly, following the German example.",
+      "proposed_by": [
+        "VVD"
+      ],
+      "status": "In VVD manifesto 2025; coalition agreement says terrorist organisations should be banned as quickly as possible. Current legal status of Samidoun not verified",
+      "source_ids": [
+        "s35",
+        "s32"
+      ]
+    },
+    {
+      "title": "Revoke nationality or visas of offenders",
+      "description": "PVV: withdraw Dutch nationality from dual nationals irrevocably convicted of antisemitic crimes and deport them. Groep Markuszower: always revoke the student visa of foreign students who are convicted. The 2024 strategy said the cabinet would examine withdrawing Dutch citizenship for serious crimes with an antisemitic aspect. Minister Van Weel said the immigration service can already revoke a student visa after a criminal conviction or where there is a danger to public order.",
+      "proposed_by": [
+        "PVV",
+        "Groep Markuszower"
+      ],
+      "status": "PVV position stated in debate 21 April 2026; Groep Markuszower motion filed 21 April 2026, outcome of vote not verified",
+      "source_ids": [
+        "s25",
+        "s26",
+        "s20"
+      ]
+    },
+    {
+      "title": "Criminalise specific slogans and symbols",
+      "description": "PVV wants slogans such as 'from the river to the sea' and 'globalize the intifada' made explicitly punishable and demonstrations where they are used ended by police. JA21 asked whether the red triangle symbol can be brought under the glorification bill. SGP wants antisemitic slogans, flags and images at demonstrations banned, with the IHRA definition leading.",
+      "proposed_by": [
+        "PVV",
+        "JA21",
+        "SGP"
+      ],
+      "status": "Stated in debate 21 April 2026 and in SGP manifesto 2025; no bill",
+      "source_ids": [
+        "s25",
+        "s43"
+      ]
+    },
+    {
+      "title": "Stricter action at universities",
+      "description": "JA21: a joint framework under which police share data on students involved in offences or serious disorder with universities, so these can end enrolments under article 7.57h of the Higher Education Act; and a call on universities to use the IHRA definition as a guide. Groep Markuszower: campus bans and loss of study visas for students who glorify terrorism or occupy buildings. Mona Keijzer asked why demonstrating inside university buildings is not prohibited as it is inside parliament.",
+      "proposed_by": [
+        "JA21",
+        "Groep Markuszower",
+        "Lid Keijzer"
+      ],
+      "status": "Motions filed 21 April 2026; outcome of vote not verified",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "title": "State pays for security of Jewish institutions",
+      "description": "ChristenUnie and VVD said in the debate that it is unacceptable for Jewish institutions to pay largely for their own security and called it a public responsibility. D66 asked whether the security fund budget is too limited.",
+      "proposed_by": [
+        "ChristenUnie",
+        "VVD",
+        "D66"
+      ],
+      "status": "Raised in debate 21 April 2026; minister raised the fund to 2 million euros a year",
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "title": "Different working definition of antisemitism",
+      "description": "PvdD motion asking the government to use a working definition in line with international law and human rights that clearly distinguishes antisemitism from criticism of the Israeli government, instead of the IHRA definition.",
+      "proposed_by": [
+        "PvdD"
+      ],
+      "status": "Motion filed 21 April 2026; advised against by the minister; outcome of vote not verified",
+      "source_ids": [
+        "s25"
+      ]
+    },
+    {
+      "title": "Holocaust education and public campaign",
+      "description": "50PLUS: independent research into how the Holocaust is taught and the obstacles teachers face. VVD: make the subsidy for the foundation Na de Oorlog (guest lessons with personal Holocaust stories), which ends in late 2026, structural. SGP: a public campaign with well-known Dutch people to support the Jewish community. CDA: examine more effective ways of fighting online antisemitism among young people, for example the Redirect method.",
+      "proposed_by": [
+        "50PLUS",
+        "VVD",
+        "SGP",
+        "CDA"
+      ],
+      "status": "Motions filed 21 April 2026; outcome of vote not verified",
+      "source_ids": [
+        "s25"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "Antisemitism in the Netherlands is 'imported' and is mainly the result of immigration and Islam.",
+      "claimed_by": "PVV (Maikel Boon), Groep Markuszower (Lammers) and, as 'an important factor but not the only cause', JA21 (Nanninga), in the House debate of 21 April 2026. PRO, PvdD and DENK rejected this in the same debate, pointing to right-wing extremist antisemitism and to antisemitism 'everywhere'.",
+      "what_data_show": "The annual police-based report describes antisemitic incidents by type and setting and contains no breakdown by the religion or migration background of perpetrators. The Public Prosecution Service records a suspect 'background' only where a dossier shows one: of 141 specific discrimination offences (all grounds) in 2025, 7 involved suspects acting from extreme-right sympathies, 3 religion or belief, 7 political conviction or public debate, 12 football supporters shouting antisemitic slogans and 4 police employees; for the majority of suspects no specific background was recorded. The cabinet wrote in April 2026 that the national coordinator is exploring further research into perpetrators of antisemitism so that it can be fought in a more targeted way. Prime minister Jetten said in March 2026 that antisemitism occurs across society, naming some Islamic communities, football chants and a political party. The three suspects arrested on 26 March 2026 over the synagogue cases all have Dutch nationality according to the OM.",
+      "source_ids": [
+        "s25",
+        "s1",
+        "s3",
+        "s23",
+        "s29"
+      ]
+    },
+    {
+      "claim": "The violence in Amsterdam on 7-8 November 2024 was an organised 'Jew hunt' (PVV in the 2026 debate: 'een georganiseerde Jodenjacht'); in the hours afterwards reports of a pogrom circulated internationally.",
+      "claimed_by": "PVV; reports on social media and reactions abroad at the time",
+      "what_data_show": "The Inspectorate of Justice and Security established that people of Jewish background, or perceived as such, were publicly targeted with threats, intimidation and beatings in 'blitz' attacks by small groups using scooters and taxis, and also described confrontations between groups deliberately seeking each other out. The mayor, police chief and chief prosecutor described the events as the result of 'a toxic cocktail of antisemitism, hooligan behaviour and anger about the war'; their account records that Maccabi supporters pulled down a Palestinian flag and vandalised taxis the night before. The OM concluded that chat groups played an important role, that organisation was limited to plans raised on match day by individual participants, that the violence appeared to stem from strong pro-Palestinian sentiment and anger at the Israelis present 'whether or not with a discrimination aspect', and that no evidence of terrorist intent was found. Courts convicted defendants of public violence, complicity through chat groups and, in one case, group insult of Jews. COT found that false reports, including of hostages, a manhunt for Jews and pogroms, kept circulating while the authorities communicated little during the night. Several complaints against Maccabi supporters were dismissed, in part because public-transport footage had been erased.",
+      "source_ids": [
+        "s25",
+        "s10",
+        "s11",
+        "s14",
+        "s15",
+        "s13",
+        "s19"
+      ]
+    },
+    {
+      "claim": "The IHRA definition and the fight against antisemitism are used to label criticism of Israel as antisemitism.",
+      "claimed_by": "DENK and PvdD in the debate of 21 April 2026; the SP manifesto calls equating justified criticism of Israel's policy with antisemitism unacceptable. SGP and JA21 want the IHRA definition to be leading; Mona Keijzer and Groep Markuszower argue that anti-Zionism has an antisemitic core.",
+      "what_data_show": "The IHRA definition is not legally binding. Minister Van Weel said in November 2024 that criticism of Israel is allowed and is something other than antisemitism, and in April 2026 that the cabinet does not itself apply the IHRA definition. CIDI states that criticism of Israel does not fall under its incident definition. In the 2025 police figures more than 70 of the 867 registered antisemitic incidents concerned statements about Israel, Palestine or Zionism. Taskforce chair Jaap Smit said the right to demonstrate, also against Israel's policy, is a great good, and that Jews may not be held individually or collectively responsible for the actions of the state of Israel.",
+      "source_ids": [
+        "s25",
+        "s42",
+        "s43",
+        "s21",
+        "s7",
+        "s1",
+        "s22"
+      ]
+    },
+    {
+      "claim": "Antisemitism accounts for 37% of prosecuted discrimination cases although Jews are less than half a percent of the population.",
+      "claimed_by": "BBB (Caroline van der Plas) in the debate of 21 April 2026, citing 80 cases in 2024",
+      "what_data_show": "The national coordinator reported that the OM registered antisemitism as the ground in 80 discrimination offences in 2024, 37% of the total, and that about 0.3% of the population is Jewish. For 2025 the OM reports 46 of 141 specific discrimination offences (26%). The OM explains that 2023 and 2024 were inflated by a large number of football-related cases and that 2025 is closer to the multi-year picture. These prosecution figures count offences with antisemitic content, including football chants and slurs aimed at police officers, and are lower than police registrations.",
+      "source_ids": [
+        "s25",
+        "s4",
+        "s3",
+        "s2"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "D66 leads the cabinet that continues the national strategy and raised the security fund. In the April 2026 debate MP Mpanzu Bamenga asked for action against AI-generated Holocaust imagery, more support for enforcing house rules at universities, continuous evaluation of the strategy and attention for present-day Jewish life in education. He said the security fund originated in a motion by Rob Jetten.",
+      "salience": "medium",
+      "salience_basis": "The 2025 manifesto mentions hatred of Jews once, in a list of forms of discrimination; D66 supplies the prime minister, who spoke on the issue after the March 2026 attacks and at the Kristallnacht commemoration; one D66 speaker in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Because if Jewish Dutch people no longer feel safe here, if they have to hide their identity, then we as a society have failed.",
+          "text_nl": "Want als Joodse Nederlanders zich hier niet meer veilig voelen, als zij hun identiteit moeten verbergen, dan hebben wij als samenleving gefaald.",
+          "speaker": "Mpanzu Bamenga",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        },
+        {
+          "text_en": "They are simply our Jewish Dutch people. And you keep your paws off them.",
+          "text_nl": "Het zijn gewoon onze Joodse Nederlanders. En daar blijf je met je poten van af.",
+          "speaker": "Rob Jetten",
+          "date": "2026-03-13",
+          "source_id": "s30"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s37",
+        "s30",
+        "s31"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "The VVD supplies justice minister David van Weel, who coordinates the strategy. Its manifesto links rising hatred of Jews to poor integration and proposes an administrative ban on organisations such as Samidoun. In the debate MP Ulysse Ellian called it unacceptable that Jewish institutions pay for their own security, criticised universities that end cooperation with Israeli universities and filed a motion to make the subsidy for Holocaust guest lessons structural.",
+      "salience": "high",
+      "salience_basis": "Eight mentions of antisemitism in the 2025 manifesto including a specific proposal to ban named organisations; the responsible minister is from the VVD; motion filed in April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "The genie is out of the bottle and antisemitism is rampant.",
+          "text_nl": "De geest is uit de fles en antisemitisme viert hoogtij.",
+          "speaker": "Ulysse Ellian",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s35",
+        "s21"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "PRO (the merged GroenLinks-PvdA; its MPs still spoke as GroenLinks-PvdA in April 2026) treats antisemitism alongside other forms of discrimination and stresses prevention and dialogue in schools, sport and online, together with criminal enforcement. MP Laura Bromet said freedom to demonstrate leaves room to denounce the Netanyahu government provided Israel's right to exist within a two-state solution is not questioned and individual Jews are never held responsible. She co-signed three motions, with CDA, D66 and 50PLUS.",
+      "salience": "medium",
+      "salience_basis": "Ten mentions in the 2025 manifesto, each within broader anti-discrimination passages; one speaker in the April 2026 debate; co-signed three motions.",
+      "quotes": [
+        {
+          "text_en": "Antisemitism is everywhere and with everyone.",
+          "text_nl": "Antisemitisme is overal en bij iedereen.",
+          "speaker": "Laura Bromet",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        },
+        {
+          "text_en": "Anyone who really wants to stop antisemitism and discrimination must invest in prevention, in schools, on sports fields, on internet forums, wherever.",
+          "text_nl": "Wie antisemitisme en discriminatie echt wil stoppen, moet inzetten op preventie, op scholen, op sportvelden, op internetfora, waar dan ook.",
+          "speaker": "Laura Bromet",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s36"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "The PVV attributes antisemitism to immigration and Islam and calls 'de-Islamisation' the solution. It wants Dutch nationality withdrawn from dual nationals convicted of antisemitic crimes, slogans such as 'from the river to the sea' made explicitly punishable and antisemitic demonstrations ended by police. Its manifesto ties support for Israel to rising antisemitism. In the debate MP Maikel Boon said the party condemns all forms of antisemitism, including from the right.",
+      "salience": "high",
+      "salience_basis": "Three mentions in the 2025 manifesto, including 'Snoeiharde aanpak van antisemitisme' in its list of security measures; the issue is tied to the party's defining themes of Islam and immigration; first speaker in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "This is the import of age-old Islamic hatred of Jews into the Netherlands.",
+          "text_nl": "Dit is de import van eeuwenoude islamitische Jodenhaat naar Nederland.",
+          "speaker": "Maikel Boon",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        },
+        {
+          "text_en": "The PVV will forcefully combat the increasing antisemitism in the Netherlands.",
+          "text_nl": "De PVV zal het toenemend antisemitisme in Nederland met kracht bestrijden.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s39"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s39"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "The coalition party CDA says there is no room for antisemitism and that it and Holocaust denial must be fought continuously. MP Tijs van den Brink framed the problem as one of society as a whole, including the Christian history of Jew-hatred in Europe, said the cabinet 'is not the problem today' and filed a motion on fighting online antisemitism among young people.",
+      "salience": "medium",
+      "salience_basis": "Three mentions in the 2025 manifesto; coalition party; one speaker and one motion in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "It is deeply sad but true: today in our country it takes courage to be a Jew.",
+          "text_nl": "Het is namelijk dieptreurig maar waar: er is vandaag in ons land moed nodig om Jood te zijn.",
+          "speaker": "Tijs van den Brink",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        },
+        {
+          "text_en": "There is no room whatsoever for antisemitism in the Netherlands.",
+          "text_nl": "Er is geen enkele ruimte voor antisemitisme in Nederland.",
+          "speaker": "CDA manifesto 2025",
+          "date": "2025",
+          "source_id": "s47"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s47"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "JA21 sees 'increasing Islamisation' as an important, though not the only, factor in hatred of Jews. MP Annabel Nanninga called for less de-escalation and swifter punishment at universities, filed motions on sharing police data with universities so enrolments can be ended and on universities using the IHRA definition, and asked for the red triangle symbol to be covered by the glorification bill. The manifesto says universities should not give in to pressure to suspend ties with Israeli institutions.",
+      "salience": "high",
+      "salience_basis": "Manifesto bullet 'support the Jewish community and forcefully combat antisemitism' plus a passage on universities; at least two motions filed in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "We too see increasing Islamisation as an important factor when it comes to hatred of Jews in the Netherlands.",
+          "text_nl": "Ook wij zien toenemende islamisering als een belangrijke factor wat betreft Jodenhaat in Nederland.",
+          "speaker": "Annabel Nanninga",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s41",
+        "s26"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "The group, which split from the PVV in January 2026 and has no election manifesto of its own, says the Netherlands 'imports' antisemitism and that it grows through a lack of backbone among administrators. It wants campus bans and loss of study visas for students who glorify terrorism or occupy buildings, dismissal of university administrators who do not protect Jews, and antisemitic demonstrations banned immediately.",
+      "salience": "high",
+      "salience_basis": "Spoke and filed several motions in the April 2026 debate; no own manifesto (members were elected on the PVV list).",
+      "quotes": [
+        {
+          "text_en": "The Netherlands has been importing antisemitism for years.",
+          "text_nl": "Nederland importeert al jaren antisemitisme.",
+          "speaker": "Lammers (Groep Markuszower)",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "The FVD manifesto does not mention antisemitism. On the Middle East it calls for a two-state solution, recognition of a Palestinian state within the 1967 borders and the release of Israeli hostages. FVD did not take part in the April 2026 debate on the taskforce report. Prime minister Jetten said in March 2026 that he was referring to FVD when he spoke of a party where someone who has been openly antisemitic can stand in municipal elections, and asked party leader De Vos to distance herself from antisemitism in her party; D66 repeated that call in the debate.",
+      "salience": "low",
+      "salience_basis": "No mention of antisemitism in the 2025 manifesto; no speaker in the April 2026 debate.",
+      "quotes": [],
+      "source_ids": [
+        "s40",
+        "s25",
+        "s29"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The ChristenUnie calls security of Jewish institutions a public responsibility that should not depend on fundraising within a minority community. MP Mirjam Bikker co-initiated the law making a discriminatory motive a ground for a higher sentence. The manifesto wants the action plan against antisemitism continued and extended where needed and a taskforce in education so that fewer Jewish young people decide to study abroad.",
+      "salience": "high",
+      "salience_basis": "Ten mentions in the 2025 manifesto with separate headings on combating antisemitism in education and in justice policy; co-initiator of the sentence-enhancement law; party leader spoke in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Freedom of religion behind fences you pay for yourself is not real freedom.",
+          "text_nl": "Vrijheid van godsdienst achter zelfbetaalde hekken is geen echte vrijheid.",
+          "speaker": "Mirjam Bikker",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s46"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "The SP manifesto addresses the subject in its passage on Israel and Palestine: it calls equating justified criticism of Israel's policy with antisemitism unacceptable and says such criticism must not be criminalised. The SP had no speaker in the April 2026 debate on the taskforce report.",
+      "salience": "low",
+      "salience_basis": "One sentence in the 2025 manifesto; no speaker in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Equating justified criticism of Israel's policy with antisemitism is unacceptable and reprehensible.",
+          "text_nl": "Het gelijkstellen van terechte kritiek op Israëls beleid aan antisemitisme is onacceptabel en verwerpelijk.",
+          "speaker": "SP manifesto 2025",
+          "date": "2025",
+          "source_id": "s42"
+        }
+      ],
+      "source_ids": [
+        "s42",
+        "s25"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "The PvdD says hatred of Jews must be tackled hard and that antisemitism occurs in all layers of society, and objects to what it calls its instrumental use against Muslims. It defends the right to demonstrate, wants the bill on glorification of terrorism withdrawn and filed a motion for a working definition that separates antisemitism from criticism of the Israeli government. MP Christine Teunissen also asked about right-wing extremist conspiracy theories.",
+      "salience": "medium",
+      "salience_basis": "Thirteen mentions in the 2025 manifesto, including a section 'Aanpak moslimhaat en antisemitisme'; one speaker and one motion in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "The safety of Jewish students and the freedom to demonstrate peacefully for human rights must be able to exist side by side.",
+          "text_nl": "De veiligheid van Joodse studenten en de vrijheid van vreedzaam demonstreren voor mensenrechten moeten naast elkaar kunnen bestaan.",
+          "speaker": "Christine Teunissen",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s44"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The SGP devotes a chapter of its manifesto to standing 'beside the Jewish people, against antisemitism'. It wants antisemitic slogans, flags and images at demonstrations banned with the IHRA definition leading. In the debate MP Diederik van Dijk linked antisemitism to what he called excessive attention for the state of Israel and filed a motion for a public campaign.",
+      "salience": "high",
+      "salience_basis": "One of twelve manifesto chapters is titled 'Naast het Joodse volk, tegen antisemitisme'; 34 mentions of antisemitism in the manifesto; motion filed in April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "The excessive attention for the state of Israel gives antisemitism wings.",
+          "text_nl": "De buitensporige aandacht voor de staat Israël geeft het antisemitisme vleugels.",
+          "speaker": "Diederik van Dijk",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s43"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "BBB says the Jewish community must be protected unconditionally. Its manifesto wants educational institutions to act immediately against antisemitic or other hateful demonstrations and the Education Inspectorate to take this into account. In the debate Caroline van der Plas said university policy against antisemitism does not work and argued that parliamentary motions on boycotting Israeli products make Jews in the Netherlands feel unsafe.",
+      "salience": "high",
+      "salience_basis": "The 2025 manifesto has a section 'Bescherming van onze Joodse gemeenschap' that appears twice; party leader spoke in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "There is no 'yes, but' with antisemitism!",
+          "text_nl": "Er is geen \"ja, maar\" bij antisemitisme!",
+          "speaker": "Caroline van der Plas",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s38",
+        "s26"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "DENK says there is no room for hatred of Jewish Dutch people and expresses solidarity after the March 2026 attacks, while warning that the fight against antisemitism is misused to stifle political criticism of Israel and that the IHRA definition lets anti-Zionism and antisemitism run together. Its manifesto lists antisemitism among forms of discrimination it fights and calls for a specific plan; the same manifesto wants the Netherlands to recognise Zionism as an extremist and racist ideology.",
+      "salience": "medium",
+      "salience_basis": "Two mentions in the 2025 manifesto within the anti-discrimination chapter; one speaker in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "If we put the stamp 'antisemitism' on criticism of Israel, that word loses its meaning and force.",
+          "text_nl": "Als we kritiek op Israël het stempel \"antisemitisme\" geven, verliest dat woord zijn betekenis en kracht.",
+          "speaker": "Ismail El Abassi",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s45"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "50PLUS focused in the debate on Holocaust education, which MP Jan Struijs said falls short, and on Jewish police officers who say they feel unsafe within the force. It filed a motion for independent research into how the Holocaust is taught.",
+      "salience": "low",
+      "salience_basis": "No mention of antisemitism or the Holocaust in the 2025 manifesto; one speaker and one motion in the April 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Across the board, too little attention is paid to the Holocaust in secondary schools and higher education.",
+          "text_nl": "Er wordt in de volle breedte te weinig aandacht aan de Holocaust besteed op middelbare scholen en het hoger onderwijs.",
+          "speaker": "Jan Struijs",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s48",
+        "s26"
+      ]
+    },
+    {
+      "party": "Lid Keijzer",
+      "position": "Mona Keijzer argues that the anti-Western far left and Islamic extremism have formed an alliance, that slogans presented as anti-Zionism have an antisemitic core, and that a considerable part of antisemitism is imported, including by international students. She asked whether student visas can be revoked and why demonstrations inside universities are not prohibited. According to the minister, a motion of hers asking the government to bring the glorification-of-terrorism bill was adopted on 21 April 2026.",
+      "salience": "high",
+      "salience_basis": "Spoke in the April 2026 debate; motion on the glorification bill adopted the same day according to the minister.",
+      "quotes": [
+        {
+          "text_en": "We see how the anti-Western far left has entered into an alliance with anti-Western Islamic extremism.",
+          "text_nl": "We zien hoe antiwesters extreemlinks een verbond is aangegaan met antiwesters islamitisch extremisme.",
+          "speaker": "Mona Keijzer",
+          "date": "2026-04-21",
+          "source_id": "s25"
+        }
+      ],
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Since 1 July 2025 any criminal offence committed with a discriminatory motive, including an antisemitic one, can carry a sentence up to one third higher (article 44bis Criminal Code). Denying the Holocaust has been a criminal offence since 2024.",
+      "source_ids": [
+        "s24",
+        "s3"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Where possible, prosecutors use fast-track procedure (snelrecht) for offences with a discriminatory aspect, in relatively simple cases such as when a suspect is caught in the act or confesses and the maximum demand is no more than one year in prison.",
+      "source_ids": [
+        "s23"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Proposal (coalition agreement D66-VVD-CDA): the Public Assemblies Act is to be amended so that mayors can enforce administratively against or relocate demonstrations, and offences committed during demonstrations are to weigh more heavily in sentencing. Sit-ins at stations are already covered by an NS/ProRail framework with an escalation ladder; the local authorities decide.",
+      "source_ids": [
+        "s32",
+        "s23"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Proposal (coalition agreement): stricter enforcement against taking part in discriminatory and antisemitic football chants, with miming along to such chants to become a separate offence; professional football clubs would need written anti-racism plans to hold a licence.",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "applies_to": [
+        "student"
+      ],
+      "text": "The cabinet has asked universities and universities of applied sciences to carry out the taskforce recommendations: faster removal of offensive texts, more active enforcement of house rules and training for confidential advisers. The education minister is preparing guidance on recognising antisemitism. Jewish student organisations receive a one-off 350,000 euros. Pending motions from JA21 and Groep Markuszower would lead to ended enrolments or campus bans for students involved in offences or occupations.",
+      "source_ids": [
+        "s22",
+        "s23",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "non_eu_resident",
+        "student"
+      ],
+      "text": "According to minister Van Weel, the immigration service (IND) can revoke a student visa after a conviction for a criminal offence or where there is a danger to public order. A Groep Markuszower motion filed on 21 April 2026 asks that visas of foreign students always be revoked on conviction; the outcome of the vote was not verified.",
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "dutch_citizen"
+      ],
+      "text": "Proposal (PVV): dual nationals irrevocably convicted of antisemitic crimes would lose Dutch nationality and be deported. The 2024 strategy said the cabinet would examine whether Dutch citizenship can be withdrawn for serious crimes with an antisemitic aspect.",
+      "source_ids": [
+        "s25",
+        "s20"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent"
+      ],
+      "text": "Schools are legally obliged to teach about the Holocaust but decide how; the Education Inspectorate supervises. Secondary schools receive a structural extra 750,000 euros for activities such as museum visits and guest lessons, and an offer for primary and special education is being developed.",
+      "source_ids": [
+        "s24",
+        "s26"
+      ]
+    },
+    {
+      "applies_to": [
+        "parent"
+      ],
+      "text": "Jewish schools, institutions and events can apply to the national security fund for their own security measures; the budget is 2 million euros a year from 2026. In 2025, 25 of 45 applications were granted in full or in part.",
+      "source_ids": [
+        "s23",
+        "s25"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Discrimination, including antisemitism, can be reported to the police, to regional anti-discrimination services (via Discriminatie.nl) and, for online content, to Meld.Online Discriminatie. The coalition agreement announces a national anti-discrimination service with physical desks and more discrimination detectives. The official figures note that registered incidents are lower than actual incidents because not everything is reported.",
+      "source_ids": [
+        "s1",
+        "s32",
+        "s2"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "antisemitisme",
+    "jodenhaat",
+    "antisemitismebestrijding",
+    "strategie bestrijding antisemitisme",
+    "taskforce antisemitisme",
+    "gevangen in vrijheden",
+    "nationaal coördinator antisemitismebestrijding",
+    "joodse instellingen",
+    "veiligheidsfonds",
+    "ihra-definitie",
+    "holocausteducatie",
+    "holocaustontkenning",
+    "verheerlijking van terrorisme",
+    "samidoun",
+    "wet openbare manifestaties",
+    "maccabi"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Discriminatiecijfers in 2025 (annual report on registrations by police, anti-discrimination services and other bodies)",
+      "publisher": "Ministerie van BZK / Politie / Discriminatie.nl (via Officiële Bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244314.pdf",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s2",
+      "title": "OM: geregistreerde discriminatiefeiten in 2025 opnieuw gestegen",
+      "publisher": "Openbaar Ministerie",
+      "url": "https://www.om.nl/actueel/nieuws/2026/04/15/om-geregistreerde-discriminatiefeiten-in-2025-opnieuw-gestegen",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s3",
+      "title": "Strafbare Discriminatie in Beeld 2025",
+      "publisher": "Openbaar Ministerie",
+      "url": "https://www.om.nl/site/binaries/site-content/collections/documents/discriminatie/lecd/strafbare-discriminatie-in-beeld/strafbare-discriminatie-in-beeld-2025/strafbare-discriminatie-in-beeld-2025.pdf",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s4",
+      "title": "Reactie NCAB op antisemitismecijfers OM en politie: Antisemitisme onverminderd hoog; stijging zet door online",
+      "publisher": "Rijksoverheid (NCAB)",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2025/04/24/reactie-ncab-op-antisemitismecijfers-om-en-politie-antisemitisme-onverminderd-hoog-stijging-zet-door-online",
+      "date": "2025-04-24"
+    },
+    {
+      "id": "s5",
+      "title": "NCAB: Antisemitismecijfers tonen wederom een zorgwekkend beeld",
+      "publisher": "Welingelichte Kringen (ANP)",
+      "url": "https://www.welingelichtekringen.nl/samenleving/ncab-antisemitismecijfers-tonen-wederom-een-zorgwekkend-beeld",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s6",
+      "title": "CIDI records 281 antisemitic incidents in the Netherlands in 2025",
+      "publisher": "European Jewish Congress",
+      "url": "https://eurojewcong.org/news/communities-news/the-netherlands/cidi-records-281-antisemitic-incidents-in-the-netherlands-in-2025/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "s7",
+      "title": "CIDI: aantal meldingen van antisemitisme opnieuw toegenomen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2564807",
+      "date": "2025-04-24"
+    },
+    {
+      "id": "s8",
+      "title": "Veel meer antisemitische incidenten gemeld, vooral toename op scholen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2516052",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "s9",
+      "title": "EU Survey of Jewish People: Country data - Netherlands (Jewish people's experiences and perceptions of antisemitism)",
+      "publisher": "EU Agency for Fundamental Rights (FRA)",
+      "url": "https://fra.europa.eu/sites/default/files/fra_uploads/antisemitism_survey_2024_-_country_sheet_netherlands_0.pdf",
+      "date": "2024-07-11"
+    },
+    {
+      "id": "s10",
+      "title": "Summary of the report: Disturbances in Amsterdam on 7 and 8 November 2024",
+      "publisher": "Inspectie Justitie en Veiligheid",
+      "url": "https://www.inspectie-jenv.nl/site/binaries/site-content/collections/documents/2025/06/16/summary-of-the-report-disturbances-in-amsterdam-on-7-and-8-november-2024---voorpagina-aangepast/summary-of-the-report-disturbances-in-amsterdam-on-7-and-8-november-2024.pdf",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "s11",
+      "title": "Amsterdam overwoog verbod op Ajax-Maccabi na incidenten met fans en taxichauffeurs",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2544172",
+      "date": "2024-11-11"
+    },
+    {
+      "id": "s12",
+      "title": "Halsema na rapporten over Maccabi-rellen: 'Naar behoren ons werk gedaan'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2571411",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "s13",
+      "title": "Officials criticised for Maccabi attacks communication failings",
+      "publisher": "DutchNews",
+      "url": "https://www.dutchnews.nl/2025/06/officials-criticised-for-maccabi-attacks-communication-failings",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "s14",
+      "title": "Celstraffen tot twee jaar geëist wegens gewelddadigheden rond Ajax - Maccabi Tel Aviv",
+      "publisher": "Openbaar Ministerie",
+      "url": "https://www.om.nl/actueel/nieuws/2024/12/11/celstraffen-tot-twee-jaar-geeist-wegens-gewelddadigheden-rond-ajax---maccabi-tel-aviv",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "s15",
+      "title": "Vijf mannen veroordeeld voor ongeregeldheden rondom wedstrijd Ajax-Maccabi Tel Aviv",
+      "publisher": "Rechtspraak (Rechtbank Amsterdam)",
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-amsterdam/nieuws/2024/12/vijf-mannen-veroordeeld-voor-ongeregeldheden-rondom-wedstrijd-ajax-maccabi-tel-aviv",
+      "date": "2024-12-24"
+    },
+    {
+      "id": "s16",
+      "title": "Tot zes maanden cel voor vijf verdachten na geweld rond Ajax-Maccabi",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2549508",
+      "date": "2024-12-24"
+    },
+    {
+      "id": "s17",
+      "title": "Cel- en taakstraffen voor ongeregeldheden rond wedstrijd Ajax-Maccabi Tel Aviv",
+      "publisher": "Rechtspraak (Gerechtshof Amsterdam)",
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-amsterdam/nieuws/2025/12/cel--en-taakstraffen-voor-ongeregeldheden-rond-wedstrijd-ajax-maccabi-tel-aviv",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Celstraf voor Palestijn die Israëliër mishandelde bij Ajax-Maccabi-rellen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2582729",
+      "date": null
+    },
+    {
+      "id": "s19",
+      "title": "Ov-beelden al gewist, onderzoeken naar Maccabi-supporters gestaakt",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2571238",
+      "date": null
+    },
+    {
+      "id": "s20",
+      "title": "Veelzijdige aanpak van veelkoppig monster antisemitisme",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2024/11/22/veelzijdige-aanpak-van-veelkoppig-monster-antisemitisme",
+      "date": "2024-11-22"
+    },
+    {
+      "id": "s21",
+      "title": "Kabinet presenteert antisemitismeplan, 'Joodse gemeenschap moet zich weer veilig voelen'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2545501",
+      "date": "2024-11-22"
+    },
+    {
+      "id": "s22",
+      "title": "Taskforce: kom actiever op voor de Joodse gemeenschap; voorstellen voor verhogen veiligheid op campussen en treinstations",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/02/taskforce-kom-actiever-op-voor-de-joodse-gemeenschap-voorstellen-voor-verhogen-veiligheid-op-campussen-en-treinstations",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "s23",
+      "title": "Kamerstuk 30950 nr. 515: Brief van de ministers van JenV en OCW (beleidsreactie Taskforce en actualisatie Strategie Bestrijding Antisemitisme 2024-2030)",
+      "publisher": "Tweede Kamer (Officiële Bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30950-515.html",
+      "date": "2026-04-10"
+    },
+    {
+      "id": "s24",
+      "title": "Kabinet informeert de Kamer over de aanpak antisemitisme",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/10/kabinet-informeert-de-kamer-over-de-aanpak-antisemitisme",
+      "date": "2026-04-10"
+    },
+    {
+      "id": "s25",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 65, item 33: debat over het rapport van de Taskforce Antisemitisme 'Gevangen in Vrijheden'",
+      "publisher": "Tweede Kamer (Officiële Bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-65-33.html",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s26",
+      "title": "Kamer in het kort: Het rapport van de Taskforce Antisemitismebestrijding",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/kamer_in_het_kort/het-rapport-van-de-taskforce",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s27",
+      "title": "Kamerstuk 28684 nr. 848: Kamerbrief Aanslagen op Joodse instellingen in Rotterdam en Amsterdam",
+      "publisher": "Tweede Kamer (Officiële Bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-28684-848.html",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "s28",
+      "title": "Jetten: aanslagen op Joodse gemeenschap onacceptabel, link met Iran onderzocht",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2606580",
+      "date": "2026-03-16"
+    },
+    {
+      "id": "s29",
+      "title": "Nog drie verdachten aangehouden voor aanslag en voorgenomen explosie bij synagogen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2608071",
+      "date": "2026-03-27"
+    },
+    {
+      "id": "s30",
+      "title": "Letterlijke tekst persconferentie na ministerraad 13 maart 2026",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/documenten/2026/03/13/letterlijke-tekst-persconferentie-na-ministerraad-13-maart-2026",
+      "date": "2026-03-13"
+    },
+    {
+      "id": "s31",
+      "title": "Toespraak van minister-president Rob Jetten tijdens de Nationale Kristallnachtherdenking, Amsterdam",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/documenten/2026/11/09/toespraak-van-minister-president-rob-jetten-tijdens-de-nationale-kristallnachtherdenking-amsterdam",
+      "date": "2026-11-09"
+    },
+    {
+      "id": "s32",
+      "title": "Aan de slag: bouwen aan een beter Nederland. Coalitieakkoord 2026-2030 D66, VVD en CDA",
+      "publisher": "D66, VVD, CDA (copy hosted by Provincie Zuid-Holland)",
+      "url": "https://www.zuid-holland.nl/publish/besluitenattachments/analyse-coalitieakkoord-d66-vvd-cda/coalitieakkoord-d66-vvd-cda-aan-de-slag-bouwen-aan-een-beter-nederland.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s33",
+      "title": "Kamer in gesprek met Taskforce Antisemitismebestrijding",
+      "publisher": "Eerste Kamer",
+      "url": "https://www.eerstekamer.nl/nieuws/20260610/kamer_in_gesprek_met_taskforce",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "s34",
+      "title": "Israel's president calls attacks on Jewish school, synagogue 'violent antisemitism'",
+      "publisher": "NL Times",
+      "url": "https://nltimes.nl/2026/03/15/israels-president-calls-attacks-jewish-school-synagogue-violent-antisemitism",
+      "date": "2026-03-15"
+    },
+    {
+      "id": "s35",
+      "title": "VVD verkiezingsprogramma 2025: Sterker uit de storm",
+      "publisher": "VVD (via DNPP, Rijksuniversiteit Groningen)",
+      "url": "https://dnpprepo.ub.rug.nl/88735/1/VVD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s36",
+      "title": "GroenLinks-PvdA verkiezingsprogramma 2025-2029: Een nieuwe start voor Nederland",
+      "publisher": "GroenLinks-PvdA (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88754/7/GL-PvdA%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s37",
+      "title": "D66 verkiezingsprogramma 2025-2030: Het kan wél",
+      "publisher": "D66 (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s38",
+      "title": "BBB verkiezingsprogramma 2025: BBB levert",
+      "publisher": "BBB (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88739/7/BBB%20Verkiezingsprogramma%20TK2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s39",
+      "title": "PVV verkiezingsprogramma 2025: Dit is uw land!",
+      "publisher": "PVV (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88766/1/PVV%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s40",
+      "title": "FVD verkiezingsprogramma 2025: Een nieuwe kans voor Nederland",
+      "publisher": "FVD (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88769/1/FVD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s41",
+      "title": "JA21 verkiezingsprogramma 2025: De juiste aanpak voor Nederland",
+      "publisher": "JA21 (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88762/7/JA21%20Verkiezingsprogramma%20TK%202025%20definitief.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s42",
+      "title": "SP verkiezingsprogramma 2025: Super sociaal",
+      "publisher": "SP (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88738/7/SP-verkiezingsprogramma-TK2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s43",
+      "title": "SGP verkiezingsprogramma 2025-2029: Stem christelijk voor Nederland",
+      "publisher": "SGP (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88768/7/SGP%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s44",
+      "title": "Partij voor de Dieren verkiezingsprogramma 2025: Natuurlijk.",
+      "publisher": "PvdD (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88761/7/PvdD%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s45",
+      "title": "DENK verkiezingsprogramma 2025: Nu is het moment meer dan ooit!",
+      "publisher": "DENK (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88779/1/DENK%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s46",
+      "title": "ChristenUnie verkiezingsprogramma 2025: Opstaan voor het goede",
+      "publisher": "ChristenUnie (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88763/1/CU%20Verkiezingsprogramma%20TK%202025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s47",
+      "title": "CDA verkiezingsprogramma 2025: Bouwen op vertrouwen",
+      "publisher": "CDA (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88765/7/CDA%20Verkiezingsprogramma%20TK%202025%20Definitief.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s48",
+      "title": "50PLUS verkiezingsprogramma 2025-2029: Wij doen mee",
+      "publisher": "50PLUS (via DNPP)",
+      "url": "https://dnpprepo.ub.rug.nl/88767/7/50PLUS%20Verkiezingsprogramma%202025-2029.pdf",
+      "date": "2025"
+    }
+  ]
+}
