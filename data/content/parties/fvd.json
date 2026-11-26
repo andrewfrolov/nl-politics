@@ -66,8 +66,8 @@
     },
     {
       "date": "2025-08-30",
-      "event": "Baudet announced he would not be lead candidate in the 2025 election and would stand at number 2 on the list; Lidewij de Vos became lead candidate and, from 4 September 2025, chair of the House group. Baudet said in a press release that he was standing in the way of 'new growth' of the party 'because of polarised opinions about me'. He had been group leader since 2017.",
-      "source_ids": ["s4", "s7"]
+      "event": "Baudet announced he would not be lead candidate in the 2025 election and would stand at number 2 on the list; Lidewij de Vos became lead candidate and chair of the House group; she was sworn in as an MP on 4 September 2025. Baudet said in a press release that he was standing in the way of 'new growth' of the party 'because of polarised opinions about me'. He had been group leader since 2017.",
+      "source_ids": ["s4", "s10"]
     },
     {
       "date": "2025-10-29",
@@ -179,7 +179,7 @@
     }
   ],
   "key_people": [
-    {"name": "Lidewij de Vos", "role": "Political leader; lead candidate in 2025; chair of the House group since 4 September 2025, on pregnancy leave since the 2026 summer recess"},
+    {"name": "Lidewij de Vos", "role": "Political leader; lead candidate in 2025; chair of the House group since September 2025, on pregnancy leave since the 2026 summer recess"},
     {"name": "Ralf Dekker", "role": "Acting chair of the House group since the 2026 summer recess"},
     {"name": "Thierry Baudet", "role": "Co-founder and party chair; group leader 2017-2025; temporarily gave up his House seat in January 2026"},
     {"name": "Gideon van Meijeren", "role": "MP"},

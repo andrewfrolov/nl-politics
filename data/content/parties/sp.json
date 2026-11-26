@@ -1,0 +1,163 @@
+{
+  "abbr": "SP",
+  "slug": "sp",
+  "name_nl": "Socialistische Partij",
+  "name_en": "Socialist Party",
+  "founded": "1972",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 3,
+  "seats_house_2025_election": 3,
+  "seats_house_2023_election": 5,
+  "in_coalition": false,
+  "party_leader": "Jimmy Dijk",
+  "house_group_leader": "Jimmy Dijk",
+  "senate_group_leader": "Rik Janssen",
+  "website": "https://www.sp.nl/",
+  "described_as": [
+    {
+      "text": "The SP's 2025 manifesto says it is 'aimed at social choices for the working class' ('gericht op sociale keuzes vóór de werkende klasse'), which it defines as everyone who has to work for their income, needs a benefit to get by, or has worked all their life and now receives a state pension (AOW) and/or pension.",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "Parlement.com describes the SP as 'a socialist, eurosceptic party' with a strong local, action-oriented base, which wants 'a society in which human dignity, equality and solidarity come first'.",
+      "source_ids": ["s2"]
+    }
+  ],
+  "history": [
+    {
+      "date": "1972-10-22",
+      "event": "The Kommunistiese Partij Nederland/marxisties-leninisties (KPN/ml), which had emerged in 1971 from a Maoist split-off of the communist movement, adopted the name Socialistiese Partij (SP).",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "1974",
+      "event": "The SP won its first municipal council seats (two in Nijmegen, three in Oss). It took part in House elections from 1977 without winning a seat and worked as an 'action party' closely tied to local action groups.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "1994",
+      "event": "With the slogan 'Stem tegen, stem SP' (Vote against, vote SP) the party entered the House for the first time, with two seats, under Jan Marijnissen, who led the House group until 2008.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "1995",
+      "event": "The SP entered the Senate.",
+      "source_ids": ["s4"]
+    },
+    {
+      "date": "2012-2017",
+      "event": "Under Emile Roemer the SP won 15 House seats (9.6%) in 2012 and 14 (9.1%) in 2017. Lilian Marijnissen became group leader on 13 December 2017.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2021-2023",
+      "event": "The SP fell to 9 seats (6.0%) in 2021 and 5 seats (3.1%) in 2023. Marijnissen stepped down; Jimmy Dijk became group chair and political leader on 13 December 2023.",
+      "source_ids": ["s2", "s3"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "With Jimmy Dijk as lead candidate the SP won 3 House seats (1.8%), two fewer than in 2023.",
+      "source_ids": ["s2", "s3"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Super Sociaal",
+    "url": "https://cdn.sp.nl/2025/09/SP-verkiezingsprogramma-TK2025.pdf",
+    "key_points": [
+      {
+        "topic": "Wages and benefits",
+        "text": "Raise the statutory minimum wage immediately to 18 euros an hour, with a legal floor of 60 percent of the median wage of full-time workers; abolish the youth minimum wage; benefits linked to the minimum wage (such as WIA, Wajong, social assistance and AOW) rise with it.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Pensions",
+        "text": "Lower the state pension (AOW) age to 65, with a right to keep working after 65 by choice, and reverse the new pension law (which the manifesto calls the 'casino pension law') as far as possible.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Healthcare",
+        "text": "Abolish the eigen risico (the compulsory health insurance excess) and set up a National Care Fund (Nationaal ZorgFonds) that replaces commercial health insurers and also covers the dentist, physiotherapist and mental healthcare; make premiums income-dependent, which the manifesto says leaves 80 percent of the Netherlands better off.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Housing",
+        "text": "One million extra affordable rental homes through a National Housing Fund, by new construction, converting empty buildings and buying back expensive rental homes; freeze rents; automatic rent reduction for tenants in homes with a poor energy label (E, F or G) until the home is made more sustainable.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes and prices",
+        "text": "Lower income tax and lower VAT on basic products; maximum prices for basic products such as healthy food, medicines, energy and internet. Raise tax on income from capital to the level of income tax and introduce a 'millionaires' tax' on wealth above 5 million euros.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Public services",
+        "text": "Free public transport, and public rather than market provision of healthcare, housing, public transport, energy, education and postal delivery. Energy supply is nationalised: energy companies return to public or local hands and profits are no longer paid out to shareholders.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Migration",
+        "text": "Lower total net migration to around 40,000 a year. The manifesto calls labour migration 'a form of modern slavery' and wants work permits for labour migrants, pursued at EU level, with employers responsible for housing and health insurance costs, a licensing system for temp agencies and a ban on further large-scale housing sites. For refugees it wants good reception in the region and safe routes 'without slamming the door' on those who ask for help here.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence and NATO",
+        "text": "Against the NATO norm of 5% of GDP for defence spending, which the manifesto calls the 'Trump norm'. Work towards a European security architecture independent of the United States so that NATO can be dissolved; until then NATO should confine itself to defending members' own territory, with no operations without a UN mandate and no enlargement.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Climate and energy",
+        "text": "Collectively organised and financed measures such as solar panels on all suitable roofs and making homes sustainable; stop fossil subsidies; no nuclear energy, which the manifesto calls extremely expensive and slow, choosing solar and wind instead.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Agriculture and nitrogen",
+        "text": "Reduce nitrogen emissions substantially 'together with farmers', addressing what the manifesto calls excessive intensive livestock farming and helping farmers switch to sustainable agriculture.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Education",
+        "text": "A higher basic grant for every student, definitive abolition of the loan system with generous compensation for the generation that fell under it, and interest on student loans permanently at 0 percent.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Democracy and rights",
+        "text": "A binding corrective referendum at national, provincial and local level; social rights in the Constitution (housing, care, subsistence) made legally enforceable; a 'House of Law' in every municipality with free legal advice.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026",
+      "event": "The SP is in opposition to the Jetten cabinet with 3 House seats (Jimmy Dijk, Sandra Beckerman and Sarah Dobbe) and 3 Senate seats. Parlement.com lists Lieke van Rossum as party chair and gives the membership as 28,380 on 1 January 2026.",
+      "source_ids": ["s2", "s3", "s5", "s4"]
+    },
+    {
+      "date": "2026-10-27",
+      "event": "The SP reported that the House adopted an SP motion to scrap the planned 60-euro increase in the eigen risico (health insurance excess). SP MP Sarah Dobbe called the eigen risico 'an unjust fine on being ill'. The party said it continues to work for a National Care Fund without eigen risico.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The SP's news page in autumn 2026 carries, among other items, a plan to tackle child poverty, a plan for the WIA (disability benefit), a call by Jimmy Dijk for a 'real millionaires' tax', criticism that the cabinet's Tax Plan raises tax on work, and a call for the cabinet to do more to keep energy bills affordable.",
+      "source_ids": ["s7"]
+    }
+  ],
+  "key_people": [
+    {"name": "Jimmy Dijk", "role": "Political leader and chair of the House group since 13 December 2023"},
+    {"name": "Sandra Beckerman", "role": "MP"},
+    {"name": "Sarah Dobbe", "role": "MP"},
+    {"name": "Rik Janssen", "role": "Chair of the Senate group since 25 January 2022"},
+    {"name": "Lieke van Rossum", "role": "Party chair (per Parlement.com)"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Super Sociaal. Verkiezingsprogramma van de Socialistische Partij voor de Tweede Kamerverkiezingen van 29 oktober 2025", "publisher": "SP", "url": "https://cdn.sp.nl/2025/09/SP-verkiezingsprogramma-TK2025.pdf", "date": "2025-09"},
+    {"id": "s2", "title": "SP (Socialistische Partij)", "publisher": "Parlement.com", "url": "https://parlement.com/partij/sp-socialistische-partij", "date": null},
+    {"id": "s3", "title": "Tweede Kamerfractie Socialistische Partij", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-socialistische-partij", "date": null},
+    {"id": "s4", "title": "SP-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/socialistische_partij", "date": null},
+    {"id": "s5", "title": "Socialistische Partij", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/sp", "date": null},
+    {"id": "s6", "title": "SP-succes: Verhoging eigen risico gaat niet door", "publisher": "SP", "url": "https://www.sp.nl/nieuws/sp-succes-verhoging-eigen-risico-gaat-niet-door", "date": "2026-10-27"},
+    {"id": "s7", "title": "Nieuws", "publisher": "SP", "url": "https://www.sp.nl/nieuws", "date": "2026-11-25"}
+  ]
+}

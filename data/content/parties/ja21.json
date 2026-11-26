@@ -1,8 +1,8 @@
 {
   "abbr": "JA21",
   "slug": "ja21",
-  "name_nl": "JA21 (Juiste Antwoord 2021)",
-  "name_en": "JA21 (Right Answer 2021)",
+  "name_nl": "JA21",
+  "name_en": "JA21 (the name refers to 'het Juiste Antwoord', the Right Answer)",
   "founded": "2020",
   "updated": "2026-11-25",
   "seats_house": 9,
@@ -165,7 +165,7 @@
     {
       "date": "2026-11-25",
       "event": "Senate seats: the Senate website lists a JA21 group of 2 members (Karin van Bijsterveld, group chair since 6 November 2025, and R. Baumgarten). JA21 won 3 Senate seats in 2023. Senator Toine Beukering, a former member of the Fractie-Nanninga that became JA21, has formed the one-member Fractie-Beukering since 18 November 2025. Parlement.com's party profile still gives JA21 3 Senate seats.",
-      "source_ids": ["s4", "s5", "s10", "s11", "s2"]
+      "source_ids": ["s4", "s5", "s10", "s11", "s2", "s12"]
     }
   ],
   "key_people": [

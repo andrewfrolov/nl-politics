@@ -1,0 +1,1224 @@
+{
+  "id": "nitrogen",
+  "title": "Nitrogen (stikstof): farming, nature and stalled permits",
+  "tagline": "Why nitrogen pollution blocks building permits, and what the cabinet's 20 billion euro plan asks of farmers",
+  "updated": "2026-11-25",
+  "summary": "Ammonia from livestock farming and nitrogen oxides from traffic and industry settle on protected Natura 2000 nature areas, which the Netherlands must keep from deteriorating under EU directives. Since a 2019 Council of State ruling struck down the permit system then in use, permits for housing, roads, industry and farms have been hard to obtain; this is known as the 'stikstofslot' (nitrogen lock). On 3 November 2026 the minority cabinet of D66, VVD and CDA sent a bill to the House of Representatives that replaces the legal deposition targets with emission targets per sector for 2035, together with a draft programme of measures backed by 20 billion euros through 2035. The State's appeal against a January 2025 court order to meet the 2030 target was still pending according to the latest government letter found (13 July 2026).",
+  "key_facts": [
+    {
+      "label": "Natura 2000 areas",
+      "value": "162 areas in the Netherlands (as stated by the Hague district court, January 2025)",
+      "note": "Designated under the EU Birds and Habitats Directives, which oblige member states to maintain the areas and prevent deterioration.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "label": "Where the deposition comes from",
+      "value": "In 2022 two thirds of nitrogen deposited on Natura 2000 areas came from Dutch sources; of that, 76% agriculture, 16% mobility, 5% households, services and construction, 3% industry",
+      "note": "Figures given by the Hague district court, based on a figure in its judgment of 22 January 2025.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "label": "Targets in current law",
+      "value": "40% (2025), 50% (2030) and 74% (2035) of nitrogen-sensitive Natura 2000 nature below the critical deposition value",
+      "note": "The court found the 2025 target was not met. According to the Court of Audit, RIVM expects 33-39% in 2035.",
+      "source_ids": [
+        "s7",
+        "s12"
+      ]
+    },
+    {
+      "label": "Court order",
+      "value": "50% of nitrogen-sensitive nature below the critical value by 31 December 2030, or a 10 million euro penalty (judgment of 22 January 2025)",
+      "note": "The State appealed; the judgment has to be carried out pending appeal.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s11"
+      ]
+    },
+    {
+      "label": "New emission targets (bill of 3 November 2026)",
+      "value": "By 2035 versus 2019: agriculture 45.4-49.7 kilotonnes less ammonia (42-46%), industry 50% less ammonia, mobility 50% less nitrogen oxides",
+      "note": "Agriculture also gets a non-binding 2030 target value of 24.8-27.0 kilotonnes (23-25%).",
+      "source_ids": [
+        "s5",
+        "s1"
+      ]
+    },
+    {
+      "label": "Budget",
+      "value": "20 billion euros through 2035, including more than 9 billion for zones around vulnerable nature",
+      "note": "A fund for nitrogen, agriculture and nature is set up in 2027. Total LVVN (agriculture ministry) budget for 2027: 4.3 billion euros.",
+      "source_ids": [
+        "s1",
+        "s31",
+        "s30"
+      ]
+    },
+    {
+      "label": "Homes at risk",
+      "value": "244,000 of 631,000 homes planned up to 2030 might not get permits (Bouwend Nederland estimate, March 2025)",
+      "note": "Estimate by the construction industry association, not an official figure.",
+      "source_ids": [
+        "s18"
+      ]
+    },
+    {
+      "label": "Farm buy-out schemes",
+      "value": "1,329 livestock farmers (3% of all) took part in five buy-out schemes from 2019 to March 2026; 2.6 billion euros spent of a 4.2 billion euro budget",
+      "note": "Court of Audit: 38% of the budget (1.6 billion euros) was not used.",
+      "source_ids": [
+        "s12"
+      ]
+    },
+    {
+      "label": "Lbv and Lbv-plus applications",
+      "value": "1,576 applications as of 12 November 2026 (666 Lbv, 910 Lbv-plus)",
+      "note": "RVO notes that applicants can still decide not to take part.",
+      "source_ids": [
+        "s13"
+      ]
+    },
+    {
+      "label": "Manure production",
+      "value": "440 million kg nitrogen in animal manure in 2025 (provisional), equal to the national ceiling; phosphate 142 million kg, above the 135 million kg ceiling",
+      "note": "CBS. Nitrogen excretion by livestock fell 14% since 2017.",
+      "source_ids": [
+        "s16"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "What nitrogen deposition is",
+      "text": "Nitrogen gas itself is harmless and makes up most of the air. The issue concerns reactive nitrogen compounds: ammonia, released mainly from animal manure and fertiliser in agriculture, and nitrogen oxides, released by combustion in traffic and industry. These spread through the air and settle on soil and plants; this is called deposition. According to the Hague district court, deposition acidifies and over-fertilises the soil, so plant species disappear and nature becomes less diverse. For each habitat type a critical deposition value (kritische depositiewaarde, KDW) is set, the limit above which there is a risk of damage. RIVM states that deposition in the Netherlands is high compared with other European countries.",
+      "source_ids": [
+        "s7",
+        "s14"
+      ]
+    },
+    {
+      "heading": "The legal obligation",
+      "text": "The Netherlands has 162 Natura 2000 areas designated under the EU Birds and Habitats Directives. These directives oblige member states to maintain the nature in those areas and to prevent deterioration. Permits for activities that add nitrogen deposition to an overloaded area can only be granted if it is shown that nature is not harmed. The Hague district court ruled in January 2025 that the State acts unlawfully by not stopping the deterioration of nitrogen-sensitive nature in time.",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "heading": "The 'nitrogen lock' on permits",
+      "text": "The House of Representatives describes the stikstofslot (nitrogen lock) as the situation in which many projects in construction, infrastructure and agriculture are delayed or cancelled because permits are often refused as long as it is not clear that projects do not put extra pressure on nature. The cabinet's June 2026 letter lists the areas it says are held up: farmers without a valid permit (the so-called PAS-melders), making farms more sustainable, infrastructure, the energy transition, housing, dike reinforcement and defence. In March 2025 NOS reported that the provinces of Drenthe, Gelderland, Overijssel and Noord-Brabant had closed their desks for new permits. VVD MP Den Hollander said in the House on 1 July 2026 that the economic damage is half a billion euros a year and could rise to more than 3 billion a year; the source of that figure was not found in the documents consulted.",
+      "source_ids": [
+        "s28",
+        "s4",
+        "s18",
+        "s27"
+      ]
+    },
+    {
+      "heading": "Nature and farmers both in uncertainty",
+      "text": "The Court of Audit wrote in 2026, citing PBL, WUR and RIVM (March 2026), that on most vulnerable Natura 2000 areas more nitrogen still settles than nature can bear. It also cites an estimate by SEO and CE Delft (2025) of 12 to 15 billion euros in yearly damage to nature, environment and public health. At the same time the coalition agreement states that the nitrogen problem keeps the agricultural sector in great uncertainty, and PBL concluded that the adjustments now asked of farmers are not financially feasible for all farms.",
+      "source_ids": [
+        "s12",
+        "s3",
+        "s6"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Intensive farming in a small country",
+      "text": "NOS, using RIVM and CBS data, describes how emissions of ammonia and nitrogen oxides grew strongly in the 1950s and 1960s as livestock farming intensified, fertiliser use rose and industry and traffic grew. Emissions have fallen since 1990: nitrogen oxides by almost three quarters in thirty years. Ammonia fell too, but the decline stalled between 2013 and 2017 when the dairy herd grew after the EU milk quota was abolished. RIVM states that most nitrogen deposition comes from ammonia emitted by agriculture and that about a third comes from abroad; CBS adds that the Netherlands deposits four times as much nitrogen abroad as it receives.",
+      "source_ids": [
+        "s23",
+        "s14",
+        "s15"
+      ]
+    },
+    {
+      "heading": "The PAS permit system was struck down in 2019",
+      "text": "From 2015 to 2019 the State used the Programma Aanpak Stikstof (PAS, Nitrogen Action Programme), which granted permission for activities in anticipation of future benefits from reduction and restoration measures. The Council of State declared this approach non-binding in 2019 because it offered insufficient guarantees for conservation and restoration of nature in Natura 2000 areas. In August 2019 NOS reported that building projects worth 14 billion euros were uncertain because of the ruling. Farmers who under the PAS only had to file a notification instead of obtaining a permit (PAS-melders) have been without a valid permit since.",
+      "source_ids": [
+        "s7",
+        "s36",
+        "s4"
+      ]
+    },
+    {
+      "heading": "Internal netting restricted in December 2024",
+      "text": "On 18 December 2024 the Council of State ruled on 'intern salderen' (internal netting), the practice of offsetting the nitrogen effects of a new project against those of an older permitted activity on the same site. NOS summarised the effect as the Council of State putting an end to this route; Bouwend Nederland cited it as one reason why permits for planned homes might not be issued.",
+      "source_ids": [
+        "s18",
+        "s32"
+      ]
+    },
+    {
+      "heading": "Policies reversed between cabinets",
+      "text": "The Rutte IV cabinet had set aside more than 24 billion euros to reach the targets. The Schoof cabinet (PVV, VVD, NSC, BBB; 2024-2025) cut that to 5 billion euros for agriculture and ended the National Programme for Rural Areas (NPLG) under which provinces were drawing up plans. The Hague district court called this a step back. The Court of Audit found in 2026 that livestock farmers withdrawing after signing up left 38% of the buy-out budget unused, and that cattle farmers, responsible for 57% of livestock barn emissions, took part least (2% of cattle farmers versus 8% of pig farmers).",
+      "source_ids": [
+        "s8",
+        "s22",
+        "s12"
+      ]
+    },
+    {
+      "heading": "Loss of the manure derogation",
+      "text": "Until the end of 2025 Dutch farmers with a derogation permit could spread more animal manure than the EU standard of 170 kg nitrogen per hectare per year. The last derogation decision ran through 2025; from 2026 the 170 kg standard applies on all farmland. Greenpeace states that the Schoof cabinet tried in vain to obtain a new derogation from Brussels. National manure production ceilings were tightened in 2025 to 440 million kg nitrogen and 135 million kg phosphate.",
+      "source_ids": [
+        "s17",
+        "s9",
+        "s16"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "The Council of State declares the PAS permit programme non-binding; permits based on it can no longer be granted (ruling of late May 2019, as dated by NOS).",
+      "source_ids": [
+        "s7",
+        "s36"
+      ]
+    },
+    {
+      "date": "2019-10-01",
+      "event": "First large farmers' protest: thousands of farmers drive tractors to The Hague, with more than a thousand kilometres of traffic jams (as described by Wikipedia, citing Dutch media). Further protests follow in 2020, 2022 and later.",
+      "source_ids": [
+        "s37"
+      ]
+    },
+    {
+      "date": "2023-03",
+      "event": "BBB (BoerBurgerBeweging, Farmer-Citizen Movement) wins the provincial elections; the CDA is almost halved. The Rutte IV cabinet slows its nitrogen policy while provincial coalitions are formed.",
+      "source_ids": [
+        "s24"
+      ]
+    },
+    {
+      "date": "2024-09",
+      "event": "The Schoof cabinet, with BBB minister Femke Wiersma at Agriculture, stops the National Programme for Rural Areas; the remaining budget of more than 20 billion euros is replaced by 5 billion euros for agriculture plus 500 million a year for farmers taking nature measures.",
+      "source_ids": [
+        "s22"
+      ]
+    },
+    {
+      "date": "2024-12-18",
+      "event": "Council of State rulings on internal netting (intern salderen) restrict a route widely used to get projects permitted.",
+      "source_ids": [
+        "s32",
+        "s18"
+      ]
+    },
+    {
+      "date": "2025-01-22",
+      "event": "The Hague district court, in a case brought by Greenpeace, orders the State to bring 50% of nitrogen-sensitive nature below the critical deposition value by the end of 2030, giving priority to the most vulnerable nature, on pain of a 10 million euro penalty. Prime Minister Schoof then sets up a ministerial committee on Economy and Nature Restoration.",
+      "source_ids": [
+        "s7",
+        "s8",
+        "s19"
+      ]
+    },
+    {
+      "date": "2025-04-25",
+      "event": "The Schoof cabinet presents a 'start package': 2.2 billion euros, starting around the Veluwe and the Peel, a planned higher calculation threshold, and emission targets for 2035 of 42-46% for farmers and 50% for industry, construction and mobility.",
+      "source_ids": [
+        "s20",
+        "s41"
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "event": "The Council of State advises against submitting, in its then form, minister Wiersma's bill to remove the three nitrogen targets from the law; it finds the replacement goal ('considerably less' emission in 2035) too vague.",
+      "source_ids": [
+        "s21"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement with a chapter on agriculture, nature and nitrogen: sector emission targets in law, zones around Natura 2000 areas and a restored nitrogen fund.",
+      "source_ids": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "event": "Minister Jaimi van Essen (D66) presents the package 'Weer ruimte voor boer, natuur en bouw': 20 billion euros, farm-level emission norms, a land-tie norm of 2.6 livestock units per hectare, and zones of 500 or 1,000 metres around about 100 nature areas.",
+      "source_ids": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "event": "House debate on the package, with farmers in the public gallery and tractors outside. PRO pledges support on condition that the plan is not weakened, which with the coalition's 66 seats gives 86 of 150 seats; JA21 ends the debate saying it will not support the plans as they stand.",
+      "source_ids": [
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "event": "The cabinet sends the bill with sector emission targets to the House and adopts the draft Programme Agriculture, Nature and Nitrogen. It brings the planned calculation threshold forward to 1 July 2027, subject to conditions.",
+      "source_ids": [
+        "s1",
+        "s5"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "Law in force: deposition targets and the court order",
+      "text": "The law still contains deposition targets: 40%, 50% and 74% of nitrogen-sensitive Natura 2000 nature below the critical deposition value in 2025, 2030 and 2035. The January 2025 judgment orders the State to meet the 2030 target and must be carried out pending appeal. The State appealed; Greenpeace in turn asked the Court of Appeal in The Hague to raise the 2030 requirement to at least 74%. In a letter of 13 July 2026 the minister wrote that the appeal was still pending and that the cabinet's package gives 'maximum' effect to the judgment, taking into account feasibility, due care and what society can bear. No appeal judgment was found for this file.",
+      "source_ids": [
+        "s7",
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "heading": "Bill of 3 November 2026: emission targets instead of deposition targets",
+      "text": "The bill replaces the targets based on the critical deposition value with emission targets for agriculture, industry and mobility, to be met in 2035. The cabinet argues that the critical deposition value in the law is 'a moving target'. For agriculture the target is fixed in kilotonnes: 45.4-49.7 kilotonnes less ammonia than in 2019 (42-46%), with a 2030 target value of 24.8-27.0 kilotonnes. Industry must cut ammonia by 50% and mobility nitrogen oxides by 50%. A first measurement follows in early 2028; the cabinet says it will intervene if the country is then off course. The coalition agreement names cutting animal or phosphate rights (tradable production rights for livestock) as the 'ultimate remedy' if the 2035 target is missed. The bill has to pass both chambers; the coalition has no majority in either.",
+      "source_ids": [
+        "s1",
+        "s5",
+        "s3",
+        "s25"
+      ]
+    },
+    {
+      "heading": "Measures for farms and zones around nature",
+      "text": "Dairy farms get an emission norm of 0.164 kg ammonia per phosphate right in 2035; norms for poultry, pigs and calves are due in early 2027. A land-tie norm (grondgebondenheidsnorm) of 2.6 livestock units per hectare is planned for dairy farming; the cabinet said on 3 November 2026 it would hold three months of talks with farm organisations before putting a bill out for consultation. Around roughly 100 nitrogen-sensitive areas extra zones are planned: 1,000 metres for about 15 areas and 500 metres for the rest. Provinces have until September 2028 to make their own zone plans; otherwise national rules apply, including a limit of 1.5 livestock units per hectare at area level and 170 kg nitrogen per hectare per year. Which areas get zones is to be settled in January 2027. Production rights are skimmed when a farm is sold outside the family. Buy-outs remain voluntary, with several new rounds announced.",
+      "source_ids": [
+        "s2",
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Money: 20 billion euros and the 2027 budget",
+      "text": "The cabinet makes 20 billion euros available through 2035 and sets up a fund for nitrogen, agriculture and nature in 2027. The June 2026 letter allocates, among other items, 9 billion euros to the area-based approach and zones, 2.75 billion to voluntary closure schemes, 2.2 billion to nature restoration and 350 million to PAS-melders; 2 billion is available for adapting barns and feed. The 2027 LVVN budget (4.3 billion euros in total) includes 231 million euros to help farmers adapt their operations and almost 500 million extra for nature management by farmers. Industry and mobility get 250 million euros for nitrogen measures.",
+      "source_ids": [
+        "s31",
+        "s4",
+        "s2",
+        "s30"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Emission targets in the Omgevingswet",
+      "description": "Replace the deposition targets (share of nature below the critical deposition value) with emission-reduction targets per sector for 2035 and a 2030 target value for agriculture, backed by a mandatory programme of measures.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Bill sent to the House of Representatives on 3 November 2026; not yet debated as far as could be found",
+      "source_ids": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "title": "Calculation threshold (rekenkundige ondergrens)",
+      "description": "Projects whose calculated nitrogen deposition falls below a threshold would no longer need a nature permit; responsibility for those small contributions shifts from the applicant to the government. The cabinet names housing, energy and infrastructure projects and many PAS-melders as beneficiaries.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Planned for 1 July 2027 (brought forward from the fourth quarter of 2027), on condition that the targets, the measures package, the zone rules and extra 'control measures' are formally adopted",
+      "source_ids": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "title": "Zones around about 100 Natura 2000 areas",
+      "description": "Zones of 500 metres (1,000 metres for about 15 areas) where farming has to become more extensive, with support schemes for extensification, relocation, conversion to organic and voluntary closure; more than 9 billion euros reserved.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In draft programme of 3 November 2026; areas to be fixed in January 2027; provincial plans due by September 2028",
+      "source_ids": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "title": "Land-tie norm of 2.6 livestock units per hectare",
+      "description": "A maximum livestock density for dairy farms by 2035, with room for cooperation agreements with arable farmers. BBB, SGP and JA21 demanded in the July 2026 debate that it be dropped or relaxed.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Announced 26 June 2026; talks with farm organisations until about February 2027, then a bill for consultation",
+      "source_ids": [
+        "s2",
+        "s1",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "title": "Cut production rights if 2035 target is missed",
+      "description": "If the 2035 nitrogen target is not met, animal or phosphate rights of farms are cut as the 'ultimate remedy'. PBL calculated that with the measures as specified so far, a generic cut of 5-10% of production rights would be needed.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In coalition agreement of January 2026 and cabinet package of June 2026",
+      "source_ids": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "title": "Raise the 2030 requirement to 74% of nature",
+      "description": "Greenpeace asks the Court of Appeal to order that at least 74% of nitrogen-sensitive nature is below the critical deposition value in 2030, with priority for the most urgent nature; it relies on a feasibility study it commissioned from Ecorys.",
+      "proposed_by": [
+        "Greenpeace Nederland"
+      ],
+      "status": "Claim filed in the appeal; appeal pending as of 13 July 2026",
+      "source_ids": [
+        "s9",
+        "s11"
+      ]
+    },
+    {
+      "title": "Halve all nitrogen emissions in ten years",
+      "description": "Halve emissions of nitrogen oxides (mobility, industry) and ammonia (agriculture) within ten years compared with 2019, with all sectors contributing proportionally, steering on emissions rather than deposition calculations.",
+      "proposed_by": [
+        "ChristenUnie"
+      ],
+      "status": "Party position published on party website",
+      "source_ids": [
+        "s34"
+      ]
+    },
+    {
+      "title": "Statutory programme without targets in law",
+      "description": "No targets in the law but a statutory programme for a secured fall in emissions: tackling peak-load industrial emitters, helping farms with outdated barns and no successor to stop, and counting aviation emissions above 900 metres.",
+      "proposed_by": [
+        "SGP"
+      ],
+      "status": "Party position published on party website",
+      "source_ids": [
+        "s35"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "There is no nitrogen problem in the Netherlands, only a problem with the nitrogen law.",
+      "claimed_by": "BBB (Van der Plas), PVV (Jansen) and FVD (De Vos) in the House debate of 1 July 2026",
+      "what_data_show": "RIVM states that deposition in the Netherlands is high compared with other European countries and monitors where it exceeds critical deposition values. The Hague district court held in January 2025 that the State acts unlawfully by not stopping deterioration of nitrogen-sensitive nature. The Court of Audit, citing PBL, WUR and RIVM (March 2026), writes that on most vulnerable Natura 2000 areas more nitrogen settles than nature can bear. PVV MP Jansen pointed to the halving of emissions since 1990; NOS, using official data, also reports a strong fall since 1990.",
+      "source_ids": [
+        "s27",
+        "s28",
+        "s14",
+        "s7",
+        "s12",
+        "s23"
+      ]
+    },
+    {
+      "claim": "More than 80% of the Natura 2000 area is in good to excellent condition, and the state of the rest has nothing to do with nitrogen.",
+      "claimed_by": "FVD MP De Vos, citing government 'gebiedsinformatieformulieren' (area information forms), 1 July 2026",
+      "what_data_show": "Greenpeace states that almost 90% of the protected habitat types are in moderate to poor condition. The two statements use different measures (area versus habitat types). The district court relied on ecological studies commissioned since 2021 and on an 'urgent list' of habitat types that need a fast reduction in deposition. The underlying datasets were not consulted for this file.",
+      "source_ids": [
+        "s27",
+        "s9",
+        "s7"
+      ]
+    },
+    {
+      "claim": "The cabinet's package amounts to halving the livestock herd and is a death sentence for thousands of farms (PVV: 3,500 to 6,500 farms in the zones).",
+      "claimed_by": "BBB (Van der Plas) and PVV (Jansen), 1 July 2026",
+      "what_data_show": "PBL concluded on 4 September 2026 that the livestock herd will keep shrinking, that the investments needed are not financially feasible for all farms, and that about 180,000 hectares (roughly 10% of farmland) would have to be rearranged; it gives no figure for a halving. The cabinet says farming remains possible in the zones, 'but differently'. No official count of affected farms was found in the documents consulted.",
+      "source_ids": [
+        "s27",
+        "s25",
+        "s6",
+        "s1"
+      ]
+    },
+    {
+      "claim": "The 2030 target ordered by the court cannot be carried out in the time left.",
+      "claimed_by": "The State (Schoof and Jetten cabinets) in the appeal, as described by Greenpeace",
+      "what_data_show": "Greenpeace cites a study it commissioned from Ecorys concluding that the judgment, and a higher target of 74% in 2030, is feasible with area-based and partly compulsory measures. The minister declined to respond to the report because of the pending appeal. According to the Court of Audit, RIVM expects 33-39% of areas to be below the critical value in 2035 under policy as assessed in 2025.",
+      "source_ids": [
+        "s9",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "claim": "With this package permits can be granted again and the Netherlands comes off the nitrogen lock.",
+      "claimed_by": "The cabinet (minister Van Essen)",
+      "what_data_show": "PBL concluded that nitrogen will remain a relevant factor for permits: in 2035 more than half of the nitrogen-sensitive Natura 2000 area is still expected to exceed critical deposition values, and permitting can only be eased area by area where authorities show that other measures prevent deterioration. PBL also states that the proposed agricultural emission target can come within reach, provided far-reaching policy reforms succeed.",
+      "source_ids": [
+        "s1",
+        "s6"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "Governing party that supplies the Agriculture minister, Jaimi van Essen, who presented the June 2026 package and the November 2026 bill. In the debate MP Podt said D66 has long wanted a form of land-tie norm and that standing still is no longer affordable.",
+      "salience": "high",
+      "salience_basis": "Supplies the responsible minister; nitrogen has its own chapter in the coalition agreement; 63 speaking turns by its spokesperson in the 1 July 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "This package is an important start, but it is a first station, not a final destination",
+          "text_nl": "Dit pakket is een belangrijke start, maar het is een beginstation, geen eindbestemming",
+          "speaker": "Anne-Marijke Podt (D66)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "Governing party. Supports the package, which MP Den Hollander judged by whether it gets the Netherlands off the 'permit lock' for housing, infrastructure, defence and business; she pointed to the shift from deposition to emission targets and the calculation threshold as VVD priorities and acknowledged the package is painful on some points.",
+      "salience": "high",
+      "salience_basis": "Co-author of the coalition agreement chapter; 63 speaking turns in the 1 July 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "The Netherlands is locked. For every new home that is built, for every road we lay and for every business that wants to expand or innovate, it must be shown that on balance no nitrogen is added.",
+          "text_nl": "Nederland zit op slot. Voor elke nieuwe woning die gebouwd wordt, voor elke weg die we aanleggen en voor elk bedrijf dat wil uitbreiden of innoveren, moet worden aangetoond dat er netto geen stikstof bij komt.",
+          "speaker": "Den Hollander (VVD)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "Opposition party whose 20 seats give the minority coalition a House majority on this file. Party leader Klaver and MP Bromet said PRO supports the package only if it is not weakened and if assessments show nature restoration is sufficiently secured; PRO supports the zones around Natura 2000 areas. Bromet also said farmers near nature who already reduced livestock should not get new targets imposed again.",
+      "salience": "high",
+      "salience_basis": "Pivotal support announced by the party leader; 101 speaking turns in the 1 July 2026 debate, second highest; spokesperson states she has held the nitrogen portfolio for over seven years.",
+      "quotes": [
+        {
+          "text_en": "For PRO this package is the absolute minimum, but we want to give it a chance, on two conditions: if the plans are weakened further, the cabinet loses the support of PRO",
+          "text_nl": "Voor PRO is dit pakket het absolute minimum, maar we willen het wel een kans geven, onder twee voorwaarden: als de plannen verder worden afgezwakt, verliest het kabinet de steun van PRO",
+          "speaker": "Laura Bromet (PRO)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s25",
+        "s26"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "Opposes the package. MP Jansen said there is no reason to tackle farmers because nitrogen emissions have halved since 1990, called the 2.6 livestock units norm and the buffer zones unacceptable, and according to the House summary holds that there is no nitrogen problem in the Netherlands.",
+      "salience": "medium",
+      "salience_basis": "Took part in the 1 July 2026 debate with 20 speaking turns; party manifesto not consulted for this file.",
+      "quotes": [
+        {
+          "text_en": "As far as the PVV is concerned it is quite simple: stop this nonsense and just let the farmers farm.",
+          "text_nl": "Wat de PVV betreft is het vrij simpel: kappen met die onzin en laat de boeren gewoon boeren.",
+          "speaker": "Chris Jansen (PVV)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "Governing party. MP Koorevaar listed five points the CDA pushed for: moving from deposition to emission policy with the critical deposition value out of the law, area plans as the starting point for zones, the farmer's craftsmanship central, investment in green gas and faster permits, and support for young farmers. In the debate he asked whether parts could be done differently, to which PRO responded with a warning.",
+      "salience": "high",
+      "salience_basis": "Co-author of the coalition agreement chapter; 69 speaking turns in the 1 July 2026 debate; in 2023 the party's stance on the 2030 date strained the then coalition (NOS).",
+      "quotes": [
+        {
+          "text_en": "We are moving from deposition policy to emission policy and the KDW goes out of the law.",
+          "text_nl": "We gaan van depositie- naar emissiebeleid en de KDW gaat uit de wet.",
+          "speaker": "Koorevaar (CDA)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s26",
+        "s24"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "Opposition. MP Goudzwaard said JA21 was critical but willing to cooperate if the 1-kilometre zones and the 2.6 livestock units norm were relaxed; after the minister declined, he said JA21 could not support the plans and would judge each bill separately.",
+      "salience": "medium",
+      "salience_basis": "37 speaking turns in the 1 July 2026 debate; conditional offer of support withdrawn the same night (NOS).",
+      "quotes": [
+        {
+          "text_en": "So we hold out our hand, not out of enthusiasm for this package, but because standing still is more harmful.",
+          "text_nl": "Wij steken dus onze hand uit, niet uit enthousiasme voor dit pakket, maar omdat stilstand schadelijker is.",
+          "speaker": "Goudzwaard (JA21)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s26",
+        "s28"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "Opposes the package. MP Heutink said the cabinet is prepared to demolish the farming sector and pledged that 'our farmers stay'; NOS lists the group among parties the minister cannot count on.",
+      "salience": "medium",
+      "salience_basis": "49 speaking turns in the 1 July 2026 debate; no separate policy document found.",
+      "quotes": [
+        {
+          "text_en": "Our farmers stay. They are going nowhere at all.",
+          "text_nl": "Onze boeren blijven. Ze gaan helemaal nergens naartoe.",
+          "speaker": "Heutink (Groep Markuszower)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s26"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "Opposes the package and disputes that nature is deteriorating because of nitrogen. MP De Vos called the measures disastrous for the agricultural sector and for anyone who wants to build, and described the critical deposition value as circular reasoning.",
+      "salience": "medium",
+      "salience_basis": "33 speaking turns in the 1 July 2026 debate; party manifesto not consulted for this file.",
+      "quotes": [
+        {
+          "text_en": "The Dutch nitrogen problem is sitting here in front of me on the blue seats and to my left in the government box.",
+          "text_nl": "Het Nederlandse stikstofprobleem zit hier voor mij op de blauwe stoelen en links van mij in vak K.",
+          "speaker": "De Vos (FVD)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "Opposition. Wants to halve nitrogen emissions in ten years compared with 2019 across all sectors and to steer on emissions instead of deposition calculations. In the debate MP Grinwis (also speaking for 50PLUS) called the package a 'conceptual mess', asked for fewer generic and more area-based measures and wants the low-emission zones relaxed; he called writing the critical deposition value into law a mistake.",
+      "salience": "high",
+      "salience_basis": "Dedicated nitrogen page with concrete targets on party website; 66 speaking turns in the 1 July 2026 debate; filed a motion in that debate.",
+      "quotes": [
+        {
+          "text_en": "After seven lean years the Netherlands must come off the permit lock. Farmers want to be able to farm again, builders want to be able to build again, and the spade must go into the ground to get the Netherlands moving again.",
+          "text_nl": "Nederland moet na zeven magere jaren van het vergunningenslot. Boeren willen weer kunnen boeren, bouwers willen weer kunnen bouwen en de schop moet de grond in om Nederland weer in beweging te krijgen.",
+          "speaker": "Pieter Grinwis (ChristenUnie)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s34",
+        "s27",
+        "s28",
+        "s26"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "Opposition. MP Beckerman said the SP can support elements such as extra investment in nature and an approach that also addresses industry and transport, but misses a vision for agriculture and objected that some measures hit farmers who already work extensively. NOS named the SP as a possible source of the Senate seats the coalition still needs.",
+      "salience": "medium",
+      "salience_basis": "25 speaking turns in the 1 July 2026 debate; party manifesto not consulted for this file.",
+      "quotes": [
+        {
+          "text_en": "Our main point of criticism is that a real vision for agriculture seems to be missing in the documents sent.",
+          "text_nl": "Ons belangrijkste kritiekpunt is dat een echte visie op landbouw lijkt te ontbreken in de gestuurde stukken.",
+          "speaker": "Sandra Beckerman (SP)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28",
+        "s25"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "Opposition. Party leader Ouwehand saw 'a few steps in the right direction' (recognition of the problem, more money for nature restoration) but questioned whether it is enough and said the agricultural system itself is not sustainable.",
+      "salience": "high",
+      "salience_basis": "Party leader personally acted as spokesperson in the 1 July 2026 debate (29 speaking turns); the party is named by NOS as a possible supplier of Senate votes.",
+      "quotes": [
+        {
+          "text_en": "Nitrogen is the symptom of an agricultural model in which the Netherlands, nature and farmers have long been entitled to expect politics to take steps to steer the other way, towards a future that is sustainable.",
+          "text_nl": "Stikstof is het symptoom van een landbouwmodel waarin Nederland, de natuur en de boeren al heel lang van de politiek mogen verwachten dat we stappen zetten om de andere kant op te sturen, naar een toekomst die wél houdbaar is.",
+          "speaker": "Esther Ouwehand (PvdD)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28",
+        "s25"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "Opposition. Does not want (in its words unattainable) targets in the law but a statutory programme for secured emission reduction, and wants the calculation threshold raised in a controlled way. In the debate MP Flach rejected the land-tie norm, called 1-kilometre zones far too wide, opposed emission norms per phosphate right, and offered to draft changes with BBB as an alternative majority to PRO.",
+      "salience": "high",
+      "salience_basis": "Dedicated nitrogen page on party website; 72 speaking turns in the 1 July 2026 debate.",
+      "quotes": [
+        {
+          "text_en": "Then I come to something I am really fed up with: the land-tie norm. It is unacceptable. I will keep it simple: get rid of it.",
+          "text_nl": "Dan kom ik bij iets waar ik echt van baal: de grondgebondenheidsnorm. Die is onacceptabel. Ik hou het eenvoudig: weg ermee.",
+          "speaker": "André Flach (SGP)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s35",
+        "s27",
+        "s25"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "Opposes the package. Party leader Van der Plas called the zones and the 2.6 livestock units norm a 'death sentence' for farms and demanded that both be removed. BBB minister Wiersma ran the nitrogen file in the Schoof cabinet (2024-2026), stressing voluntary measures and innovation, and proposed removing the nitrogen targets from the law, which NOS called a BBB spearhead in the elections. BBB has 3 House seats and, according to NOS, eleven Senate seats.",
+      "salience": "core",
+      "salience_basis": "Won the March 2023 provincial elections, after which NOS wrote the party plays an important role in the nitrogen file; held the Agriculture ministry in the Schoof cabinet; 111 speaking turns in the 1 July 2026 debate, the highest of any group.",
+      "quotes": [
+        {
+          "text_en": "There is no nitrogen problem. There is a nitrogen law problem.",
+          "text_nl": "Er is geen stikstofprobleem. Er is een stikstofwetprobleem.",
+          "speaker": "Caroline van der Plas (BBB)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s25",
+        "s21",
+        "s24",
+        "s20"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "Opposition. MP Ergin called the package a beginning but not a guarantee, asked how much legal certainty it offers, and how to prevent a hard intervention being needed in a few years anyway.",
+      "salience": "low",
+      "salience_basis": "11 speaking turns in the 1 July 2026 debate, the fewest of the participating groups; party programme not consulted for this file.",
+      "quotes": [
+        {
+          "text_en": "As far as DENK is concerned, the government's package of measures is a beginning, but not yet a guarantee that the Netherlands will actually come off the nitrogen lock.",
+          "text_nl": "Het maatregelenpakket van de regering is wat DENK betreft een begin, maar nog geen garantie dat Nederland daadwerkelijk van het stikstofslot af komt.",
+          "speaker": "Doğukan Ergin (DENK)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "Did not speak separately in the 1 July 2026 debate; ChristenUnie MP Grinwis spoke also on behalf of 50PLUS, asking for adjustments to the plans with fewer generic and more area-based measures.",
+      "salience": "low",
+      "salience_basis": "No own contribution in the debate; represented by another group's spokesperson.",
+      "quotes": [],
+      "source_ids": [
+        "s28"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Opposition. Party leader Dassen called the package a starting point his party is positive about, but not an end point; he misses an overarching vision of food production and warned that farmers who already invested should not be penalised.",
+      "salience": "medium",
+      "salience_basis": "Party leader spoke himself in the 1 July 2026 debate (17 speaking turns); named by NOS as a possible supplier of Senate votes.",
+      "quotes": [
+        {
+          "text_en": "That is a starting point. We are positive about it, because we want to move forward and want the Netherlands to come off the lock.",
+          "text_nl": "Dat is een startpunt. Daar zijn wij positief over, omdat wij vooruit willen en willen dat Nederland van het slot gaat.",
+          "speaker": "Laurens Dassen (Volt)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28",
+        "s25"
+      ]
+    },
+    {
+      "party": "Lid Keijzer",
+      "position": "Opposes the package. Mona Keijzer said the coalition builds on a stuck nitrogen system instead of breaking with it, and argued for innovation and tailor-made solutions per nature area; she has no confidence that the plans will get permits moving.",
+      "salience": "medium",
+      "salience_basis": "94 speaking turns in the 1 July 2026 debate, third highest, as a one-member group.",
+      "quotes": [
+        {
+          "text_en": "Instead of breaking with the stuck nitrogen system, this coalition, with the support of PRO, for sure, simply builds on it.",
+          "text_nl": "In plaats van te breken met het vastgelopen stikstofsysteem bouwt deze coalitie daar, met steun van PRO — zeker weten — gewoon op verder.",
+          "speaker": "Mona Keijzer (Lid Keijzer)",
+          "date": "2026-07-01",
+          "source_id": "s27"
+        }
+      ],
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "home_seeker"
+      ],
+      "text": "New housing projects need to show they add no nitrogen deposition to overloaded nature. Bouwend Nederland estimated in March 2025 that 244,000 of the 631,000 homes planned up to 2030 might not get permits; this is an industry estimate. Under the cabinet's plan a calculation threshold would apply from 1 July 2027, after which projects with very limited deposition, with housing named as an example, would no longer need a nature permit. That date is conditional on the bill and the measures being adopted.",
+      "source_ids": [
+        "s18",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "applies_to": [
+        "renter_social",
+        "home_seeker"
+      ],
+      "text": "Housing association body Aedes stated on 1 July 2026 that the cabinet's nitrogen plans help to make housing construction possible faster and that nitrogen limits will stand less in the way of new-build ambitions, while saying other obstacles to building 100,000 homes a year remain.",
+      "source_ids": [
+        "s33"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Businesses that want to expand or change operations near nitrogen-sensitive nature need a nature permit; since the Council of State rulings of 18 December 2024, offsetting against an existing permitted activity on the same site (internal netting) is restricted. The cabinet's bill sets sector targets for industry (50% less ammonia by 2035 versus 2019) that apply to the sector as a whole, not to individual companies, and reserves subsidies for industrial firms within 1,000 metres of nature areas. PBL expects that permits can only be eased area by area.",
+      "source_ids": [
+        "s18",
+        "s32",
+        "s40",
+        "s6"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed",
+        "employer"
+      ],
+      "text": "For livestock farmers: the cabinet plans an enforceable norm of 0.164 kg ammonia per phosphate right for dairy farms in 2035, a land-tie norm of 2.6 livestock units per hectare, and stricter rules in zones around nature areas (under national fallback rules 1.5 livestock units per hectare at area level). 2 billion euros is available for adapting barns and feed and more than 9 billion for the zones, including extensification, relocation and voluntary closure schemes. Under the coalition agreement, production rights are skimmed on sale outside the family and can be cut as a last resort if the 2035 target is missed. All of this is still subject to legislation.",
+      "source_ids": [
+        "s2",
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed",
+        "employer"
+      ],
+      "text": "Farmers who only filed a notification under the former PAS system (PAS-melders) still lack a valid permit. The cabinet adopted a Programme Maatwerk PAS-melders, reserved 350 million euros and says the calculation threshold planned for 1 July 2027 would help many of them because they would no longer need a permit.",
+      "source_ids": [
+        "s4",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "self_employed"
+      ],
+      "text": "Since 1 January 2026 no derogation permits are available: all farmland is subject to the standard of 170 kg nitrogen from animal manure per hectare per year. Farmers who want to stop could apply to the Lbv and Lbv-plus closure schemes; the cabinet has announced several new rounds of the voluntary closure scheme.",
+      "source_ids": [
+        "s17",
+        "s13",
+        "s1"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "The cabinet commits 20 billion euros of public money through 2035 to nitrogen, agriculture and nature. If the State does not meet the court-ordered 2030 target it owes Greenpeace a penalty of 10 million euros, unless the appeal changes the judgment. The Court of Audit cites estimates of 12 to 15 billion euros a year in damage to nature, environment and public health from nitrogen, and a one-off legal risk of 7 billion euros for the State (CPB and PBL, 2026).",
+      "source_ids": [
+        "s31",
+        "s7",
+        "s8",
+        "s12"
+      ]
+    },
+    {
+      "applies_to": [
+        "business_grid_user"
+      ],
+      "text": "The cabinet names (energy) infrastructure and the energy transition among the activities held up by nitrogen rules and says the planned calculation threshold would make projects with limited deposition in the energy transition easier to realise. No figure for delayed grid projects was found in the documents consulted.",
+      "source_ids": [
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "applies_to": [
+        "petrol_driver",
+        "ev_driver"
+      ],
+      "text": "Mobility gets a sector target of 50% less nitrogen oxides in 2035 compared with 2019. According to the government, transport is on course to meet this mainly through existing climate and air-quality policy; the extra measures announced concern subsidies for electric inland shipping and cleaner construction, not new rules for car drivers.",
+      "source_ids": [
+        "s40",
+        "s2"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Supermarkets and processors are asked to reach agreements before 1 April 2027 on rewarding farmers for environmental performance and on demand for organic products; if that fails the cabinet says it will regulate by law from 1 January 2029. The cabinet does not state what this means for consumer prices.",
+      "source_ids": [
+        "s2",
+        "s1"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "stikstof",
+    "stikstofdepositie",
+    "natura 2000",
+    "rekenkundige ondergrens",
+    "kritische depositiewaarde",
+    "pas-melders",
+    "intern salderen",
+    "emissiedoelen",
+    "beëindigingsregeling veehouderij",
+    "lbv-plus",
+    "piekbelasters",
+    "grondgebondenheid",
+    "zonering natura 2000",
+    "derogatie",
+    "mestbeleid",
+    "fosfaatrechten",
+    "omgevingswaarde stikstof"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Kabinet legt stikstofaanpak vast en zet steun voor boeren klaar",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-legt-stikstofaanpak-vast-en-zet-steun-voor-boeren-klaar",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "s2",
+      "title": "Kabinet haalt Nederland van het stikstofslot met stevig pakket: weer ruimte voor boer, natuur en bouw",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/26/kabinet-haalt-nederland-van-het-stikstofslot-met-stevig-pakket-weer-ruimte-voor-boer-natuur-en-bouw",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "s3",
+      "title": "Regeerakkoord 'Aan de slag. Bouwen aan een beter Nederland' - hoofdstuk Landbouw, natuur en stikstof",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeerakkoord/grote-keuzes-voor-nederland/landbouw-natuur-en-stikstof",
+      "date": null
+    },
+    {
+      "id": "s4",
+      "title": "Kamerbrief 'Weer ruimte voor boer, natuur en bouw: maatregelpakket voor landbouw, natuur en stikstof'",
+      "publisher": "Ministerie van LVVN (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/brief_in/20260626/weer_ruimte_voor_boer_natuur_en/f=/vmyscq4jr4xe.pdf",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "s5",
+      "title": "Programma Landbouw, Natuur en Stikstof - Weer ruimte voor boer, natuur en bouw (ontwerp)",
+      "publisher": "Ministerie van LVVN (via Tweede Kamer)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D55196",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "s6",
+      "title": "Ambitieus kabinetspakket brengt nieuw stikstofdoel binnen bereik, maar uitvoering vraagt uiterste van boeren en overheid",
+      "publisher": "PBL",
+      "url": "https://www.pbl.nl/actueel/nieuws/ambitieus-kabinetspakket-brengt-nieuw-stikstofdoel-binnen-bereik-maar-uitvoering-vraagt-uiterste-van-boeren-en",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "s7",
+      "title": "Staat moet wettelijk stikstofdoel 2030 halen en voorrang verlenen aan gebieden met grootste stikstofoverbelasting",
+      "publisher": "Rechtbank Den Haag (Rechtspraak.nl)",
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-den-haag/nieuws/2025/01/rechtbank-beveelt-nederlandse-staat-wettelijk-stikstofdoel-2030-te-halen",
+      "date": "2025-01-22"
+    },
+    {
+      "id": "s8",
+      "title": "Greenpeace wint zaak tegen Staat, rechter dwingt kabinet meer haast te maken met stikstofaanpak",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2552791",
+      "date": "2025-01-22"
+    },
+    {
+      "id": "s9",
+      "title": "Greenpeace eist meer stikstofreductie in hoger beroep",
+      "publisher": "Greenpeace Nederland",
+      "url": "https://www.greenpeace.org/nl/nieuws/82017/greenpeace-eist-meer-stikstofreductie-in-hoger-beroep/",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "s10",
+      "title": "Reactie Greenpeace op de stikstofpakket van het kabinet",
+      "publisher": "Greenpeace Nederland",
+      "url": "https://www.greenpeace.org/nl/?p=82532",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "s11",
+      "title": "Brief van de minister van LVVN, Kamerstuk 35 334 nr. 479 (reactie op Ecorys-rapport; hoger beroep Greenpeace)",
+      "publisher": "Tweede Kamer (via Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/behandeling/20260713/brief_regering_reactie_op_verzoek_2/document3/f=/vmzn2v0rswxv.pdf",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "s12",
+      "title": "Focusonderzoek 2026: Focus op stikstof van veehouderijen",
+      "publisher": "Algemene Rekenkamer (via Tweede Kamer)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D31991",
+      "date": null
+    },
+    {
+      "id": "s13",
+      "title": "Lbv en Lbv-plus actueel",
+      "publisher": "RVO",
+      "url": "https://www.rvo.nl/onderwerpen/lbv-plus-actueel",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s14",
+      "title": "Stikstofdepositie",
+      "publisher": "RIVM",
+      "url": "https://www.rivm.nl/stikstof/stikstofdepositie",
+      "date": null
+    },
+    {
+      "id": "s15",
+      "title": "Dossier stikstof: Stikstofdepositie",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/dossier/dossier-stikstof/stikstofdepositie",
+      "date": null
+    },
+    {
+      "id": "s16",
+      "title": "Stikstof in dierlijke mest op plafond 2025, fosfaat nog erboven",
+      "publisher": "CBS",
+      "url": "https://www.cbs.nl/nl-nl/nieuws/2026/27/stikstof-in-dierlijke-mest-op-plafond-2025-fosfaat-nog-erboven",
+      "date": null
+    },
+    {
+      "id": "s17",
+      "title": "Derogatie",
+      "publisher": "RVO",
+      "url": "https://www.rvo.nl/onderwerpen/mest/derogatie",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Derde deel geplande nieuwbouw in gevaar door stikstof",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2559510",
+      "date": "2025-03-14"
+    },
+    {
+      "id": "s19",
+      "title": "Stikstof-groep van Schoof haalt planning niet, uitstel plan tot 'voorjaar'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2560644",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "s20",
+      "title": "Boeren Peel en Veluwe het eerst aan de beurt in startpakket stikstof",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2564963",
+      "date": "2025-04-25"
+    },
+    {
+      "id": "s21",
+      "title": "Raad van State: stikstofdoelen uit wet halen kan zo niet",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2595596",
+      "date": "2025-12-22"
+    },
+    {
+      "id": "s22",
+      "title": "Streep door natuurbeleid vorige kabinet, huidige stikstofaanpak provincies van tafel",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2535751",
+      "date": "2024-09-04"
+    },
+    {
+      "id": "s23",
+      "title": "Het stikstofprobleem is echt Nederlands, uitgelegd in acht grafieken",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2436073",
+      "date": "2022-07-10"
+    },
+    {
+      "id": "s24",
+      "title": "Kabinet bouwt pauze stikstof in om CDA in coalitie te houden",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2469664",
+      "date": "2023-03-31"
+    },
+    {
+      "id": "s25",
+      "title": "Fel stikstofdebat in Tweede Kamer, relatief rustig protest in Den Haag",
+      "publisher": "NOS",
+      "url": "https://nos.nl/artikel/2621191-fel-stikstofdebat-in-tweede-kamer-relatief-rustig-protest-in-den-haag",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "s26",
+      "title": "Minister Van Essen 'beducht' voor verzachten stikstofplannen, Pro trekt anders steun in",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2621253",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "s27",
+      "title": "Handelingen Tweede Kamer 2025-2026, nr. 89, item 7: debat Samenhangende aanpak landbouw, natuur en stikstof",
+      "publisher": "Tweede Kamer (Officiele bekendmakingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-89-7.html",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "s28",
+      "title": "Kamer in het kort: Samenhangende aanpak landbouw, natuur en stikstof",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/kamer_in_het_kort/samenhangende-aanpak-landbouw-natuur-en-stikstof",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "s29",
+      "title": "Ingrijpend stikstofpakket, en toch blijft onduidelijkheid",
+      "publisher": "Binnenlands Bestuur",
+      "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ingrijpend-stikstofpakket-en-toch-blijft-onduidelijkheid",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "s30",
+      "title": "LVVN-begroting 2027: extra investeringen in boeren, natuur en innovatie",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/lvvn-begroting-2027-extra-investeringen-in-boeren-natuur-en-innovatie",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s31",
+      "title": "Prinsjesdag: 20 miljard euro voor stikstof, landbouw en natuur",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/overheid-en-democratie/prinsjesdag/landbouw-stikstof-en-natuur",
+      "date": null
+    },
+    {
+      "id": "s32",
+      "title": "Advies landsadvocaat inzake Maatregelenpakket stikstof",
+      "publisher": "Landsadvocaat (via Tweede Kamer)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D42868",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "s33",
+      "title": "Stikstofplannen kabinet positief voor woningbouw",
+      "publisher": "Aedes",
+      "url": "https://aedes.nl/nieuwbouw/stikstofplannen-kabinet-positief-voor-woningbouw",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "s34",
+      "title": "Standpunt Stikstof",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/standpunt/stikstof",
+      "date": null
+    },
+    {
+      "id": "s35",
+      "title": "Standpunt Stikstof",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/standpunten/stikstof",
+      "date": null
+    },
+    {
+      "id": "s36",
+      "title": "'Mogelijk 14 miljard minder aan woningbouw en wegen door stikstofuitspraak'",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2298463",
+      "date": "2019-08-22"
+    },
+    {
+      "id": "s37",
+      "title": "Dutch farmers' protests",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dutch_farmers%27_protests",
+      "date": null
+    },
+    {
+      "id": "s38",
+      "title": "Kamerleden gematigd positief over 'moedig' stikstofplan, BBB blijft tegen dwang",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2574553",
+      "date": "2025-07-10"
+    },
+    {
+      "id": "s39",
+      "title": "Van alle kanten kritiek op nieuwe stikstofdoelen kabinet",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2579821",
+      "date": "2025-08-25"
+    },
+    {
+      "id": "s40",
+      "title": "Plannen kabinet voor minder stikstof",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/stikstof/plannen-kabinet-voor-minder-stikstof",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "Kabinet wil uitstoot stikstof in 2035 halveren",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2564746",
+      "date": "2025-04-23"
+    }
+  ]
+}

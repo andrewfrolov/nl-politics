@@ -1,0 +1,1318 @@
+{
+  "id": "defence",
+  "title": "Defence spending, NATO and Ukraine",
+  "tagline": "How much the Netherlands spends on defence, who pays for the NATO 3.5% target, and what it means for service and Ukraine",
+  "updated": "2026-11-25",
+  "summary": "The Netherlands has committed within NATO to spend 3.5% of GDP on defence plus 1.5% on related areas by 2035. The 2027 budget sets aside 28.9 billion euros for defence, which the government puts at 2.13% of GDP. The minority coalition of D66, VVD and CDA plans to reach 2.8% in 2030 and 3.5% in 2035 and wanted to pay for part of this with a 'freedom contribution' (vrijheidsbijdrage) from households and businesses; the household part for 2027 was dropped in November 2026 and the wider financing is still being fought over in parliament. Bills on legal exemptions for military training space and on a legal 3.5% norm, and plans for a mandatory survey of young people, are pending or announced.",
+  "key_facts": [
+    {
+      "label": "Defence budget 2026",
+      "value": "27.7 billion euros (budget as presented September 2025)",
+      "note": "Equal to 2.02% of GDP under the Dutch calculation method, or 2.24% including military support to Ukraine (2.7 billion euros in 2026 in that budget).",
+      "source_ids": [
+        "s7"
+      ]
+    },
+    {
+      "label": "Defence budget 2027",
+      "value": "28.9 billion euros (budget presented 15 September 2026)",
+      "note": "The government's budget page gives 2.13% of GDP. The budget's explanatory memorandum gives 2.12% excluding and 2.36% including military support to Ukraine. About 14.8 billion is for personnel, operations and Ukraine support and about 14.1 billion for equipment, innovation and property.",
+      "source_ids": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "label": "NATO target agreed in The Hague",
+      "value": "5% of GDP by 2035: at least 3.5% core defence plus up to 1.5% related spending (declaration of 25 June 2025)",
+      "note": "Allies must submit annual plans; trajectory and balance are reviewed in 2029.",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "label": "Coalition growth path",
+      "value": "2.8% of GDP in 2030 and 3.5% in 2035; extra spending of 2.1 billion euros in 2027 rising to 9.5 billion in 2030 and 19.3 billion structurally",
+      "note": "Figures from the budget table attached to the coalition agreement of 30 January 2026. The percentage is calculated including military support to Ukraine.",
+      "source_ids": [
+        "s2"
+      ]
+    },
+    {
+      "label": "Projected spending 2028-2031",
+      "value": "35.8 billion euros (2.69%) in 2028, 39.1 billion (2.83%) in 2029, 40.6 billion (2.83%) in 2030, 43.8 billion (2.97%) in 2031",
+      "note": "2027 draft budget, including military support to Ukraine; percentages as stated in the spring 2026 baseline of the same table.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Spending in 2025 by NATO's own method",
+      "value": "2.59% of GDP (realised 2025)",
+      "note": "NATO and the Netherlands use different calculation methods; NATO publishes its figure once a year for realised spending only.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "label": "Legal minimum",
+      "value": "At least 2% of GDP for the defence budget, in force since 1 January 2026",
+      "note": "Article 1 of the Wet financiele defensieverplichtingen (Financial Defence Obligations Act), a private member's bill adopted by the Senate on 17 June 2025.",
+      "source_ids": [
+        "s11",
+        "s7"
+      ]
+    },
+    {
+      "label": "Defence personnel",
+      "value": "About 85,000 expected in 2026; target of over 100,000 in 2030; at least 122,000 in later years; up to 200,000 in a conflict",
+      "note": "Totals include professional soldiers, reservists and civilian staff.",
+      "source_ids": [
+        "s5",
+        "s15",
+        "s1"
+      ]
+    },
+    {
+      "label": "Military support to Ukraine",
+      "value": "About 11.7 billion euros delivered up to 2 February 2026; about 3 billion euros a year budgeted for 2026-2028",
+      "note": "Previous cabinets allocated 14.3 billion euros (gross) in total. The 2027 draft budget shows 3.083 billion for 2027, 3.0 billion for 2028 and 2.313 billion for 2029.",
+      "source_ids": [
+        "s23",
+        "s6"
+      ]
+    },
+    {
+      "label": "Freedom contribution as planned",
+      "value": "5.1 billion euros a year structurally: 3.4 billion from households and 1.7 billion from businesses (coalition agreement, January 2026)",
+      "note": "For 2027 the plan was 1.5 billion from each group. The household part for 2027 was dropped in the revised Tax Plan of November 2026.",
+      "source_ids": [
+        "s2",
+        "s27"
+      ]
+    }
+  ],
+  "problem": [
+    {
+      "heading": "A gap between current spending and the 3.5% target",
+      "text": "The 2027 budget puts defence spending at a little over 2% of GDP, while NATO allies agreed in June 2025 to reach at least 3.5% by 2035. When the caretaker cabinet endorsed the target in June 2025, NOS reported the extra cost as an estimated 16 to 19 billion euros a year and that no decision had been taken on how to pay for it. The coalition agreement of January 2026 sets a path of 2.8% in 2030 and 3.5% in 2035, costing 19.3 billion euros a year structurally.",
+      "source_ids": [
+        "s4",
+        "s8",
+        "s9",
+        "s2"
+      ]
+    },
+    {
+      "heading": "Who pays is not settled",
+      "text": "The coalition planned a 'freedom contribution' (vrijheidsbijdrage): households would pay through income tax by only partly adjusting tax brackets for inflation, and businesses through a higher premium for the disability insurance fund (Arbeidsongeschiktheidsfonds, Aof). The coalition holds 66 of 150 House seats and needs opposition votes. In May 2026 the whole opposition backed an SP call to use Aof money only for disability schemes. In November 2026 the cabinet dropped the household contribution for 2027, and the House passed the 2027 Tax Plan by 76 votes to 74 with coalition party VVD voting against after D66 and CDA made a deal with PRO and Volt.",
+      "source_ids": [
+        "s2",
+        "s31",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "heading": "Not enough people",
+      "text": "The armed forces are to grow from about 85,000 staff in 2026 to over 100,000 in 2030 and at least 122,000 later, with the option to scale up to 200,000 in a conflict. Compulsory attendance for military service has been suspended since 1997. The coalition agreement says the voluntary service year will be scaled up, a mandatory survey for young people introduced as a first step, and other steps such as a selective call-up obligation considered if that is not enough.",
+      "source_ids": [
+        "s5",
+        "s15",
+        "s16",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Not enough room to train and build",
+      "text": "The government says current rules make some military activities too slow or too restricted, such as night-time shooting, digging trenches and drone training. It has submitted the Wet op de defensiegereedheid (Defence Readiness Act) to remove legal obstacles, and is designating new sites under the Nationaal Programma Ruimte voor Defensie (National Programme Space for Defence). In April 2026 the House voted on motions about residents' say, expropriation and nitrogen rules for these sites.",
+      "source_ids": [
+        "s19",
+        "s20",
+        "s22"
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "heading": "Russia's war against Ukraine",
+      "text": "The NATO declaration of June 2025 bases the 5% commitment on 'the long-term threat posed by Russia to Euro-Atlantic security' and the threat of terrorism. The coalition agreement refers to the Russian war of aggression at Europe's external border and daily hybrid threats inside Europe, and says Russia, China and Iran cooperate ever more closely.",
+      "source_ids": [
+        "s8",
+        "s1"
+      ]
+    },
+    {
+      "heading": "Years of lower spending",
+      "text": "The coalition agreement calls for a change of mentality 'from peace dividend to fighting power'. The explanatory note to the 2% Act refers to the historical instability of the defence budget and its vulnerability to cuts in peacetime. In the House debate on the 2026 budget, PVV MP Boon said defence spending had fallen to about 1.1% of GDP under earlier cabinets.",
+      "source_ids": [
+        "s1",
+        "s11",
+        "s34"
+      ]
+    },
+    {
+      "heading": "Less certainty about the United States",
+      "text": "The coalition agreement calls the United States the world power with which the Netherlands shares most interests, but says Europe must reduce one-sided dependencies and build a European pillar within NATO. NOS reported in June 2025 that many parties wanted Europe to be better able to defend itself, 'certainly now that' President Trump wanted to spend much less on NATO. In the March 2026 Ukraine debate PRO MP Piri said the US had stopped all financial and military support to Ukraine.",
+      "source_ids": [
+        "s1",
+        "s9",
+        "s35"
+      ]
+    },
+    {
+      "heading": "Changing warfare",
+      "text": "The Defensienota 2026 (the defence white paper of 29 June 2026) sets the aim that within five years unmanned systems deliver more than half of operational effects, and that Defence gradually spends 10% of its budget on innovation. DutchNews reported that the underlying cabinet paper links this to the rapid rise of drone use in Ukraine.",
+      "source_ids": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2025-06-13",
+      "event": "The caretaker cabinet of VVD, NSC and BBB decides to support the NATO proposal of 3.5% of GDP for defence plus 1.5% for broader resilience, leaving the financing to the next cabinet.",
+      "source_ids": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "date": "2025-06-17",
+      "event": "The Senate adopts the Wet financiele defensieverplichtingen, which sets a legal floor of 2% of GDP for the defence budget from 1 January 2026.",
+      "source_ids": [
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "event": "At the NATO summit in The Hague, allies commit to 5% of GDP by 2035: at least 3.5% for core defence and up to 1.5% for related spending, with a review in 2029.",
+      "source_ids": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-09-22",
+      "event": "Defence announces that all 17-year-olds, about 200,000, will receive a voluntary online survey with their conscription registration letter.",
+      "source_ids": [
+        "s18"
+      ]
+    },
+    {
+      "date": "2025-12-08",
+      "event": "The caretaker cabinet frees 700 million euros extra for Ukraine for 2026 after a large House majority backed a proposal by GroenLinks-PvdA leader Klaver for 2 billion extra; PVV, FVD, BBB and SP voted against.",
+      "source_ids": [
+        "s24"
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "event": "D66, VVD and CDA present their coalition agreement: 3.5% norm to be anchored in law, at least 122,000 personnel, 3 billion euros a year in military support for Ukraine in 2027-2029, and a freedom contribution from households and businesses.",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "event": "The House votes on motions on the National Programme Space for Defence. A motion to exempt the expansion of defence sites from nitrogen rules is rejected; a motion for structural participation of residents is adopted.",
+      "source_ids": [
+        "s22"
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "event": "The entire opposition supports an SP call that money from the disability fund (Aof) be used only for disability schemes, which ANP reports as a House majority against the business freedom contribution.",
+      "source_ids": [
+        "s31"
+      ]
+    },
+    {
+      "date": "2026-06",
+      "event": "The cabinet adopts the Wet op de defensiegereedheid on 5 June and submits it to the House (registered 24 June); on 29 June it publishes the Defensienota 2026.",
+      "source_ids": [
+        "s19",
+        "s21",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "event": "Budget Day: 28.9 billion euros for defence in 2027. The Tax Plan 2027 includes the household freedom contribution by applying only 48% of the inflation adjustment in income tax, worth 1.5 billion euros.",
+      "source_ids": [
+        "s4",
+        "s26"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "event": "The cabinet sends a revised Tax Plan 2027 that drops the household freedom contribution for 2027.",
+      "source_ids": [
+        "s27",
+        "s28"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "The House passes the Tax Plan 2027 by 76 to 74. The VVD votes against after D66 and CDA agree changes with PRO and Volt. On 16 November the three coalition parties agree to continue governing together.",
+      "source_ids": [
+        "s29",
+        "s30"
+      ]
+    }
+  ],
+  "current_policy": [
+    {
+      "heading": "What the coalition agreement says",
+      "text": "The agreement of D66, VVD and CDA (30 January 2026) says defence spending will rise to meet the NATO norm of 3.5% of GDP and that this norm will be anchored in law. It sets a scalable force of at least 122,000 people, a larger service year, a mandatory survey for young people as a first step and, if that is insufficient, consideration of a selective call-up obligation. It wants the Defence Readiness Act introduced as fast as possible, 40% of defence purchases done jointly with European partners, 50% bought from Dutch and European companies, and a defence innovation authority modelled on the American DARPA receiving a share of the defence budget rising to 10%. It also states a constructive attitude to strengthening a European nuclear deterrent and says Lelystad Airport will be used as an air force base and for holiday flights.",
+      "source_ids": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "heading": "Budget and financing",
+      "text": "For 2027 the cabinet budgets 28.9 billion euros for defence. The budget table of the coalition agreement adds 2.1 billion euros in 2027, 4.5 billion in 2028, 7.1 billion in 2029 and 9.5 billion in 2030. To help pay for it the agreement introduced a freedom contribution: for households 1.5 billion in 2027 and 3.4 billion a year from 2028, through limited inflation adjustment of income tax; for businesses 1.5 billion in 2027 and 1.7 billion a year from 2028, through a higher Aof premium. In the revised Tax Plan of 3 November 2026 the household contribution for 2027 was dropped. According to IamExpat, the deal of 11 November between D66, CDA, PRO and Volt leaves a decision on a further 1.9 billion euro increase of the freedom contribution to the 2028 Tax Plan. The Tax Plan still needs Senate approval.",
+      "source_ids": [
+        "s4",
+        "s2",
+        "s26",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "heading": "Personnel, service and the survey",
+      "text": "Military service still exists for everyone aged 17 to 45, but nobody is called up because compulsory attendance has been suspended since 1997. Since September 2025 every 17-year-old receives an invitation to a voluntary online survey with the registration letter; filling it in has no consequences. The government says it is working on a selective call-up obligation for war or crisis, to be introduced in steps from voluntary survey to mandatory survey, selection, medical examination and attendance, which requires amending the Kaderwet dienstplicht (Conscription Framework Act). Defence expects about 1,500 service-year soldiers and aims for 1,800 participants in the National Resilience Training in 2027.",
+      "source_ids": [
+        "s15",
+        "s16",
+        "s17",
+        "s5"
+      ]
+    },
+    {
+      "heading": "Ukraine, Russia and Europe",
+      "text": "The coalition agreement says military and financial support to Ukraine continues 'multi-year and undiminished', that the Netherlands keeps arguing for the use of frozen Russian assets, and that Ukraine is on an irreversible path to EU and NATO membership at a speed set by its own merits. The cabinet budgets about 3 billion euros a year in military support for 2026-2029 and, for 2027-2029, 327 million euros extra for recovery and reconstruction on top of 878 million pledged earlier. On European financing, the agreement says the Netherlands does not guarantee other countries' national debts (Eurobonds) but is constructive about existing joint instruments such as the European Defence Fund and the SAFE defence loans, and will explore an intergovernmental European Defence Mechanism for joint procurement.",
+      "source_ids": [
+        "s1",
+        "s23",
+        "s25"
+      ]
+    }
+  ],
+  "proposals": [
+    {
+      "title": "Put the 3.5% norm in law",
+      "description": "Anchor the NATO norm of 3.5% of GDP in law by amending the Wet financiele defensieverplichtingen, which now sets a 2% floor.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In coalition agreement (2026-01-30); announced to NATO allies in July 2026 and listed in the 2027 budget as in preparation. No bill was found in the sources opened.",
+      "source_ids": [
+        "s1",
+        "s12",
+        "s6"
+      ]
+    },
+    {
+      "title": "Wet op de defensiegereedheid (Defence Readiness Act)",
+      "description": "Would allow deviations by government decree, for at most five years and extendable once, from rules in the Environment and Planning Act (Omgevingswet) for listed military readiness activities; lets Defence send a recruitment survey to resident Dutch nationals aged 17 to 27; treats threatened readiness as a crisis for procurement rules; and adds a safety-net clause allowing exemptions from other laws by royal decree for at most two years, which either chamber of parliament can block.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Bill 36970 pending in the House; committee report stage completed 18 September 2026; plenary debate and vote not yet held as of 25 November 2026.",
+      "source_ids": [
+        "s20",
+        "s21",
+        "s19"
+      ]
+    },
+    {
+      "title": "Mandatory survey and possible selective call-up",
+      "description": "Make the survey for young people mandatory as a first step and, if recruitment stays insufficient, consider a selective call-up obligation.",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "In coalition agreement; requires amending the Kaderwet dienstplicht. No bill was found in the sources opened.",
+      "source_ids": [
+        "s1",
+        "s15"
+      ]
+    },
+    {
+      "title": "Freedom contribution (vrijheidsbijdrage)",
+      "description": "Households pay through limited inflation adjustment of income tax brackets (3.4 billion euros a year from 2028); businesses pay through a higher disability fund (Aof) premium (1.7 billion a year from 2028).",
+      "proposed_by": [
+        "D66",
+        "VVD",
+        "CDA"
+      ],
+      "status": "Household part for 2027 dropped in the revised Tax Plan 2027 (2026-11-03); Tax Plan passed the House 2026-11-12 and awaits the Senate; decision on a further increase deferred to the 2028 Tax Plan according to IamExpat.",
+      "source_ids": [
+        "s2",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "title": "Replace part of the freedom contribution by scrapping tax breaks",
+      "description": "Motion by Volt MP Dassen asking the government to work out options to reduce the freedom contribution by abolishing or trimming ineffective and inefficient tax schemes.",
+      "proposed_by": [
+        "Volt"
+      ],
+      "status": "Motion adopted by the House; the state secretary sent options in a letter reported on 2026-06-24.",
+      "source_ids": [
+        "s32"
+      ]
+    },
+    {
+      "title": "Scrap the business freedom contribution and cut Ukraine aid",
+      "description": "Motion asking the government to abolish the freedom contribution for businesses by reversing the planned Aof premium increase and to pay for this by reducing the contribution to Ukraine.",
+      "proposed_by": [
+        "Groep Markuszower"
+      ],
+      "status": "Motion filed 2026-11-10 during the Tax Plan 2027 debate; outcome of the vote not verified.",
+      "source_ids": [
+        "s33"
+      ]
+    },
+    {
+      "title": "Exempt defence from nitrogen rules",
+      "description": "A motion by PVV MPs Boon and Chris Jansen to scrap all nitrogen rules, and a separate motion by MP Ten Hove for a nitrogen exemption for expanding defence sites.",
+      "proposed_by": [
+        "PVV"
+      ],
+      "status": "Both rejected 2026-04-21. The Boon/Jansen motion was supported by BBB, Groep Markuszower, PVV and FVD; the Ten Hove motion by SGP, JA21 and Groep Markuszower.",
+      "source_ids": [
+        "s22"
+      ]
+    },
+    {
+      "title": "Referendum on NATO membership",
+      "description": "Put NATO membership to the Dutch population in a referendum and invest in defence 'not according to an imposed NATO norm'.",
+      "proposed_by": [
+        "FVD"
+      ],
+      "status": "Party position on FVD website.",
+      "source_ids": [
+        "s40"
+      ]
+    }
+  ],
+  "contested_claims": [
+    {
+      "claim": "With 28.9 billion euros in 2027 the Netherlands 'meets the NATO norm' at 2.13% of GDP.",
+      "claimed_by": "Cabinet (Rijksoverheid Budget Day page, September 2026)",
+      "what_data_show": "The figure relates to the former 2% guideline. The Hague declaration of June 2025 commits allies to at least 3.5% by 2035. The percentage depends on the method: the 2027 budget memorandum gives 2.12% excluding and 2.36% including military support to Ukraine under the Dutch method, and reports 2.59% for realised 2025 spending under NATO's own method, which NATO publishes once a year.",
+      "source_ids": [
+        "s4",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "claim": "'There will be a call-up obligation for young people. Conscription is simply coming back.'",
+      "claimed_by": "SP MP Dobbe, House debate on the 2026 defence budgets (March 2026)",
+      "what_data_show": "The coalition agreement introduces a mandatory survey as a first step and says a selective call-up obligation will be considered if results are insufficient. The government states that nobody is currently called up, that the survey sent to 17-year-olds is voluntary and without consequences, and that a selective call-up requires amending the Kaderwet dienstplicht. No such bill was found in the sources opened.",
+      "source_ids": [
+        "s34",
+        "s1",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "claim": "The Netherlands has 'already paid more than 20 billion euros to Ukraine'.",
+      "claimed_by": "PVV manifesto 2025",
+      "what_data_show": "NOS reported in December 2025 that the Netherlands had given 13.5 billion euros in military support and about 3.5 billion for other purposes since the invasion. The defence minister reported in April 2026 that about 11.7 billion euros in military support had been delivered up to 2 February 2026 and that previous cabinets had allocated 14.3 billion (gross). The sources opened do not show what items the PVV figure includes.",
+      "source_ids": [
+        "s44",
+        "s24",
+        "s23"
+      ]
+    },
+    {
+      "claim": "The freedom contribution is asked 'only of working people and not of the very richest', and the business part is a 'disguised tax on labour'.",
+      "claimed_by": "PRO MP Piri (March 2026); opposition parties as reported by ANP (May 2026)",
+      "what_data_show": "The official design is a limited inflation adjustment in income tax for households and a higher disability fund premium paid by employers. The Tax Plan factsheet gives the revenue (1.5 billion euros in 2027, 3.4 billion from 2028) but the sources opened contain no official breakdown by income group. Reported amounts for the dropped 2027 household measure differ: the Finance Ministry factsheet and IamExpat give 1.5 billion euros, while TaxLive, citing NOS, gives 347 million euros.",
+      "source_ids": [
+        "s34",
+        "s31",
+        "s26",
+        "s27",
+        "s28"
+      ]
+    }
+  ],
+  "party_positions": [
+    {
+      "party": "D66",
+      "position": "D66 leads the coalition and says it will honour the NATO agreement of at least 3.5% of GDP for defence and at least 1.5% for critical infrastructure and resilience. It wants a strong European position within NATO and in the long term a European army, and supports a 'Swedish model' with a mandatory survey among those liable for service followed by voluntary deployment. In November 2026 it agreed changes to the Tax Plan with CDA, PRO and Volt against the wishes of coalition partner VVD.",
+      "salience": "high",
+      "salience_basis": "Dedicated defence page on the party website; party of Prime Minister Jetten, whose government statement of 25 February 2026 names support for Ukraine and large defence investments as a main choice; 74 speaker turns in the House debate on the 2026 defence budgets, second only to the VVD.",
+      "quotes": [
+        {
+          "text_en": "In the long term D66 strives for a European army.",
+          "text_nl": "D66 streeft op lange termijn naar een Europees leger.",
+          "speaker": "D66 website, defence position",
+          "date": "2026",
+          "source_id": "s38"
+        },
+        {
+          "text_en": "Support for Ukraine is not up for discussion for us.",
+          "text_nl": "Steun aan Oekraïne staat voor ons niet ter discussie.",
+          "speaker": "Belhirch (D66 MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s38",
+        "s36",
+        "s34",
+        "s29"
+      ]
+    },
+    {
+      "party": "VVD",
+      "position": "The VVD wants the Netherlands to reach 3.5% in 2035 and wants that norm laid down in law. It calls for continued arms and aid for Ukraine for as long as needed, use of frozen Russian assets, and tougher action against the Russian shadow fleet, and it rejects Eurobonds while accepting joint investments under strict conditions. It says the US remains an ally but that dependence on the US is too great. The VVD supplies the defence minister, Dilan Yesilgoz-Zegerius, and voted against the 2027 Tax Plan in November 2026.",
+      "salience": "high",
+      "salience_basis": "'Defence and foreign affairs' is one of the pillars on the party website; the party holds the defence ministry; 90 speaker turns in the House debate on the 2026 defence budgets, the most of any group.",
+      "quotes": [
+        {
+          "text_en": "That is why we are making the largest investment in the armed forces ever.",
+          "text_nl": "Daarom doen we de grootste investering in de krijgsmacht ooit.",
+          "speaker": "VVD website, pillar Defence and foreign affairs",
+          "date": "2026",
+          "source_id": "s37"
+        },
+        {
+          "text_en": "For the VVD it is therefore clear: a strong military is not a luxury but an absolute necessity.",
+          "text_nl": "Voor de VVD is het daarom helder: een sterke krijgsmacht is geen luxe, maar een absolute noodzaak.",
+          "speaker": "Peter de Groot (VVD MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s37",
+        "s34",
+        "s29",
+        "s23"
+      ]
+    },
+    {
+      "party": "PRO",
+      "position": "In the March 2026 budget debate MP Piri (listed in the transcript as GroenLinks-PvdA) said her group supports the investments in defence but objects to how they are financed, pointing to cuts in care and social security and to the design of the freedom contribution. She also voiced concern about moving within four years to a selective call-up obligation. In December 2025 party leader Klaver's proposal for 2 billion euros extra for Ukraine won a large House majority, and in November 2026 PRO agreed Tax Plan changes with D66, CDA and Volt. The party manifesto could not be opened for this file.",
+      "salience": "high",
+      "salience_basis": "36 speaker turns in the House debate on the 2026 defence budgets (third most) and 43 in the Ukraine debate of 24 March 2026 (most of any group); initiated the adopted motion for extra Ukraine funding; co-author of the November 2026 Tax Plan deal. Manifesto not checked.",
+      "quotes": [
+        {
+          "text_en": "By that I mean of course that against these investments stand very, very heavy cuts in care and social security. That undermines public support.",
+          "text_nl": "Dan bedoel ik natuurlijk dat tegenover deze investeringen hele, hele zware bezuinigingen staan op zorg en sociale zekerheid. Dat ondermijnt het draagvlak.",
+          "speaker": "Piri (MP, listed as GroenLinks-PvdA), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        },
+        {
+          "text_en": "I am worried that within four years, in peacetime, we will ask young people to serve compulsorily, or face two years in prison.",
+          "text_nl": "Ik maak me er zorgen over dat we binnen vier jaar, in vredestijd, aan jongeren vragen om verplicht te dienen, of op te draaien voor twee jaar gevangenisstraf.",
+          "speaker": "Piri (MP, listed as GroenLinks-PvdA), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s34",
+        "s35",
+        "s24",
+        "s29"
+      ]
+    },
+    {
+      "party": "PVV",
+      "position": "The PVV manifesto supports investment in the army and growing defence spending step by step, calls NATO the cornerstone of defence policy, and wants no foreign military missions but deployment at Dutch borders. It wants a professional army with reservists and to keep compulsory attendance suspended, rejects Eurobonds, and says other countries should do more for Ukraine. The PVV voted against the extra 2 billion euros for Ukraine in December 2025 and for scrapping all nitrogen rules in April 2026.",
+      "salience": "medium",
+      "salience_basis": "Defence is part of chapter 8 of the 2025 manifesto ('Foreign Affairs and the Armed Forces'), covering a few paragraphs and three bullet points; 28 speaker turns in the House debate on the 2026 defence budgets; several motions by MP Boon on defence sites in April 2026.",
+      "quotes": [
+        {
+          "text_en": "NATO is and remains the cornerstone of our defence and security policy.",
+          "text_nl": "De NAVO is en blijft de hoeksteen van ons defensie- en veiligheidsbeleid.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s44"
+        },
+        {
+          "text_en": "Let other countries do a bit more now, then we have more money for the Dutch.",
+          "text_nl": "Laat andere landen nu wat meer doen, dan hebben wij meer geld voor de Nederlanders.",
+          "speaker": "PVV manifesto 2025",
+          "date": "2025",
+          "source_id": "s44"
+        },
+        {
+          "text_en": "The PVV supports the investments that actually strengthen our fighting power.",
+          "text_nl": "De PVV steunt de investeringen die onze gevechtskracht daadwerkelijk versterken.",
+          "speaker": "Boon (PVV MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s44",
+        "s34",
+        "s24",
+        "s22"
+      ]
+    },
+    {
+      "party": "CDA",
+      "position": "The CDA is a signatory of the coalition agreement, including the 3.5% norm in law, the growth to at least 122,000 personnel and continued support for Ukraine. In the Ukraine debate of 24 March 2026 MP Van Lanschot called for multi-year support and more pressure on Russia and asked which alternative method the government sees for using frozen Russian assets. His motion for a fast track for infrastructure linked to new defence sites was adopted in April 2026. The party manifesto could not be opened for this file.",
+      "salience": "medium",
+      "salience_basis": "Coalition signatory; lead signer of one adopted motion on defence sites; 4 speaker turns in the House debate on the 2026 defence budgets and 8 in the Ukraine debate. Manifesto not checked.",
+      "quotes": [
+        {
+          "text_en": "It is necessary to strengthen public-private cooperation.",
+          "text_nl": "Het is noodzakelijk om de publiek-private samenwerking te versterken.",
+          "speaker": "Van Lanschot (CDA MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s1",
+        "s34",
+        "s35",
+        "s22"
+      ]
+    },
+    {
+      "party": "JA21",
+      "position": "JA21 wants the budget to grow to 5% of GDP in 2035 (3.5% defence, 1.5% resilience), a scalable force of 200,000 soldiers, reservists and civilians with a larger service year and 'selective elements on the Scandinavian model', and a stronger Dutch defence industry. It rejects an EU army. It voted for a nitrogen exemption for defence sites in April 2026, and its MP Hoogeveen voiced objections to Ukraine's path to EU membership in March 2026.",
+      "salience": "high",
+      "salience_basis": "Dedicated defence page with nine concrete points on the party website; 14 speaker turns in the House debate on the 2026 defence budgets; co-signer of the adopted fast-track motion on defence sites.",
+      "quotes": [
+        {
+          "text_en": "The budget grows to 5% of GDP in 2035: 3.5% for Defence and 1.5% for resilience and security.",
+          "text_nl": "Het budget groeit naar 5% van het bbp in 2035: 3,5% voor Defensie en 1,5% voor weerbaarheid en veiligheid.",
+          "speaker": "JA21 website, defence position",
+          "date": "2026",
+          "source_id": "s39"
+        },
+        {
+          "text_en": "We will have to grow on to 3.5%.",
+          "text_nl": "We zullen moeten doorgroeien naar 3,5%.",
+          "speaker": "Nanninga (JA21 MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s39",
+        "s34",
+        "s22",
+        "s35"
+      ]
+    },
+    {
+      "party": "Groep Markuszower",
+      "position": "In November 2026 group leader Markuszower filed a motion to abolish the freedom contribution for businesses and to finance this by reducing the contribution to Ukraine. In April 2026 the group voted for scrapping all nitrogen rules and for a nitrogen exemption for defence sites, and for most adopted motions on the National Programme Space for Defence. No party programme was found for this file.",
+      "salience": "low",
+      "salience_basis": "Assessment limited by sources: no programme located; position derived from one motion (10 November 2026) and recorded votes of 21 April 2026; no speaker turns in the two debates checked.",
+      "quotes": [
+        {
+          "text_en": "requests the government to abolish the freedom contribution for businesses as well",
+          "text_nl": "verzoekt de regering de vrijheidsbijdrage ook voor bedrijven af te schaffen",
+          "speaker": "Motion by MP Markuszower (Kamerstuk 37 022, nr. 69)",
+          "date": "2026-11-10",
+          "source_id": "s33"
+        }
+      ],
+      "source_ids": [
+        "s33",
+        "s22"
+      ]
+    },
+    {
+      "party": "FVD",
+      "position": "FVD wants the Netherlands to be a neutral trading country on the Swiss model, to stop spending billions on foreign conflicts such as the war in Ukraine and to scrap sanctions that it says harm the economy. It wants to invest in national defence 'at its own discretion' rather than by a NATO norm and to put NATO membership to a referendum. It voted against the extra 2 billion euros for Ukraine in December 2025.",
+      "salience": "high",
+      "salience_basis": "Dedicated position page on geopolitics and defence with listed pledges; 16 speaker turns in the Ukraine debate of 24 March 2026; no speaker turns in the debate on the 2026 defence budgets.",
+      "quotes": [
+        {
+          "text_en": "We put NATO membership to the Dutch population in a referendum, so that we as a country can decide ourselves whether we want to continue on the current path.",
+          "text_nl": "We leggen het lidmaatschap van de NAVO via een referendum voor aan de Nederlandse bevolking, zodat we als land zelf kunnen beslissen of we door willen op het huidige pad.",
+          "speaker": "FVD website, position Geopolitics, defence and foreign trade",
+          "date": "2026",
+          "source_id": "s40"
+        }
+      ],
+      "source_ids": [
+        "s40",
+        "s24",
+        "s35"
+      ]
+    },
+    {
+      "party": "ChristenUnie",
+      "position": "The ChristenUnie wants to meet the NATO norm of 3.5% plus 1.5% in 2035 and to keep supporting Ukraine financially and militarily, with heavier sanctions on Russia. It proposes that everyone performs a period of civic or military service, preceded by expanding the service year on the Swedish model with a survey for all 18-year-olds. It wants expansion of barracks and training grounds always coordinated with local governments.",
+      "salience": "medium",
+      "salience_basis": "Dedicated defence page on the party website with five headline points; 12 speaker turns in the House debate on the 2026 defence budgets; co-signer (Bikker) of the adopted fast-track motion on defence sites.",
+      "quotes": [
+        {
+          "text_en": "Everyone fulfils service duty, civic or military.",
+          "text_nl": "Iedereen vervult dienstplicht, maatschappelijk of militair.",
+          "speaker": "ChristenUnie website, defence position",
+          "date": "2026",
+          "source_id": "s41"
+        }
+      ],
+      "source_ids": [
+        "s41",
+        "s34",
+        "s22"
+      ]
+    },
+    {
+      "party": "SP",
+      "position": "The SP says it fiercely opposes illegal wars such as Russia's against Ukraine and is highly critical of expensive weapons projects, while wanting good employment conditions for military personnel. In the March 2026 budget debate MP Dobbe criticised the planned call-up obligation and said the 19 billion euros for defence comes at the expense of care and the state pension. The SP voted against the extra 2 billion euros for Ukraine in December 2025 and led the May 2026 call against using the disability fund premium for defence.",
+      "salience": "high",
+      "salience_basis": "Dedicated defence page on the party website, which features an SP poll on conscription; four motions by MP Dobbe on defence sites voted on 21 April 2026 (one adopted); 18 speaker turns in the budget debate and 25 in the Ukraine debate.",
+      "quotes": [
+        {
+          "text_en": "There will be a call-up obligation for young people. Conscription is simply coming back.",
+          "text_nl": "Er komt een opkomstplicht voor jongeren. De dienstplicht komt gewoon terug.",
+          "speaker": "Dobbe (SP MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        },
+        {
+          "text_en": "The SP is extremely critical of weapons projects that devour billions, such as the JSF.",
+          "text_nl": "De SP is uiterst kritisch op miljardenverslindende wapenprojecten zoals de JSF.",
+          "speaker": "SP website, defence position",
+          "date": "2026",
+          "source_id": "s46"
+        }
+      ],
+      "source_ids": [
+        "s46",
+        "s34",
+        "s24",
+        "s31",
+        "s22"
+      ]
+    },
+    {
+      "party": "PvdD",
+      "position": "The party's own defence position could not be opened for this file. In the votes of 21 April 2026 on the National Programme Space for Defence, the PvdD voted for structural participation of residents and for a motion against giving Defence priority over other societal interests, and was the only group to vote against two otherwise broadly supported motions (on a clear goal and timetable per location, and on priority for local small businesses). It supported the 2027 Tax Plan in November 2026 after an agreement with D66 and CDA on other subjects.",
+      "salience": "low",
+      "salience_basis": "Assessment limited by sources: party website not accessible; no speaker turns in the two House debates checked (defence budgets and Ukraine, March 2026); position derived from recorded votes only.",
+      "quotes": [],
+      "source_ids": [
+        "s22",
+        "s29"
+      ]
+    },
+    {
+      "party": "SGP",
+      "position": "The SGP wants to meet the new NATO norm, with 5% of GDP in 2035 of which 1.5% for resilience and infrastructure, and more F-35s and air defence. It states that the legal minimum norm for defence spending exists thanks to its private member's bill. It opposes a European army and joint European borrowing for defence. It voted for a nitrogen exemption for defence sites in April 2026.",
+      "salience": "high",
+      "salience_basis": "Initiator of the Wet financiele defensieverplichtingen (the 2% Act); dedicated defence page on the party website; two motions by MP Diederik van Dijk on defence sites adopted on 21 April 2026.",
+      "quotes": [
+        {
+          "text_en": "Thanks to our private member's bill, a minimum norm for defence spending is now anchored in law.",
+          "text_nl": "Dankzij onze initiatiefwet is er nu een minimumnorm voor defensie-uitgaven wettelijk verankerd.",
+          "speaker": "SGP website, defence position",
+          "date": "2026",
+          "source_id": "s42"
+        },
+        {
+          "text_en": "There will be no joint borrowing for defence investments.",
+          "text_nl": "Er wordt niet gezamenlijk geleend voor Defensie-investeringen.",
+          "speaker": "SGP website, defence position",
+          "date": "2026",
+          "source_id": "s42"
+        }
+      ],
+      "source_ids": [
+        "s42",
+        "s22",
+        "s11"
+      ]
+    },
+    {
+      "party": "BBB",
+      "position": "BBB was part of the caretaker cabinet that endorsed the 3.5% target in June 2025; NOS reported then that BBB feared the extra billions would lead to cuts elsewhere. It voted against the extra 2 billion euros for Ukraine in December 2025. In April 2026 it voted for scrapping all nitrogen rules and co-filed motions against forced expropriation for defence sites and for more combined military and agricultural land use, both rejected. The party manifesto could not be opened for this file.",
+      "salience": "medium",
+      "salience_basis": "Three motions co-filed by BBB MPs (Wiersma, Van der Plas) on defence sites voted on 21 April 2026; no speaker turns in the two House debates checked. Manifesto not checked.",
+      "quotes": [],
+      "source_ids": [
+        "s9",
+        "s24",
+        "s22"
+      ]
+    },
+    {
+      "party": "DENK",
+      "position": "DENK rejects what it calls an arms race and does not want to spend billions extra on weapons, saying the money belongs in care, education and income security. It wants the Netherlands to decide itself on deploying soldiers and on defence spending, and favours diplomacy and peace missions. In the March 2026 budget debate MP Van Baarle criticised the selective call-up obligation in the coalition agreement.",
+      "salience": "medium",
+      "salience_basis": "Defence shares one position page with domestic security on the party website (four of roughly twelve paragraphs concern defence); 14 speaker turns in the House debate on the 2026 defence budgets.",
+      "quotes": [
+        {
+          "text_en": "While life is becoming unaffordable for millions of Dutch people, DENK does not want to spend billions extra on weapons.",
+          "text_nl": "Terwijl het leven voor miljoenen Nederlanders onbetaalbaar wordt, wil DENK géén miljarden extra uitgeven aan wapens.",
+          "speaker": "DENK website, position Security & Defence",
+          "date": "2026",
+          "source_id": "s43"
+        }
+      ],
+      "source_ids": [
+        "s43",
+        "s34"
+      ]
+    },
+    {
+      "party": "50PLUS",
+      "position": "In the March 2026 budget debate party leader Struijs asked for recruitment to look beyond young people and reservists, to recently retired soldiers and experienced workers, and warned against reducing dependence on American technology in a way that endangers soldiers' safety. 50PLUS supported most adopted motions on defence sites in April 2026 and the 2027 Tax Plan.",
+      "salience": "low",
+      "salience_basis": "8 speaker turns in the House debate on the 2026 defence budgets and 4 in the Ukraine debate; no defence page found on the party website.",
+      "quotes": [
+        {
+          "text_en": "The safety of our citizens and soldiers must always be leading.",
+          "text_nl": "De veiligheid van onze burgers en militairen moet altijd leidend zijn.",
+          "speaker": "Struijs (50PLUS MP), House debate on the 2026 defence budgets",
+          "date": "2026-03",
+          "source_id": "s34"
+        }
+      ],
+      "source_ids": [
+        "s34",
+        "s22",
+        "s29"
+      ]
+    },
+    {
+      "party": "Volt",
+      "position": "Volt wants a European armed force that cooperates with NATO under the supervision of the European Parliament, a joint European defence industry and a 'military Schengen'. It supports the Coalition of the Willing for Ukraine. A motion by its MP Dassen to reduce the freedom contribution by scrapping ineffective tax schemes was adopted, and Volt was party to the November 2026 Tax Plan deal.",
+      "salience": "high",
+      "salience_basis": "Dedicated position page 'A European armed force'; 24 speaker turns in the House debate on the 2026 defence budgets and 23 in the Ukraine debate for a one-seat group; one adopted motion on defence financing.",
+      "quotes": [
+        {
+          "text_en": "That is why we are building a European armed force that cooperates with the North Atlantic Treaty Organization (NATO) and that is under the supervision of the European Parliament.",
+          "text_nl": "Daarom bouwen we aan een Europese krijgsmacht die samenwerkt met de Noord-Atlantische Verdragsorganisatie (NAVO) en die onder toezicht staat van het Europees Parlement.",
+          "speaker": "Volt website, position A European armed force",
+          "date": "2026",
+          "source_id": "s45"
+        }
+      ],
+      "source_ids": [
+        "s45",
+        "s32",
+        "s29",
+        "s34"
+      ]
+    }
+  ],
+  "impact": [
+    {
+      "applies_to": [
+        "employee",
+        "self_employed",
+        "retired",
+        "income_low",
+        "income_middle",
+        "income_high"
+      ],
+      "text": "Household freedom contribution: the coalition agreement planned 1.5 billion euros in 2027 and 3.4 billion a year from 2028 by adjusting income tax brackets only partly for inflation (48% in 2027 under the September 2026 Tax Plan). The revised Tax Plan of 3 November 2026 drops this for 2027 only; the plan passed the House on 12 November and still needs Senate approval. A decision on a further increase is left to the 2028 Tax Plan, according to IamExpat.",
+      "source_ids": [
+        "s2",
+        "s26",
+        "s27",
+        "s29"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer"
+      ],
+      "text": "Business freedom contribution: the coalition agreement fills this in as a higher disability fund (Aof) premium paid by employers, 1.5 billion euros in 2027 and 1.7 billion a year from 2028, with the details to be discussed with business organisations. The whole opposition opposed this route in May 2026, and a motion of 10 November 2026 asked to scrap it; whether and how it applies in 2027 was not verified in the sources opened.",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s31",
+        "s33"
+      ]
+    },
+    {
+      "applies_to": [
+        "business_grid_user"
+      ],
+      "text": "According to IamExpat, citing AD, the cabinet plans to pay for dropping the 2027 household freedom contribution with money previously reserved to help businesses with electricity costs, leaving significantly less for that support from 2029. This is part of a Tax Plan that still needs Senate approval.",
+      "source_ids": [
+        "s27"
+      ]
+    },
+    {
+      "applies_to": [
+        "dutch_citizen",
+        "student",
+        "parent"
+      ],
+      "text": "Dutch nationals who are 17 or turn 17 in the year receive a letter saying they are registered for military service, with a voluntary online survey. Nobody is called up: compulsory attendance has been suspended since 1997, though the government can call up conscripts in exceptional situations such as war. Service duty applies from age 17 to 45. Survey answers are not used to call people up.",
+      "source_ids": [
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "applies_to": [
+        "dutch_citizen",
+        "student"
+      ],
+      "text": "Pending proposals for young people: the Defence Readiness Act (pending in the House) would let Defence send the recruitment survey to resident Dutch nationals aged 17 to 27. The coalition agreement announces a mandatory survey and, if recruitment stays insufficient, consideration of a selective call-up obligation; this requires a change to the Kaderwet dienstplicht that had not been found as a bill in the sources opened.",
+      "source_ids": [
+        "s20",
+        "s21",
+        "s1",
+        "s15"
+      ]
+    },
+    {
+      "applies_to": [
+        "eu_citizen",
+        "non_eu_resident",
+        "expat_ruling"
+      ],
+      "text": "Registration for military service and the Defence survey are tied to Dutch nationality. People under 35 who are newly registered as Dutch nationals also receive the registration letter and survey.",
+      "source_ids": [
+        "s16",
+        "s17",
+        "s20"
+      ]
+    },
+    {
+      "applies_to": [
+        "employee",
+        "employer",
+        "self_employed"
+      ],
+      "text": "Reservists: the 2027 defence budget says Defence is working with the Ministry of Social Affairs on a stronger legal position for reservists in their civilian jobs, including continued pay during illness, leave, and protection against dismissal by the civilian employer when the reservist is called up. These are stated intentions; no adopted rules were found in the sources opened.",
+      "source_ids": [
+        "s6"
+      ]
+    },
+    {
+      "applies_to": [
+        "student",
+        "employee"
+      ],
+      "text": "Voluntary routes: Defence expects about 1,500 service-year (Dienjaar) soldiers in 2027, who are appointed for a year and can stay on as professional soldiers, and aims for 1,800 participants in the National Resilience Training, who become reservists or take another Defence job.",
+      "source_ids": [
+        "s5"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "People living near military sites: the Defence Readiness Act would allow temporary deviations from environmental and planning rules for listed training activities such as night shooting and drone training. On 21 April 2026 the House adopted a motion for structural participation of residents in the next phases of the National Programme Space for Defence, and rejected motions to rule out forced expropriation and to include 'shadow damage' in compensation.",
+      "source_ids": [
+        "s19",
+        "s20",
+        "s22"
+      ]
+    },
+    {
+      "applies_to": [
+        "on_benefits",
+        "retired",
+        "income_low"
+      ],
+      "text": "Opposition parties PRO and SP state that the defence investments are offset by cuts in care and social security; NOS headlined the coalition agreement as combining 19 billion euros for defence with substantial cuts to care and benefits. The specific measures are outside the scope of this file.",
+      "source_ids": [
+        "s34",
+        "s3"
+      ]
+    },
+    {
+      "applies_to": [
+        "employer",
+        "self_employed"
+      ],
+      "text": "Defence suppliers: the coalition aims to buy 50% of defence purchases from Dutch and European companies, promises simpler tendering, pre-financing and long-term certainty for defence start-ups, and reserves a share of the defence budget rising to 10% for a defence innovation authority. The Defence Readiness Act would treat threatened readiness as a crisis situation under defence procurement law.",
+      "source_ids": [
+        "s1",
+        "s20"
+      ]
+    },
+    {
+      "applies_to": [
+        "everyone"
+      ],
+      "text": "Ukraine support in the budget: about 3 billion euros a year in military support is budgeted for 2026 to 2028 (2.3 billion in 2029), plus 419 million euros a year in non-military support for 2027-2029 in the coalition agreement table, later raised by 327 million for 2027-2029. This spending falls under the regular expenditure ceiling and counts towards the Dutch NATO percentage.",
+      "source_ids": [
+        "s2",
+        "s6",
+        "s25"
+      ]
+    }
+  ],
+  "search_terms_nl": [
+    "defensie",
+    "defensiebegroting",
+    "navo-norm",
+    "navo",
+    "vrijheidsbijdrage",
+    "wet financiële defensieverplichtingen",
+    "wet op de defensiegereedheid",
+    "ruimte voor defensie",
+    "dienstplicht",
+    "opkomstplicht",
+    "dienjaar",
+    "reservisten",
+    "oekraïne",
+    "bevroren russische tegoeden",
+    "krijgsmacht"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Coalitieakkoord D66, VVD, CDA: Aan de slag. Bouwen aan een beter Nederland",
+      "publisher": "D66, VVD, CDA (published by Eerste Kamer)",
+      "url": "https://www.eerstekamer.nl/bijlage/20260528/aan_de_slag_bouwen_aan_een_beter/document3/f=/vmxweyonwcvv.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s2",
+      "title": "Budgettaire tabel en bijlage coalitieakkoord D66, VVD, CDA",
+      "publisher": "Officiele Bekendmakingen (Tweede Kamer)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1233856.pdf",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s3",
+      "title": "Coalitieakkoord: 19 miljard voor defensie, forse bezuinigingen op zorg, uitkeringen",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2600274",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "s4",
+      "title": "Prinsjesdag: Veiligheid (Rijksbegroting 2027)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/overheid-en-democratie/prinsjesdag/veiligheid",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s5",
+      "title": "Prinsjesdag: geld om te vechten, vol te houden en te vernieuwen",
+      "publisher": "Ministerie van Defensie",
+      "url": "https://www.defensie.nl/nieuws/20260915-prinsjesdag-geld-om-te-vechten-vol-te-houden-en-te-vernieuwen",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s6",
+      "title": "Memorie van toelichting ontwerpbegroting 2027, X Defensie",
+      "publisher": "Rijksfinancien.nl (Ministerie van Financien)",
+      "url": "https://www.rijksfinancien.nl/memorie-van-toelichting/2027/OWB/X",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s7",
+      "title": "Memorie van toelichting ontwerpbegroting 2026, X Defensie",
+      "publisher": "Rijksfinancien.nl (Ministerie van Financien)",
+      "url": "https://www.rijksfinancien.nl/memorie-van-toelichting/2026/OWB/X",
+      "date": "2025-09-16"
+    },
+    {
+      "id": "s8",
+      "title": "The Hague Summit Declaration",
+      "publisher": "NATO",
+      "url": "https://www.nato.int/cps/en/natohq/official_texts_236705.htm",
+      "date": "2025-06-25"
+    },
+    {
+      "id": "s9",
+      "title": "Demissionair kabinet: NAVO-norm naar 3,5 procent, miljarden euro's extra voor defensie",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2571023",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "s10",
+      "title": "The Netherlands supports NATO 5% target",
+      "publisher": "Government of the Netherlands",
+      "url": "https://www.government.nl/latest/news/2025/06/13/the-netherlands-supports-nato-5-target",
+      "date": "2025-06-13"
+    },
+    {
+      "id": "s11",
+      "title": "Wet financiele defensieverplichtingen (Wet van 30 augustus 2025, Stb. 2025, 257)",
+      "publisher": "Nederlands Juristenblad",
+      "url": "https://www.njb.nl/wetgeving/staatsbladen/rijkswet-financiele-defensieverplichtingen/",
+      "date": "2025"
+    },
+    {
+      "id": "s12",
+      "title": "Verslag NAVO-top 7 en 8 juli 2026 (Kamerstuk 28 676, nr. 567)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D36818",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "s13",
+      "title": "Nederland bouwt een krijgsmacht die klaar is voor morgen (Defensienota 2026)",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/29/nederland-bouwt-een-krijgsmacht-die-klaar-is-voor-morgen",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "s14",
+      "title": "Dutch armed forces to focus on drone technology to hit 5% target",
+      "publisher": "DutchNews",
+      "url": "https://www.dutchnews.nl/2026/06/dutch-armed-forces-to-focus-on-drone-technology-to-hit-5-target/",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "s15",
+      "title": "Meer defensiepersoneel",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/defensiepersoneel/meer-defensiepersoneel",
+      "date": null
+    },
+    {
+      "id": "s16",
+      "title": "Defensie verstuurt jaarlijkse dienstplichtbrief",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/15/defensie-verstuurt-jaarlijkse-dienstplichtbrief",
+      "date": "2026-04-15"
+    },
+    {
+      "id": "s17",
+      "title": "Defensie-enquete",
+      "publisher": "Ministerie van Defensie",
+      "url": "https://www.defensie.nl/onderwerpen/d/defensie-enquete",
+      "date": null
+    },
+    {
+      "id": "s18",
+      "title": "Vrijwillige Defensie-enquete naar alle 17-jarigen, later mogelijk verplicht",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2583656",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "s19",
+      "title": "Wet op de Defensiegereedheid naar de Tweede Kamer",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/06/05/wet-op-de-defensiegereedheid-naar-de-tweede-kamer",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "s20",
+      "title": "Regels over de gereedstelling van de krijgsmacht (Wet op de defensiegereedheid), voorstel van wet (Kamerstuk 36 970, nr. 2)",
+      "publisher": "Officiele Bekendmakingen (Tweede Kamer)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36970-2.odt",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "s21",
+      "title": "Wetsvoorstel 36970: Regels over de gereedstelling van de krijgsmacht (status page)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36970",
+      "date": "2026-11-25"
+    },
+    {
+      "id": "s22",
+      "title": "Stemmingen moties Nationaal Programma Ruimte voor Defensie (Handelingen TK 2025-2026, nr. 65, item 13)",
+      "publisher": "Officiele Bekendmakingen (Tweede Kamer)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-65-13.pdf",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s23",
+      "title": "Brief van de minister van Defensie over de militaire steun aan Oekraine (Kamerstuk 36 045, nr. 292)",
+      "publisher": "Officiele Bekendmakingen (Tweede Kamer)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36045-292.odt",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "s24",
+      "title": "Kabinet trekt toch 700 miljoen euro extra uit voor Oekraine",
+      "publisher": "NOS",
+      "url": "https://nos.nl/l/2593687",
+      "date": "2025-12-08"
+    },
+    {
+      "id": "s25",
+      "title": "Prinsjesdag 2026: extra geld voor steun aan Oekraine en ontwikkelingssamenwerking",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/15/prinsjesdag-2026-extra-geld-voor-steun-aan-oekraine-en-ontwikkelingssamenwerking",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s26",
+      "title": "Factsheetbundel pakket Belastingplan 2027",
+      "publisher": "Tweede Kamer (Ministerie van Financien)",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D43580",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s27",
+      "title": "Netherlands drops 1,5 billion euro tax hike for households in 2027",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/netherlands-drops-15-billion-tax-hike-households-2027",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "s28",
+      "title": "Aangepast Belastingplan 2027: BTW-verhoging sierteelt uitgesteld, koopkrachtmaatregelen uitgebreid",
+      "publisher": "TaxLive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/aangepast-belastingplan-2027-btw-verhoging-sierteelt-uitgesteld-koopkrachtmaatregelen-uitgebreid/",
+      "date": "2026-11-03"
+    },
+    {
+      "id": "s29",
+      "title": "Dutch parliament approves 2027 Tax Plan by two votes",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/dutch-parliament-approves-2027-tax-plan-two-votes",
+      "date": "2026-11-12"
+    },
+    {
+      "id": "s30",
+      "title": "Coalition crisis averted as D66, VVD & CDA strike last-minute deal",
+      "publisher": "IamExpat",
+      "url": "https://www.iamexpat.nl/expat-info/dutch-news/coalition-crisis-averted-d66-vvd-cda-strike-last-minute-deal",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "s31",
+      "title": "Geen steun voor coalitieplan voor 'vrijheidsbijdrage' bedrijven (ANP)",
+      "publisher": "Welingelichte Kringen / ANP",
+      "url": "https://www.welingelichtekringen.nl/samenleving/geen-steun-voor-coalitieplan-voor-vrijheidsbijdrage-bedrijven",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "s32",
+      "title": "Kabinet schetst opties voor schrappen fiscale regelingen na motie over vrijheidsbijdrage",
+      "publisher": "Accountancy Vanmorgen",
+      "url": "https://www.accountancyvanmorgen.nl/2026/06/24/kabinet-schetst-opties-voor-schrappen-fiscale-regelingen-na-motie-over-vrijheidsbijdrage/",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "s33",
+      "title": "Motie van het lid Markuszower (Kamerstuk 37 022, nr. 69)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D57071",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "s34",
+      "title": "Begrotingen Defensie en Defensiematerieelbegrotingsfonds 2026, plenair debat (Handelingen TK 2025-2026, nr. 47, item 5)",
+      "publisher": "Officiele Bekendmakingen (Tweede Kamer)",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-47-5.odt",
+      "date": "2026-03"
+    },
+    {
+      "id": "s35",
+      "title": "Debat over vier jaar oorlog in Oekraine, plenair verslag (TK 54, 24 maart 2026)",
+      "publisher": "Tweede Kamer",
+      "url": "https://www.tweedekamer.nl/downloads/document?id=2026D28242",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "s36",
+      "title": "Regeringsverklaring kabinet-Jetten",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/regering/regeringsverklaring",
+      "date": "2026-02-25"
+    },
+    {
+      "id": "s37",
+      "title": "Pijler Defensie en buitenland",
+      "publisher": "VVD",
+      "url": "https://www.vvd.nl/pijlers/defensie-en-buitenland/",
+      "date": null
+    },
+    {
+      "id": "s38",
+      "title": "Standpunt Defensie",
+      "publisher": "D66",
+      "url": "https://d66.nl/standpunten/defensie/",
+      "date": null
+    },
+    {
+      "id": "s39",
+      "title": "Standpunt Defensie",
+      "publisher": "JA21",
+      "url": "https://ja21.nl/standenpunten/standpunt/defensie",
+      "date": null
+    },
+    {
+      "id": "s40",
+      "title": "Standpunt Geopolitiek, defensie en buitenlandse handel",
+      "publisher": "Forum voor Democratie",
+      "url": "https://fvd.nl/standpunten/geopolitiek-defensie-en-buitenlandse-handel",
+      "date": null
+    },
+    {
+      "id": "s41",
+      "title": "Standpunt Defensie",
+      "publisher": "ChristenUnie",
+      "url": "https://www.christenunie.nl/standpunt/defensie",
+      "date": null
+    },
+    {
+      "id": "s42",
+      "title": "Standpunt Defensie",
+      "publisher": "SGP",
+      "url": "https://sgp.nl/standpunten/defensie",
+      "date": null
+    },
+    {
+      "id": "s43",
+      "title": "Standpunt Veiligheid & Defensie",
+      "publisher": "DENK",
+      "url": "https://denk.nl/standpunten/veiligheid-defensie/",
+      "date": null
+    },
+    {
+      "id": "s44",
+      "title": "Verkiezingsprogramma 2025: Dit is uw land",
+      "publisher": "PVV",
+      "url": "https://www.pvv.nl/images/2025/PVV_Programma_Digi_2025.pdf",
+      "date": "2025"
+    },
+    {
+      "id": "s45",
+      "title": "Standpunt Een Europese krijgsmacht",
+      "publisher": "Volt Nederland",
+      "url": "https://voltnederland.org/standpunten/ga-voor-europa-in-een-veilige-wereld/een-europese-krijgsmacht",
+      "date": null
+    },
+    {
+      "id": "s46",
+      "title": "Standpunt Defensie",
+      "publisher": "SP",
+      "url": "https://www.sp.nl/standpunten/defensie",
+      "date": null
+    },
+    {
+      "id": "s47",
+      "title": "Nederlandse hulp voor Oekraine",
+      "publisher": "Rijksoverheid",
+      "url": "https://www.rijksoverheid.nl/themas/internationale-samenwerking/oorlog-in-oekraine/nederlandse-hulp-voor-oekraine",
+      "date": null
+    }
+  ]
+}

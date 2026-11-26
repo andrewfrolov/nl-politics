@@ -1,0 +1,198 @@
+{
+  "abbr": "ChristenUnie",
+  "slug": "christenunie",
+  "name_nl": "ChristenUnie",
+  "name_en": "Christian Union",
+  "founded": "2000",
+  "updated": "2026-11-25",
+  "seats_house": 3,
+  "seats_senate": 3,
+  "seats_house_2025_election": 3,
+  "seats_house_2023_election": 3,
+  "in_coalition": false,
+  "party_leader": "Mirjam Bikker",
+  "house_group_leader": "Mirjam Bikker",
+  "senate_group_leader": "Tineke Huizinga-Heringa",
+  "website": "https://www.christenunie.nl/",
+  "described_as": [
+    {
+      "text": "The official summary of the ChristenUnie's 2025 manifesto says the party is 'driven by faith - not in ourselves, but in God, the other and in the good' ('Gedreven door geloof - niet in onszelf, maar in God, de ander en in het goede').",
+      "source_ids": ["s1"]
+    },
+    {
+      "text": "Parlement.com describes the ChristenUnie as 'a Christian party, with progressive positions on social and ecological matters and more conservative positions on ethical matters'. It says the party's political conviction is rooted in the Bible and that the party recognises the separation of church and state.",
+      "source_ids": ["s2"]
+    },
+    {
+      "text": "Party leader Mirjam Bikker described the role of her group under the minority cabinet as 'constructive': 'We are constructive because people count on us' is the title of her review of the votes on the 2027 Tax Plan in November 2026.",
+      "source_ids": ["s3"]
+    }
+  ],
+  "history": [
+    {
+      "date": "2000-01-22",
+      "event": "The Gereformeerd Politiek Verbond (GPV) and the Reformatorische Politieke Federatie (RPF) decided to continue together under the name ChristenUnie. Parlement.com gives 1 January 2004 as the formal founding date in its key data.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2001-03",
+      "event": "The House groups of RPF and GPV merged into a ChristenUnie group of five members; a ChristenUnie group has also existed in the Senate since 2001.",
+      "source_ids": ["s4", "s5"]
+    },
+    {
+      "date": "2002",
+      "event": "The ChristenUnie took part in a House election for the first time.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2007-02",
+      "event": "The ChristenUnie became a governing party for the first time; its House group was a government group until October 2010.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2017-10-26",
+      "event": "The party entered government again and remained a governing party until 2 July 2024; in the Rutte IV cabinet it had two ministers and one state secretary. It won 5 House seats in both 2017 and 2021 under Gert-Jan Segers.",
+      "source_ids": ["s2", "s4"]
+    },
+    {
+      "date": "2023-01-17",
+      "event": "Mirjam Bikker succeeded Gert-Jan Segers as chair of the House group and political leader.",
+      "source_ids": ["s4", "s2"]
+    },
+    {
+      "date": "2023-11-22",
+      "event": "The ChristenUnie won 3 House seats (2.0%), down from 5, and went into opposition when the Schoof cabinet took office in July 2024.",
+      "source_ids": ["s2"]
+    },
+    {
+      "date": "2025-10-29",
+      "event": "The ChristenUnie again won 3 House seats (1.9%) with Bikker as lead candidate and is in opposition to the Jetten cabinet.",
+      "source_ids": ["s2", "s4"]
+    }
+  ],
+  "manifesto_2025": {
+    "title": "Opstaan voor het goede",
+    "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf",
+    "key_points": [
+      {
+        "topic": "Housing",
+        "text": "Build 100,000 homes a year under government direction, of which at least two-thirds affordable for people with an ordinary income; municipalities to realise enough homes for seniors; abolish the kostendelersnorm (the cut in social assistance for adults sharing a home), give tenants more security and use 'Housing First' against homelessness.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Taxes and allowances",
+        "text": "Completely revise the tax system: allowances (toeslagen) disappear and are replaced by a payable tax credit; no tax on the first 30,000 euros of income; a fairer balance between tax on labour and on wealth; polluting subsidies abolished; an annual 'simplification day' on which the government must introduce simplifications of rules.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Families",
+        "text": "Replace child benefit and the child-related budget with 4,500 euros a year for every child; free or nearly free childcare; a statutory target to combat child poverty; simpler and wider leave schemes, notably for informal care and bereavement.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Children and social media",
+        "text": "Ban social media for children under 14, keep smartphones out of schools and impose stricter rules on platforms for age verification and addictiveness.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Life and medical ethics",
+        "text": "Restraint on widening euthanasia; euthanasia for people under 30 with psychological suffering is suspended until mental healthcare is better organised; investment in palliative care. The party remains opposed to surrogacy and commercial sperm donation.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Nitrogen, climate and energy",
+        "text": "Halve nitrogen emissions with all sectors contributing; farmers get binding, farm-specific targets and support for sustainability. 'Firm climate policy' with investment in sustainable energy; grid congestion tackled through national direction and investment, with priority for homes, care institutions and critical infrastructure.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Transport",
+        "text": "Invest in rail lines such as the Lelylijn and Nedersaksenlijn, make public transport cheaper, tax car use through a kilometre charge, shrink Schiphol 'drastically' and not open Lelystad Airport.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Defence and service",
+        "text": "A structural 3.5% of GDP for defence; continued close cooperation with NATO and European partners; introduction of conscription in the form of a civic or military contribution by young people.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Development aid and migration",
+        "text": "Spend 0.7% of GDP on development cooperation. Migration policy 'must be humane': protection of refugees, but also clear limits and integration.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Work and poverty",
+        "text": "An adequate social minimum, better debt assistance and a structural increase in incomes for vulnerable groups.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Drugs, gambling and prostitution",
+        "text": "The summary states the party wants 'a society without drugs, the gambling industry, prostitution and porn' and firm action against human trafficking and exploitation.",
+        "source_ids": ["s1"]
+      },
+      {
+        "topic": "Education and Europe",
+        "text": "Parents remain free to choose education that fits their beliefs; sufficient special education in every region. The EU should be 'a community of values' committed to democracy, the rule of law and solidarity 'instead of only a market'.",
+        "source_ids": ["s1"]
+      }
+    ]
+  },
+  "recent_developments": [
+    {
+      "date": "2026",
+      "event": "Bikker presented an initiative paper, 'Gekozen om te dienen' (Elected to serve), with proposals on the functioning of the House.",
+      "source_ids": ["s6"]
+    },
+    {
+      "date": "2026-10-02",
+      "event": "The party's national board nominated Andries Bouwman, mayor of Opsterland in Friesland, as lead candidate for the 2027 Senate election, on a draft list of 23 candidates that still had to be approved by the party congress.",
+      "source_ids": ["s7"]
+    },
+    {
+      "date": "2026-11-10",
+      "event": "The House adopted a motion by Bikker stating that the House should in principle sit for its full four-year term and that, after a cabinet falls, it should first debate whether a new cabinet formation is possible and desirable instead of new elections following automatically. The Presidium was asked to propose a change to the Rules of Procedure. Bikker said: 'What does the voter gain from casting a vote again every two years?'",
+      "source_ids": ["s6", "s8"]
+    },
+    {
+      "date": "2026-11-12",
+      "event": "In a House debate that the party's website titled 'the crisis that has arisen in The Hague', Bikker spoke of 'the ruins of Jetten I' and said the dispute had narrowed to whether one was for or against an amendment to the Tax Plan by PRO and Volt that, in her words, D66 and CDA had negotiated and that the VVD regarded as blowing up the coalition. She called this 'political paralysis' and named an interim formation as one possibility. On 14 November she wrote that 'at this moment the coalition is wobbling'. Parlement.com reported on 17 November 2026 that the vice-president of the Council of State, Buma, would advise the cabinet on cooperation.",
+      "source_ids": ["s9", "s3", "s8"]
+    },
+    {
+      "date": "2026-11-14",
+      "event": "After the House votes on the Tax Plan, Bikker wrote that she and MP Pieter Grinwis had negotiated with the cabinet and that, as a result, there would be more money for chronically ill people and people with a disability, lower taxes for the lowest incomes, and no further widening of the tax gap between single-earner and dual-earner households. These are the party's own claims about the outcome.",
+      "source_ids": ["s3"]
+    },
+    {
+      "date": "2026-11",
+      "event": "The party's news page lists a bill launched by Bikker on 23 November 2026 to raise the minimum age for prostitution, and a plan presented by MP Don Ceder on 18 November 2026 to tackle religious violence in asylum seekers' centres.",
+      "source_ids": ["s10"]
+    },
+    {
+      "date": "2026-11-25",
+      "event": "Seats and membership: 3 House seats (Mirjam Bikker, Don Ceder, Pieter Grinwis) and 3 Senate seats (Tineke Huizinga-Heringa, Hendrik-Jan Talsma, Eric Holterhues). Parlement.com gives the membership as 24,224 on 1 January 2026 and lists Marco Vermin as party chair.",
+      "source_ids": ["s11", "s5", "s2"]
+    }
+  ],
+  "key_people": [
+    {"name": "Mirjam Bikker", "role": "Political leader and chair of the House group since 17 January 2023"},
+    {"name": "Don Ceder", "role": "MP; secretary of the House group"},
+    {"name": "Pieter Grinwis", "role": "MP"},
+    {"name": "Tineke Huizinga-Heringa", "role": "Chair of the Senate group since 6 April 2021"},
+    {"name": "Marco Vermin", "role": "Chair of the national board"},
+    {"name": "Andries Bouwman", "role": "Nominated lead candidate for the 2027 Senate election"}
+  ],
+  "sources": [
+    {"id": "s1", "title": "Samenvatting Verkiezingsprogramma 2025 (Opstaan voor het goede)", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_CU_Samenvatting.pdf", "date": "2025-10"},
+    {"id": "s2", "title": "ChristenUnie", "publisher": "Parlement.com", "url": "https://parlement.com/partij/christenunie", "date": null},
+    {"id": "s3", "title": "Terugblik stemmingen belastingplan: 'We zijn constructief omdat mensen op ons rekenen'", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/nieuws/2026/11/14/terugblik-stemmingen-belastingplan-we-zijn-constructief-omdat-mensen-op-ons-rekenen", "date": "2026-11-14"},
+    {"id": "s4", "title": "Tweede Kamerfractie ChristenUnie", "publisher": "Parlement.com", "url": "https://parlement.com/tweede-kamerfractie-christenunie", "date": null},
+    {"id": "s5", "title": "ChristenUnie-fractie", "publisher": "Eerste Kamer", "url": "https://www.eerstekamer.nl/fractie/christenunie", "date": null},
+    {"id": "s6", "title": "Kamer steunt Mirjam: niet automatisch nieuwe verkiezingen na kabinetsval", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/nieuws/2026/11/10/kamer-steunt-mirjam-niet-automatisch-nieuwe-verkiezingen-na-kabinetsval", "date": "2026-11-10"},
+    {"id": "s7", "title": "ChristenUnie draagt burgemeester Andries Bouwman voor als lijsttrekker Eerste Kamer", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/nieuws/2026/10/02/christenunie-draagt-burgemeester-andries-bouwman-voor-als-lijsttrekker-eerste-kamer", "date": "2026-10-02"},
+    {"id": "s8", "title": "Nieuws", "publisher": "Parlement.com", "url": "https://parlement.com/nieuws", "date": "2026-11-25"},
+    {"id": "s9", "title": "Mirjam in het debat over de ontstane crisis in Den Haag", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/nieuws/2026/11/12/mirjam-in-het-debat-over-de-ontstane-crisis-in-den-haag", "date": "2026-11-12"},
+    {"id": "s10", "title": "Nieuws", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/nieuws", "date": "2026-11-25"},
+    {"id": "s11", "title": "ChristenUnie", "publisher": "Tweede Kamer", "url": "https://www.tweedekamer.nl/kamerleden_en_commissies/fracties/christenunie", "date": null},
+    {"id": "s12", "title": "Verkiezingsprogramma 2025-2029 (full text)", "publisher": "ChristenUnie", "url": "https://www.christenunie.nl/wp-content/uploads/2025/10/Verkiezingsprogramma_2025_CU.pdf", "date": "2025-10"}
+  ]
+}
